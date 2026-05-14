@@ -1,0 +1,132 @@
+{
+  "concentration": "Portuguese and Brazilian Studies",
+  "slug": "pobr",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/pobr/",
+  "tracks": [
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "POBS 0630 series Topics in Portuguese-Speaking Cultures 1 1-2",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "POBS 1030 Portuguese Stylistics: Advanced Language Study and Creative Writing 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 1800B",
+                  "name": "POBS 1800B"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 1800C",
+                  "name": "POBS 1800C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 1800E",
+                  "name": "POBS 1800E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 1800F",
+                  "name": "POBS 1800F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five (or four, if two POBS 0630 courses were completed) additional courses from Portuguese and Brazilian Studies and/or related departments, such as History, Africana Studies, Political Science, Anthropology, Sociology, Music, and the Watson Institute.  These courses are intended to develop students' specific interests within the concentration. 5-4",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 1800B",
+            "name": "POBS 1800B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 1800C",
+            "name": "POBS 1800C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 1800E",
+            "name": "POBS 1800E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 1800F",
+            "name": "POBS 1800F"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "POBS 1800B",
+      "name": "POBS 1800B"
+    },
+    {
+      "code": "POBS 1800C",
+      "name": "POBS 1800C"
+    },
+    {
+      "code": "POBS 1800E",
+      "name": "POBS 1800E"
+    },
+    {
+      "code": "POBS 1800F",
+      "name": "POBS 1800F"
+    }
+  ]
+}

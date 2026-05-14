@@ -1,0 +1,803 @@
+{
+  "concentration": "Chemical Physics",
+  "slug": "chph",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/chph/",
+  "tracks": [
+    {
+      "id": "the_chemical_physics_concentration_has_been_closed",
+      "name": "The Chemical Physics concentration has been closed to new concentration declarations.\u00a0 Current concentrators can refer to this page for requirements.\u00a0 New concentrators should refer to the new concentration in Computational Chemistry and Chemical Physics.",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 1140",
+              "name": "CHEM 1140"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0070",
+              "name": "PHYS 0070"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0160",
+              "name": "PHYS 0160"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0470",
+              "name": "PHYS 0470"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following laboratory courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1160",
+                  "name": "CHEM 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0560",
+                  "name": "PHYS 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1560",
+                  "name": "PHYS 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one course in statistical mechanics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1530",
+                  "name": "PHYS 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics. 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        },
+        {
+          "name": "Select two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1990",
+                  "name": "PHYS 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0070",
+            "name": "PHYS 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0160",
+            "name": "PHYS 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0560",
+            "name": "PHYS 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1560",
+            "name": "PHYS 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1530",
+            "name": "PHYS 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0190",
+            "name": "MATH 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1990",
+            "name": "PHYS 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 1140",
+              "name": "CHEM 1140"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0070",
+              "name": "PHYS 0070"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0160",
+              "name": "PHYS 0160"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "PHYS 0470",
+              "name": "PHYS 0470"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following laboratory courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1160",
+                  "name": "CHEM 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0560",
+                  "name": "PHYS 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1560",
+                  "name": "PHYS 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one course in statistical mechanics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1530",
+                  "name": "PHYS 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics. 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        },
+        {
+          "name": "Select two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1990",
+                  "name": "PHYS 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0070",
+            "name": "PHYS 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0160",
+            "name": "PHYS 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0560",
+            "name": "PHYS 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1560",
+            "name": "PHYS 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1530",
+            "name": "PHYS 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0190",
+            "name": "MATH 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1990",
+            "name": "PHYS 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "CHEM 0500",
+      "name": "CHEM 0500"
+    },
+    {
+      "code": "CHEM 1140",
+      "name": "CHEM 1140"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "PHYS 0160",
+      "name": "PHYS 0160"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "CHEM 1160",
+      "name": "CHEM 1160"
+    },
+    {
+      "code": "PHYS 0560",
+      "name": "PHYS 0560"
+    },
+    {
+      "code": "PHYS 1560",
+      "name": "PHYS 1560"
+    },
+    {
+      "code": "CHEM 1150",
+      "name": "CHEM 1150"
+    },
+    {
+      "code": "PHYS 1530",
+      "name": "PHYS 1530"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "PHYS 1990",
+      "name": "PHYS 1990"
+    },
+    {
+      "code": "CHEM 0980",
+      "name": "CHEM 0980"
+    }
+  ]
+}

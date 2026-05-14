@@ -1,0 +1,1002 @@
+{
+  "concentration": "Sociology",
+  "slug": "soc",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/soc/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree",
+      "name": "Standard program for the A.B. degree",
+      "groups": [
+        {
+          "name": "Required core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 0010",
+                  "name": "SOC 0010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1010",
+                  "name": "SOC 1010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1950",
+                  "name": "SOC 1950"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five (5) additional courses: 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "a) At least three of the optional courses have to be 1000 level and one of them must be a substantive seminar (1870-1873).",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "b) Students can choose to take up to two lower level (0100 level) courses.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "c) Students can petition to take two courses outside of the discipline (this will be allowed only when the proposed course makes sense given the interests of the student, and there is no equivalent sociology course).",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 0010",
+            "name": "SOC 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1010",
+            "name": "SOC 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1950",
+            "name": "SOC 1950"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "organizational_studies_track",
+      "name": "Organizational Studies Track",
+      "groups": [
+        {
+          "name": "Required Core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 0010",
+                  "name": "SOC 0010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1010",
+                  "name": "SOC 1010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1950",
+                  "name": "SOC 1950"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Foundations of Organizational Studies (choose two of the following): 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 0300",
+                  "name": "SOC 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1311",
+                  "name": "SOC 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1315",
+                  "name": "SOC 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Advanced Organizational Studies Course (choose one course). The following are approved EXAMPLES. Please consult Courses@Brown/Concentration Advisor for current offerings. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1070",
+                  "name": "SOC 1070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1117",
+                  "name": "SOC 1117"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1118",
+                  "name": "SOC 1118"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1120",
+                  "name": "SOC 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1311",
+                  "name": "SOC 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1315",
+                  "name": "SOC 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1871C",
+                  "name": "SOC 1871C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1872N",
+                  "name": "SOC 1872N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two (2) additional courses. Each of these courses must be either (a) offered by the Department of Sociology, or (b) drawn from the following list of interdisciplinary \"Organization-Relevant Electives:\" 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "AMST 1610A",
+                  "name": "AMST 1610A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1250",
+                  "name": "CPSY 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1470",
+                  "name": "CPSY 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1730",
+                  "name": "CPSY 1730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 0110",
+                  "name": "ECON 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1760",
+                  "name": "ECON 1760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ETHN 1890C",
+                  "name": "ETHN 1890C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1930S",
+                  "name": "ENGN 1930S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0150A",
+                  "name": "HIST 0150A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1610",
+                  "name": "PHIL 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1150",
+                  "name": "POLS 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1240",
+                  "name": "POLS 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1820W",
+                  "name": "POLS 1820W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 0010",
+            "name": "SOC 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1010",
+            "name": "SOC 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1950",
+            "name": "SOC 1950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 0300",
+            "name": "SOC 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1311",
+            "name": "SOC 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1315",
+            "name": "SOC 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1070",
+            "name": "SOC 1070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1117",
+            "name": "SOC 1117"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1118",
+            "name": "SOC 1118"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1120",
+            "name": "SOC 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1311",
+            "name": "SOC 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1315",
+            "name": "SOC 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1871C",
+            "name": "SOC 1871C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1872N",
+            "name": "SOC 1872N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "AMST 1610A",
+            "name": "AMST 1610A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1250",
+            "name": "CPSY 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1470",
+            "name": "CPSY 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1730",
+            "name": "CPSY 1730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 0110",
+            "name": "ECON 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1760",
+            "name": "ECON 1760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1890C",
+            "name": "ETHN 1890C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1930S",
+            "name": "ENGN 1930S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0150A",
+            "name": "HIST 0150A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1610",
+            "name": "PHIL 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1150",
+            "name": "POLS 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1240",
+            "name": "POLS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1820W",
+            "name": "POLS 1820W"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "SOC 0010",
+      "name": "SOC 0010"
+    },
+    {
+      "code": "SOC 1010",
+      "name": "SOC 1010"
+    },
+    {
+      "code": "SOC 1020",
+      "name": "SOC 1020"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "SOC 1950",
+      "name": "SOC 1950"
+    },
+    {
+      "code": "SOC 0300",
+      "name": "SOC 0300"
+    },
+    {
+      "code": "SOC 1311",
+      "name": "SOC 1311"
+    },
+    {
+      "code": "SOC 1315",
+      "name": "SOC 1315"
+    },
+    {
+      "code": "SOC 1070",
+      "name": "SOC 1070"
+    },
+    {
+      "code": "SOC 1117",
+      "name": "SOC 1117"
+    },
+    {
+      "code": "SOC 1118",
+      "name": "SOC 1118"
+    },
+    {
+      "code": "SOC 1120",
+      "name": "SOC 1120"
+    },
+    {
+      "code": "SOC 1260",
+      "name": "SOC 1260"
+    },
+    {
+      "code": "SOC 1871C",
+      "name": "SOC 1871C"
+    },
+    {
+      "code": "SOC 1872N",
+      "name": "SOC 1872N"
+    },
+    {
+      "code": "AMST 1610A",
+      "name": "AMST 1610A"
+    },
+    {
+      "code": "CPSY 1250",
+      "name": "CPSY 1250"
+    },
+    {
+      "code": "CPSY 1470",
+      "name": "CPSY 1470"
+    },
+    {
+      "code": "CPSY 1730",
+      "name": "CPSY 1730"
+    },
+    {
+      "code": "ECON 0110",
+      "name": "ECON 0110"
+    },
+    {
+      "code": "ECON 1760",
+      "name": "ECON 1760"
+    },
+    {
+      "code": "ETHN 1890C",
+      "name": "ETHN 1890C"
+    },
+    {
+      "code": "ENGN 1930S",
+      "name": "ENGN 1930S"
+    },
+    {
+      "code": "HIST 0150A",
+      "name": "HIST 0150A"
+    },
+    {
+      "code": "PHIL 1610",
+      "name": "PHIL 1610"
+    },
+    {
+      "code": "POLS 1150",
+      "name": "POLS 1150"
+    },
+    {
+      "code": "POLS 1240",
+      "name": "POLS 1240"
+    },
+    {
+      "code": "POLS 1820W",
+      "name": "POLS 1820W"
+    },
+    {
+      "code": "SOC 1970",
+      "name": "SOC 1970"
+    }
+  ]
+}

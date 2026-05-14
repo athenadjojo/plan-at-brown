@@ -1,0 +1,20 @@
+{
+  "concentration": "Religious Studies",
+  "slug": "rels",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/rels/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "RELS 1000",
+      "name": "RELS 1000"
+    },
+    {
+      "code": "RELS 1995",
+      "name": "RELS 1995"
+    },
+    {
+      "code": "RELS 1999",
+      "name": "RELS 1999"
+    }
+  ]
+}

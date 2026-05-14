@@ -1,0 +1,643 @@
+{
+  "concentration": "Applied Mathematics-Biology",
+  "slug": "apmb",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "Prerequisites \u2013 the equivalent of two semesters of single-variable calculus",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                },
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                },
+                {
+                  "code": "MATH 0170",
+                  "name": "MATH 0170"
+                },
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Requirements \u2013 16 courses 1",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Mathematical Requirements \u2013 7 courses",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0365",
+                  "name": "APMA 0365"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1070",
+                  "name": "APMA 1070"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1080",
+                  "name": "APMA 1080"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 2110",
+                  "name": "NEUR 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Scientific Requirements \u2013 7 courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One pre-approved course covering Newtonian mechanics, or an alternative approved by the concentration advisor. 6 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two BIOL or NEUR courses. 8 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two 1000-level or higher BIOL or NEUR courses from the same Biology track. 8,9 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Additional Requirements \u2013 2 courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One pre-approved course in the mathematical, biological, or computational sciences, or an alternative approved by the concentration advisor. 10 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor. 11 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0090",
+              "name": "MATH 0090"
+            },
+            {
+              "code": "MATH 0100",
+              "name": "MATH 0100"
+            },
+            {
+              "code": "MATH 0170",
+              "name": "MATH 0170"
+            },
+            {
+              "code": "MATH 0190",
+              "name": "MATH 0190"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "MATH 0540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0365",
+            "name": "APMA 0365"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1070",
+            "name": "APMA 1070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1080",
+            "name": "APMA 1080"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 2110",
+            "name": "NEUR 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "APMA 0355",
+      "name": "APMA 0355"
+    },
+    {
+      "code": "APMA 0365",
+      "name": "APMA 0365"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "APMA 1070",
+      "name": "APMA 1070"
+    },
+    {
+      "code": "APMA 1080",
+      "name": "APMA 1080"
+    },
+    {
+      "code": "NEUR 2110",
+      "name": "NEUR 2110"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "APMA 1910",
+      "name": "APMA 1910"
+    },
+    {
+      "code": "MATH 1110",
+      "name": "MATH 1110"
+    },
+    {
+      "code": "APMA 0330",
+      "name": "APMA 0330"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "MATH 1120",
+      "name": "MATH 1120"
+    },
+    {
+      "code": "APMA 0340",
+      "name": "APMA 0340"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "PHYS 0030",
+      "name": "PHYS 0030"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "PHYS 0040",
+      "name": "PHYS 0040"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    },
+    {
+      "code": "BIOL 0210",
+      "name": "BIOL 0210"
+    },
+    {
+      "code": "BIOL 1565",
+      "name": "BIOL 1565"
+    },
+    {
+      "code": "MATH 1000",
+      "name": "MATH 1000"
+    },
+    {
+      "code": "MATH 1001",
+      "name": "MATH 1001"
+    },
+    {
+      "code": "CSCI 1450",
+      "name": "CSCI 1450"
+    },
+    {
+      "code": "MATH 1210",
+      "name": "MATH 1210"
+    },
+    {
+      "code": "MATH 1610",
+      "name": "MATH 1610"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 0200",
+      "name": "APMA 0200"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "CSCI 0200",
+      "name": "CSCI 0200"
+    },
+    {
+      "code": "CPSY 0950",
+      "name": "CPSY 0950"
+    },
+    {
+      "code": "EEPS 0250",
+      "name": "EEPS 0250"
+    },
+    {
+      "code": "APMA 1360",
+      "name": "APMA 1360"
+    },
+    {
+      "code": "BIOL 1100",
+      "name": "BIOL 1100"
+    },
+    {
+      "code": "BIOL 1140",
+      "name": "BIOL 1140"
+    },
+    {
+      "code": "BIOL 1150",
+      "name": "BIOL 1150"
+    },
+    {
+      "code": "BIOL 1250",
+      "name": "BIOL 1250"
+    },
+    {
+      "code": "BIOL 1330",
+      "name": "BIOL 1330"
+    },
+    {
+      "code": "BIOL 1515",
+      "name": "BIOL 1515"
+    },
+    {
+      "code": "BIOL 1525",
+      "name": "BIOL 1525"
+    },
+    {
+      "code": "BIOL 1555",
+      "name": "BIOL 1555"
+    },
+    {
+      "code": "BIOL 1575",
+      "name": "BIOL 1575"
+    },
+    {
+      "code": "BIOL 1600",
+      "name": "BIOL 1600"
+    },
+    {
+      "code": "BIOL 1820",
+      "name": "BIOL 1820"
+    },
+    {
+      "code": "APMA 1970",
+      "name": "APMA 1970"
+    },
+    {
+      "code": "APMA 1971",
+      "name": "APMA 1971"
+    },
+    {
+      "code": "BIOL 1950",
+      "name": "BIOL 1950"
+    },
+    {
+      "code": "BIOL 1960",
+      "name": "BIOL 1960"
+    },
+    {
+      "code": "NEUR 1970",
+      "name": "NEUR 1970"
+    }
+  ]
+}

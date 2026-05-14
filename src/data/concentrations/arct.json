@@ -1,0 +1,271 @@
+{
+  "concentration": "Architecture",
+  "slug": "arct",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/arct/",
+  "tracks": [
+    {
+      "id": "self_assessment",
+      "name": "Self-Assessment",
+      "groups": [
+        {
+          "name": "1 Introduction to Design Studio 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "2 Practice Courses 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "1 Double-Credit Design Studio 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "1 Pathway Elective in Sciences 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "1 Pathway Elective on Social Sciences / Humanities 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "1 Capstone Course 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [],
+      "notes": []
+    },
+    {
+      "id": "summary_of_concentration_requirements1",
+      "name": "Summary of Concentration Requirements1",
+      "groups": [
+        {
+          "name": "1 Introduction to Design Studio 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "2 Practice Courses 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "1 Double-Credit Design Studio 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "1 Pathway Elective in Sciences 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "1 Pathway Elective on Social Sciences / Humanities 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "1 Capstone Course 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "HIAA 0100",
+      "name": "HIAA 0100"
+    },
+    {
+      "code": "HIAA 0130",
+      "name": "HIAA 0130"
+    },
+    {
+      "code": "HIAA 0140",
+      "name": "HIAA 0140"
+    },
+    {
+      "code": "HIAA 0150",
+      "name": "HIAA 0150"
+    },
+    {
+      "code": "HIAA 0190",
+      "name": "HIAA 0190"
+    },
+    {
+      "code": "HIAA 0022",
+      "name": "HIAA 0022"
+    },
+    {
+      "code": "HIAA 0024",
+      "name": "HIAA 0024"
+    },
+    {
+      "code": "HIAA 0032",
+      "name": "HIAA 0032"
+    },
+    {
+      "code": "HIAA 0322",
+      "name": "HIAA 0322"
+    },
+    {
+      "code": "HIAA 0660",
+      "name": "HIAA 0660"
+    },
+    {
+      "code": "HIAA 0063",
+      "name": "HIAA 0063"
+    },
+    {
+      "code": "HIAA 0070",
+      "name": "HIAA 0070"
+    },
+    {
+      "code": "HIAA 0072",
+      "name": "HIAA 0072"
+    },
+    {
+      "code": "HIAA 0075",
+      "name": "HIAA 0075"
+    },
+    {
+      "code": "HIAA 0077",
+      "name": "HIAA 0077"
+    },
+    {
+      "code": "HIAA 0084",
+      "name": "HIAA 0084"
+    },
+    {
+      "code": "HIAA 0087",
+      "name": "HIAA 0087"
+    },
+    {
+      "code": "HIAA 0089",
+      "name": "HIAA 0089"
+    },
+    {
+      "code": "HIAA 0090",
+      "name": "HIAA 0090"
+    },
+    {
+      "code": "HIAA 0820",
+      "name": "HIAA 0820"
+    },
+    {
+      "code": "HIAA 0850",
+      "name": "HIAA 0850"
+    },
+    {
+      "code": "HIAA 0860",
+      "name": "HIAA 0860"
+    },
+    {
+      "code": "HIAA 0861",
+      "name": "HIAA 0861"
+    },
+    {
+      "code": "HIAA 0023",
+      "name": "HIAA 0023"
+    },
+    {
+      "code": "HIAA 0041",
+      "name": "HIAA 0041"
+    },
+    {
+      "code": "HIAA 0081",
+      "name": "HIAA 0081"
+    },
+    {
+      "code": "HIAA 0770",
+      "name": "HIAA 0770"
+    },
+    {
+      "code": "HIAA 1181",
+      "name": "HIAA 1181"
+    },
+    {
+      "code": "HIAA 1190",
+      "name": "HIAA 1190"
+    },
+    {
+      "code": "HIAA 1202",
+      "name": "HIAA 1202"
+    },
+    {
+      "code": "HIAA 1212",
+      "name": "HIAA 1212"
+    },
+    {
+      "code": "HIAA 1213",
+      "name": "HIAA 1213"
+    },
+    {
+      "code": "HIAA 1307",
+      "name": "HIAA 1307"
+    },
+    {
+      "code": "HIAA 1308",
+      "name": "HIAA 1308"
+    },
+    {
+      "code": "HIAA 1771",
+      "name": "HIAA 1771"
+    },
+    {
+      "code": "HIAA 1820",
+      "name": "HIAA 1820"
+    },
+    {
+      "code": "HIAA 1990",
+      "name": "HIAA 1990"
+    }
+  ]
+}

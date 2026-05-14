@@ -1,0 +1,1805 @@
+{
+  "concentration": "Design Engineering",
+  "slug": "dese",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/dese/",
+  "tracks": [
+    {
+      "id": "program_requirements",
+      "name": "Program Requirements",
+      "groups": [
+        {
+          "name": "Introduction to Engineering",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0032",
+                  "name": "ENGN 0032"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0030",
+                  "name": "ENGN 0030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Engineering Gateway (courses selected should include those required for the student\u2019s proposed pathway)",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0410",
+                  "name": "ENGN 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0790",
+                  "name": "ENGN 0790"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0500",
+                  "name": "ENGN 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1200",
+                  "name": "ENGN 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Basic Physical/Life Science 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0010",
+                  "name": "NEUR 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Computer Science 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0160",
+                  "name": "APMA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Mathematics: Calculus and Methods of Applied Mathematics and Statistics",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A third mathematics course from the following list: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0360",
+                  "name": "APMA 0360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0365",
+                  "name": "APMA 0365"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1450",
+                  "name": "CSCI 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Design Engineering Specific Requirements",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Social Science Research, Decision Making and Societal Context",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course that covers Social Science Research Methods: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1117",
+                  "name": "SOC 1117"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1118",
+                  "name": "SOC 1118"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0500",
+                  "name": "POLS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or an equivalent course approved by the Concentration Advisor",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course on Decision Making and Design: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0010",
+                  "name": "CPSY 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1730",
+                  "name": "CPSY 1730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0800",
+                  "name": "EDUC 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1610",
+                  "name": "PHIL 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or an equivalent course approved by the Concentration Advisor",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course on Societal Context for Design: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "AMST 1611S",
+                  "name": "AMST 1611S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1236",
+                  "name": "ANTH 1236"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0755",
+                  "name": "ARCH 0755"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 0110",
+                  "name": "ECON 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1390",
+                  "name": "ECON 1390"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0140",
+                  "name": "HIAA 0140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1171",
+                  "name": "HIAA 1171"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0401",
+                  "name": "PHIL 0401"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0403",
+                  "name": "PHIL 0403"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1430",
+                  "name": "PHIL 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0220",
+                  "name": "TAPS 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870D",
+                  "name": "URBN 1870D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or an equivalent course approved by the Concentration Advisor",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Advanced Courses: Six engineering and/or engineering-related courses, at least four of which are ENGN courses, including two ENGN courses that are above the 1000-level (cannot be Entrepreneurship or Innovation Management and Entrepreneurship (PRIME) program courses). The fifth and the sixth courses can be non-introductory, advanced STEM courses. The pathway must be approved by the Concentration Advisor and constitute a coherent body of work. 1 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        },
+        {
+          "name": "One Capstone, Design or Independent Study 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1000",
+                  "name": "ENGN 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1001",
+                  "name": "ENGN 1001"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1140",
+                  "name": "ENGN 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1150",
+                  "name": "ENGN 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1230",
+                  "name": "ENGN 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1240",
+                  "name": "ENGN 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1250",
+                  "name": "ENGN 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1620",
+                  "name": "ENGN 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1640",
+                  "name": "ENGN 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1650",
+                  "name": "ENGN 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1740",
+                  "name": "ENGN 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1760",
+                  "name": "ENGN 1760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931D",
+                  "name": "ENGN 1931D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1972",
+                  "name": "ENGN 1972"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1973",
+                  "name": "ENGN 1973"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0032",
+            "name": "ENGN 0032"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0030",
+            "name": "ENGN 0030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0410",
+            "name": "ENGN 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0790",
+            "name": "ENGN 0790"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0500",
+            "name": "ENGN 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1200",
+            "name": "ENGN 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0010",
+            "name": "NEUR 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0160",
+            "name": "APMA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0190",
+            "name": "MATH 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0360",
+            "name": "APMA 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0365",
+            "name": "APMA 0365"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1450",
+            "name": "CSCI 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "MATH 0540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1117",
+            "name": "SOC 1117"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1118",
+            "name": "SOC 1118"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0500",
+            "name": "POLS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0010",
+            "name": "CPSY 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1730",
+            "name": "CPSY 1730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0800",
+            "name": "EDUC 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1610",
+            "name": "PHIL 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "AMST 1611S",
+            "name": "AMST 1611S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1236",
+            "name": "ANTH 1236"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0755",
+            "name": "ARCH 0755"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 0110",
+            "name": "ECON 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1390",
+            "name": "ECON 1390"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0140",
+            "name": "HIAA 0140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1171",
+            "name": "HIAA 1171"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0401",
+            "name": "PHIL 0401"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0403",
+            "name": "PHIL 0403"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1430",
+            "name": "PHIL 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0220",
+            "name": "TAPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870D",
+            "name": "URBN 1870D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1000",
+            "name": "ENGN 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1001",
+            "name": "ENGN 1001"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1140",
+            "name": "ENGN 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1150",
+            "name": "ENGN 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1230",
+            "name": "ENGN 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1240",
+            "name": "ENGN 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1250",
+            "name": "ENGN 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1620",
+            "name": "ENGN 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1640",
+            "name": "ENGN 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1650",
+            "name": "ENGN 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1740",
+            "name": "ENGN 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1760",
+            "name": "ENGN 1760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931D",
+            "name": "ENGN 1931D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1972",
+            "name": "ENGN 1972"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1973",
+            "name": "ENGN 1973"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ENGN 0610",
+      "name": "ENGN 0610"
+    },
+    {
+      "code": "ENGN 0620",
+      "name": "ENGN 0620"
+    },
+    {
+      "code": "ENGN 0032",
+      "name": "ENGN 0032"
+    },
+    {
+      "code": "ENGN 0030",
+      "name": "ENGN 0030"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "ENGN 0410",
+      "name": "ENGN 0410"
+    },
+    {
+      "code": "ENGN 0790",
+      "name": "ENGN 0790"
+    },
+    {
+      "code": "ENGN 0500",
+      "name": "ENGN 0500"
+    },
+    {
+      "code": "ENGN 1200",
+      "name": "ENGN 1200"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "NEUR 0010",
+      "name": "NEUR 0010"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "APMA 0355",
+      "name": "APMA 0355"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    },
+    {
+      "code": "APMA 0365",
+      "name": "APMA 0365"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "CSCI 1450",
+      "name": "CSCI 1450"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "ANTH 1940",
+      "name": "ANTH 1940"
+    },
+    {
+      "code": "SOC 1117",
+      "name": "SOC 1117"
+    },
+    {
+      "code": "SOC 1118",
+      "name": "SOC 1118"
+    },
+    {
+      "code": "POLS 0500",
+      "name": "POLS 0500"
+    },
+    {
+      "code": "CPSY 0220",
+      "name": "CPSY 0220"
+    },
+    {
+      "code": "CPSY 0010",
+      "name": "CPSY 0010"
+    },
+    {
+      "code": "CPSY 0700",
+      "name": "CPSY 0700"
+    },
+    {
+      "code": "CPSY 1730",
+      "name": "CPSY 1730"
+    },
+    {
+      "code": "EDUC 0800",
+      "name": "EDUC 0800"
+    },
+    {
+      "code": "PHIL 1610",
+      "name": "PHIL 1610"
+    },
+    {
+      "code": "AMST 1611S",
+      "name": "AMST 1611S"
+    },
+    {
+      "code": "ANTH 0100",
+      "name": "ANTH 0100"
+    },
+    {
+      "code": "ANTH 1236",
+      "name": "ANTH 1236"
+    },
+    {
+      "code": "ARCH 0755",
+      "name": "ARCH 0755"
+    },
+    {
+      "code": "ECON 0110",
+      "name": "ECON 0110"
+    },
+    {
+      "code": "ECON 1390",
+      "name": "ECON 1390"
+    },
+    {
+      "code": "HIAA 0140",
+      "name": "HIAA 0140"
+    },
+    {
+      "code": "HIAA 1171",
+      "name": "HIAA 1171"
+    },
+    {
+      "code": "PHIL 0401",
+      "name": "PHIL 0401"
+    },
+    {
+      "code": "PHIL 0403",
+      "name": "PHIL 0403"
+    },
+    {
+      "code": "PHIL 1430",
+      "name": "PHIL 1430"
+    },
+    {
+      "code": "TAPS 0220",
+      "name": "TAPS 0220"
+    },
+    {
+      "code": "URBN 1870D",
+      "name": "URBN 1870D"
+    },
+    {
+      "code": "ENGN 1000",
+      "name": "ENGN 1000"
+    },
+    {
+      "code": "ENGN 1001",
+      "name": "ENGN 1001"
+    },
+    {
+      "code": "ENGN 1140",
+      "name": "ENGN 1140"
+    },
+    {
+      "code": "ENGN 1150",
+      "name": "ENGN 1150"
+    },
+    {
+      "code": "ENGN 1230",
+      "name": "ENGN 1230"
+    },
+    {
+      "code": "ENGN 1240",
+      "name": "ENGN 1240"
+    },
+    {
+      "code": "ENGN 1250",
+      "name": "ENGN 1250"
+    },
+    {
+      "code": "ENGN 1620",
+      "name": "ENGN 1620"
+    },
+    {
+      "code": "ENGN 1640",
+      "name": "ENGN 1640"
+    },
+    {
+      "code": "ENGN 1650",
+      "name": "ENGN 1650"
+    },
+    {
+      "code": "ENGN 1740",
+      "name": "ENGN 1740"
+    },
+    {
+      "code": "ENGN 1760",
+      "name": "ENGN 1760"
+    },
+    {
+      "code": "ENGN 1931D",
+      "name": "ENGN 1931D"
+    },
+    {
+      "code": "ENGN 1972",
+      "name": "ENGN 1972"
+    },
+    {
+      "code": "ENGN 1973",
+      "name": "ENGN 1973"
+    },
+    {
+      "code": "ENGN 0020",
+      "name": "ENGN 0020"
+    },
+    {
+      "code": "ENGN 0090",
+      "name": "ENGN 0090"
+    },
+    {
+      "code": "ENGN 0130",
+      "name": "ENGN 0130"
+    },
+    {
+      "code": "ENGN 0350",
+      "name": "ENGN 0350"
+    },
+    {
+      "code": "ENGN 0900",
+      "name": "ENGN 0900"
+    },
+    {
+      "code": "ENGN 0930A",
+      "name": "ENGN 0930A"
+    },
+    {
+      "code": "ENGN 1010",
+      "name": "ENGN 1010"
+    },
+    {
+      "code": "ENGN 1800",
+      "name": "ENGN 1800"
+    },
+    {
+      "code": "ENGN 1931H",
+      "name": "ENGN 1931H"
+    },
+    {
+      "code": "ENGN 1931Q",
+      "name": "ENGN 1931Q"
+    },
+    {
+      "code": "ENGN 1931W",
+      "name": "ENGN 1931W"
+    },
+    {
+      "code": "ENGN 1932D",
+      "name": "ENGN 1932D"
+    },
+    {
+      "code": "ENGN 2040",
+      "name": "ENGN 2040"
+    },
+    {
+      "code": "ENGN 2060",
+      "name": "ENGN 2060"
+    },
+    {
+      "code": "ENGN 2095",
+      "name": "ENGN 2095"
+    },
+    {
+      "code": "ENGN 2110",
+      "name": "ENGN 2110"
+    },
+    {
+      "code": "ENGN 2120",
+      "name": "ENGN 2120"
+    },
+    {
+      "code": "ENGN 2125",
+      "name": "ENGN 2125"
+    },
+    {
+      "code": "ENGN 2130",
+      "name": "ENGN 2130"
+    },
+    {
+      "code": "ENGN 2140",
+      "name": "ENGN 2140"
+    },
+    {
+      "code": "ENGN 2150",
+      "name": "ENGN 2150"
+    },
+    {
+      "code": "ENGN 2160",
+      "name": "ENGN 2160"
+    },
+    {
+      "code": "ENGN 2172",
+      "name": "ENGN 2172"
+    },
+    {
+      "code": "ENGN 2173",
+      "name": "ENGN 2173"
+    },
+    {
+      "code": "ENGN 2180",
+      "name": "ENGN 2180"
+    }
+  ]
+}

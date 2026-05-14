@@ -1,0 +1,136 @@
+{
+  "concentration": "Astronomy",
+  "slug": "astr",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/astr/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "PHYS 0160",
+      "name": "PHYS 0160"
+    },
+    {
+      "code": "PHYS 0270",
+      "name": "PHYS 0270"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "PHYS 0720",
+      "name": "PHYS 0720"
+    },
+    {
+      "code": "APMA 0330",
+      "name": "APMA 0330"
+    },
+    {
+      "code": "APMA 0340",
+      "name": "APMA 0340"
+    },
+    {
+      "code": "PHYS 1100",
+      "name": "PHYS 1100"
+    },
+    {
+      "code": "PHYS 1250",
+      "name": "PHYS 1250"
+    },
+    {
+      "code": "PHYS 1270",
+      "name": "PHYS 1270"
+    },
+    {
+      "code": "PHYS 1280",
+      "name": "PHYS 1280"
+    },
+    {
+      "code": "APMA 1670",
+      "name": "APMA 1670"
+    },
+    {
+      "code": "EEPS 0810",
+      "name": "EEPS 0810"
+    },
+    {
+      "code": "EEPS 1710",
+      "name": "EEPS 1710"
+    },
+    {
+      "code": "EEPS 1810",
+      "name": "EEPS 1810"
+    },
+    {
+      "code": "ENGN 1860",
+      "name": "ENGN 1860"
+    },
+    {
+      "code": "MATH 1060",
+      "name": "MATH 1060"
+    },
+    {
+      "code": "PHYS 0500",
+      "name": "PHYS 0500"
+    },
+    {
+      "code": "PHYS 0560",
+      "name": "PHYS 0560"
+    },
+    {
+      "code": "PHYS 1410",
+      "name": "PHYS 1410"
+    },
+    {
+      "code": "PHYS 1510",
+      "name": "PHYS 1510"
+    },
+    {
+      "code": "PHYS 1530",
+      "name": "PHYS 1530"
+    },
+    {
+      "code": "PHYS 1560",
+      "name": "PHYS 1560"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    }
+  ]
+}

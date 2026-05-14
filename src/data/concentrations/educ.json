@@ -1,0 +1,559 @@
+{
+  "concentration": "Education Studies",
+  "slug": "educ",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/educ/",
+  "tracks": [
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration\u00a0Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 0300",
+              "name": "EDUC 0300"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 0750",
+              "name": "EDUC 0750"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 1900",
+              "name": "EDUC 1900"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0300",
+            "name": "EDUC 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0750",
+            "name": "EDUC 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1900",
+            "name": "EDUC 1900"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "foundational_courses_required_for_education_studie",
+      "name": "Foundational Courses Required for Education Studies Concentration",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 0300",
+              "name": "EDUC 0300"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 0750",
+              "name": "EDUC 0750"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "EDUC 1900",
+              "name": "EDUC 1900"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0300",
+            "name": "EDUC 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0750",
+            "name": "EDUC 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1900",
+            "name": "EDUC 1900"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "other_courses_in_education_studies_concentration",
+      "name": "Other Courses in Education Studies Concentration",
+      "groups": [
+        {
+          "name": "4 Courses in Area of Emphasis (could include any 4 of the following) 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0515",
+                  "name": "EDUC 0515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0520",
+                  "name": "EDUC 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0530",
+                  "name": "EDUC 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0610",
+                  "name": "EDUC 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0620",
+                  "name": "EDUC 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0750",
+                  "name": "EDUC 0750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0800",
+                  "name": "EDUC 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 0825",
+                  "name": "EDUC 0825"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1190",
+                  "name": "EDUC 1190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1240",
+                  "name": "EDUC 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1320",
+                  "name": "EDUC 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1430",
+                  "name": "EDUC 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1475",
+                  "name": "EDUC 1475"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1490",
+                  "name": "EDUC 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1660",
+                  "name": "EDUC 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1675",
+                  "name": "EDUC 1675"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "3 Foundational courses in Education (from the table above) 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "3 Electives 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "1 Experiential Component 0",
+          "type": "label",
+          "courses": [],
+          "count": 0,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0515",
+            "name": "EDUC 0515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0520",
+            "name": "EDUC 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0530",
+            "name": "EDUC 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0610",
+            "name": "EDUC 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0620",
+            "name": "EDUC 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0750",
+            "name": "EDUC 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0800",
+            "name": "EDUC 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 0825",
+            "name": "EDUC 0825"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1190",
+            "name": "EDUC 1190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1240",
+            "name": "EDUC 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1320",
+            "name": "EDUC 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1430",
+            "name": "EDUC 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1475",
+            "name": "EDUC 1475"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1490",
+            "name": "EDUC 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1660",
+            "name": "EDUC 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1675",
+            "name": "EDUC 1675"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "EDUC 0300",
+      "name": "EDUC 0300"
+    },
+    {
+      "code": "EDUC 0750",
+      "name": "EDUC 0750"
+    },
+    {
+      "code": "EDUC 1900",
+      "name": "EDUC 1900"
+    },
+    {
+      "code": "EDUC 0515",
+      "name": "EDUC 0515"
+    },
+    {
+      "code": "EDUC 0520",
+      "name": "EDUC 0520"
+    },
+    {
+      "code": "EDUC 0530",
+      "name": "EDUC 0530"
+    },
+    {
+      "code": "EDUC 0610",
+      "name": "EDUC 0610"
+    },
+    {
+      "code": "EDUC 0620",
+      "name": "EDUC 0620"
+    },
+    {
+      "code": "EDUC 0800",
+      "name": "EDUC 0800"
+    },
+    {
+      "code": "EDUC 0825",
+      "name": "EDUC 0825"
+    },
+    {
+      "code": "EDUC 1190",
+      "name": "EDUC 1190"
+    },
+    {
+      "code": "EDUC 1240",
+      "name": "EDUC 1240"
+    },
+    {
+      "code": "EDUC 1320",
+      "name": "EDUC 1320"
+    },
+    {
+      "code": "EDUC 1430",
+      "name": "EDUC 1430"
+    },
+    {
+      "code": "EDUC 1475",
+      "name": "EDUC 1475"
+    },
+    {
+      "code": "EDUC 1490",
+      "name": "EDUC 1490"
+    },
+    {
+      "code": "EDUC 1660",
+      "name": "EDUC 1660"
+    },
+    {
+      "code": "EDUC 1675",
+      "name": "EDUC 1675"
+    },
+    {
+      "code": "EDUC 1991",
+      "name": "EDUC 1991"
+    }
+  ]
+}

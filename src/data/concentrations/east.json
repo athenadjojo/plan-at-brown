@@ -1,0 +1,906 @@
+{
+  "concentration": "East Asian Studies",
+  "slug": "east",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/east/",
+  "tracks": [
+    {
+      "id": "the_language_requirement",
+      "name": "The Language Requirement",
+      "groups": [
+        {
+          "name": "Language Prerequisites (demonstrating proficiency through the third-year or 0600 level in one of the three languages below)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Chinese",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CHIN 0100",
+                  "name": "CHIN 0100"
+                },
+                {
+                  "code": "CHIN 0200",
+                  "name": "CHIN 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CHIN 0300",
+                  "name": "CHIN 0300"
+                },
+                {
+                  "code": "CHIN 0400",
+                  "name": "CHIN 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CHIN 0350",
+                  "name": "CHIN 0350"
+                },
+                {
+                  "code": "CHIN 0450",
+                  "name": "CHIN 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CHIN 0500",
+                  "name": "CHIN 0500"
+                },
+                {
+                  "code": "CHIN 0600",
+                  "name": "CHIN 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Japanese",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "JAPN 0100",
+                  "name": "JAPN 0100"
+                },
+                {
+                  "code": "JAPN 0200",
+                  "name": "JAPN 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "JAPN 0300",
+                  "name": "JAPN 0300"
+                },
+                {
+                  "code": "JAPN 0400",
+                  "name": "JAPN 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "JAPN 0500",
+                  "name": "JAPN 0500"
+                },
+                {
+                  "code": "JAPN 0600",
+                  "name": "JAPN 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Korean",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "KREA 0100",
+                  "name": "KREA 0100"
+                },
+                {
+                  "code": "KREA 0200",
+                  "name": "KREA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "KREA 0300",
+                  "name": "KREA 0300"
+                },
+                {
+                  "code": "KREA 0400",
+                  "name": "KREA 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "KREA 0500",
+                  "name": "KREA 0500"
+                },
+                {
+                  "code": "KREA 0600",
+                  "name": "KREA 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Language Electives (language courses that may be counted for concentration credit)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Chinese",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CHIN 0700",
+                  "name": "CHIN 0700"
+                },
+                {
+                  "code": "CHIN 0800",
+                  "name": "CHIN 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHIN 0911",
+                  "name": "CHIN 0911"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHIN 0912",
+                  "name": "CHIN 0912"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHIN 1040",
+                  "name": "CHIN 1040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Japanese",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "JAPN 0700",
+                  "name": "JAPN 0700"
+                },
+                {
+                  "code": "JAPN 0800",
+                  "name": "JAPN 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JAPN 0800",
+                  "name": "JAPN 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JAPN 0810",
+                  "name": "JAPN 0810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JAPN 0911",
+                  "name": "JAPN 0911"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JAPN 1010",
+                  "name": "JAPN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "KREA 0912",
+                  "name": "KREA 0912"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CHIN 0100",
+              "name": "CHIN 0100"
+            },
+            {
+              "code": "CHIN 0200",
+              "name": "CHIN 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CHIN 0300",
+              "name": "CHIN 0300"
+            },
+            {
+              "code": "CHIN 0400",
+              "name": "CHIN 0400"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CHIN 0350",
+              "name": "CHIN 0350"
+            },
+            {
+              "code": "CHIN 0450",
+              "name": "CHIN 0450"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CHIN 0500",
+              "name": "CHIN 0500"
+            },
+            {
+              "code": "CHIN 0600",
+              "name": "CHIN 0600"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "JAPN 0100",
+              "name": "JAPN 0100"
+            },
+            {
+              "code": "JAPN 0200",
+              "name": "JAPN 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "JAPN 0300",
+              "name": "JAPN 0300"
+            },
+            {
+              "code": "JAPN 0400",
+              "name": "JAPN 0400"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "JAPN 0500",
+              "name": "JAPN 0500"
+            },
+            {
+              "code": "JAPN 0600",
+              "name": "JAPN 0600"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "KREA 0100",
+              "name": "KREA 0100"
+            },
+            {
+              "code": "KREA 0200",
+              "name": "KREA 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "KREA 0300",
+              "name": "KREA 0300"
+            },
+            {
+              "code": "KREA 0400",
+              "name": "KREA 0400"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "KREA 0500",
+              "name": "KREA 0500"
+            },
+            {
+              "code": "KREA 0600",
+              "name": "KREA 0600"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CHIN 0700",
+              "name": "CHIN 0700"
+            },
+            {
+              "code": "CHIN 0800",
+              "name": "CHIN 0800"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHIN 0911",
+            "name": "CHIN 0911"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHIN 0912",
+            "name": "CHIN 0912"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHIN 1040",
+            "name": "CHIN 1040"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "JAPN 0700",
+              "name": "JAPN 0700"
+            },
+            {
+              "code": "JAPN 0800",
+              "name": "JAPN 0800"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JAPN 0800",
+            "name": "JAPN 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JAPN 0810",
+            "name": "JAPN 0810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JAPN 0911",
+            "name": "JAPN 0911"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JAPN 1010",
+            "name": "JAPN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "KREA 0912",
+            "name": "KREA 0912"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "electives",
+      "name": "Electives",
+      "groups": [
+        {
+          "name": "Sample Electives offered by East Asian Studies",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 0140",
+                  "name": "EAST 0140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 0152",
+                  "name": "EAST 0152"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 0304",
+                  "name": "EAST 0304"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 0307",
+                  "name": "EAST 0307"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 0406",
+                  "name": "EAST 0406"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "For additional elective choices, visit http://brown.edu/academics/east-asian-studies/courses/more-course-offerings.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 0140",
+            "name": "EAST 0140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 0152",
+            "name": "EAST 0152"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 0304",
+            "name": "EAST 0304"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 0307",
+            "name": "EAST 0307"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 0406",
+            "name": "EAST 0406"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "senior_seminars",
+      "name": "Senior Seminars",
+      "groups": [
+        {
+          "name": "Sample advanced seminars offered by East Asian Studies",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 1931",
+                  "name": "EAST 1931"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 1941",
+                  "name": "EAST 1941"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 1931",
+            "name": "EAST 1931"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 1941",
+            "name": "EAST 1941"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHIN 0100",
+      "name": "CHIN 0100"
+    },
+    {
+      "code": "CHIN 0200",
+      "name": "CHIN 0200"
+    },
+    {
+      "code": "CHIN 0300",
+      "name": "CHIN 0300"
+    },
+    {
+      "code": "CHIN 0400",
+      "name": "CHIN 0400"
+    },
+    {
+      "code": "CHIN 0350",
+      "name": "CHIN 0350"
+    },
+    {
+      "code": "CHIN 0450",
+      "name": "CHIN 0450"
+    },
+    {
+      "code": "CHIN 0500",
+      "name": "CHIN 0500"
+    },
+    {
+      "code": "CHIN 0600",
+      "name": "CHIN 0600"
+    },
+    {
+      "code": "JAPN 0100",
+      "name": "JAPN 0100"
+    },
+    {
+      "code": "JAPN 0200",
+      "name": "JAPN 0200"
+    },
+    {
+      "code": "JAPN 0300",
+      "name": "JAPN 0300"
+    },
+    {
+      "code": "JAPN 0400",
+      "name": "JAPN 0400"
+    },
+    {
+      "code": "JAPN 0500",
+      "name": "JAPN 0500"
+    },
+    {
+      "code": "JAPN 0600",
+      "name": "JAPN 0600"
+    },
+    {
+      "code": "KREA 0100",
+      "name": "KREA 0100"
+    },
+    {
+      "code": "KREA 0200",
+      "name": "KREA 0200"
+    },
+    {
+      "code": "KREA 0300",
+      "name": "KREA 0300"
+    },
+    {
+      "code": "KREA 0400",
+      "name": "KREA 0400"
+    },
+    {
+      "code": "KREA 0500",
+      "name": "KREA 0500"
+    },
+    {
+      "code": "KREA 0600",
+      "name": "KREA 0600"
+    },
+    {
+      "code": "CHIN 0700",
+      "name": "CHIN 0700"
+    },
+    {
+      "code": "CHIN 0800",
+      "name": "CHIN 0800"
+    },
+    {
+      "code": "CHIN 0911",
+      "name": "CHIN 0911"
+    },
+    {
+      "code": "CHIN 0912",
+      "name": "CHIN 0912"
+    },
+    {
+      "code": "CHIN 1040",
+      "name": "CHIN 1040"
+    },
+    {
+      "code": "JAPN 0700",
+      "name": "JAPN 0700"
+    },
+    {
+      "code": "JAPN 0800",
+      "name": "JAPN 0800"
+    },
+    {
+      "code": "JAPN 0810",
+      "name": "JAPN 0810"
+    },
+    {
+      "code": "JAPN 0911",
+      "name": "JAPN 0911"
+    },
+    {
+      "code": "JAPN 1010",
+      "name": "JAPN 1010"
+    },
+    {
+      "code": "KREA 0912",
+      "name": "KREA 0912"
+    },
+    {
+      "code": "EAST 0140",
+      "name": "EAST 0140"
+    },
+    {
+      "code": "EAST 0152",
+      "name": "EAST 0152"
+    },
+    {
+      "code": "EAST 0304",
+      "name": "EAST 0304"
+    },
+    {
+      "code": "EAST 0307",
+      "name": "EAST 0307"
+    },
+    {
+      "code": "EAST 0406",
+      "name": "EAST 0406"
+    },
+    {
+      "code": "EAST 1931",
+      "name": "EAST 1931"
+    },
+    {
+      "code": "EAST 1941",
+      "name": "EAST 1941"
+    },
+    {
+      "code": "EAST 1980",
+      "name": "EAST 1980"
+    },
+    {
+      "code": "EAST 1981",
+      "name": "EAST 1981"
+    }
+  ]
+}

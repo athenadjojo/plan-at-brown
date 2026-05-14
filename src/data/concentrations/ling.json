@@ -1,0 +1,2089 @@
+{
+  "concentration": "Linguistics",
+  "slug": "ling",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/ling/",
+  "tracks": [
+    {
+      "id": "a_b__requirements___10_courses_",
+      "name": "A.B. Requirements  (10 courses)",
+      "groups": [
+        {
+          "name": "Gateway Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 0100",
+                  "name": "LING 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Phonetics/Phonology Courses 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1200",
+                  "name": "LING 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1210",
+                  "name": "LING 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Syntax Courses 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1310",
+                  "name": "LING 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Semantics/Pragmatics Courses 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1410",
+                  "name": "LING 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1440",
+                  "name": "LING 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1412",
+                  "name": "LING 1412"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Linguistic Variation Courses 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1500",
+                  "name": "LING 1500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 0511",
+                  "name": "LING 0511"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1650",
+                  "name": "CPSY 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1660",
+                  "name": "CPSY 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1800",
+                  "name": "CPSY 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1850",
+                  "name": "CPSY 1850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1890",
+                  "name": "CPSY 1890"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "5 additional appropriate electives forming a thematically related set to be determined in consultation with the Concentration Advisor. At least one of these must be drawn from the list of advanced courses listed below, and we strongly recommend that at least one course be an appropriate methods and a topics course.  No more than 2 of these courses may be drawn from below 1000 level courses. The electives can be drawn from any of the above courses, or any of the other linguistic/language related courses in the program. Electives may also be drawn from courses in other departments in consultation with the Concentration Advisor; a list of courses which standardly count towards the Linguistics Concentration (provided they form part of the thematically related set) is appended below. 5",
+          "type": "section",
+          "count": 5,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1650",
+                  "name": "CPSY 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SLAV 1300",
+                  "name": "SLAV 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Advanced and Methods Courses",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1440",
+                  "name": "LING 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1771",
+                  "name": "LING 1771"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1870",
+                  "name": "LING 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1460",
+                  "name": "CSCI 1460"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1890",
+                  "name": "CPSY 1890"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "NOTE: This is NOT an exhaustive list of courses that can be applied towards the Linguistics Concentration requirements.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 0100",
+            "name": "LING 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1200",
+            "name": "LING 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1210",
+            "name": "LING 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1310",
+            "name": "LING 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1410",
+            "name": "LING 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1440",
+            "name": "LING 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1412",
+            "name": "LING 1412"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1500",
+            "name": "LING 1500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 0511",
+            "name": "LING 0511"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1650",
+            "name": "CPSY 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1660",
+            "name": "CPSY 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1800",
+            "name": "CPSY 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1850",
+            "name": "CPSY 1850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1890",
+            "name": "CPSY 1890"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1650",
+            "name": "CPSY 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SLAV 1300",
+            "name": "SLAV 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1440",
+            "name": "LING 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1771",
+            "name": "LING 1771"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1870",
+            "name": "LING 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1460",
+            "name": "CSCI 1460"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1890",
+            "name": "CPSY 1890"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_requirements__16_courses_",
+      "name": "ScB Requirements (16 courses)",
+      "groups": [
+        {
+          "name": "Gateway course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 0100",
+                  "name": "LING 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one course in phonetics / phonology, such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1200",
+                  "name": "LING 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1210",
+                  "name": "LING 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one course in syntax, such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1310",
+                  "name": "LING 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one course in semantics / pragmatics, such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1410",
+                  "name": "LING 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1412",
+                  "name": "LING 1412"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1440",
+                  "name": "LING 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one course in linguistics variation, such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1650",
+                  "name": "CPSY 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1660",
+                  "name": "CPSY 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1800",
+                  "name": "CPSY 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1890",
+                  "name": "CPSY 1890"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three electives specifically in the focus area, such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1741",
+                  "name": "LING 1741"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1771",
+                  "name": "LING 1771"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1460",
+                  "name": "CSCI 1460"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1800",
+                  "name": "CPSY 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1850",
+                  "name": "CPSY 1850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1310",
+                  "name": "LING 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1385",
+                  "name": "CPSY 1385"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1650",
+                  "name": "CPSY 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1660",
+                  "name": "CPSY 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1890",
+                  "name": "CPSY 1890"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1270",
+                  "name": "LING 1270"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1410",
+                  "name": "LING 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1412",
+                  "name": "LING 1412"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1440",
+                  "name": "LING 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0990X",
+                  "name": "PHIL 0990X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or many other courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Four non-linguistic focus area electives, such as: 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0220",
+                  "name": "CSCI 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1410",
+                  "name": "CSCI 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1420",
+                  "name": "CSCI 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1951A",
+                  "name": "CSCI 1951A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1560",
+                  "name": "STAT 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0950",
+                  "name": "CPSY 0950"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 2908",
+                  "name": "CPSY 2908"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1460",
+                  "name": "CSCI 1460"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0680",
+                  "name": "NEUR 0680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1770",
+                  "name": "PHIL 1770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0610",
+                  "name": "CPSY 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1492",
+                  "name": "CPSY 1492"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1610",
+                  "name": "CPSY 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1620",
+                  "name": "CPSY 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0750",
+                  "name": "MATH 0750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0990T",
+                  "name": "PHIL 0990T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1630",
+                  "name": "PHIL 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or many other courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Three additional electives in Linguistics, preferably outside the main focus area, such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1311",
+                  "name": "LING 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1440",
+                  "name": "LING 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1870",
+                  "name": "LING 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1800",
+                  "name": "ANTH 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SLAV 1300",
+                  "name": "SLAV 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1660",
+                  "name": "CPSY 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1850",
+                  "name": "CPSY 1850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1771",
+                  "name": "LING 1771"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1741",
+                  "name": "LING 1741"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1800",
+                  "name": "CPSY 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or many other courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One independent study / capstone requirement 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1970",
+                  "name": "LING 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 0100",
+            "name": "LING 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1200",
+            "name": "LING 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1210",
+            "name": "LING 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1310",
+            "name": "LING 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1410",
+            "name": "LING 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1412",
+            "name": "LING 1412"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1440",
+            "name": "LING 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1650",
+            "name": "CPSY 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1660",
+            "name": "CPSY 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1800",
+            "name": "CPSY 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1890",
+            "name": "CPSY 1890"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1741",
+            "name": "LING 1741"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1771",
+            "name": "LING 1771"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1460",
+            "name": "CSCI 1460"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1800",
+            "name": "CPSY 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1850",
+            "name": "CPSY 1850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1310",
+            "name": "LING 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1385",
+            "name": "CPSY 1385"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1650",
+            "name": "CPSY 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1660",
+            "name": "CPSY 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1890",
+            "name": "CPSY 1890"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1270",
+            "name": "LING 1270"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1410",
+            "name": "LING 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1412",
+            "name": "LING 1412"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1440",
+            "name": "LING 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0990X",
+            "name": "PHIL 0990X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0220",
+            "name": "CSCI 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1410",
+            "name": "CSCI 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1420",
+            "name": "CSCI 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1951A",
+            "name": "CSCI 1951A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1560",
+            "name": "STAT 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0950",
+            "name": "CPSY 0950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 2908",
+            "name": "CPSY 2908"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1460",
+            "name": "CSCI 1460"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0680",
+            "name": "NEUR 0680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1770",
+            "name": "PHIL 1770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0610",
+            "name": "CPSY 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1492",
+            "name": "CPSY 1492"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1610",
+            "name": "CPSY 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1620",
+            "name": "CPSY 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0750",
+            "name": "MATH 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0990T",
+            "name": "PHIL 0990T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1630",
+            "name": "PHIL 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1311",
+            "name": "LING 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1440",
+            "name": "LING 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1870",
+            "name": "LING 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1800",
+            "name": "ANTH 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SLAV 1300",
+            "name": "SLAV 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1660",
+            "name": "CPSY 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1850",
+            "name": "CPSY 1850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1771",
+            "name": "LING 1771"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1741",
+            "name": "LING 1741"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1800",
+            "name": "CPSY 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1970",
+            "name": "LING 1970"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "LING 0100",
+      "name": "LING 0100"
+    },
+    {
+      "code": "LING 1200",
+      "name": "LING 1200"
+    },
+    {
+      "code": "LING 1210",
+      "name": "LING 1210"
+    },
+    {
+      "code": "LING 1310",
+      "name": "LING 1310"
+    },
+    {
+      "code": "LING 1311",
+      "name": "LING 1311"
+    },
+    {
+      "code": "LING 1410",
+      "name": "LING 1410"
+    },
+    {
+      "code": "LING 1440",
+      "name": "LING 1440"
+    },
+    {
+      "code": "LING 1412",
+      "name": "LING 1412"
+    },
+    {
+      "code": "LING 1500",
+      "name": "LING 1500"
+    },
+    {
+      "code": "LING 0511",
+      "name": "LING 0511"
+    },
+    {
+      "code": "CPSY 0800",
+      "name": "CPSY 0800"
+    },
+    {
+      "code": "CPSY 1650",
+      "name": "CPSY 1650"
+    },
+    {
+      "code": "CPSY 1660",
+      "name": "CPSY 1660"
+    },
+    {
+      "code": "CPSY 1800",
+      "name": "CPSY 1800"
+    },
+    {
+      "code": "CPSY 1850",
+      "name": "CPSY 1850"
+    },
+    {
+      "code": "CPSY 1890",
+      "name": "CPSY 1890"
+    },
+    {
+      "code": "SLAV 1300",
+      "name": "SLAV 1300"
+    },
+    {
+      "code": "LING 1771",
+      "name": "LING 1771"
+    },
+    {
+      "code": "LING 1870",
+      "name": "LING 1870"
+    },
+    {
+      "code": "CSCI 1460",
+      "name": "CSCI 1460"
+    },
+    {
+      "code": "LING 1741",
+      "name": "LING 1741"
+    },
+    {
+      "code": "CPSY 1385",
+      "name": "CPSY 1385"
+    },
+    {
+      "code": "LING 1270",
+      "name": "LING 1270"
+    },
+    {
+      "code": "PHIL 0990X",
+      "name": "PHIL 0990X"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "CSCI 0220",
+      "name": "CSCI 0220"
+    },
+    {
+      "code": "CSCI 1410",
+      "name": "CSCI 1410"
+    },
+    {
+      "code": "CSCI 1420",
+      "name": "CSCI 1420"
+    },
+    {
+      "code": "CSCI 1951A",
+      "name": "CSCI 1951A"
+    },
+    {
+      "code": "STAT 1560",
+      "name": "STAT 1560"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "CPSY 0950",
+      "name": "CPSY 0950"
+    },
+    {
+      "code": "CPSY 2908",
+      "name": "CPSY 2908"
+    },
+    {
+      "code": "NEUR 0680",
+      "name": "NEUR 0680"
+    },
+    {
+      "code": "PHIL 1770",
+      "name": "PHIL 1770"
+    },
+    {
+      "code": "CPSY 0200",
+      "name": "CPSY 0200"
+    },
+    {
+      "code": "CPSY 0400",
+      "name": "CPSY 0400"
+    },
+    {
+      "code": "CPSY 0610",
+      "name": "CPSY 0610"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "CPSY 1492",
+      "name": "CPSY 1492"
+    },
+    {
+      "code": "CPSY 1610",
+      "name": "CPSY 1610"
+    },
+    {
+      "code": "CPSY 1620",
+      "name": "CPSY 1620"
+    },
+    {
+      "code": "CPSY 1900",
+      "name": "CPSY 1900"
+    },
+    {
+      "code": "MATH 0750",
+      "name": "MATH 0750"
+    },
+    {
+      "code": "PHIL 0990T",
+      "name": "PHIL 0990T"
+    },
+    {
+      "code": "PHIL 1630",
+      "name": "PHIL 1630"
+    },
+    {
+      "code": "CPSY 0700",
+      "name": "CPSY 0700"
+    },
+    {
+      "code": "ANTH 1800",
+      "name": "ANTH 1800"
+    },
+    {
+      "code": "LING 1970",
+      "name": "LING 1970"
+    }
+  ]
+}

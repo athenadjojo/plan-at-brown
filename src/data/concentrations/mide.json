@@ -1,0 +1,416 @@
+{
+  "concentration": "Middle East Studies",
+  "slug": "mide",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/mide/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "HIST 1968A",
+      "name": "HIST 1968A"
+    },
+    {
+      "code": "ARCH 0150",
+      "name": "ARCH 0150"
+    },
+    {
+      "code": "ARCH 0230",
+      "name": "ARCH 0230"
+    },
+    {
+      "code": "ARCH 1630",
+      "name": "ARCH 1630"
+    },
+    {
+      "code": "ASYR 0300",
+      "name": "ASYR 0300"
+    },
+    {
+      "code": "ASYR 0310",
+      "name": "ASYR 0310"
+    },
+    {
+      "code": "ASYR 0320",
+      "name": "ASYR 0320"
+    },
+    {
+      "code": "ASYR 0800",
+      "name": "ASYR 0800"
+    },
+    {
+      "code": "ASYR 1100",
+      "name": "ASYR 1100"
+    },
+    {
+      "code": "ASYR 1300",
+      "name": "ASYR 1300"
+    },
+    {
+      "code": "ASYR 1600",
+      "name": "ASYR 1600"
+    },
+    {
+      "code": "BHBR 0100",
+      "name": "BHBR 0100"
+    },
+    {
+      "code": "BHBR 0200",
+      "name": "BHBR 0200"
+    },
+    {
+      "code": "CLAS 0660",
+      "name": "CLAS 0660"
+    },
+    {
+      "code": "CLAS 1230",
+      "name": "CLAS 1230"
+    },
+    {
+      "code": "COLT 0510K",
+      "name": "COLT 0510K"
+    },
+    {
+      "code": "COLT 0610Q",
+      "name": "COLT 0610Q"
+    },
+    {
+      "code": "COLT 0711L",
+      "name": "COLT 0711L"
+    },
+    {
+      "code": "COLT 1310E",
+      "name": "COLT 1310E"
+    },
+    {
+      "code": "EGYT 1030",
+      "name": "EGYT 1030"
+    },
+    {
+      "code": "EGYT 1310",
+      "name": "EGYT 1310"
+    },
+    {
+      "code": "EGYT 1320",
+      "name": "EGYT 1320"
+    },
+    {
+      "code": "EGYT 1430",
+      "name": "EGYT 1430"
+    },
+    {
+      "code": "FREN 1070L",
+      "name": "FREN 1070L"
+    },
+    {
+      "code": "FREN 1410R",
+      "name": "FREN 1410R"
+    },
+    {
+      "code": "FREN 1710J",
+      "name": "FREN 1710J"
+    },
+    {
+      "code": "FREN 1710K",
+      "name": "FREN 1710K"
+    },
+    {
+      "code": "HIAA 0042",
+      "name": "HIAA 0042"
+    },
+    {
+      "code": "JUDS 0050H",
+      "name": "JUDS 0050H"
+    },
+    {
+      "code": "JUDS 0050P",
+      "name": "JUDS 0050P"
+    },
+    {
+      "code": "JUDS 0608",
+      "name": "JUDS 0608"
+    },
+    {
+      "code": "JUDS 1630",
+      "name": "JUDS 1630"
+    },
+    {
+      "code": "JUDS 1711",
+      "name": "JUDS 1711"
+    },
+    {
+      "code": "MCM 1504R",
+      "name": "MCM 1504R"
+    },
+    {
+      "code": "MCM 1505Z",
+      "name": "MCM 1505Z"
+    },
+    {
+      "code": "PRSN 1200",
+      "name": "PRSN 1200"
+    },
+    {
+      "code": "PRSN 0720",
+      "name": "PRSN 0720"
+    },
+    {
+      "code": "RELS 0014",
+      "name": "RELS 0014"
+    },
+    {
+      "code": "RELS 0021",
+      "name": "RELS 0021"
+    },
+    {
+      "code": "RELS 0088",
+      "name": "RELS 0088"
+    },
+    {
+      "code": "RELS 0090M",
+      "name": "RELS 0090M"
+    },
+    {
+      "code": "RELS 0095A",
+      "name": "RELS 0095A"
+    },
+    {
+      "code": "RELS 0096",
+      "name": "RELS 0096"
+    },
+    {
+      "code": "RELS 0290D",
+      "name": "RELS 0290D"
+    },
+    {
+      "code": "RELS 0290H",
+      "name": "RELS 0290H"
+    },
+    {
+      "code": "RELS 0320",
+      "name": "RELS 0320"
+    },
+    {
+      "code": "RELS 0410",
+      "name": "RELS 0410"
+    },
+    {
+      "code": "RELS 1315",
+      "name": "RELS 1315"
+    },
+    {
+      "code": "RELS 1500",
+      "name": "RELS 1500"
+    },
+    {
+      "code": "RELS 1530B",
+      "name": "RELS 1530B"
+    },
+    {
+      "code": "RELS 1530H",
+      "name": "RELS 1530H"
+    },
+    {
+      "code": "TKSH 0720A",
+      "name": "TKSH 0720A"
+    },
+    {
+      "code": "TKSH 0720B",
+      "name": "TKSH 0720B"
+    },
+    {
+      "code": "ANTH 1150",
+      "name": "ANTH 1150"
+    },
+    {
+      "code": "HIST 0244",
+      "name": "HIST 0244"
+    },
+    {
+      "code": "HIST 0150D",
+      "name": "HIST 0150D"
+    },
+    {
+      "code": "HIST 0246",
+      "name": "HIST 0246"
+    },
+    {
+      "code": "HIST 1202",
+      "name": "HIST 1202"
+    },
+    {
+      "code": "HIST 1457",
+      "name": "HIST 1457"
+    },
+    {
+      "code": "HIST 1960S",
+      "name": "HIST 1960S"
+    },
+    {
+      "code": "HIST 1964L",
+      "name": "HIST 1964L"
+    },
+    {
+      "code": "HIST 1968V",
+      "name": "HIST 1968V"
+    },
+    {
+      "code": "HIST 1969D",
+      "name": "HIST 1969D"
+    },
+    {
+      "code": "IAPA 1804A",
+      "name": "IAPA 1804A"
+    },
+    {
+      "code": "POLS 1822I",
+      "name": "POLS 1822I"
+    },
+    {
+      "code": "ARAB 0100",
+      "name": "ARAB 0100"
+    },
+    {
+      "code": "ARAB 0200",
+      "name": "ARAB 0200"
+    },
+    {
+      "code": "ARAB 0300",
+      "name": "ARAB 0300"
+    },
+    {
+      "code": "ARAB 0400",
+      "name": "ARAB 0400"
+    },
+    {
+      "code": "ARAB 0500",
+      "name": "ARAB 0500"
+    },
+    {
+      "code": "ARAB 0600",
+      "name": "ARAB 0600"
+    },
+    {
+      "code": "ARAB 0700",
+      "name": "ARAB 0700"
+    },
+    {
+      "code": "ARAB 0800",
+      "name": "ARAB 0800"
+    },
+    {
+      "code": "ARAB 0850",
+      "name": "ARAB 0850"
+    },
+    {
+      "code": "ARAB 0950",
+      "name": "ARAB 0950"
+    },
+    {
+      "code": "HEBR 0100",
+      "name": "HEBR 0100"
+    },
+    {
+      "code": "HEBR 0200",
+      "name": "HEBR 0200"
+    },
+    {
+      "code": "HEBR 0300",
+      "name": "HEBR 0300"
+    },
+    {
+      "code": "HEBR 0400",
+      "name": "HEBR 0400"
+    },
+    {
+      "code": "HEBR 0500",
+      "name": "HEBR 0500"
+    },
+    {
+      "code": "HEBR 0600",
+      "name": "HEBR 0600"
+    },
+    {
+      "code": "PRSN 0100",
+      "name": "PRSN 0100"
+    },
+    {
+      "code": "PRSN 0105",
+      "name": "PRSN 0105"
+    },
+    {
+      "code": "PRSN 0200",
+      "name": "PRSN 0200"
+    },
+    {
+      "code": "PRSN 0300",
+      "name": "PRSN 0300"
+    },
+    {
+      "code": "PRSN 0400",
+      "name": "PRSN 0400"
+    },
+    {
+      "code": "PRSN 0500",
+      "name": "PRSN 0500"
+    },
+    {
+      "code": "PRSN 0600",
+      "name": "PRSN 0600"
+    },
+    {
+      "code": "PRSN 1100",
+      "name": "PRSN 1100"
+    },
+    {
+      "code": "PRSN 2980",
+      "name": "PRSN 2980"
+    },
+    {
+      "code": "TKSH 0100",
+      "name": "TKSH 0100"
+    },
+    {
+      "code": "TKSH 0110",
+      "name": "TKSH 0110"
+    },
+    {
+      "code": "TKSH 0200",
+      "name": "TKSH 0200"
+    },
+    {
+      "code": "TKSH 0300",
+      "name": "TKSH 0300"
+    },
+    {
+      "code": "TKSH 0400",
+      "name": "TKSH 0400"
+    },
+    {
+      "code": "TKSH 0500",
+      "name": "TKSH 0500"
+    },
+    {
+      "code": "TKSH 0600",
+      "name": "TKSH 0600"
+    },
+    {
+      "code": "COLT 1310J",
+      "name": "COLT 1310J"
+    },
+    {
+      "code": "COLT 1431B",
+      "name": "COLT 1431B"
+    },
+    {
+      "code": "JUDS 1810",
+      "name": "JUDS 1810"
+    },
+    {
+      "code": "MES 1970",
+      "name": "MES 1970"
+    },
+    {
+      "code": "MES 1971",
+      "name": "MES 1971"
+    }
+  ]
+}

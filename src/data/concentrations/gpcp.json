@@ -1,0 +1,1870 @@
+{
+  "concentration": "Geophysics and Climate Physics",
+  "slug": "gpcp",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/gpcp/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree",
+      "name": "Standard program for the A.B. degree",
+      "groups": [
+        {
+          "name": "Five supporting science courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A course involving mechanics such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0050",
+                  "name": "PHYS 0050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0070",
+                  "name": "PHYS 0070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": 3,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Seven concentration courses:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two of these four fundamentals courses: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0220",
+                  "name": "EEPS 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0230",
+                  "name": "EEPS 0230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0240",
+                  "name": "EEPS 0240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0250",
+                  "name": "EEPS 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0350",
+                  "name": "EEPS 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One of these courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1430",
+                  "name": "EEPS 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1610",
+                  "name": "EEPS 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two of the following courses, can combine different focii: 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Climate focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1310",
+                  "name": "EEPS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1510",
+                  "name": "EEPS 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1520",
+                  "name": "EEPS 1520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Solid Earth and planets focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1410",
+                  "name": "EEPS 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1450",
+                  "name": "EEPS 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1620",
+                  "name": "EEPS 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Data science focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1340",
+                  "name": "EEPS 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1690",
+                  "name": "EEPS 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1720",
+                  "name": "EEPS 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional EEPS course such as: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Climate focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1130",
+                  "name": "EEPS 1130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1630",
+                  "name": "EEPS 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1820",
+                  "name": "EEPS 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Solid Earth and planets focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1560",
+                  "name": "EEPS 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1650",
+                  "name": "EEPS 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1810",
+                  "name": "EEPS 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Data science focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1330",
+                  "name": "EEPS 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Other alternatives:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1970",
+                  "name": "EEPS 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "a field or sea course or any EEPS course listed in the concentration",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course in physics or engineering such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0060",
+                  "name": "PHYS 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0470",
+                  "name": "PHYS 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0500",
+                  "name": "PHYS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1600",
+                  "name": "PHYS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0310",
+                  "name": "ENGN 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0790",
+                  "name": "ENGN 0790"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0510",
+                  "name": "ENGN 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0810",
+                  "name": "ENGN 0810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1370",
+                  "name": "ENGN 1370"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0050",
+            "name": "PHYS 0050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0070",
+            "name": "PHYS 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0220",
+            "name": "EEPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0230",
+            "name": "EEPS 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0240",
+            "name": "EEPS 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0250",
+            "name": "EEPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0350",
+            "name": "EEPS 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1430",
+            "name": "EEPS 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1610",
+            "name": "EEPS 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1310",
+            "name": "EEPS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1510",
+            "name": "EEPS 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1520",
+            "name": "EEPS 1520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1410",
+            "name": "EEPS 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1450",
+            "name": "EEPS 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1620",
+            "name": "EEPS 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1340",
+            "name": "EEPS 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1690",
+            "name": "EEPS 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1720",
+            "name": "EEPS 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1130",
+            "name": "EEPS 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1630",
+            "name": "EEPS 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1820",
+            "name": "EEPS 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1560",
+            "name": "EEPS 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1650",
+            "name": "EEPS 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1810",
+            "name": "EEPS 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1330",
+            "name": "EEPS 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1970",
+            "name": "EEPS 1970"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0060",
+            "name": "PHYS 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0500",
+            "name": "PHYS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1600",
+            "name": "PHYS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0310",
+            "name": "ENGN 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0790",
+            "name": "ENGN 0790"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0510",
+            "name": "ENGN 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0810",
+            "name": "ENGN 0810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1370",
+            "name": "ENGN 1370"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "Five supporting science courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A course involving mechanics such as: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0050",
+                  "name": "PHYS 0050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0070",
+                  "name": "PHYS 0070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": 3,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Fourteen Concentration Courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0220",
+                  "name": "EEPS 0220"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0230",
+                  "name": "EEPS 0230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0240",
+                  "name": "EEPS 0240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0250",
+                  "name": "EEPS 0250"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0350",
+                  "name": "EEPS 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1430",
+                  "name": "EEPS 1430"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1610",
+                  "name": "EEPS 1610"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three of the following courses, can combine different focii: 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Climate focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1310",
+                  "name": "EEPS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1510",
+                  "name": "EEPS 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1520",
+                  "name": "EEPS 1520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Solid Earth and planets focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1410",
+                  "name": "EEPS 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1450",
+                  "name": "EEPS 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1620",
+                  "name": "EEPS 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Data science focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1340",
+                  "name": "EEPS 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1690",
+                  "name": "EEPS 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1720",
+                  "name": "EEPS 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional EEPS course such as: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Climate focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1130",
+                  "name": "EEPS 1130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1630",
+                  "name": "EEPS 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1820",
+                  "name": "EEPS 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Solid Earth and planets focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1560",
+                  "name": "EEPS 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1650",
+                  "name": "EEPS 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1810",
+                  "name": "EEPS 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Data science focus:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1330",
+                  "name": "EEPS 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Other alternatives:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "a field or sea course",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "or any EEPS course listed in the concentration",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Three courses in physics or engineering such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0060",
+                  "name": "PHYS 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0470",
+                  "name": "PHYS 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0500",
+                  "name": "PHYS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1600",
+                  "name": "PHYS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0310",
+                  "name": "ENGN 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0790",
+                  "name": "ENGN 0790"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0510",
+                  "name": "ENGN 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0810",
+                  "name": "ENGN 0810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1370",
+                  "name": "ENGN 1370"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional upper-level science or math course with approval from the concentration advisor 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1970",
+                  "name": "EEPS 1970"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0050",
+            "name": "PHYS 0050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0070",
+            "name": "PHYS 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0220",
+            "name": "EEPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0230",
+            "name": "EEPS 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0240",
+            "name": "EEPS 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0250",
+            "name": "EEPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0350",
+            "name": "EEPS 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1430",
+            "name": "EEPS 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1610",
+            "name": "EEPS 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1310",
+            "name": "EEPS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1510",
+            "name": "EEPS 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1520",
+            "name": "EEPS 1520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1410",
+            "name": "EEPS 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1450",
+            "name": "EEPS 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1620",
+            "name": "EEPS 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1340",
+            "name": "EEPS 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1690",
+            "name": "EEPS 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1720",
+            "name": "EEPS 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1130",
+            "name": "EEPS 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1630",
+            "name": "EEPS 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1820",
+            "name": "EEPS 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1560",
+            "name": "EEPS 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1650",
+            "name": "EEPS 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1810",
+            "name": "EEPS 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1330",
+            "name": "EEPS 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0060",
+            "name": "PHYS 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0500",
+            "name": "PHYS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1600",
+            "name": "PHYS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0310",
+            "name": "ENGN 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0790",
+            "name": "ENGN 0790"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0510",
+            "name": "ENGN 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0810",
+            "name": "ENGN 0810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1370",
+            "name": "ENGN 1370"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1970",
+            "name": "EEPS 1970"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "EEPS 0220",
+      "name": "EEPS 0220"
+    },
+    {
+      "code": "EEPS 0230",
+      "name": "EEPS 0230"
+    },
+    {
+      "code": "EEPS 0240",
+      "name": "EEPS 0240"
+    },
+    {
+      "code": "EEPS 0250",
+      "name": "EEPS 0250"
+    },
+    {
+      "code": "EEPS 0350",
+      "name": "EEPS 0350"
+    },
+    {
+      "code": "EEPS 1430",
+      "name": "EEPS 1430"
+    },
+    {
+      "code": "EEPS 1610",
+      "name": "EEPS 1610"
+    },
+    {
+      "code": "EEPS 1310",
+      "name": "EEPS 1310"
+    },
+    {
+      "code": "EEPS 1510",
+      "name": "EEPS 1510"
+    },
+    {
+      "code": "EEPS 1520",
+      "name": "EEPS 1520"
+    },
+    {
+      "code": "EEPS 1410",
+      "name": "EEPS 1410"
+    },
+    {
+      "code": "EEPS 1450",
+      "name": "EEPS 1450"
+    },
+    {
+      "code": "EEPS 1620",
+      "name": "EEPS 1620"
+    },
+    {
+      "code": "EEPS 1340",
+      "name": "EEPS 1340"
+    },
+    {
+      "code": "EEPS 1690",
+      "name": "EEPS 1690"
+    },
+    {
+      "code": "EEPS 1720",
+      "name": "EEPS 1720"
+    },
+    {
+      "code": "EEPS 1130",
+      "name": "EEPS 1130"
+    },
+    {
+      "code": "EEPS 1630",
+      "name": "EEPS 1630"
+    },
+    {
+      "code": "EEPS 1820",
+      "name": "EEPS 1820"
+    },
+    {
+      "code": "EEPS 1560",
+      "name": "EEPS 1560"
+    },
+    {
+      "code": "EEPS 1650",
+      "name": "EEPS 1650"
+    },
+    {
+      "code": "EEPS 1810",
+      "name": "EEPS 1810"
+    },
+    {
+      "code": "EEPS 1330",
+      "name": "EEPS 1330"
+    },
+    {
+      "code": "EEPS 1970",
+      "name": "EEPS 1970"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "PHYS 0500",
+      "name": "PHYS 0500"
+    },
+    {
+      "code": "PHYS 1600",
+      "name": "PHYS 1600"
+    },
+    {
+      "code": "ENGN 0310",
+      "name": "ENGN 0310"
+    },
+    {
+      "code": "ENGN 0790",
+      "name": "ENGN 0790"
+    },
+    {
+      "code": "ENGN 0510",
+      "name": "ENGN 0510"
+    },
+    {
+      "code": "ENGN 0810",
+      "name": "ENGN 0810"
+    },
+    {
+      "code": "ENGN 1370",
+      "name": "ENGN 1370"
+    }
+  ]
+}

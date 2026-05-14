@@ -1,0 +1,180 @@
+{
+  "concentration": "Engineering and Physics",
+  "slug": "enph",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/enph/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "ENGN 0030",
+      "name": "ENGN 0030"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "PHYS 0160",
+      "name": "PHYS 0160"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "PHYS 0720",
+      "name": "PHYS 0720"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "ENGN 0510",
+      "name": "ENGN 0510"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "ENGN 1690",
+      "name": "ENGN 1690"
+    },
+    {
+      "code": "PHYS 1510",
+      "name": "PHYS 1510"
+    },
+    {
+      "code": "PHYS 0500",
+      "name": "PHYS 0500"
+    },
+    {
+      "code": "ENGN 1370",
+      "name": "ENGN 1370"
+    },
+    {
+      "code": "PHYS 1410",
+      "name": "PHYS 1410"
+    },
+    {
+      "code": "PHYS 1420",
+      "name": "PHYS 1420"
+    },
+    {
+      "code": "PHYS 1530",
+      "name": "PHYS 1530"
+    },
+    {
+      "code": "ENGN 0720",
+      "name": "ENGN 0720"
+    },
+    {
+      "code": "ENGN 1620",
+      "name": "ENGN 1620"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "ENGN 0310",
+      "name": "ENGN 0310"
+    },
+    {
+      "code": "ENGN 0810",
+      "name": "ENGN 0810"
+    },
+    {
+      "code": "PHYS 1600",
+      "name": "PHYS 1600"
+    },
+    {
+      "code": "ENGN 0410",
+      "name": "ENGN 0410"
+    },
+    {
+      "code": "ENGN 1560",
+      "name": "ENGN 1560"
+    },
+    {
+      "code": "PHYS 0560",
+      "name": "PHYS 0560"
+    },
+    {
+      "code": "PHYS 1560",
+      "name": "PHYS 1560"
+    },
+    {
+      "code": "ENGN 1590",
+      "name": "ENGN 1590"
+    },
+    {
+      "code": "ENGN 1595",
+      "name": "ENGN 1595"
+    },
+    {
+      "code": "PHYS 1990",
+      "name": "PHYS 1990"
+    },
+    {
+      "code": "ENGN 1970",
+      "name": "ENGN 1970"
+    },
+    {
+      "code": "ENGN 1971",
+      "name": "ENGN 1971"
+    },
+    {
+      "code": "ENGN 1972",
+      "name": "ENGN 1972"
+    },
+    {
+      "code": "ENGN 1973",
+      "name": "ENGN 1973"
+    }
+  ]
+}

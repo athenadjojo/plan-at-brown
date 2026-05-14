@@ -1,0 +1,316 @@
+{
+  "concentration": "French and Francophone Studies",
+  "slug": "ffs",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/ffs/",
+  "tracks": [
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "At least four courses in French and Francophone Studies numbered 950 and above, such as:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 0950A",
+                  "name": "FREN 0950A"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 0960A",
+                  "name": "FREN 0960A"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1070M",
+                  "name": "FREN 1070M"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1110F",
+                  "name": "FREN 1110F"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1120F",
+                  "name": "FREN 1120F"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1130G",
+                  "name": "FREN 1130G"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1210F",
+                  "name": "FREN 1210F"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1310N",
+                  "name": "FREN 1310N"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1310P",
+                  "name": "FREN 1310P"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1410X",
+                  "name": "FREN 1410X"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 0950A",
+            "name": "FREN 0950A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 0960A",
+            "name": "FREN 0960A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1070M",
+            "name": "FREN 1070M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1110F",
+            "name": "FREN 1110F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1120F",
+            "name": "FREN 1120F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1130G",
+            "name": "FREN 1130G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1210F",
+            "name": "FREN 1210F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1310N",
+            "name": "FREN 1310N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1310P",
+            "name": "FREN 1310P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1410X",
+            "name": "FREN 1410X"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "FREN 0950A",
+      "name": "FREN 0950A"
+    },
+    {
+      "code": "FREN 0960A",
+      "name": "FREN 0960A"
+    },
+    {
+      "code": "FREN 1070M",
+      "name": "FREN 1070M"
+    },
+    {
+      "code": "FREN 1110F",
+      "name": "FREN 1110F"
+    },
+    {
+      "code": "FREN 1120F",
+      "name": "FREN 1120F"
+    },
+    {
+      "code": "FREN 1130G",
+      "name": "FREN 1130G"
+    },
+    {
+      "code": "FREN 1210F",
+      "name": "FREN 1210F"
+    },
+    {
+      "code": "FREN 1310N",
+      "name": "FREN 1310N"
+    },
+    {
+      "code": "FREN 1310P",
+      "name": "FREN 1310P"
+    },
+    {
+      "code": "FREN 1410X",
+      "name": "FREN 1410X"
+    },
+    {
+      "code": "FREN 1000B",
+      "name": "FREN 1000B"
+    },
+    {
+      "code": "FREN 1040B",
+      "name": "FREN 1040B"
+    },
+    {
+      "code": "FREN 1040C",
+      "name": "FREN 1040C"
+    },
+    {
+      "code": "FREN 1040D",
+      "name": "FREN 1040D"
+    },
+    {
+      "code": "FREN 1410I",
+      "name": "FREN 1410I"
+    },
+    {
+      "code": "FREN 1410R",
+      "name": "FREN 1410R"
+    },
+    {
+      "code": "FREN 1410T",
+      "name": "FREN 1410T"
+    },
+    {
+      "code": "FREN 0600",
+      "name": "FREN 0600"
+    },
+    {
+      "code": "FREN 0610",
+      "name": "FREN 0610"
+    },
+    {
+      "code": "FREN 0620",
+      "name": "FREN 0620"
+    },
+    {
+      "code": "FREN 1140A",
+      "name": "FREN 1140A"
+    },
+    {
+      "code": "FREN 1150G",
+      "name": "FREN 1150G"
+    },
+    {
+      "code": "FREN 1330A",
+      "name": "FREN 1330A"
+    },
+    {
+      "code": "HIST 1272D",
+      "name": "HIST 1272D"
+    },
+    {
+      "code": "MUSC 1677",
+      "name": "MUSC 1677"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "concentration": "Hispanic Literatures and Cultures",
+  "slug": "hslc",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/hslc/",
+  "tracks": [
+    {
+      "id": "concentration_requirements_and_overview_of_the_cur",
+      "name": "Concentration Requirements and Overview of the Curriculum",
+      "groups": [
+        {
+          "name": "Required Course:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0650",
+                  "name": "HISP 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "HISP 0550",
+                  "name": "HISP 0550"
+                },
+                {
+                  "code": "HISP 0600",
+                  "name": "HISP 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0550",
+                  "name": "HISP 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0600",
+                  "name": "HISP 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0710B",
+                  "name": "HISP 0710B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0710C",
+                  "name": "HISP 0710C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0710E",
+                  "name": "HISP 0710E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0730",
+                  "name": "HISP 0730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0740",
+                  "name": "HISP 0740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0750B",
+                  "name": "HISP 0750B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0750G",
+                  "name": "HISP 0750G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 0750Q",
+                  "name": "HISP 0750Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least three 1000-level courses, such as:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1240A",
+                  "name": "HISP 1240A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1210F",
+                  "name": "HISP 1210F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1240L",
+                  "name": "HISP 1240L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1290W",
+                  "name": "HISP 1290W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1330Q",
+                  "name": "HISP 1330Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1330W",
+                  "name": "HISP 1330W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1330Z",
+                  "name": "HISP 1330Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1331E",
+                  "name": "HISP 1331E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1331J",
+                  "name": "HISP 1331J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1331U",
+                  "name": "HISP 1331U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1371T",
+                  "name": "HISP 1371T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1500L",
+                  "name": "HISP 1500L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 1666",
+                  "name": "HISP 1666"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Students can take up to two courses in languages other than Spanish, such as:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ETHN 1200D",
+                  "name": "ETHN 1200D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0234",
+                  "name": "HIST 0234"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NAHU 0100",
+                  "name": "NAHU 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 0400",
+                  "name": "POBS 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0650",
+            "name": "HISP 0650"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "HISP 0550",
+              "name": "HISP 0550"
+            },
+            {
+              "code": "HISP 0600",
+              "name": "HISP 0600"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0550",
+            "name": "HISP 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0600",
+            "name": "HISP 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0710B",
+            "name": "HISP 0710B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0710C",
+            "name": "HISP 0710C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0710E",
+            "name": "HISP 0710E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0730",
+            "name": "HISP 0730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0740",
+            "name": "HISP 0740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0750B",
+            "name": "HISP 0750B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0750G",
+            "name": "HISP 0750G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0750Q",
+            "name": "HISP 0750Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1240A",
+            "name": "HISP 1240A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1210F",
+            "name": "HISP 1210F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1240L",
+            "name": "HISP 1240L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1290W",
+            "name": "HISP 1290W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1330Q",
+            "name": "HISP 1330Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1330W",
+            "name": "HISP 1330W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1330Z",
+            "name": "HISP 1330Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1331E",
+            "name": "HISP 1331E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1331J",
+            "name": "HISP 1331J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1331U",
+            "name": "HISP 1331U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1371T",
+            "name": "HISP 1371T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1500L",
+            "name": "HISP 1500L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1666",
+            "name": "HISP 1666"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1200D",
+            "name": "ETHN 1200D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0234",
+            "name": "HIST 0234"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NAHU 0100",
+            "name": "NAHU 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 0400",
+            "name": "POBS 0400"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "HISP 0650",
+      "name": "HISP 0650"
+    },
+    {
+      "code": "HISP 0550",
+      "name": "HISP 0550"
+    },
+    {
+      "code": "HISP 0600",
+      "name": "HISP 0600"
+    },
+    {
+      "code": "HISP 0710B",
+      "name": "HISP 0710B"
+    },
+    {
+      "code": "HISP 0710C",
+      "name": "HISP 0710C"
+    },
+    {
+      "code": "HISP 0710E",
+      "name": "HISP 0710E"
+    },
+    {
+      "code": "HISP 0730",
+      "name": "HISP 0730"
+    },
+    {
+      "code": "HISP 0740",
+      "name": "HISP 0740"
+    },
+    {
+      "code": "HISP 0750B",
+      "name": "HISP 0750B"
+    },
+    {
+      "code": "HISP 0750G",
+      "name": "HISP 0750G"
+    },
+    {
+      "code": "HISP 0750Q",
+      "name": "HISP 0750Q"
+    },
+    {
+      "code": "HISP 1240A",
+      "name": "HISP 1240A"
+    },
+    {
+      "code": "HISP 1210F",
+      "name": "HISP 1210F"
+    },
+    {
+      "code": "HISP 1240L",
+      "name": "HISP 1240L"
+    },
+    {
+      "code": "HISP 1290W",
+      "name": "HISP 1290W"
+    },
+    {
+      "code": "HISP 1330Q",
+      "name": "HISP 1330Q"
+    },
+    {
+      "code": "HISP 1330W",
+      "name": "HISP 1330W"
+    },
+    {
+      "code": "HISP 1330Z",
+      "name": "HISP 1330Z"
+    },
+    {
+      "code": "HISP 1331E",
+      "name": "HISP 1331E"
+    },
+    {
+      "code": "HISP 1331J",
+      "name": "HISP 1331J"
+    },
+    {
+      "code": "HISP 1331U",
+      "name": "HISP 1331U"
+    },
+    {
+      "code": "HISP 1371T",
+      "name": "HISP 1371T"
+    },
+    {
+      "code": "HISP 1500L",
+      "name": "HISP 1500L"
+    },
+    {
+      "code": "HISP 1666",
+      "name": "HISP 1666"
+    },
+    {
+      "code": "ETHN 1200D",
+      "name": "ETHN 1200D"
+    },
+    {
+      "code": "HIST 0234",
+      "name": "HIST 0234"
+    },
+    {
+      "code": "NAHU 0100",
+      "name": "NAHU 0100"
+    },
+    {
+      "code": "POBS 0400",
+      "name": "POBS 0400"
+    }
+  ]
+}

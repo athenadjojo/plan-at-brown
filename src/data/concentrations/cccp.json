@@ -1,0 +1,771 @@
+{
+  "concentration": "Computational Chemistry and Chemical Physics",
+  "slug": "cccp",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/cccp/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "Foundational Coursework 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0350",
+                  "name": "CHEM 0350"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0500",
+                  "name": "CHEM 0500"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0070",
+                  "name": "PHYS 0070"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0470",
+                  "name": "PHYS 0470"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Foundational Computation Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 0250",
+                  "name": "DATA 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 1030",
+                  "name": "DATA 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 1050",
+                  "name": "DATA 1050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0160",
+                  "name": "APMA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0200",
+                  "name": "APMA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Experimental or Computational Laboratory Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1560K",
+                  "name": "CHEM 1560K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1560Q",
+                  "name": "CHEM 1560Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1600",
+                  "name": "PHYS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1640",
+                  "name": "PHYS 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1160",
+                  "name": "CHEM 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0560",
+                  "name": "PHYS 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1560",
+                  "name": "PHYS 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Quantum Mechanics Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1410",
+                  "name": "PHYS 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1140",
+                  "name": "CHEM 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Statistical Mechanics Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1530",
+                  "name": "PHYS 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three Mathematics Courses 4 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Six courses, primarily at the 1000 or 2000 level, in chemistry, physics or computer science. 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        },
+        {
+          "name": "Two Semesters of Independent Study 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1990",
+                  "name": "PHYS 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0070",
+            "name": "PHYS 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 0250",
+            "name": "DATA 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 1030",
+            "name": "DATA 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 1050",
+            "name": "DATA 1050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0160",
+            "name": "APMA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0200",
+            "name": "APMA 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1560K",
+            "name": "CHEM 1560K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1560Q",
+            "name": "CHEM 1560Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1600",
+            "name": "PHYS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1640",
+            "name": "PHYS 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0560",
+            "name": "PHYS 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1560",
+            "name": "PHYS 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1410",
+            "name": "PHYS 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1530",
+            "name": "PHYS 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0190",
+            "name": "MATH 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1990",
+            "name": "PHYS 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "CHEM 0500",
+      "name": "CHEM 0500"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "DATA 0250",
+      "name": "DATA 0250"
+    },
+    {
+      "code": "DATA 1030",
+      "name": "DATA 1030"
+    },
+    {
+      "code": "DATA 1050",
+      "name": "DATA 1050"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 0200",
+      "name": "APMA 0200"
+    },
+    {
+      "code": "CHEM 1560K",
+      "name": "CHEM 1560K"
+    },
+    {
+      "code": "CHEM 1560Q",
+      "name": "CHEM 1560Q"
+    },
+    {
+      "code": "PHYS 1600",
+      "name": "PHYS 1600"
+    },
+    {
+      "code": "PHYS 1640",
+      "name": "PHYS 1640"
+    },
+    {
+      "code": "CHEM 1160",
+      "name": "CHEM 1160"
+    },
+    {
+      "code": "PHYS 0560",
+      "name": "PHYS 0560"
+    },
+    {
+      "code": "PHYS 1560",
+      "name": "PHYS 1560"
+    },
+    {
+      "code": "PHYS 1410",
+      "name": "PHYS 1410"
+    },
+    {
+      "code": "CHEM 1140",
+      "name": "CHEM 1140"
+    },
+    {
+      "code": "CHEM 1150",
+      "name": "CHEM 1150"
+    },
+    {
+      "code": "PHYS 1530",
+      "name": "PHYS 1530"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "PHYS 1990",
+      "name": "PHYS 1990"
+    },
+    {
+      "code": "CHEM 0980",
+      "name": "CHEM 0980"
+    }
+  ]
+}

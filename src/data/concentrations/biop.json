@@ -1,0 +1,76 @@
+{
+  "concentration": "Biophysics",
+  "slug": "biop",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/biop/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "PHYS 0030",
+      "name": "PHYS 0030"
+    },
+    {
+      "code": "PHYS 0040",
+      "name": "PHYS 0040"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    },
+    {
+      "code": "PHYS 0070",
+      "name": "PHYS 0070"
+    },
+    {
+      "code": "PHYS 0160",
+      "name": "PHYS 0160"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "BIOL 1950",
+      "name": "BIOL 1950"
+    },
+    {
+      "code": "BIOL 1960",
+      "name": "BIOL 1960"
+    },
+    {
+      "code": "CHEM 0980",
+      "name": "CHEM 0980"
+    },
+    {
+      "code": "PHYS 1980",
+      "name": "PHYS 1980"
+    }
+  ]
+}

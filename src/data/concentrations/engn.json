@@ -1,0 +1,2447 @@
+{
+  "concentration": "Engineering",
+  "slug": "engn",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/engn/",
+  "tracks": [
+    {
+      "id": "mathematics_requirements",
+      "name": "Mathematics Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0020",
+              "name": "ENGN 0020"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0090",
+              "name": "ENGN 0090"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0130",
+              "name": "ENGN 0130"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "ENGN 0260 Mechanical Technology",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0350",
+                  "name": "ENGN 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0900",
+                  "name": "ENGN 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930A",
+                  "name": "ENGN 0930A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930C",
+                  "name": "ENGN 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1010",
+                  "name": "ENGN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1820",
+                  "name": "ENGN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931Q",
+                  "name": "ENGN 1931Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931W",
+                  "name": "ENGN 1931W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932M",
+                  "name": "ENGN 1932M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932R",
+                  "name": "ENGN 1932R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2110",
+                  "name": "ENGN 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2120",
+                  "name": "ENGN 2120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2130",
+                  "name": "ENGN 2130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2140",
+                  "name": "ENGN 2140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2150",
+                  "name": "ENGN 2150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2180",
+                  "name": "ENGN 2180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2160",
+                  "name": "ENGN 2160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0020",
+            "name": "ENGN 0020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0090",
+            "name": "ENGN 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0130",
+            "name": "ENGN 0130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0350",
+            "name": "ENGN 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0900",
+            "name": "ENGN 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930A",
+            "name": "ENGN 0930A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930C",
+            "name": "ENGN 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1010",
+            "name": "ENGN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1820",
+            "name": "ENGN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931Q",
+            "name": "ENGN 1931Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931W",
+            "name": "ENGN 1931W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932M",
+            "name": "ENGN 1932M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932R",
+            "name": "ENGN 1932R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2110",
+            "name": "ENGN 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2120",
+            "name": "ENGN 2120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2130",
+            "name": "ENGN 2130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2140",
+            "name": "ENGN 2140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2150",
+            "name": "ENGN 2150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2180",
+            "name": "ENGN 2180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2160",
+            "name": "ENGN 2160"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "advanced_placement",
+      "name": "Advanced Placement",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0020",
+              "name": "ENGN 0020"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0090",
+              "name": "ENGN 0090"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0130",
+              "name": "ENGN 0130"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "ENGN 0260 Mechanical Technology",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0350",
+                  "name": "ENGN 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0900",
+                  "name": "ENGN 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930A",
+                  "name": "ENGN 0930A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930C",
+                  "name": "ENGN 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1010",
+                  "name": "ENGN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1820",
+                  "name": "ENGN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931Q",
+                  "name": "ENGN 1931Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931W",
+                  "name": "ENGN 1931W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932M",
+                  "name": "ENGN 1932M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932R",
+                  "name": "ENGN 1932R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2110",
+                  "name": "ENGN 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2120",
+                  "name": "ENGN 2120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2130",
+                  "name": "ENGN 2130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2140",
+                  "name": "ENGN 2140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2150",
+                  "name": "ENGN 2150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2180",
+                  "name": "ENGN 2180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2160",
+                  "name": "ENGN 2160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0020",
+            "name": "ENGN 0020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0090",
+            "name": "ENGN 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0130",
+            "name": "ENGN 0130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0350",
+            "name": "ENGN 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0900",
+            "name": "ENGN 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930A",
+            "name": "ENGN 0930A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930C",
+            "name": "ENGN 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1010",
+            "name": "ENGN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1820",
+            "name": "ENGN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931Q",
+            "name": "ENGN 1931Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931W",
+            "name": "ENGN 1931W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932M",
+            "name": "ENGN 1932M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932R",
+            "name": "ENGN 1932R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2110",
+            "name": "ENGN 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2120",
+            "name": "ENGN 2120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2130",
+            "name": "ENGN 2130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2140",
+            "name": "ENGN 2140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2150",
+            "name": "ENGN 2150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2180",
+            "name": "ENGN 2180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2160",
+            "name": "ENGN 2160"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "transfer_credits",
+      "name": "Transfer Credits",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0020",
+              "name": "ENGN 0020"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0090",
+              "name": "ENGN 0090"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0130",
+              "name": "ENGN 0130"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "ENGN 0260 Mechanical Technology",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0350",
+                  "name": "ENGN 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0900",
+                  "name": "ENGN 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930A",
+                  "name": "ENGN 0930A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930C",
+                  "name": "ENGN 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1010",
+                  "name": "ENGN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1820",
+                  "name": "ENGN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931Q",
+                  "name": "ENGN 1931Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931W",
+                  "name": "ENGN 1931W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932M",
+                  "name": "ENGN 1932M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932R",
+                  "name": "ENGN 1932R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2110",
+                  "name": "ENGN 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2120",
+                  "name": "ENGN 2120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2130",
+                  "name": "ENGN 2130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2140",
+                  "name": "ENGN 2140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2150",
+                  "name": "ENGN 2150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2180",
+                  "name": "ENGN 2180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2160",
+                  "name": "ENGN 2160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0020",
+            "name": "ENGN 0020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0090",
+            "name": "ENGN 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0130",
+            "name": "ENGN 0130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0350",
+            "name": "ENGN 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0900",
+            "name": "ENGN 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930A",
+            "name": "ENGN 0930A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930C",
+            "name": "ENGN 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1010",
+            "name": "ENGN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1820",
+            "name": "ENGN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931Q",
+            "name": "ENGN 1931Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931W",
+            "name": "ENGN 1931W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932M",
+            "name": "ENGN 1932M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932R",
+            "name": "ENGN 1932R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2110",
+            "name": "ENGN 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2120",
+            "name": "ENGN 2120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2130",
+            "name": "ENGN 2130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2140",
+            "name": "ENGN 2140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2150",
+            "name": "ENGN 2150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2180",
+            "name": "ENGN 2180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2160",
+            "name": "ENGN 2160"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "substitutions_for_required_courses",
+      "name": "Substitutions for Required Courses",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0020",
+              "name": "ENGN 0020"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0090",
+              "name": "ENGN 0090"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0130",
+              "name": "ENGN 0130"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "ENGN 0260 Mechanical Technology",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0350",
+                  "name": "ENGN 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0900",
+                  "name": "ENGN 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930A",
+                  "name": "ENGN 0930A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930C",
+                  "name": "ENGN 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1010",
+                  "name": "ENGN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1820",
+                  "name": "ENGN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931Q",
+                  "name": "ENGN 1931Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931W",
+                  "name": "ENGN 1931W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932M",
+                  "name": "ENGN 1932M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932R",
+                  "name": "ENGN 1932R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2110",
+                  "name": "ENGN 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2120",
+                  "name": "ENGN 2120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2130",
+                  "name": "ENGN 2130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2140",
+                  "name": "ENGN 2140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2150",
+                  "name": "ENGN 2150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2180",
+                  "name": "ENGN 2180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2160",
+                  "name": "ENGN 2160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0020",
+            "name": "ENGN 0020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0090",
+            "name": "ENGN 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0130",
+            "name": "ENGN 0130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0350",
+            "name": "ENGN 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0900",
+            "name": "ENGN 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930A",
+            "name": "ENGN 0930A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930C",
+            "name": "ENGN 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1010",
+            "name": "ENGN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1820",
+            "name": "ENGN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931Q",
+            "name": "ENGN 1931Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931W",
+            "name": "ENGN 1931W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932M",
+            "name": "ENGN 1932M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932R",
+            "name": "ENGN 1932R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2110",
+            "name": "ENGN 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2120",
+            "name": "ENGN 2120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2130",
+            "name": "ENGN 2130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2140",
+            "name": "ENGN 2140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2150",
+            "name": "ENGN 2150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2180",
+            "name": "ENGN 2180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2160",
+            "name": "ENGN 2160"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_a_b__degree",
+      "name": "Standard Program for the A.B. Degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0020",
+              "name": "ENGN 0020"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0090",
+              "name": "ENGN 0090"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ENGN 0130",
+              "name": "ENGN 0130"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "ENGN 0260 Mechanical Technology",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0350",
+                  "name": "ENGN 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0610",
+                  "name": "ENGN 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0620",
+                  "name": "ENGN 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0900",
+                  "name": "ENGN 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930A",
+                  "name": "ENGN 0930A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0930C",
+                  "name": "ENGN 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1010",
+                  "name": "ENGN 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1820",
+                  "name": "ENGN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931Q",
+                  "name": "ENGN 1931Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1931W",
+                  "name": "ENGN 1931W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932M",
+                  "name": "ENGN 1932M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1932R",
+                  "name": "ENGN 1932R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2110",
+                  "name": "ENGN 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2120",
+                  "name": "ENGN 2120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2130",
+                  "name": "ENGN 2130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2140",
+                  "name": "ENGN 2140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2150",
+                  "name": "ENGN 2150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2180",
+                  "name": "ENGN 2180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2160",
+                  "name": "ENGN 2160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0020",
+            "name": "ENGN 0020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0090",
+            "name": "ENGN 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0130",
+            "name": "ENGN 0130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0350",
+            "name": "ENGN 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0610",
+            "name": "ENGN 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0620",
+            "name": "ENGN 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0900",
+            "name": "ENGN 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930A",
+            "name": "ENGN 0930A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0930C",
+            "name": "ENGN 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1010",
+            "name": "ENGN 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1820",
+            "name": "ENGN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931Q",
+            "name": "ENGN 1931Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1931W",
+            "name": "ENGN 1931W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932M",
+            "name": "ENGN 1932M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1932R",
+            "name": "ENGN 1932R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2110",
+            "name": "ENGN 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2120",
+            "name": "ENGN 2120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2130",
+            "name": "ENGN 2130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2140",
+            "name": "ENGN 2140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2150",
+            "name": "ENGN 2150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2180",
+            "name": "ENGN 2180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2160",
+            "name": "ENGN 2160"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "MATH 1260",
+      "name": "MATH 1260"
+    },
+    {
+      "code": "MATH 1610",
+      "name": "MATH 1610"
+    },
+    {
+      "code": "MATH 1620",
+      "name": "MATH 1620"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "APMA 0355",
+      "name": "APMA 0355"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    },
+    {
+      "code": "APMA 0365",
+      "name": "APMA 0365"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "APMA 1210",
+      "name": "APMA 1210"
+    },
+    {
+      "code": "ENGN 0020",
+      "name": "ENGN 0020"
+    },
+    {
+      "code": "ENGN 0090",
+      "name": "ENGN 0090"
+    },
+    {
+      "code": "ENGN 0130",
+      "name": "ENGN 0130"
+    },
+    {
+      "code": "ENGN 0350",
+      "name": "ENGN 0350"
+    },
+    {
+      "code": "ENGN 0610",
+      "name": "ENGN 0610"
+    },
+    {
+      "code": "ENGN 0620",
+      "name": "ENGN 0620"
+    },
+    {
+      "code": "ENGN 0900",
+      "name": "ENGN 0900"
+    },
+    {
+      "code": "ENGN 0930A",
+      "name": "ENGN 0930A"
+    },
+    {
+      "code": "ENGN 0930C",
+      "name": "ENGN 0930C"
+    },
+    {
+      "code": "ENGN 1010",
+      "name": "ENGN 1010"
+    },
+    {
+      "code": "ENGN 1800",
+      "name": "ENGN 1800"
+    },
+    {
+      "code": "ENGN 1820",
+      "name": "ENGN 1820"
+    },
+    {
+      "code": "ENGN 1931Q",
+      "name": "ENGN 1931Q"
+    },
+    {
+      "code": "ENGN 1931W",
+      "name": "ENGN 1931W"
+    },
+    {
+      "code": "ENGN 1932M",
+      "name": "ENGN 1932M"
+    },
+    {
+      "code": "ENGN 1932R",
+      "name": "ENGN 1932R"
+    },
+    {
+      "code": "ENGN 2110",
+      "name": "ENGN 2110"
+    },
+    {
+      "code": "ENGN 2120",
+      "name": "ENGN 2120"
+    },
+    {
+      "code": "ENGN 2130",
+      "name": "ENGN 2130"
+    },
+    {
+      "code": "ENGN 2140",
+      "name": "ENGN 2140"
+    },
+    {
+      "code": "ENGN 2150",
+      "name": "ENGN 2150"
+    },
+    {
+      "code": "ENGN 2180",
+      "name": "ENGN 2180"
+    },
+    {
+      "code": "ENGN 2160",
+      "name": "ENGN 2160"
+    },
+    {
+      "code": "CHEM 0100",
+      "name": "CHEM 0100"
+    }
+  ]
+}

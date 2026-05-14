@@ -1,0 +1,1321 @@
+{
+  "concentration": "South Asian Studies",
+  "slug": "sast",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/sast/",
+  "tracks": [
+    {
+      "id": "course_requirements",
+      "name": "Course Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "SAST 0700",
+              "name": "SAST 0700"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HIST 1620",
+              "name": "HIST 1620"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in the Humanities with a majority focus in South Asia, such as: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0995",
+                  "name": "CLAS 0995"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1140",
+                  "name": "CLAS 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0030",
+                  "name": "COST 0030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0034",
+                  "name": "COST 0034"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0035",
+                  "name": "COST 0035"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0036",
+                  "name": "COST 0036"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0037",
+                  "name": "COST 0037"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0140",
+                  "name": "COST 0140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0145",
+                  "name": "COST 0145"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0525",
+                  "name": "COST 0525"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0526",
+                  "name": "COST 0526"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0013",
+                  "name": "HIAA 0013"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0023",
+                  "name": "HIAA 0023"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LITR 1231K",
+                  "name": "LITR 1231K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0096",
+                  "name": "RELS 0096"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1510",
+                  "name": "RELS 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0036",
+                  "name": "RELS 0036"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0037",
+                  "name": "RELS 0037"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0526",
+                  "name": "RELS 0526"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two courses in the Social Sciences with a majority focus on South Asia, such as: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1979D",
+                  "name": "HIST 1979D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1280",
+                  "name": "POLS 1280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1821O",
+                  "name": "POLS 1821O"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 2320",
+                  "name": "POLS 2320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 2330",
+                  "name": "POLS 2330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0750",
+                  "name": "SAST 0750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0725",
+                  "name": "SAST 0725"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0526",
+                  "name": "SAST 0526"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0525",
+                  "name": "SAST 0525"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0140",
+                  "name": "SAST 0140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0037",
+                  "name": "SAST 0037"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 0034",
+                  "name": "SAST 0034"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least five additional elective courses.  Students can take additional courses in the humanities or social sciences with a focus on South Asia, such as: 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "At least three of the five electives must be drawn from the department pre-approved course listings (or be approved by the DUS/Concentration advisor).  The courses on this pre-approved list have significant (at least 25%) South Asia content.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "No more than two of the remaining electives can be courses with less empirical South Asia content, but these courses must have theoretical relevance to the study of South Asia (with the approval from the DUS).",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 2320",
+                  "name": "ANTH 2320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0032",
+                  "name": "COST 0032"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0100",
+                  "name": "COST 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 0510",
+                  "name": "ECON 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1530",
+                  "name": "ECON 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 2510",
+                  "name": "ECON 2510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0081",
+                  "name": "HIAA 0081"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0150D",
+                  "name": "HIST 0150D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1440",
+                  "name": "HIST 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HNDI 0200",
+                  "name": "HNDI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HNDI 0400",
+                  "name": "HNDI 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HNDI 1080",
+                  "name": "HNDI 1080"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 1505O",
+                  "name": "MCM 1505O"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0200",
+                  "name": "POLS 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1380",
+                  "name": "POLS 1380"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0100",
+                  "name": "RELS 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SAST 1970",
+                  "name": "SAST 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SANS 0200",
+                  "name": "SANS 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SANS 0400",
+                  "name": "SANS 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SANS 1030",
+                  "name": "SANS 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SANS 1100",
+                  "name": "SANS 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0700",
+            "name": "SAST 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1620",
+            "name": "HIST 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0995",
+            "name": "CLAS 0995"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1140",
+            "name": "CLAS 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0030",
+            "name": "COST 0030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0034",
+            "name": "COST 0034"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0035",
+            "name": "COST 0035"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0036",
+            "name": "COST 0036"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0037",
+            "name": "COST 0037"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0140",
+            "name": "COST 0140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0145",
+            "name": "COST 0145"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0525",
+            "name": "COST 0525"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0526",
+            "name": "COST 0526"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0013",
+            "name": "HIAA 0013"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0023",
+            "name": "HIAA 0023"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LITR 1231K",
+            "name": "LITR 1231K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0096",
+            "name": "RELS 0096"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1510",
+            "name": "RELS 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0036",
+            "name": "RELS 0036"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0037",
+            "name": "RELS 0037"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0526",
+            "name": "RELS 0526"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1979D",
+            "name": "HIST 1979D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1280",
+            "name": "POLS 1280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1821O",
+            "name": "POLS 1821O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 2320",
+            "name": "POLS 2320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 2330",
+            "name": "POLS 2330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0750",
+            "name": "SAST 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0725",
+            "name": "SAST 0725"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0526",
+            "name": "SAST 0526"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0525",
+            "name": "SAST 0525"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0140",
+            "name": "SAST 0140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0037",
+            "name": "SAST 0037"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 0034",
+            "name": "SAST 0034"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 2320",
+            "name": "ANTH 2320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0032",
+            "name": "COST 0032"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0100",
+            "name": "COST 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 0510",
+            "name": "ECON 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1530",
+            "name": "ECON 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 2510",
+            "name": "ECON 2510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0081",
+            "name": "HIAA 0081"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0150D",
+            "name": "HIST 0150D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1440",
+            "name": "HIST 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HNDI 0200",
+            "name": "HNDI 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HNDI 0400",
+            "name": "HNDI 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HNDI 1080",
+            "name": "HNDI 1080"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 1505O",
+            "name": "MCM 1505O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0200",
+            "name": "POLS 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1380",
+            "name": "POLS 1380"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0100",
+            "name": "RELS 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SAST 1970",
+            "name": "SAST 1970"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SANS 0200",
+            "name": "SANS 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SANS 0400",
+            "name": "SANS 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SANS 1030",
+            "name": "SANS 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SANS 1100",
+            "name": "SANS 1100"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "SAST 0700",
+      "name": "SAST 0700"
+    },
+    {
+      "code": "HIST 1620",
+      "name": "HIST 1620"
+    },
+    {
+      "code": "CLAS 0995",
+      "name": "CLAS 0995"
+    },
+    {
+      "code": "CLAS 1140",
+      "name": "CLAS 1140"
+    },
+    {
+      "code": "COST 0030",
+      "name": "COST 0030"
+    },
+    {
+      "code": "COST 0034",
+      "name": "COST 0034"
+    },
+    {
+      "code": "COST 0035",
+      "name": "COST 0035"
+    },
+    {
+      "code": "COST 0036",
+      "name": "COST 0036"
+    },
+    {
+      "code": "COST 0037",
+      "name": "COST 0037"
+    },
+    {
+      "code": "COST 0140",
+      "name": "COST 0140"
+    },
+    {
+      "code": "COST 0145",
+      "name": "COST 0145"
+    },
+    {
+      "code": "COST 0525",
+      "name": "COST 0525"
+    },
+    {
+      "code": "COST 0526",
+      "name": "COST 0526"
+    },
+    {
+      "code": "HIAA 0013",
+      "name": "HIAA 0013"
+    },
+    {
+      "code": "HIAA 0023",
+      "name": "HIAA 0023"
+    },
+    {
+      "code": "LITR 1231K",
+      "name": "LITR 1231K"
+    },
+    {
+      "code": "RELS 0096",
+      "name": "RELS 0096"
+    },
+    {
+      "code": "RELS 1510",
+      "name": "RELS 1510"
+    },
+    {
+      "code": "RELS 0036",
+      "name": "RELS 0036"
+    },
+    {
+      "code": "RELS 0037",
+      "name": "RELS 0037"
+    },
+    {
+      "code": "RELS 0526",
+      "name": "RELS 0526"
+    },
+    {
+      "code": "HIST 1979D",
+      "name": "HIST 1979D"
+    },
+    {
+      "code": "POLS 1280",
+      "name": "POLS 1280"
+    },
+    {
+      "code": "POLS 1821O",
+      "name": "POLS 1821O"
+    },
+    {
+      "code": "POLS 2320",
+      "name": "POLS 2320"
+    },
+    {
+      "code": "POLS 2330",
+      "name": "POLS 2330"
+    },
+    {
+      "code": "SAST 0750",
+      "name": "SAST 0750"
+    },
+    {
+      "code": "SAST 0725",
+      "name": "SAST 0725"
+    },
+    {
+      "code": "SAST 0526",
+      "name": "SAST 0526"
+    },
+    {
+      "code": "SAST 0525",
+      "name": "SAST 0525"
+    },
+    {
+      "code": "SAST 0140",
+      "name": "SAST 0140"
+    },
+    {
+      "code": "SAST 0037",
+      "name": "SAST 0037"
+    },
+    {
+      "code": "SAST 0034",
+      "name": "SAST 0034"
+    },
+    {
+      "code": "ANTH 0100",
+      "name": "ANTH 0100"
+    },
+    {
+      "code": "ANTH 2320",
+      "name": "ANTH 2320"
+    },
+    {
+      "code": "COST 0032",
+      "name": "COST 0032"
+    },
+    {
+      "code": "COST 0100",
+      "name": "COST 0100"
+    },
+    {
+      "code": "ECON 0510",
+      "name": "ECON 0510"
+    },
+    {
+      "code": "ECON 1530",
+      "name": "ECON 1530"
+    },
+    {
+      "code": "ECON 2510",
+      "name": "ECON 2510"
+    },
+    {
+      "code": "HIAA 0081",
+      "name": "HIAA 0081"
+    },
+    {
+      "code": "HIST 0150D",
+      "name": "HIST 0150D"
+    },
+    {
+      "code": "HIST 1440",
+      "name": "HIST 1440"
+    },
+    {
+      "code": "HNDI 0200",
+      "name": "HNDI 0200"
+    },
+    {
+      "code": "HNDI 0400",
+      "name": "HNDI 0400"
+    },
+    {
+      "code": "HNDI 1080",
+      "name": "HNDI 1080"
+    },
+    {
+      "code": "MCM 1505O",
+      "name": "MCM 1505O"
+    },
+    {
+      "code": "POLS 0200",
+      "name": "POLS 0200"
+    },
+    {
+      "code": "POLS 1380",
+      "name": "POLS 1380"
+    },
+    {
+      "code": "RELS 0100",
+      "name": "RELS 0100"
+    },
+    {
+      "code": "SAST 1970",
+      "name": "SAST 1970"
+    },
+    {
+      "code": "SANS 0200",
+      "name": "SANS 0200"
+    },
+    {
+      "code": "SANS 0400",
+      "name": "SANS 0400"
+    },
+    {
+      "code": "SANS 1030",
+      "name": "SANS 1030"
+    },
+    {
+      "code": "SANS 1100",
+      "name": "SANS 1100"
+    }
+  ]
+}

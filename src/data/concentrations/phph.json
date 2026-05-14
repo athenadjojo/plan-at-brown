@@ -1,0 +1,1449 @@
+{
+  "concentration": "Physics and Philosophy",
+  "slug": "phph",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/phph/",
+  "tracks": [
+    {
+      "id": "advising",
+      "name": "Advising",
+      "groups": [
+        {
+          "name": "Physics Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following  introductory courses in Modern Physics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0060",
+                  "name": "PHYS 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0160",
+                  "name": "PHYS 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Special Relativity and Classical Field Theory: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0470",
+                  "name": "PHYS 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following in Methods of Experimental and Theoretical physics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0500",
+                  "name": "PHYS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0560",
+                  "name": "PHYS 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following in Quantum Mechanics and its applications 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1410",
+                  "name": "PHYS 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1530",
+                  "name": "PHYS 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One more 1000-level Physics course 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Philosophy Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following gateway courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0210",
+                  "name": "PHIL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0060",
+                  "name": "PHIL 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0640",
+                  "name": "PHIL 0640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following courses in Early Modern Philosophy: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0210",
+                  "name": "PHIL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1210",
+                  "name": "PHIL 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1220",
+                  "name": "PHIL 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1230",
+                  "name": "PHIL 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1705",
+                  "name": "PHIL 1705"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1735",
+                  "name": "PHIL 1735"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1755",
+                  "name": "PHIL 1755"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1775",
+                  "name": "PHIL 1775"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1780",
+                  "name": "PHIL 1780"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "History Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following courses in History of Science: 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0522N",
+                  "name": "HIST 0522N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1825M",
+                  "name": "HIST 1825M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1976I",
+                  "name": "HIST 1976I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Calculus",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Final Project",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1990",
+                  "name": "PHIL 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1990",
+                  "name": "PHYS 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A course from the PHIL 0990 Senior Seminar series",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Any graduate seminar in Philosophy",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0060",
+            "name": "PHYS 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0160",
+            "name": "PHYS 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0500",
+            "name": "PHYS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0560",
+            "name": "PHYS 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1410",
+            "name": "PHYS 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1530",
+            "name": "PHYS 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0210",
+            "name": "PHIL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0060",
+            "name": "PHIL 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0640",
+            "name": "PHIL 0640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0210",
+            "name": "PHIL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1210",
+            "name": "PHIL 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1220",
+            "name": "PHIL 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1230",
+            "name": "PHIL 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1705",
+            "name": "PHIL 1705"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1735",
+            "name": "PHIL 1735"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1755",
+            "name": "PHIL 1755"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1775",
+            "name": "PHIL 1775"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1780",
+            "name": "PHIL 1780"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0522N",
+            "name": "HIST 0522N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1825M",
+            "name": "HIST 1825M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1976I",
+            "name": "HIST 1976I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1990",
+            "name": "PHIL 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1990",
+            "name": "PHYS 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "curriculum",
+      "name": "Curriculum",
+      "groups": [
+        {
+          "name": "Physics Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following  introductory courses in Modern Physics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0060",
+                  "name": "PHYS 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0160",
+                  "name": "PHYS 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Special Relativity and Classical Field Theory: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0470",
+                  "name": "PHYS 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following in Methods of Experimental and Theoretical physics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0500",
+                  "name": "PHYS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0560",
+                  "name": "PHYS 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following in Quantum Mechanics and its applications 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1410",
+                  "name": "PHYS 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1530",
+                  "name": "PHYS 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One more 1000-level Physics course 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Philosophy Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following gateway courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0210",
+                  "name": "PHIL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0060",
+                  "name": "PHIL 0060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0640",
+                  "name": "PHIL 0640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following courses in Early Modern Philosophy: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0210",
+                  "name": "PHIL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1210",
+                  "name": "PHIL 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1220",
+                  "name": "PHIL 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1230",
+                  "name": "PHIL 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1705",
+                  "name": "PHIL 1705"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1735",
+                  "name": "PHIL 1735"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1755",
+                  "name": "PHIL 1755"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1775",
+                  "name": "PHIL 1775"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1780",
+                  "name": "PHIL 1780"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "History Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following courses in History of Science: 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0522N",
+                  "name": "HIST 0522N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1825M",
+                  "name": "HIST 1825M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1976I",
+                  "name": "HIST 1976I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Calculus",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Final Project",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1990",
+                  "name": "PHIL 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1990",
+                  "name": "PHYS 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A course from the PHIL 0990 Senior Seminar series",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Any graduate seminar in Philosophy",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0060",
+            "name": "PHYS 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0160",
+            "name": "PHYS 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0470",
+            "name": "PHYS 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0500",
+            "name": "PHYS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0560",
+            "name": "PHYS 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1410",
+            "name": "PHYS 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1530",
+            "name": "PHYS 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0210",
+            "name": "PHIL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0060",
+            "name": "PHIL 0060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0640",
+            "name": "PHIL 0640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0210",
+            "name": "PHIL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1210",
+            "name": "PHIL 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1220",
+            "name": "PHIL 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1230",
+            "name": "PHIL 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1705",
+            "name": "PHIL 1705"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1735",
+            "name": "PHIL 1735"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1755",
+            "name": "PHIL 1755"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1775",
+            "name": "PHIL 1775"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1780",
+            "name": "PHIL 1780"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0522N",
+            "name": "HIST 0522N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1825M",
+            "name": "HIST 1825M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1976I",
+            "name": "HIST 1976I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1990",
+            "name": "PHIL 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1990",
+            "name": "PHYS 1990"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "PHYS 1170",
+      "name": "PHYS 1170"
+    },
+    {
+      "code": "PHYS 1280",
+      "name": "PHYS 1280"
+    },
+    {
+      "code": "PHYS 1510",
+      "name": "PHYS 1510"
+    },
+    {
+      "code": "PHYS 1100",
+      "name": "PHYS 1100"
+    },
+    {
+      "code": "PHYS 0470",
+      "name": "PHYS 0470"
+    },
+    {
+      "code": "PHYS 0160",
+      "name": "PHYS 0160"
+    },
+    {
+      "code": "PHYS 0060",
+      "name": "PHYS 0060"
+    },
+    {
+      "code": "PHIL 0210",
+      "name": "PHIL 0210"
+    },
+    {
+      "code": "PHYS 0100",
+      "name": "PHYS 0100"
+    },
+    {
+      "code": "PHYS 0500",
+      "name": "PHYS 0500"
+    },
+    {
+      "code": "PHYS 0560",
+      "name": "PHYS 0560"
+    },
+    {
+      "code": "PHYS 1410",
+      "name": "PHYS 1410"
+    },
+    {
+      "code": "PHYS 1530",
+      "name": "PHYS 1530"
+    },
+    {
+      "code": "PHIL 0060",
+      "name": "PHIL 0060"
+    },
+    {
+      "code": "PHIL 0640",
+      "name": "PHIL 0640"
+    },
+    {
+      "code": "PHIL 1210",
+      "name": "PHIL 1210"
+    },
+    {
+      "code": "PHIL 1220",
+      "name": "PHIL 1220"
+    },
+    {
+      "code": "PHIL 1230",
+      "name": "PHIL 1230"
+    },
+    {
+      "code": "PHIL 1705",
+      "name": "PHIL 1705"
+    },
+    {
+      "code": "PHIL 1735",
+      "name": "PHIL 1735"
+    },
+    {
+      "code": "PHIL 1755",
+      "name": "PHIL 1755"
+    },
+    {
+      "code": "PHIL 1775",
+      "name": "PHIL 1775"
+    },
+    {
+      "code": "PHIL 1780",
+      "name": "PHIL 1780"
+    },
+    {
+      "code": "HIST 0522N",
+      "name": "HIST 0522N"
+    },
+    {
+      "code": "HIST 1825M",
+      "name": "HIST 1825M"
+    },
+    {
+      "code": "HIST 1976I",
+      "name": "HIST 1976I"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "PHIL 1990",
+      "name": "PHIL 1990"
+    },
+    {
+      "code": "PHYS 1990",
+      "name": "PHYS 1990"
+    }
+  ]
+}

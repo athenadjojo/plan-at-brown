@@ -1,0 +1,530 @@
+{
+  "afri": {
+    "name": "Africana Studies",
+    "slug": "afri",
+    "total_courses": 3,
+    "tracks": 0
+  },
+  "amst": {
+    "name": "American Studies",
+    "slug": "amst",
+    "total_courses": 0,
+    "tracks": 0
+  },
+  "anth": {
+    "name": "Anthropology",
+    "slug": "anth",
+    "total_courses": 47,
+    "tracks": 7
+  },
+  "apma": {
+    "name": "Applied Mathematics",
+    "slug": "apma",
+    "total_courses": 40,
+    "tracks": 2
+  },
+  "apmb": {
+    "name": "Applied Mathematics-Biology",
+    "slug": "apmb",
+    "total_courses": 65,
+    "tracks": 1
+  },
+  "apmc": {
+    "name": "Applied Mathematics-Computer Science",
+    "slug": "apmc",
+    "total_courses": 55,
+    "tracks": 1
+  },
+  "apme": {
+    "name": "Applied Mathematics-Economics",
+    "slug": "apme",
+    "total_courses": 84,
+    "tracks": 2
+  },
+  "aran": {
+    "name": "Archaeology and the Ancient World",
+    "slug": "aran",
+    "total_courses": 42,
+    "tracks": 1
+  },
+  "arct": {
+    "name": "Architecture",
+    "slug": "arct",
+    "total_courses": 37,
+    "tracks": 2
+  },
+  "astr": {
+    "name": "Astronomy",
+    "slug": "astr",
+    "total_courses": 32,
+    "tracks": 0
+  },
+  "bds": {
+    "name": "Behavioral Decision Sciences",
+    "slug": "bds",
+    "total_courses": 60,
+    "tracks": 1
+  },
+  "bchm": {
+    "name": "Biochemistry and Molecular Biology",
+    "slug": "bchm",
+    "total_courses": 91,
+    "tracks": 1
+  },
+  "biol": {
+    "name": "Biology",
+    "slug": "biol",
+    "total_courses": 77,
+    "tracks": 3
+  },
+  "enbi": {
+    "name": "Biomedical Engineering",
+    "slug": "enbi",
+    "total_courses": 61,
+    "tracks": 1
+  },
+  "biop": {
+    "name": "Biophysics",
+    "slug": "biop",
+    "total_courses": 17,
+    "tracks": 0
+  },
+  "cheg": {
+    "name": "Chemical Engineering",
+    "slug": "cheg",
+    "total_courses": 39,
+    "tracks": 5
+  },
+  "chph": {
+    "name": "Chemical Physics",
+    "slug": "chph",
+    "total_courses": 17,
+    "tracks": 2
+  },
+  "chem": {
+    "name": "Chemistry",
+    "slug": "chem",
+    "total_courses": 35,
+    "tracks": 5
+  },
+  "clas": {
+    "name": "Classics",
+    "slug": "clas",
+    "total_courses": 52,
+    "tracks": 8
+  },
+  "cogn": {
+    "name": "Cognitive Neuroscience",
+    "slug": "cogn",
+    "total_courses": 23,
+    "tracks": 7
+  },
+  "cogs": {
+    "name": "Cognitive Science",
+    "slug": "cogs",
+    "total_courses": 26,
+    "tracks": 9
+  },
+  "colt": {
+    "name": "Comparative Literature",
+    "slug": "colt",
+    "total_courses": 78,
+    "tracks": 10
+  },
+  "csbi": {
+    "name": "Computational Biology",
+    "slug": "csbi",
+    "total_courses": 57,
+    "tracks": 2
+  },
+  "cccp": {
+    "name": "Computational Chemistry and Chemical Physics",
+    "slug": "cccp",
+    "total_courses": 30,
+    "tracks": 1
+  },
+  "cneu": {
+    "name": "Computational Neuroscience",
+    "slug": "cneu",
+    "total_courses": 80,
+    "tracks": 1
+  },
+  "coeg": {
+    "name": "Computer Engineering",
+    "slug": "coeg",
+    "total_courses": 87,
+    "tracks": 5
+  },
+  "comp": {
+    "name": "Computer Science",
+    "slug": "comp",
+    "total_courses": 22,
+    "tracks": 1
+  },
+  "csec": {
+    "name": "Computer Science-Economics",
+    "slug": "csec",
+    "total_courses": 42,
+    "tracks": 2
+  },
+  "ctmp": {
+    "name": "Contemplative Studies",
+    "slug": "ctmp",
+    "total_courses": 81,
+    "tracks": 4
+  },
+  "nais": {
+    "name": "Critical Native American and Indigenous Studies",
+    "slug": "nais",
+    "total_courses": 2,
+    "tracks": 2
+  },
+  "dese": {
+    "name": "Design Engineering",
+    "slug": "dese",
+    "total_courses": 93,
+    "tracks": 1
+  },
+  "emow": {
+    "name": "Early Modern World",
+    "slug": "emow",
+    "total_courses": 45,
+    "tracks": 0
+  },
+  "eps": {
+    "name": "Earth and Planetary Science",
+    "slug": "eps",
+    "total_courses": 17,
+    "tracks": 2
+  },
+  "ecb": {
+    "name": "Earth, Climate, and Biology",
+    "slug": "ecb",
+    "total_courses": 31,
+    "tracks": 2
+  },
+  "east": {
+    "name": "East Asian Studies",
+    "slug": "east",
+    "total_courses": 40,
+    "tracks": 3
+  },
+  "econ": {
+    "name": "Economics",
+    "slug": "econ",
+    "total_courses": 72,
+    "tracks": 3
+  },
+  "educ": {
+    "name": "Education Studies",
+    "slug": "educ",
+    "total_courses": 19,
+    "tracks": 3
+  },
+  "egya": {
+    "name": "Egyptology and Assyriology",
+    "slug": "egya",
+    "total_courses": 44,
+    "tracks": 2
+  },
+  "eleg": {
+    "name": "Electrical Engineering",
+    "slug": "eleg",
+    "total_courses": 75,
+    "tracks": 5
+  },
+  "engn": {
+    "name": "Engineering",
+    "slug": "engn",
+    "total_courses": 42,
+    "tracks": 5
+  },
+  "enph": {
+    "name": "Engineering and Physics",
+    "slug": "enph",
+    "total_courses": 43,
+    "tracks": 0
+  },
+  "engl": {
+    "name": "English",
+    "slug": "engl",
+    "total_courses": 95,
+    "tracks": 2
+  },
+  "eveg": {
+    "name": "Environmental Engineering",
+    "slug": "eveg",
+    "total_courses": 65,
+    "tracks": 5
+  },
+  "envs": {
+    "name": "Environmental Sciences and Studies",
+    "slug": "envs",
+    "total_courses": 177,
+    "tracks": 4
+  },
+  "eths": {
+    "name": "Ethnic Studies",
+    "slug": "eths",
+    "total_courses": 3,
+    "tracks": 0
+  },
+  "ffs": {
+    "name": "French and Francophone Studies",
+    "slug": "ffs",
+    "total_courses": 25,
+    "tracks": 1
+  },
+  "gnss": {
+    "name": "Gender and Sexuality Studies",
+    "slug": "gnss",
+    "total_courses": 2,
+    "tracks": 0
+  },
+  "gcec": {
+    "name": "Geochemistry and Environmental Chemistry",
+    "slug": "gcec",
+    "total_courses": 26,
+    "tracks": 2
+  },
+  "gpcp": {
+    "name": "Geophysics and Climate Physics",
+    "slug": "gpcp",
+    "total_courses": 38,
+    "tracks": 2
+  },
+  "gmst": {
+    "name": "German Studies",
+    "slug": "gmst",
+    "total_courses": 95,
+    "tracks": 2
+  },
+  "hhbi": {
+    "name": "Health and Human Biology",
+    "slug": "hhbi",
+    "total_courses": 25,
+    "tracks": 1
+  },
+  "hslc": {
+    "name": "Hispanic Literatures and Cultures",
+    "slug": "hslc",
+    "total_courses": 28,
+    "tracks": 1
+  },
+  "hist": {
+    "name": "History",
+    "slug": "hist",
+    "total_courses": 252,
+    "tracks": 1
+  },
+  "hiaa": {
+    "name": "History of Art and Architecture",
+    "slug": "hiaa",
+    "total_courses": 48,
+    "tracks": 1
+  },
+  "indp": {
+    "name": "Independent Concentration",
+    "slug": "indp",
+    "total_courses": 0,
+    "tracks": 0
+  },
+  "iapa": {
+    "name": "International and Public Affairs",
+    "slug": "iapa",
+    "total_courses": 93,
+    "tracks": 1
+  },
+  "ital": {
+    "name": "Italian Studies",
+    "slug": "ital",
+    "total_courses": 49,
+    "tracks": 1
+  },
+  "juds": {
+    "name": "Judaic Studies",
+    "slug": "juds",
+    "total_courses": 6,
+    "tracks": 0
+  },
+  "lacs": {
+    "name": "Latin American and Caribbean Studies",
+    "slug": "lacs",
+    "total_courses": 17,
+    "tracks": 2
+  },
+  "ling": {
+    "name": "Linguistics",
+    "slug": "ling",
+    "total_courses": 49,
+    "tracks": 2
+  },
+  "lita": {
+    "name": "Literary Arts",
+    "slug": "lita",
+    "total_courses": 7,
+    "tracks": 0
+  },
+  "maeg": {
+    "name": "Materials Engineering",
+    "slug": "maeg",
+    "total_courses": 54,
+    "tracks": 5
+  },
+  "math": {
+    "name": "Mathematics",
+    "slug": "math",
+    "total_courses": 14,
+    "tracks": 1
+  },
+  "macs": {
+    "name": "Mathematics-Computer Science",
+    "slug": "macs",
+    "total_courses": 17,
+    "tracks": 1
+  },
+  "mtec": {
+    "name": "Mathematics-Economics",
+    "slug": "mtec",
+    "total_courses": 53,
+    "tracks": 0
+  },
+  "mceg": {
+    "name": "Mechanical Engineering",
+    "slug": "mceg",
+    "total_courses": 68,
+    "tracks": 5
+  },
+  "mdvc": {
+    "name": "Medieval Cultures",
+    "slug": "mdvc",
+    "total_courses": 58,
+    "tracks": 5
+  },
+  "mide": {
+    "name": "Middle East Studies",
+    "slug": "mide",
+    "total_courses": 102,
+    "tracks": 0
+  },
+  "mcmd": {
+    "name": "Modern Culture and Media",
+    "slug": "mcmd",
+    "total_courses": 13,
+    "tracks": 2
+  },
+  "musc": {
+    "name": "Music",
+    "slug": "musc",
+    "total_courses": 6,
+    "tracks": 2
+  },
+  "neur": {
+    "name": "Neuroscience",
+    "slug": "neur",
+    "total_courses": 79,
+    "tracks": 1
+  },
+  "phil": {
+    "name": "Philosophy",
+    "slug": "phil",
+    "total_courses": 21,
+    "tracks": 1
+  },
+  "phys": {
+    "name": "Physics",
+    "slug": "phys",
+    "total_courses": 58,
+    "tracks": 6
+  },
+  "phph": {
+    "name": "Physics and Philosophy",
+    "slug": "phph",
+    "total_courses": 31,
+    "tracks": 2
+  },
+  "pols": {
+    "name": "Political Science",
+    "slug": "pols",
+    "total_courses": 19,
+    "tracks": 1
+  },
+  "pobr": {
+    "name": "Portuguese and Brazilian Studies",
+    "slug": "pobr",
+    "total_courses": 4,
+    "tracks": 1
+  },
+  "psyc": {
+    "name": "Psychology",
+    "slug": "psyc",
+    "total_courses": 18,
+    "tracks": 4
+  },
+  "pubh": {
+    "name": "Public Health",
+    "slug": "pubh",
+    "total_courses": 54,
+    "tracks": 0
+  },
+  "rels": {
+    "name": "Religious Studies",
+    "slug": "rels",
+    "total_courses": 3,
+    "tracks": 0
+  },
+  "sts": {
+    "name": "Science, Technology, and Society",
+    "slug": "sts",
+    "total_courses": 2,
+    "tracks": 0
+  },
+  "slav": {
+    "name": "Slavic Studies",
+    "slug": "slav",
+    "total_courses": 44,
+    "tracks": 1
+  },
+  "sar": {
+    "name": "Social Analysis and Research",
+    "slug": "sar",
+    "total_courses": 32,
+    "tracks": 2
+  },
+  "soc": {
+    "name": "Sociology",
+    "slug": "soc",
+    "total_courses": 32,
+    "tracks": 2
+  },
+  "sast": {
+    "name": "South Asian Studies",
+    "slug": "sast",
+    "total_courses": 55,
+    "tracks": 1
+  },
+  "stat": {
+    "name": "Statistics",
+    "slug": "stat",
+    "total_courses": 61,
+    "tracks": 3
+  },
+  "taps": {
+    "name": "Theatre Arts and Performance Studies",
+    "slug": "taps",
+    "total_courses": 40,
+    "tracks": 3
+  },
+  "urbn": {
+    "name": "Urban Studies",
+    "slug": "urbn",
+    "total_courses": 100,
+    "tracks": 0
+  },
+  "visa": {
+    "name": "Visual Art",
+    "slug": "visa",
+    "total_courses": 8,
+    "tracks": 1
+  }
+}

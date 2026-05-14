@@ -1,0 +1,355 @@
+{
+  "concentration": "Music",
+  "slug": "musc",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/musc/",
+  "tracks": [
+    {
+      "id": "concentrating_in_music",
+      "name": "Concentrating in Music",
+      "groups": [
+        {
+          "name": "Music Theory",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in music theory, which may include one 400-level and one 500-level course, or two 500-level courses. 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0400A",
+                  "name": "MUSC 0400A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0400B",
+                  "name": "MUSC 0400B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0550",
+                  "name": "MUSC 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0560",
+                  "name": "MUSC 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0570",
+                  "name": "MUSC 0570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Music History and Culture",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in music history and culture, taken in different semesters. One must be a qualifying 1000-level course (or graduate seminar). The other could be any level course, including courses below the 0100 level\u00b9 (first-year seminars, etc.). 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "1000-Level Electives",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two additional 1000-level (or graduate-level) courses in music theory, production, and/or history and culture. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Additional Electives",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Four additional elective courses according to student interest. May include 1.) up to four half-credit courses in performance (AMP music instruction and/or Ensemble Participation), 2.)  one qualifying course outside of the department, 3.) one music course below the 0100 level\u00b9. 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0400A",
+            "name": "MUSC 0400A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0400B",
+            "name": "MUSC 0400B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0550",
+            "name": "MUSC 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0560",
+            "name": "MUSC 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0570",
+            "name": "MUSC 0570"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements_for_the_a_b__degree",
+      "name": "Requirements for the A.B. degree",
+      "groups": [
+        {
+          "name": "Music Theory",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in music theory, which may include one 400-level and one 500-level course, or two 500-level courses. 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0400A",
+                  "name": "MUSC 0400A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0400B",
+                  "name": "MUSC 0400B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0550",
+                  "name": "MUSC 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0560",
+                  "name": "MUSC 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0570",
+                  "name": "MUSC 0570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Music History and Culture",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in music history and culture, taken in different semesters. One must be a qualifying 1000-level course (or graduate seminar). The other could be any level course, including courses below the 0100 level\u00b9 (first-year seminars, etc.). 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "1000-Level Electives",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two additional 1000-level (or graduate-level) courses in music theory, production, and/or history and culture. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Additional Electives",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Four additional elective courses according to student interest. May include 1.) up to four half-credit courses in performance (AMP music instruction and/or Ensemble Participation), 2.)  one qualifying course outside of the department, 3.) one music course below the 0100 level\u00b9. 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0400A",
+            "name": "MUSC 0400A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0400B",
+            "name": "MUSC 0400B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0550",
+            "name": "MUSC 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0560",
+            "name": "MUSC 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0570",
+            "name": "MUSC 0570"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MUSC 0400A",
+      "name": "MUSC 0400A"
+    },
+    {
+      "code": "MUSC 0400B",
+      "name": "MUSC 0400B"
+    },
+    {
+      "code": "MUSC 0550",
+      "name": "MUSC 0550"
+    },
+    {
+      "code": "MUSC 0560",
+      "name": "MUSC 0560"
+    },
+    {
+      "code": "MUSC 0570",
+      "name": "MUSC 0570"
+    },
+    {
+      "code": "MUSC 1970",
+      "name": "MUSC 1970"
+    }
+  ]
+}

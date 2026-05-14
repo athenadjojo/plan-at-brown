@@ -1,0 +1,473 @@
+{
+  "concentration": "Archaeology and the Ancient World",
+  "slug": "aran",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/aran/",
+  "tracks": [
+    {
+      "id": "fieldwork_and_study_abroad",
+      "name": "Fieldwork and Study Abroad",
+      "groups": [
+        {
+          "name": "Classical Archaeology:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course in ancient Greek or Roman history, for example: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1210",
+                  "name": "CLAS 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1220",
+                  "name": "CLAS 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in either Ancient Greek or Latin, at a level beyond the first year of study, for example: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "GREK 0300/0400 Introduction to Greek Literature",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "LATN 0300/0400 Introduction to Latin Literature",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two courses in Mediterranean (prehistoric, Greek, Roman, medieval) archaeology and art, at the 1000 level (or above), for example: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1125",
+                  "name": "ARCH 1125"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1155",
+                  "name": "ARCH 1155"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1250",
+                  "name": "ARCH 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1765",
+                  "name": "ARCH 1765"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern OR focuses on a particular thematic topic pertaining to archaeology, for example: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1490",
+                  "name": "ARCH 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1515",
+                  "name": "ARCH 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1570",
+                  "name": "ARCH 1570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1710",
+                  "name": "ARCH 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One non-ARCH course which EITHER relates to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1210",
+            "name": "CLAS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1220",
+            "name": "CLAS 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1125",
+            "name": "ARCH 1125"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1155",
+            "name": "ARCH 1155"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1250",
+            "name": "ARCH 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1765",
+            "name": "ARCH 1765"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1490",
+            "name": "ARCH 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1515",
+            "name": "ARCH 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1570",
+            "name": "ARCH 1570"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1710",
+            "name": "ARCH 1710"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ARCH 0100",
+      "name": "ARCH 0100"
+    },
+    {
+      "code": "ANTH 0500",
+      "name": "ANTH 0500"
+    },
+    {
+      "code": "ARCH 1900",
+      "name": "ARCH 1900"
+    },
+    {
+      "code": "ARCH 0030",
+      "name": "ARCH 0030"
+    },
+    {
+      "code": "ARCH 0150",
+      "name": "ARCH 0150"
+    },
+    {
+      "code": "ARCH 0520",
+      "name": "ARCH 0520"
+    },
+    {
+      "code": "ARCH 0440",
+      "name": "ARCH 0440"
+    },
+    {
+      "code": "ARCH 0600",
+      "name": "ARCH 0600"
+    },
+    {
+      "code": "ARCH 1625",
+      "name": "ARCH 1625"
+    },
+    {
+      "code": "ARCH 0230",
+      "name": "ARCH 0230"
+    },
+    {
+      "code": "ARCH 0270",
+      "name": "ARCH 0270"
+    },
+    {
+      "code": "ARCH 0420",
+      "name": "ARCH 0420"
+    },
+    {
+      "code": "ARCH 0315",
+      "name": "ARCH 0315"
+    },
+    {
+      "code": "ARCH 0755",
+      "name": "ARCH 0755"
+    },
+    {
+      "code": "ARCH 1774",
+      "name": "ARCH 1774"
+    },
+    {
+      "code": "ARCH 0160",
+      "name": "ARCH 0160"
+    },
+    {
+      "code": "ARCH 0330",
+      "name": "ARCH 0330"
+    },
+    {
+      "code": "ARCH 0335",
+      "name": "ARCH 0335"
+    },
+    {
+      "code": "ANTH 1720",
+      "name": "ANTH 1720"
+    },
+    {
+      "code": "ARCH 1792",
+      "name": "ARCH 1792"
+    },
+    {
+      "code": "ARCH 1870",
+      "name": "ARCH 1870"
+    },
+    {
+      "code": "CLAS 1210",
+      "name": "CLAS 1210"
+    },
+    {
+      "code": "CLAS 1220",
+      "name": "CLAS 1220"
+    },
+    {
+      "code": "CLAS 1310",
+      "name": "CLAS 1310"
+    },
+    {
+      "code": "CLAS 1320",
+      "name": "CLAS 1320"
+    },
+    {
+      "code": "ARCH 1125",
+      "name": "ARCH 1125"
+    },
+    {
+      "code": "ARCH 1155",
+      "name": "ARCH 1155"
+    },
+    {
+      "code": "ARCH 1250",
+      "name": "ARCH 1250"
+    },
+    {
+      "code": "ARCH 1765",
+      "name": "ARCH 1765"
+    },
+    {
+      "code": "ARCH 1490",
+      "name": "ARCH 1490"
+    },
+    {
+      "code": "ARCH 1515",
+      "name": "ARCH 1515"
+    },
+    {
+      "code": "ARCH 1570",
+      "name": "ARCH 1570"
+    },
+    {
+      "code": "ARCH 1710",
+      "name": "ARCH 1710"
+    },
+    {
+      "code": "ARCH 1616",
+      "name": "ARCH 1616"
+    },
+    {
+      "code": "ARCH 1620",
+      "name": "ARCH 1620"
+    },
+    {
+      "code": "ARCH 1630",
+      "name": "ARCH 1630"
+    },
+    {
+      "code": "ARCH 1642",
+      "name": "ARCH 1642"
+    },
+    {
+      "code": "ARCH 0340",
+      "name": "ARCH 0340"
+    },
+    {
+      "code": "ARCH 1170",
+      "name": "ARCH 1170"
+    },
+    {
+      "code": "ARCH 1178",
+      "name": "ARCH 1178"
+    },
+    {
+      "code": "ARCH 1970",
+      "name": "ARCH 1970"
+    },
+    {
+      "code": "ARCH 1990",
+      "name": "ARCH 1990"
+    }
+  ]
+}

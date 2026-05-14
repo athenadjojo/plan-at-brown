@@ -1,0 +1,20 @@
+{
+  "concentration": "Ethnic Studies",
+  "slug": "eths",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/eths/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "ETHN 1000",
+      "name": "ETHN 1000"
+    },
+    {
+      "code": "AMST 1800",
+      "name": "AMST 1800"
+    },
+    {
+      "code": "ETHN 1920",
+      "name": "ETHN 1920"
+    }
+  ]
+}

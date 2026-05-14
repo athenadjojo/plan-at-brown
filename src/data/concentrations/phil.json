@@ -1,0 +1,524 @@
+{
+  "concentration": "Philosophy",
+  "slug": "phil",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/phil/",
+  "tracks": [
+    {
+      "id": "standard_concentration",
+      "name": "Standard Concentration",
+      "groups": [
+        {
+          "name": "Five Area Requirements:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One course in Ancient Philosophy, e.g. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0110",
+                  "name": "PHIL 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1110",
+                  "name": "PHIL 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1120",
+                  "name": "PHIL 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Early Modern Philosophy, e.g. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0210",
+                  "name": "PHIL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1210",
+                  "name": "PHIL 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1220",
+                  "name": "PHIL 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1230",
+                  "name": "PHIL 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Epistemology or Metaphysics, e.g. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1735",
+                  "name": "PHIL 1735"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1705",
+                  "name": "PHIL 1705"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1800",
+                  "name": "PHIL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1850",
+                  "name": "PHIL 1850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Ethics or Political Philosophy, e.g. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0410",
+                  "name": "PHIL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0560",
+                  "name": "PHIL 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1470",
+                  "name": "PHIL 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1430",
+                  "name": "PHIL 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1440",
+                  "name": "PHIL 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Logic, e.g. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0640",
+                  "name": "PHIL 0640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1630",
+                  "name": "PHIL 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1635",
+                  "name": "PHIL 1635"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Seminar: either an undergraduate seminar from the 099X series, a course numbered 1XXX that is designated as a seminar, or a graduate seminar numbered 2XXX. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Four additional courses 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0110",
+            "name": "PHIL 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1110",
+            "name": "PHIL 1110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1120",
+            "name": "PHIL 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0210",
+            "name": "PHIL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1210",
+            "name": "PHIL 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1220",
+            "name": "PHIL 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1230",
+            "name": "PHIL 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1735",
+            "name": "PHIL 1735"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1705",
+            "name": "PHIL 1705"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1800",
+            "name": "PHIL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1850",
+            "name": "PHIL 1850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0410",
+            "name": "PHIL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0560",
+            "name": "PHIL 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1470",
+            "name": "PHIL 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1430",
+            "name": "PHIL 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1440",
+            "name": "PHIL 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0640",
+            "name": "PHIL 0640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1630",
+            "name": "PHIL 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1635",
+            "name": "PHIL 1635"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "PHIL 0110",
+      "name": "PHIL 0110"
+    },
+    {
+      "code": "PHIL 1110",
+      "name": "PHIL 1110"
+    },
+    {
+      "code": "PHIL 1120",
+      "name": "PHIL 1120"
+    },
+    {
+      "code": "PHIL 0210",
+      "name": "PHIL 0210"
+    },
+    {
+      "code": "PHIL 1210",
+      "name": "PHIL 1210"
+    },
+    {
+      "code": "PHIL 1220",
+      "name": "PHIL 1220"
+    },
+    {
+      "code": "PHIL 1230",
+      "name": "PHIL 1230"
+    },
+    {
+      "code": "PHIL 1735",
+      "name": "PHIL 1735"
+    },
+    {
+      "code": "PHIL 1705",
+      "name": "PHIL 1705"
+    },
+    {
+      "code": "PHIL 1800",
+      "name": "PHIL 1800"
+    },
+    {
+      "code": "PHIL 1850",
+      "name": "PHIL 1850"
+    },
+    {
+      "code": "PHIL 0410",
+      "name": "PHIL 0410"
+    },
+    {
+      "code": "PHIL 0560",
+      "name": "PHIL 0560"
+    },
+    {
+      "code": "PHIL 1470",
+      "name": "PHIL 1470"
+    },
+    {
+      "code": "PHIL 1430",
+      "name": "PHIL 1430"
+    },
+    {
+      "code": "PHIL 1440",
+      "name": "PHIL 1440"
+    },
+    {
+      "code": "PHIL 0640",
+      "name": "PHIL 0640"
+    },
+    {
+      "code": "PHIL 1630",
+      "name": "PHIL 1630"
+    },
+    {
+      "code": "PHIL 1635",
+      "name": "PHIL 1635"
+    },
+    {
+      "code": "PHIL 1995",
+      "name": "PHIL 1995"
+    },
+    {
+      "code": "PHIL 1990",
+      "name": "PHIL 1990"
+    }
+  ]
+}

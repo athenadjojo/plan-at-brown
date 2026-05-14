@@ -1,0 +1,638 @@
+{
+  "concentration": "Applied Mathematics",
+  "slug": "apma",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/apma/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree_",
+      "name": "Standard program for the A.B. degree.",
+      "groups": [
+        {
+          "name": "Prerequisites - the equivalent of two semesters of single-variable calculus",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                },
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                },
+                {
+                  "code": "MATH 0170",
+                  "name": "MATH 0170"
+                },
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Requirements - 10 courses 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0365",
+                  "name": "APMA 0365"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor. 5 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Three 1000-level or higher APMA courses. 6 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "One 1000-level or higher APMA or MATH course. 6 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One pre-approved 1000-level STEM course, or an alternative approved by the concentration advisor. 7 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0090",
+              "name": "MATH 0090"
+            },
+            {
+              "code": "MATH 0100",
+              "name": "MATH 0100"
+            },
+            {
+              "code": "MATH 0170",
+              "name": "MATH 0170"
+            },
+            {
+              "code": "MATH 0190",
+              "name": "MATH 0190"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "MATH 0540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0365",
+            "name": "APMA 0365"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__degree_",
+      "name": "Standard program for the Sc.B. degree.",
+      "groups": [
+        {
+          "name": "Prerequisites - the equivalent of two semesters of single-variable calculus",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                },
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                },
+                {
+                  "code": "MATH 0170",
+                  "name": "MATH 0170"
+                },
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Requirements - 16 courses 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0365",
+                  "name": "APMA 0365"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor. 5 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Four 1000-level or higher APMA courses. 6 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Two 1000-level or higher APMA or MATH courses. 6 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Four pre-approved 1000-level STEM courses, or alternatives approved by the concentration advisor. 7 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor. 8 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0090",
+              "name": "MATH 0090"
+            },
+            {
+              "code": "MATH 0100",
+              "name": "MATH 0100"
+            },
+            {
+              "code": "MATH 0170",
+              "name": "MATH 0170"
+            },
+            {
+              "code": "MATH 0190",
+              "name": "MATH 0190"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "MATH 0540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0365",
+            "name": "APMA 0365"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "APMA 0355",
+      "name": "APMA 0355"
+    },
+    {
+      "code": "APMA 0365",
+      "name": "APMA 0365"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "MATH 1110",
+      "name": "MATH 1110"
+    },
+    {
+      "code": "APMA 0330",
+      "name": "APMA 0330"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "MATH 1120",
+      "name": "MATH 1120"
+    },
+    {
+      "code": "APMA 0340",
+      "name": "APMA 0340"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 0200",
+      "name": "APMA 0200"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0112",
+      "name": "CSCI 0112"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "CSCI 0200",
+      "name": "CSCI 0200"
+    },
+    {
+      "code": "CPSY 0950",
+      "name": "CPSY 0950"
+    },
+    {
+      "code": "EEPS 0250",
+      "name": "EEPS 0250"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "APMA 1910",
+      "name": "APMA 1910"
+    },
+    {
+      "code": "APMA 1000",
+      "name": "APMA 1000"
+    },
+    {
+      "code": "MATH 1000",
+      "name": "MATH 1000"
+    },
+    {
+      "code": "MATH 1001",
+      "name": "MATH 1001"
+    },
+    {
+      "code": "CSCI 1450",
+      "name": "CSCI 1450"
+    },
+    {
+      "code": "MATH 1210",
+      "name": "MATH 1210"
+    },
+    {
+      "code": "MATH 1610",
+      "name": "MATH 1610"
+    },
+    {
+      "code": "APMA 1360",
+      "name": "APMA 1360"
+    },
+    {
+      "code": "APMA 1970",
+      "name": "APMA 1970"
+    },
+    {
+      "code": "APMA 1971",
+      "name": "APMA 1971"
+    }
+  ]
+}

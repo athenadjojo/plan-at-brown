@@ -1,0 +1,283 @@
+{
+  "concentration": "Political Science",
+  "slug": "pols",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/pols/",
+  "tracks": [
+    {
+      "id": "requirements_",
+      "name": "Requirements:",
+      "groups": [
+        {
+          "name": "Two introductory courses from the following: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0010",
+                  "name": "POLS 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0110",
+                  "name": "POLS 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0200",
+                  "name": "POLS 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0400",
+                  "name": "POLS 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in Political Theory taught by a Political Science theory professor 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One methods course from Political Science: 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0500",
+                  "name": "POLS 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1600",
+                  "name": "POLS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "POLS 1970",
+                  "name": "POLS 1970"
+                },
+                {
+                  "code": "POLS 1971",
+                  "name": "1971"
+                },
+                {
+                  "code": "POLS 1910",
+                  "name": "POLS 1910"
+                },
+                {
+                  "code": "POLS 1920",
+                  "name": "1920"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five additional courses from within Political Science and/or taught by a Political Science faculty member 1 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0010",
+            "name": "POLS 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0110",
+            "name": "POLS 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0200",
+            "name": "POLS 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0400",
+            "name": "POLS 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0500",
+            "name": "POLS 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1600",
+            "name": "POLS 1600"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "POLS 1970",
+              "name": "POLS 1970"
+            },
+            {
+              "code": "POLS 1971",
+              "name": "1971"
+            },
+            {
+              "code": "POLS 1910",
+              "name": "POLS 1910"
+            },
+            {
+              "code": "POLS 1920",
+              "name": "1920"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "POLS 0010",
+      "name": "POLS 0010"
+    },
+    {
+      "code": "POLS 0110",
+      "name": "POLS 0110"
+    },
+    {
+      "code": "POLS 0200",
+      "name": "POLS 0200"
+    },
+    {
+      "code": "POLS 0400",
+      "name": "POLS 0400"
+    },
+    {
+      "code": "POLS 0500",
+      "name": "POLS 0500"
+    },
+    {
+      "code": "POLS 1600",
+      "name": "POLS 1600"
+    },
+    {
+      "code": "POLS 1970",
+      "name": "POLS 1970"
+    },
+    {
+      "code": "POLS 1971",
+      "name": "1971"
+    },
+    {
+      "code": "POLS 1910",
+      "name": "POLS 1910"
+    },
+    {
+      "code": "POLS 1920",
+      "name": "1920"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "ANTH 1940",
+      "name": "ANTH 1940"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "ECON 1630",
+      "name": "ECON 1630"
+    },
+    {
+      "code": "EEPS 1320",
+      "name": "EEPS 1320"
+    },
+    {
+      "code": "STAT 1501",
+      "name": "STAT 1501"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "SOC 1120",
+      "name": "SOC 1120"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "concentration": "Judaic Studies",
+  "slug": "juds",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/juds/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "HEBR 0100",
+      "name": "HEBR 0100"
+    },
+    {
+      "code": "HEBR 0200",
+      "name": "HEBR 0200"
+    },
+    {
+      "code": "HEBR 0300",
+      "name": "HEBR 0300"
+    },
+    {
+      "code": "HEBR 0400",
+      "name": "HEBR 0400"
+    },
+    {
+      "code": "HEBR 0500",
+      "name": "HEBR 0500"
+    },
+    {
+      "code": "HEBR 0600",
+      "name": "HEBR 0600"
+    }
+  ]
+}

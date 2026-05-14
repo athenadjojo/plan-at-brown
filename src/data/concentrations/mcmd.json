@@ -1,0 +1,530 @@
+{
+  "concentration": "Modern Culture and Media",
+  "slug": "mcmd",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/mcmd/",
+  "tracks": [
+    {
+      "id": "theory_based",
+      "name": "Theory Based",
+      "groups": [
+        {
+          "name": "Core courses",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0150",
+                  "name": "MCM 0150"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two of the following: 1 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0220",
+                  "name": "MCM 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0230",
+                  "name": "MCM 0230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0240",
+                  "name": "MCM 0240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0250",
+                  "name": "MCM 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0260",
+                  "name": "MCM 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 1110",
+                  "name": "MCM 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Additional courses 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "One must be an upper level course from the MCM 1200 series",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two must be senior seminars from the MCM 1500 or MCM 1700 series",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0260",
+                  "name": "MCM 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three additional courses. These courses must be in MCM or in related departments. 2 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0150",
+            "name": "MCM 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0220",
+            "name": "MCM 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0230",
+            "name": "MCM 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0240",
+            "name": "MCM 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0250",
+            "name": "MCM 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0260",
+            "name": "MCM 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 1110",
+            "name": "MCM 1110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0260",
+            "name": "MCM 0260"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "practice_based",
+      "name": "Practice Based",
+      "groups": [
+        {
+          "name": "Two core courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0150",
+                  "name": "MCM 0150"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one MCM Introductory Practice course (MCM0700 series). Introductory practice courses in other disciplines may fulfill this requirement and should be selected in consultation with the concentration advisor. Possible disciplines include Literary Arts, Music, Theatre Arts and Performance Studies, Visual Art. 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0700A",
+                  "name": "MCM 0700A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0710A",
+                  "name": "MCM 0710A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0730A",
+                  "name": "MCM 0730A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0750A",
+                  "name": "MCM 0750A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional course from the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0220",
+                  "name": "MCM 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0230",
+                  "name": "MCM 0230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0240",
+                  "name": "MCM 0240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0250",
+                  "name": "MCM 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 0260",
+                  "name": "MCM 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 1110",
+                  "name": "MCM 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three additional courses from the MCM 1200 or MCM 1500 series 1 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Four practice courses selected in consultation with an advisor. 2 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "One Senior Seminar from the MCM 1700 series or other equivalent in production 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0150",
+            "name": "MCM 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0700A",
+            "name": "MCM 0700A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0710A",
+            "name": "MCM 0710A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0730A",
+            "name": "MCM 0730A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0750A",
+            "name": "MCM 0750A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0220",
+            "name": "MCM 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0230",
+            "name": "MCM 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0240",
+            "name": "MCM 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0250",
+            "name": "MCM 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 0260",
+            "name": "MCM 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 1110",
+            "name": "MCM 1110"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MCM 0150",
+      "name": "MCM 0150"
+    },
+    {
+      "code": "MCM 0220",
+      "name": "MCM 0220"
+    },
+    {
+      "code": "MCM 0230",
+      "name": "MCM 0230"
+    },
+    {
+      "code": "MCM 0240",
+      "name": "MCM 0240"
+    },
+    {
+      "code": "MCM 0250",
+      "name": "MCM 0250"
+    },
+    {
+      "code": "MCM 0260",
+      "name": "MCM 0260"
+    },
+    {
+      "code": "MCM 1110",
+      "name": "MCM 1110"
+    },
+    {
+      "code": "MCM 0700A",
+      "name": "MCM 0700A"
+    },
+    {
+      "code": "MCM 0710A",
+      "name": "MCM 0710A"
+    },
+    {
+      "code": "MCM 0730A",
+      "name": "MCM 0730A"
+    },
+    {
+      "code": "MCM 0750A",
+      "name": "MCM 0750A"
+    },
+    {
+      "code": "MCM 1980",
+      "name": "MCM 1980"
+    },
+    {
+      "code": "MCM 1990",
+      "name": "MCM 1990"
+    }
+  ]
+}

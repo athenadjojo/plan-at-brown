@@ -1,0 +1,1303 @@
+{
+  "concentration": "Theatre Arts and Performance Studies",
+  "slug": "taps",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/taps/",
+  "tracks": [
+    {
+      "id": "theatre_arts_track",
+      "name": "Theatre Arts Track",
+      "groups": [
+        {
+          "name": "Basic Theatre Arts Track Requirements -- 10 Credits",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0700",
+                  "name": "TAPS 0700"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0230",
+                  "name": "TAPS 0230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0220",
+                  "name": "TAPS 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0250",
+                  "name": "TAPS 0250"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1230",
+                  "name": "TAPS 1230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1240",
+                  "name": "TAPS 1240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1250",
+                  "name": "TAPS 1250"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Theatre Studies electives: 4 elective courses, one of which must be theory, history, or literature chosen in consultation with the advisor according to the area of interest (i.e., acting, direction, playwriting, design/technical theatre). Additionally, following consultation with the advisor, one of the electives may be taken outside the TAPS department. 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0700",
+            "name": "TAPS 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0230",
+            "name": "TAPS 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0220",
+            "name": "TAPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0250",
+            "name": "TAPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1230",
+            "name": "TAPS 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1240",
+            "name": "TAPS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1250",
+            "name": "TAPS 1250"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "performance_studies_track",
+      "name": "Performance Studies Track",
+      "groups": [
+        {
+          "name": "Basic Performance Studies Track Requirements -- 10 credits",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0700",
+                  "name": "TAPS 0700"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three of the following courses: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1230",
+                  "name": "TAPS 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1240",
+                  "name": "TAPS 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1250",
+                  "name": "TAPS 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1280Y",
+                  "name": "TAPS 1280Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two primarily academic courses from within the Department with Performance Studies content to be selected with your advisor, such as (but not limited to): 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0800I",
+                  "name": "TAPS 0800I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1280E",
+                  "name": "TAPS 1280E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281G",
+                  "name": "TAPS 1281G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281O",
+                  "name": "TAPS 1281O"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281Q",
+                  "name": "TAPS 1281Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1425",
+                  "name": "TAPS 1425"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1500P",
+                  "name": "TAPS 1500P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1600",
+                  "name": "TAPS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1670",
+                  "name": "TAPS 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two full-credit courses based in performance craft in either Dance, Acting, Directing, Playwriting, Speech, Design, Literary Arts, Visual Arts, Music, or Africana Studies approved by the concentration advisor. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two additional courses in the academic study of performance and performance culture(s) from either within TAPS or throughout the University in consultation with the advisor. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0700",
+            "name": "TAPS 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1230",
+            "name": "TAPS 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1240",
+            "name": "TAPS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1250",
+            "name": "TAPS 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1280Y",
+            "name": "TAPS 1280Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0800I",
+            "name": "TAPS 0800I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1280E",
+            "name": "TAPS 1280E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281G",
+            "name": "TAPS 1281G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281O",
+            "name": "TAPS 1281O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281Q",
+            "name": "TAPS 1281Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1425",
+            "name": "TAPS 1425"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1500P",
+            "name": "TAPS 1500P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1600",
+            "name": "TAPS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1670",
+            "name": "TAPS 1670"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "dance_track",
+      "name": "Dance Track",
+      "groups": [
+        {
+          "name": "Basic Dance Track Requirements -- 10 credits",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0700",
+                  "name": "TAPS 0700"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Critical Topics and Global Perspectives - three courses.  Students should work with their advisor to ensure their courses offer theoretical and geographic breadth.  Courses could include, for example: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1230",
+                  "name": "TAPS 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1240",
+                  "name": "TAPS 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1250",
+                  "name": "TAPS 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281G",
+                  "name": "TAPS 1281G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281Q",
+                  "name": "TAPS 1281Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1330",
+                  "name": "TAPS 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1425",
+                  "name": "TAPS 1425"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1670",
+                  "name": "TAPS 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Techniques of the Body - two courses selected in consultation with an advisor, such as the following: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0310",
+                  "name": "TAPS 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0330",
+                  "name": "TAPS 0330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0930C",
+                  "name": "TAPS 0930C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1000",
+                  "name": "TAPS 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1340",
+                  "name": "TAPS 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1341",
+                  "name": "TAPS 1341"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1342",
+                  "name": "TAPS 1342"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1343",
+                  "name": "TAPS 1343"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1344",
+                  "name": "TAPS 1344"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1348",
+                  "name": "TAPS 1348"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1390",
+                  "name": "TAPS 1390"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Directing/Compositional Strategies - two courses selected in consultation with an advisor from courses such as the following: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0320",
+                  "name": "TAPS 0320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0360",
+                  "name": "TAPS 0360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281E",
+                  "name": "TAPS 1281E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1320",
+                  "name": "TAPS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Design or Production - one course selected in consultation with an advisor from the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0250",
+                  "name": "TAPS 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 0260",
+                  "name": "TAPS 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1100",
+                  "name": "TAPS 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1251C",
+                  "name": "TAPS 1251C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1280F",
+                  "name": "TAPS 1280F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281A",
+                  "name": "TAPS 1281A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1281M",
+                  "name": "TAPS 1281M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TAPS 1300",
+                  "name": "TAPS 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional TAPS elective 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0700",
+            "name": "TAPS 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1230",
+            "name": "TAPS 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1240",
+            "name": "TAPS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1250",
+            "name": "TAPS 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281G",
+            "name": "TAPS 1281G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281Q",
+            "name": "TAPS 1281Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1330",
+            "name": "TAPS 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1425",
+            "name": "TAPS 1425"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1670",
+            "name": "TAPS 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0310",
+            "name": "TAPS 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0330",
+            "name": "TAPS 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0930C",
+            "name": "TAPS 0930C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1000",
+            "name": "TAPS 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1340",
+            "name": "TAPS 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1341",
+            "name": "TAPS 1341"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1342",
+            "name": "TAPS 1342"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1343",
+            "name": "TAPS 1343"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1344",
+            "name": "TAPS 1344"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1348",
+            "name": "TAPS 1348"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1390",
+            "name": "TAPS 1390"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0320",
+            "name": "TAPS 0320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0360",
+            "name": "TAPS 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281E",
+            "name": "TAPS 1281E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1320",
+            "name": "TAPS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0250",
+            "name": "TAPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 0260",
+            "name": "TAPS 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1100",
+            "name": "TAPS 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1251C",
+            "name": "TAPS 1251C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1280F",
+            "name": "TAPS 1280F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281A",
+            "name": "TAPS 1281A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1281M",
+            "name": "TAPS 1281M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TAPS 1300",
+            "name": "TAPS 1300"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "TAPS 0700",
+      "name": "TAPS 0700"
+    },
+    {
+      "code": "TAPS 0230",
+      "name": "TAPS 0230"
+    },
+    {
+      "code": "TAPS 0220",
+      "name": "TAPS 0220"
+    },
+    {
+      "code": "TAPS 0250",
+      "name": "TAPS 0250"
+    },
+    {
+      "code": "TAPS 1230",
+      "name": "TAPS 1230"
+    },
+    {
+      "code": "TAPS 1240",
+      "name": "TAPS 1240"
+    },
+    {
+      "code": "TAPS 1250",
+      "name": "TAPS 1250"
+    },
+    {
+      "code": "TAPS 1280Y",
+      "name": "TAPS 1280Y"
+    },
+    {
+      "code": "TAPS 0800I",
+      "name": "TAPS 0800I"
+    },
+    {
+      "code": "TAPS 1280E",
+      "name": "TAPS 1280E"
+    },
+    {
+      "code": "TAPS 1281G",
+      "name": "TAPS 1281G"
+    },
+    {
+      "code": "TAPS 1281O",
+      "name": "TAPS 1281O"
+    },
+    {
+      "code": "TAPS 1281Q",
+      "name": "TAPS 1281Q"
+    },
+    {
+      "code": "TAPS 1425",
+      "name": "TAPS 1425"
+    },
+    {
+      "code": "TAPS 1500P",
+      "name": "TAPS 1500P"
+    },
+    {
+      "code": "TAPS 1600",
+      "name": "TAPS 1600"
+    },
+    {
+      "code": "TAPS 1670",
+      "name": "TAPS 1670"
+    },
+    {
+      "code": "TAPS 1330",
+      "name": "TAPS 1330"
+    },
+    {
+      "code": "TAPS 0310",
+      "name": "TAPS 0310"
+    },
+    {
+      "code": "TAPS 0330",
+      "name": "TAPS 0330"
+    },
+    {
+      "code": "TAPS 0930C",
+      "name": "TAPS 0930C"
+    },
+    {
+      "code": "TAPS 1000",
+      "name": "TAPS 1000"
+    },
+    {
+      "code": "TAPS 1340",
+      "name": "TAPS 1340"
+    },
+    {
+      "code": "TAPS 1341",
+      "name": "TAPS 1341"
+    },
+    {
+      "code": "TAPS 1342",
+      "name": "TAPS 1342"
+    },
+    {
+      "code": "TAPS 1343",
+      "name": "TAPS 1343"
+    },
+    {
+      "code": "TAPS 1344",
+      "name": "TAPS 1344"
+    },
+    {
+      "code": "TAPS 1348",
+      "name": "TAPS 1348"
+    },
+    {
+      "code": "TAPS 1390",
+      "name": "TAPS 1390"
+    },
+    {
+      "code": "TAPS 0320",
+      "name": "TAPS 0320"
+    },
+    {
+      "code": "TAPS 0360",
+      "name": "TAPS 0360"
+    },
+    {
+      "code": "TAPS 1281E",
+      "name": "TAPS 1281E"
+    },
+    {
+      "code": "TAPS 1320",
+      "name": "TAPS 1320"
+    },
+    {
+      "code": "TAPS 0260",
+      "name": "TAPS 0260"
+    },
+    {
+      "code": "TAPS 1100",
+      "name": "TAPS 1100"
+    },
+    {
+      "code": "TAPS 1251C",
+      "name": "TAPS 1251C"
+    },
+    {
+      "code": "TAPS 1280F",
+      "name": "TAPS 1280F"
+    },
+    {
+      "code": "TAPS 1281A",
+      "name": "TAPS 1281A"
+    },
+    {
+      "code": "TAPS 1281M",
+      "name": "TAPS 1281M"
+    },
+    {
+      "code": "TAPS 1300",
+      "name": "TAPS 1300"
+    }
+  ]
+}

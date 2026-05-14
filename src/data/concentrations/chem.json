@@ -1,0 +1,1616 @@
+{
+  "concentration": "Chemistry",
+  "slug": "chem",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/chem/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree",
+      "name": "Standard program for the A.B. degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0360",
+              "name": "CHEM 0360"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0600",
+              "name": "CHEM 0600"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 1140",
+              "name": "CHEM 1140"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 1150",
+              "name": "CHEM 1150"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 1160",
+              "name": "CHEM 1160"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One upper level CHEM elective. 2 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0600",
+            "name": "CHEM 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0360",
+              "name": "CHEM 0360"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0370",
+              "name": "CHEM 0370"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0600",
+              "name": "CHEM 0600"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0981",
+                  "name": "CHEM 0981"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1140",
+                  "name": "CHEM 1140"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1160",
+                  "name": "CHEM 1160"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Six electives (at least three must be upper level CHEM courses) 3 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0370",
+            "name": "CHEM 0370"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0600",
+            "name": "CHEM 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0981",
+            "name": "CHEM 0981"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_chemistry_",
+      "name": "ScB Chemistry:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0360",
+              "name": "CHEM 0360"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0370",
+              "name": "CHEM 0370"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0600",
+              "name": "CHEM 0600"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0981",
+                  "name": "CHEM 0981"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1140",
+                  "name": "CHEM 1140"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1160",
+                  "name": "CHEM 1160"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Six electives (at least three must be upper level CHEM courses) 3 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0370",
+            "name": "CHEM 0370"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0600",
+            "name": "CHEM 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0981",
+            "name": "CHEM 0981"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1160",
+            "name": "CHEM 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_chemistry___chemical_biology_track_",
+      "name": "ScB Chemistry - Chemical Biology Track:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0360",
+              "name": "CHEM 0360"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0400",
+              "name": "CHEM 0400"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0600",
+              "name": "CHEM 0600"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0981",
+                  "name": "CHEM 0981"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1140",
+                  "name": "CHEM 1140"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1230",
+                  "name": "CHEM 1230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1240",
+                  "name": "CHEM 1240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Select three of the following: 3 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0500",
+                  "name": "BIOL 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0510",
+                  "name": "BIOL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two other electives 4 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0400",
+            "name": "CHEM 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0600",
+            "name": "CHEM 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0981",
+            "name": "CHEM 0981"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1230",
+            "name": "CHEM 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1240",
+            "name": "CHEM 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0500",
+            "name": "BIOL 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0510",
+            "name": "BIOL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_chemistry___materials_chemistry_track_",
+      "name": "ScB Chemistry - Materials Chemistry Track:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0330",
+              "name": "CHEM 0330"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0350",
+              "name": "CHEM 0350"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0360",
+              "name": "CHEM 0360"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0500",
+              "name": "CHEM 0500"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "CHEM 0600",
+              "name": "CHEM 0600"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two semesters of independent study: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0980",
+                  "name": "CHEM 0980"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0981",
+                  "name": "CHEM 0981"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1060",
+                  "name": "CHEM 1060"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1140",
+                  "name": "CHEM 1140"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1150",
+                  "name": "CHEM 1150"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1700",
+                  "name": "CHEM 1700"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 5 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One of the following courses 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 1560S",
+                  "name": "CHEM 1560S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1090",
+                  "name": "BIOL 1090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1120",
+                  "name": "BIOL 1120/"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1140",
+                  "name": "BIOL 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1470",
+                  "name": "ENGN 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1200",
+                  "name": "ENGN 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four electives, at least two must be upper level CHEM courses. 4 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0500",
+            "name": "CHEM 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0600",
+            "name": "CHEM 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0980",
+            "name": "CHEM 0980"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0981",
+            "name": "CHEM 0981"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1060",
+            "name": "CHEM 1060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1140",
+            "name": "CHEM 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1150",
+            "name": "CHEM 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1700",
+            "name": "CHEM 1700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 1560S",
+            "name": "CHEM 1560S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1090",
+            "name": "BIOL 1090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1120",
+            "name": "BIOL 1120/"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1140",
+            "name": "BIOL 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1470",
+            "name": "ENGN 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1200",
+            "name": "ENGN 1200"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "CHEM 0360",
+      "name": "CHEM 0360"
+    },
+    {
+      "code": "CHEM 0500",
+      "name": "CHEM 0500"
+    },
+    {
+      "code": "CHEM 0600",
+      "name": "CHEM 0600"
+    },
+    {
+      "code": "CHEM 1140",
+      "name": "CHEM 1140"
+    },
+    {
+      "code": "CHEM 1150",
+      "name": "CHEM 1150"
+    },
+    {
+      "code": "CHEM 1160",
+      "name": "CHEM 1160"
+    },
+    {
+      "code": "BIOL 0280",
+      "name": "BIOL 0280"
+    },
+    {
+      "code": "CHEM 0980",
+      "name": "CHEM 0980"
+    },
+    {
+      "code": "CHEM 0981",
+      "name": "CHEM 0981"
+    },
+    {
+      "code": "CHEM 0370",
+      "name": "CHEM 0370"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "CHEM 0400",
+      "name": "CHEM 0400"
+    },
+    {
+      "code": "CHEM 1230",
+      "name": "CHEM 1230"
+    },
+    {
+      "code": "CHEM 1240",
+      "name": "CHEM 1240"
+    },
+    {
+      "code": "BIOL 0470",
+      "name": "BIOL 0470"
+    },
+    {
+      "code": "BIOL 0500",
+      "name": "BIOL 0500"
+    },
+    {
+      "code": "BIOL 0510",
+      "name": "BIOL 0510"
+    },
+    {
+      "code": "BIOL 0530",
+      "name": "BIOL 0530"
+    },
+    {
+      "code": "BIOL 0800",
+      "name": "BIOL 0800"
+    },
+    {
+      "code": "NEUR 1020",
+      "name": "NEUR 1020"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "CHEM 1060",
+      "name": "CHEM 1060"
+    },
+    {
+      "code": "CHEM 1700",
+      "name": "CHEM 1700"
+    },
+    {
+      "code": "CHEM 1560S",
+      "name": "CHEM 1560S"
+    },
+    {
+      "code": "BIOL 1090",
+      "name": "BIOL 1090"
+    },
+    {
+      "code": "BIOL 1120",
+      "name": "BIOL 1120/"
+    },
+    {
+      "code": "BIOL 1140",
+      "name": "BIOL 1140"
+    },
+    {
+      "code": "ENGN 1470",
+      "name": "ENGN 1470"
+    },
+    {
+      "code": "ENGN 1200",
+      "name": "ENGN 1200"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "PHYS 0030",
+      "name": "PHYS 0030"
+    },
+    {
+      "code": "ENGN 0410",
+      "name": "ENGN 0410"
+    },
+    {
+      "code": "ENGN 0720",
+      "name": "ENGN 0720"
+    }
+  ]
+}

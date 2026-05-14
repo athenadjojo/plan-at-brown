@@ -1,0 +1,16 @@
+{
+  "concentration": "Science, Technology, and Society",
+  "slug": "sts",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/sts/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "STS 1000",
+      "name": "STS 1000"
+    },
+    {
+      "code": "STS 1900",
+      "name": "STS 1900"
+    }
+  ]
+}

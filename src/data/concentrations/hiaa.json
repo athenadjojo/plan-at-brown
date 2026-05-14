@@ -1,0 +1,1552 @@
+{
+  "concentration": "History of Art and Architecture",
+  "slug": "hiaa",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/hiaa/",
+  "tracks": [
+    {
+      "id": "history_of_art_and_architecture_requirements",
+      "name": "History of Art and Architecture Requirements",
+      "groups": [
+        {
+          "name": "3 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage three different geographies (Africa, Americas, Asia, Europe, the Islamic World, Multiple Regions)   2 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage two different periods (Ancient-Medieval, Early Modern, Modern-Contemporary, Multiple Periods) 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "Temporal Periods",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Ancient/Medieval:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0022",
+                  "name": "HIAA 0022"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0024",
+                  "name": "HIAA 0024"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0032",
+                  "name": "HIAA 0032"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0322",
+                  "name": "HIAA 0322"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Early Modern:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0063",
+                  "name": "HIAA 0063"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0660",
+                  "name": "HIAA 0660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Modern/Contemporary:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0070",
+                  "name": "HIAA 0070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0072",
+                  "name": "HIAA 0072"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0075",
+                  "name": "HIAA 0075"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0077",
+                  "name": "HIAA 0077"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0084",
+                  "name": "HIAA 0084"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0087",
+                  "name": "HIAA 0087"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0089",
+                  "name": "HIAA 0089"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0090",
+                  "name": "HIAA 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0820",
+                  "name": "HIAA 0820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0850",
+                  "name": "HIAA 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0860",
+                  "name": "HIAA 0860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0861",
+                  "name": "HIAA 0861"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Multiple Periods:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0023",
+                  "name": "HIAA 0023"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0010",
+                  "name": "HIAA 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0081",
+                  "name": "HIAA 0081"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0770",
+                  "name": "HIAA 0770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Geographic Regions:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Africa:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0770",
+                  "name": "HIAA 0770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Americas:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0070",
+                  "name": "HIAA 0070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0072",
+                  "name": "HIAA 0072"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0089",
+                  "name": "HIAA 0089"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Asia:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0022",
+                  "name": "HIAA 0022"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0023",
+                  "name": "HIAA 0023"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Europe:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0032",
+                  "name": "HIAA 0032"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0075",
+                  "name": "HIAA 0075"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0077",
+                  "name": "HIAA 0077"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Multiple Regions:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0041",
+                  "name": "HIAA 0041"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0081",
+                  "name": "HIAA 0081"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0084",
+                  "name": "HIAA 0084"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0087",
+                  "name": "HIAA 0087"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0090",
+                  "name": "HIAA 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0322",
+                  "name": "HIAA 0322"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0820",
+                  "name": "HIAA 0820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0850",
+                  "name": "HIAA 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0860",
+                  "name": "HIAA 0860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1931",
+                  "name": "HIAA 1931"
+                }
+              ],
+              "count": 3,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1181",
+                  "name": "HIAA 1181"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1201",
+                  "name": "HIAA 1201"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1202",
+                  "name": "HIAA 1202"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1212",
+                  "name": "HIAA 1212"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1213",
+                  "name": "HIAA 1213"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1305",
+                  "name": "HIAA 1305"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1307",
+                  "name": "HIAA 1307"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1308",
+                  "name": "HIAA 1308"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1620",
+                  "name": "HIAA 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1720",
+                  "name": "HIAA 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1771",
+                  "name": "HIAA 1771"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1810",
+                  "name": "HIAA 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1811",
+                  "name": "HIAA 1811"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1820",
+                  "name": "HIAA 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1822",
+                  "name": "HIAA 1822"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1850G",
+                  "name": "HIAA 1850G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1850H",
+                  "name": "HIAA 1850H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1880",
+                  "name": "HIAA 1880"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1888",
+                  "name": "HIAA 1888"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1890G",
+                  "name": "HIAA 1890G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1900",
+                  "name": "HIAA 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1910A",
+                  "name": "HIAA 1910A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1930",
+                  "name": "HIAA 1930"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1931",
+                  "name": "HIAA 1931"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "1 Elective: This can include courses taught in the department, cross-listed courses from other departments, or courses in other departments approved by the concentration advisor. 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One capstone course or two honors courses. See capstone and honors requirements below. 1-2",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0022",
+            "name": "HIAA 0022"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0024",
+            "name": "HIAA 0024"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0032",
+            "name": "HIAA 0032"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0322",
+            "name": "HIAA 0322"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0063",
+            "name": "HIAA 0063"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0660",
+            "name": "HIAA 0660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0070",
+            "name": "HIAA 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0072",
+            "name": "HIAA 0072"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0075",
+            "name": "HIAA 0075"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0077",
+            "name": "HIAA 0077"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0084",
+            "name": "HIAA 0084"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0087",
+            "name": "HIAA 0087"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0089",
+            "name": "HIAA 0089"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0090",
+            "name": "HIAA 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0820",
+            "name": "HIAA 0820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0850",
+            "name": "HIAA 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0860",
+            "name": "HIAA 0860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0861",
+            "name": "HIAA 0861"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0023",
+            "name": "HIAA 0023"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0010",
+            "name": "HIAA 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0081",
+            "name": "HIAA 0081"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0770",
+            "name": "HIAA 0770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0770",
+            "name": "HIAA 0770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0070",
+            "name": "HIAA 0070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0072",
+            "name": "HIAA 0072"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0089",
+            "name": "HIAA 0089"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0022",
+            "name": "HIAA 0022"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0023",
+            "name": "HIAA 0023"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0032",
+            "name": "HIAA 0032"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0075",
+            "name": "HIAA 0075"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0077",
+            "name": "HIAA 0077"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0041",
+            "name": "HIAA 0041"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0081",
+            "name": "HIAA 0081"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0084",
+            "name": "HIAA 0084"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0087",
+            "name": "HIAA 0087"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0090",
+            "name": "HIAA 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0322",
+            "name": "HIAA 0322"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0820",
+            "name": "HIAA 0820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0850",
+            "name": "HIAA 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0860",
+            "name": "HIAA 0860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1931",
+            "name": "HIAA 1931"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1181",
+            "name": "HIAA 1181"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1201",
+            "name": "HIAA 1201"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1202",
+            "name": "HIAA 1202"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1212",
+            "name": "HIAA 1212"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1213",
+            "name": "HIAA 1213"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1305",
+            "name": "HIAA 1305"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1307",
+            "name": "HIAA 1307"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1308",
+            "name": "HIAA 1308"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1620",
+            "name": "HIAA 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1720",
+            "name": "HIAA 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1771",
+            "name": "HIAA 1771"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1810",
+            "name": "HIAA 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1811",
+            "name": "HIAA 1811"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1820",
+            "name": "HIAA 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1822",
+            "name": "HIAA 1822"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1850G",
+            "name": "HIAA 1850G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1850H",
+            "name": "HIAA 1850H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1880",
+            "name": "HIAA 1880"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1888",
+            "name": "HIAA 1888"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1890G",
+            "name": "HIAA 1890G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1900",
+            "name": "HIAA 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1910A",
+            "name": "HIAA 1910A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1930",
+            "name": "HIAA 1930"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1931",
+            "name": "HIAA 1931"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "HIAA 0022",
+      "name": "HIAA 0022"
+    },
+    {
+      "code": "HIAA 0024",
+      "name": "HIAA 0024"
+    },
+    {
+      "code": "HIAA 0032",
+      "name": "HIAA 0032"
+    },
+    {
+      "code": "HIAA 0322",
+      "name": "HIAA 0322"
+    },
+    {
+      "code": "HIAA 0063",
+      "name": "HIAA 0063"
+    },
+    {
+      "code": "HIAA 0660",
+      "name": "HIAA 0660"
+    },
+    {
+      "code": "HIAA 0070",
+      "name": "HIAA 0070"
+    },
+    {
+      "code": "HIAA 0072",
+      "name": "HIAA 0072"
+    },
+    {
+      "code": "HIAA 0075",
+      "name": "HIAA 0075"
+    },
+    {
+      "code": "HIAA 0077",
+      "name": "HIAA 0077"
+    },
+    {
+      "code": "HIAA 0084",
+      "name": "HIAA 0084"
+    },
+    {
+      "code": "HIAA 0087",
+      "name": "HIAA 0087"
+    },
+    {
+      "code": "HIAA 0089",
+      "name": "HIAA 0089"
+    },
+    {
+      "code": "HIAA 0090",
+      "name": "HIAA 0090"
+    },
+    {
+      "code": "HIAA 0820",
+      "name": "HIAA 0820"
+    },
+    {
+      "code": "HIAA 0850",
+      "name": "HIAA 0850"
+    },
+    {
+      "code": "HIAA 0860",
+      "name": "HIAA 0860"
+    },
+    {
+      "code": "HIAA 0861",
+      "name": "HIAA 0861"
+    },
+    {
+      "code": "HIAA 0023",
+      "name": "HIAA 0023"
+    },
+    {
+      "code": "HIAA 0010",
+      "name": "HIAA 0010"
+    },
+    {
+      "code": "HIAA 0081",
+      "name": "HIAA 0081"
+    },
+    {
+      "code": "HIAA 0770",
+      "name": "HIAA 0770"
+    },
+    {
+      "code": "HIAA 0041",
+      "name": "HIAA 0041"
+    },
+    {
+      "code": "HIAA 1931",
+      "name": "HIAA 1931"
+    },
+    {
+      "code": "HIAA 1181",
+      "name": "HIAA 1181"
+    },
+    {
+      "code": "HIAA 1201",
+      "name": "HIAA 1201"
+    },
+    {
+      "code": "HIAA 1202",
+      "name": "HIAA 1202"
+    },
+    {
+      "code": "HIAA 1212",
+      "name": "HIAA 1212"
+    },
+    {
+      "code": "HIAA 1213",
+      "name": "HIAA 1213"
+    },
+    {
+      "code": "HIAA 1305",
+      "name": "HIAA 1305"
+    },
+    {
+      "code": "HIAA 1307",
+      "name": "HIAA 1307"
+    },
+    {
+      "code": "HIAA 1308",
+      "name": "HIAA 1308"
+    },
+    {
+      "code": "HIAA 1620",
+      "name": "HIAA 1620"
+    },
+    {
+      "code": "HIAA 1720",
+      "name": "HIAA 1720"
+    },
+    {
+      "code": "HIAA 1771",
+      "name": "HIAA 1771"
+    },
+    {
+      "code": "HIAA 1810",
+      "name": "HIAA 1810"
+    },
+    {
+      "code": "HIAA 1811",
+      "name": "HIAA 1811"
+    },
+    {
+      "code": "HIAA 1820",
+      "name": "HIAA 1820"
+    },
+    {
+      "code": "HIAA 1822",
+      "name": "HIAA 1822"
+    },
+    {
+      "code": "HIAA 1850G",
+      "name": "HIAA 1850G"
+    },
+    {
+      "code": "HIAA 1850H",
+      "name": "HIAA 1850H"
+    },
+    {
+      "code": "HIAA 1880",
+      "name": "HIAA 1880"
+    },
+    {
+      "code": "HIAA 1888",
+      "name": "HIAA 1888"
+    },
+    {
+      "code": "HIAA 1890G",
+      "name": "HIAA 1890G"
+    },
+    {
+      "code": "HIAA 1900",
+      "name": "HIAA 1900"
+    },
+    {
+      "code": "HIAA 1910A",
+      "name": "HIAA 1910A"
+    },
+    {
+      "code": "HIAA 1930",
+      "name": "HIAA 1930"
+    },
+    {
+      "code": "HIAA 1990",
+      "name": "HIAA 1990"
+    }
+  ]
+}

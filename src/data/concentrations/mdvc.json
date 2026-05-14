@@ -1,0 +1,480 @@
+{
+  "concentration": "Medieval Cultures",
+  "slug": "mdvc",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/mdvc/",
+  "tracks": [
+    {
+      "id": "medieval_cultures_track",
+      "name": "Medieval Cultures Track",
+      "groups": [
+        {
+          "name": "Two courses in medieval history 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        }
+      ],
+      "courses": [],
+      "notes": []
+    },
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "Two courses in medieval history 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        }
+      ],
+      "courses": [],
+      "notes": []
+    },
+    {
+      "id": "requirements_for_the_a_b__degree",
+      "name": "Requirements for the A.B. degree",
+      "groups": [
+        {
+          "name": "Two courses in medieval history 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        }
+      ],
+      "courses": [],
+      "notes": []
+    },
+    {
+      "id": "late_antique_cultures_track",
+      "name": "Late Antique Cultures Track",
+      "groups": [
+        {
+          "name": "One course in Roman history: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One class in medieval history 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest. 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements_for_the_a_b__degree",
+      "name": "Requirements for the A.B. degree",
+      "groups": [
+        {
+          "name": "One course in Roman history: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One class in medieval history 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest. 7",
+          "type": "label",
+          "courses": [],
+          "count": 7,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ASYR 1600",
+      "name": "ASYR 1600"
+    },
+    {
+      "code": "CLAS 0600",
+      "name": "CLAS 0600"
+    },
+    {
+      "code": "CLAS 1120G",
+      "name": "CLAS 1120G"
+    },
+    {
+      "code": "COLT 0510K",
+      "name": "COLT 0510K"
+    },
+    {
+      "code": "COLT 0710B",
+      "name": "COLT 0710B"
+    },
+    {
+      "code": "COLT 0711L",
+      "name": "COLT 0711L"
+    },
+    {
+      "code": "COLT 1310E",
+      "name": "COLT 1310E"
+    },
+    {
+      "code": "COLT 1430B",
+      "name": "COLT 1430B"
+    },
+    {
+      "code": "COLT 1813P",
+      "name": "COLT 1813P"
+    },
+    {
+      "code": "EAST 0406",
+      "name": "EAST 0406"
+    },
+    {
+      "code": "ENGL 0300M",
+      "name": "ENGL 0300M"
+    },
+    {
+      "code": "ENGL 1311P",
+      "name": "ENGL 1311P"
+    },
+    {
+      "code": "ENGL 1360H",
+      "name": "ENGL 1360H"
+    },
+    {
+      "code": "ENGL 1361K",
+      "name": "ENGL 1361K"
+    },
+    {
+      "code": "ENGL 1361Q",
+      "name": "ENGL 1361Q"
+    },
+    {
+      "code": "FREN 1020C",
+      "name": "FREN 1020C"
+    },
+    {
+      "code": "HIAA 1051",
+      "name": "HIAA 1051"
+    },
+    {
+      "code": "HIAA 1213",
+      "name": "HIAA 1213"
+    },
+    {
+      "code": "HIST 0521A",
+      "name": "HIST 0521A"
+    },
+    {
+      "code": "HIST 1205",
+      "name": "HIST 1205"
+    },
+    {
+      "code": "HIST 1210A",
+      "name": "HIST 1210A"
+    },
+    {
+      "code": "HIST 1211",
+      "name": "HIST 1211"
+    },
+    {
+      "code": "HIST 1440",
+      "name": "HIST 1440"
+    },
+    {
+      "code": "HIST 1835A",
+      "name": "HIST 1835A"
+    },
+    {
+      "code": "HIST 1963Q",
+      "name": "HIST 1963Q"
+    },
+    {
+      "code": "ITAL 1010",
+      "name": "ITAL 1010"
+    },
+    {
+      "code": "JAPN 0810",
+      "name": "JAPN 0810"
+    },
+    {
+      "code": "JUDS 0050M",
+      "name": "JUDS 0050M"
+    },
+    {
+      "code": "JUDS 0681",
+      "name": "JUDS 0681"
+    },
+    {
+      "code": "JUDS 1630",
+      "name": "JUDS 1630"
+    },
+    {
+      "code": "LATN 1110F",
+      "name": "LATN 1110F"
+    },
+    {
+      "code": "LATN 1110H",
+      "name": "LATN 1110H"
+    },
+    {
+      "code": "LATN 1110L",
+      "name": "LATN 1110L"
+    },
+    {
+      "code": "LATN 1120C",
+      "name": "LATN 1120C"
+    },
+    {
+      "code": "LATN 1120D",
+      "name": "LATN 1120D"
+    },
+    {
+      "code": "MDVL 0360",
+      "name": "MDVL 0360"
+    },
+    {
+      "code": "MDVL 1970",
+      "name": "MDVL 1970"
+    },
+    {
+      "code": "MDVL 1990",
+      "name": "MDVL 1990"
+    },
+    {
+      "code": "PRSN 1100",
+      "name": "PRSN 1100"
+    },
+    {
+      "code": "RELS 0014",
+      "name": "RELS 0014"
+    },
+    {
+      "code": "RELS 0015",
+      "name": "RELS 0015"
+    },
+    {
+      "code": "RELS 0110",
+      "name": "RELS 0110"
+    },
+    {
+      "code": "RELS 0290D",
+      "name": "RELS 0290D"
+    },
+    {
+      "code": "RELS 0420",
+      "name": "RELS 0420"
+    },
+    {
+      "code": "RELS 1325C",
+      "name": "RELS 1325C"
+    },
+    {
+      "code": "RELS 1330A",
+      "name": "RELS 1330A"
+    },
+    {
+      "code": "RELS 1425",
+      "name": "RELS 1425"
+    },
+    {
+      "code": "RELS 1530A",
+      "name": "RELS 1530A"
+    },
+    {
+      "code": "RELS 1530D",
+      "name": "RELS 1530D"
+    },
+    {
+      "code": "CLAS 1310",
+      "name": "CLAS 1310"
+    },
+    {
+      "code": "CLAS 1320",
+      "name": "CLAS 1320"
+    },
+    {
+      "code": "HIAA 0032",
+      "name": "HIAA 0032"
+    },
+    {
+      "code": "HIAA 0322",
+      "name": "HIAA 0322"
+    },
+    {
+      "code": "HIAA 1307",
+      "name": "HIAA 1307"
+    },
+    {
+      "code": "HIAA 1308",
+      "name": "HIAA 1308"
+    },
+    {
+      "code": "JUDS 0608",
+      "name": "JUDS 0608"
+    },
+    {
+      "code": "RELS 0405",
+      "name": "RELS 0405"
+    },
+    {
+      "code": "RELS 1315",
+      "name": "RELS 1315"
+    }
+  ]
+}

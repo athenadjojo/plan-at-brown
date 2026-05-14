@@ -1,0 +1,1243 @@
+{
+  "concentration": "International and Public Affairs",
+  "slug": "iapa",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/iapa/",
+  "tracks": [
+    {
+      "id": "track_specialization_and_electives",
+      "name": "Track Specialization and Electives",
+      "groups": [
+        {
+          "name": "Gateway Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 0300",
+                  "name": "IAPA 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 0400",
+                  "name": "IAPA 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 0900",
+                  "name": "IAPA 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1000",
+                  "name": "ECON 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1020",
+                  "name": "POLS 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1490",
+                  "name": "SOC 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Track Foundational 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1001",
+                  "name": "IAPA 1001"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1002",
+                  "name": "IAPA 1002"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1003",
+                  "name": "IAPA 1003"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Track Electives (See tables below) 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "Qualitative Research Methods 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1500A",
+                  "name": "IAPA 1500A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Quantitative Research Methods 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1502",
+                  "name": "IAPA 1502"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1600",
+                  "name": "POLS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Junior Seminar 3",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1700P",
+                  "name": "IAPA 1700P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1700R",
+                  "name": "IAPA 1700R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1700S",
+                  "name": "IAPA 1700S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701M",
+                  "name": "IAPA 1701M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701N",
+                  "name": "IAPA 1701N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701V",
+                  "name": "IAPA 1701V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701W",
+                  "name": "IAPA 1701W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701X",
+                  "name": "IAPA 1701X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701Y",
+                  "name": "IAPA 1701Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701Z",
+                  "name": "IAPA 1701Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1702D",
+                  "name": "IAPA 1702D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1702H",
+                  "name": "IAPA 1702H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1702I",
+                  "name": "IAPA 1702I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Senior Capstone 4",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1800D",
+                  "name": "IAPA 1800D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1801D",
+                  "name": "IAPA 1801D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1801F",
+                  "name": "IAPA 1801F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1802M",
+                  "name": "IAPA 1802M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1803",
+                  "name": "IAPA 1803"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1804",
+                  "name": "IAPA 1804"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1804A",
+                  "name": "IAPA 1804A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1804D",
+                  "name": "IAPA 1804D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1804M",
+                  "name": "IAPA 1804M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1810",
+                  "name": "IAPA 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1811",
+                  "name": "IAPA 1811"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1821P",
+                  "name": "IAPA 1821P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1816A",
+                  "name": "IAPA 1816A"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1817A",
+                  "name": "IAPA 1817A"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 0300",
+            "name": "IAPA 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 0400",
+            "name": "IAPA 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 0900",
+            "name": "IAPA 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1000",
+            "name": "ECON 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1020",
+            "name": "POLS 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1490",
+            "name": "SOC 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1001",
+            "name": "IAPA 1001"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1002",
+            "name": "IAPA 1002"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1003",
+            "name": "IAPA 1003"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1500A",
+            "name": "IAPA 1500A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1502",
+            "name": "IAPA 1502"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1600",
+            "name": "POLS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1700P",
+            "name": "IAPA 1700P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1700R",
+            "name": "IAPA 1700R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1700S",
+            "name": "IAPA 1700S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701M",
+            "name": "IAPA 1701M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701N",
+            "name": "IAPA 1701N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701V",
+            "name": "IAPA 1701V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701W",
+            "name": "IAPA 1701W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701X",
+            "name": "IAPA 1701X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701Y",
+            "name": "IAPA 1701Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701Z",
+            "name": "IAPA 1701Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1702D",
+            "name": "IAPA 1702D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1702H",
+            "name": "IAPA 1702H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1702I",
+            "name": "IAPA 1702I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1800D",
+            "name": "IAPA 1800D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1801D",
+            "name": "IAPA 1801D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1801F",
+            "name": "IAPA 1801F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1802M",
+            "name": "IAPA 1802M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1803",
+            "name": "IAPA 1803"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1804",
+            "name": "IAPA 1804"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1804A",
+            "name": "IAPA 1804A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1804D",
+            "name": "IAPA 1804D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1804M",
+            "name": "IAPA 1804M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1810",
+            "name": "IAPA 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1811",
+            "name": "IAPA 1811"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1821P",
+            "name": "IAPA 1821P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1816A",
+            "name": "IAPA 1816A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1817A",
+            "name": "IAPA 1817A"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "IAPA 0300",
+      "name": "IAPA 0300"
+    },
+    {
+      "code": "IAPA 0400",
+      "name": "IAPA 0400"
+    },
+    {
+      "code": "IAPA 0900",
+      "name": "IAPA 0900"
+    },
+    {
+      "code": "ECON 1000",
+      "name": "ECON 1000"
+    },
+    {
+      "code": "POLS 1020",
+      "name": "POLS 1020"
+    },
+    {
+      "code": "SOC 1490",
+      "name": "SOC 1490"
+    },
+    {
+      "code": "IAPA 1001",
+      "name": "IAPA 1001"
+    },
+    {
+      "code": "IAPA 1002",
+      "name": "IAPA 1002"
+    },
+    {
+      "code": "IAPA 1003",
+      "name": "IAPA 1003"
+    },
+    {
+      "code": "IAPA 1500A",
+      "name": "IAPA 1500A"
+    },
+    {
+      "code": "SOC 1020",
+      "name": "SOC 1020"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "IAPA 1502",
+      "name": "IAPA 1502"
+    },
+    {
+      "code": "POLS 1600",
+      "name": "POLS 1600"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "IAPA 1700P",
+      "name": "IAPA 1700P"
+    },
+    {
+      "code": "IAPA 1700R",
+      "name": "IAPA 1700R"
+    },
+    {
+      "code": "IAPA 1700S",
+      "name": "IAPA 1700S"
+    },
+    {
+      "code": "IAPA 1701M",
+      "name": "IAPA 1701M"
+    },
+    {
+      "code": "IAPA 1701N",
+      "name": "IAPA 1701N"
+    },
+    {
+      "code": "IAPA 1701V",
+      "name": "IAPA 1701V"
+    },
+    {
+      "code": "IAPA 1701W",
+      "name": "IAPA 1701W"
+    },
+    {
+      "code": "IAPA 1701X",
+      "name": "IAPA 1701X"
+    },
+    {
+      "code": "IAPA 1701Y",
+      "name": "IAPA 1701Y"
+    },
+    {
+      "code": "IAPA 1701Z",
+      "name": "IAPA 1701Z"
+    },
+    {
+      "code": "IAPA 1702D",
+      "name": "IAPA 1702D"
+    },
+    {
+      "code": "IAPA 1702H",
+      "name": "IAPA 1702H"
+    },
+    {
+      "code": "IAPA 1702I",
+      "name": "IAPA 1702I"
+    },
+    {
+      "code": "IAPA 1800D",
+      "name": "IAPA 1800D"
+    },
+    {
+      "code": "IAPA 1801D",
+      "name": "IAPA 1801D"
+    },
+    {
+      "code": "IAPA 1801F",
+      "name": "IAPA 1801F"
+    },
+    {
+      "code": "IAPA 1802M",
+      "name": "IAPA 1802M"
+    },
+    {
+      "code": "IAPA 1803",
+      "name": "IAPA 1803"
+    },
+    {
+      "code": "IAPA 1804",
+      "name": "IAPA 1804"
+    },
+    {
+      "code": "IAPA 1804A",
+      "name": "IAPA 1804A"
+    },
+    {
+      "code": "IAPA 1804D",
+      "name": "IAPA 1804D"
+    },
+    {
+      "code": "IAPA 1804M",
+      "name": "IAPA 1804M"
+    },
+    {
+      "code": "IAPA 1810",
+      "name": "IAPA 1810"
+    },
+    {
+      "code": "IAPA 1811",
+      "name": "IAPA 1811"
+    },
+    {
+      "code": "IAPA 1821P",
+      "name": "IAPA 1821P"
+    },
+    {
+      "code": "IAPA 1816A",
+      "name": "IAPA 1816A"
+    },
+    {
+      "code": "IAPA 1817A",
+      "name": "IAPA 1817A"
+    },
+    {
+      "code": "ANTH 1236",
+      "name": "ANTH 1236"
+    },
+    {
+      "code": "ANTH 1940",
+      "name": "ANTH 1940"
+    },
+    {
+      "code": "BIOL 1575",
+      "name": "BIOL 1575"
+    },
+    {
+      "code": "EDUC 1240",
+      "name": "EDUC 1240"
+    },
+    {
+      "code": "SOC 1117",
+      "name": "SOC 1117"
+    },
+    {
+      "code": "SOC 1260",
+      "name": "SOC 1260"
+    },
+    {
+      "code": "SOC 1340",
+      "name": "SOC 1340"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "CSCI 0300",
+      "name": "CSCI 0300"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "EDUC 1230",
+      "name": "EDUC 1230"
+    },
+    {
+      "code": "IAPA 1850",
+      "name": "IAPA 1850"
+    },
+    {
+      "code": "ANTH 1150",
+      "name": "ANTH 1150"
+    },
+    {
+      "code": "ANTH 1301",
+      "name": "ANTH 1301"
+    },
+    {
+      "code": "ECON 1500",
+      "name": "ECON 1500"
+    },
+    {
+      "code": "ECON 1560",
+      "name": "ECON 1560"
+    },
+    {
+      "code": "ENVS 1554",
+      "name": "ENVS 1554"
+    },
+    {
+      "code": "HIST 1267",
+      "name": "HIST 1267"
+    },
+    {
+      "code": "IAPA 1401",
+      "name": "IAPA 1401"
+    },
+    {
+      "code": "IAPA 1402",
+      "name": "IAPA 1402"
+    },
+    {
+      "code": "JUDS 1711",
+      "name": "JUDS 1711"
+    },
+    {
+      "code": "HSP 1460",
+      "name": "HSP 1460"
+    },
+    {
+      "code": "POLS 1290",
+      "name": "POLS 1290"
+    },
+    {
+      "code": "POLS 1440",
+      "name": "POLS 1440"
+    },
+    {
+      "code": "SOC 1270",
+      "name": "SOC 1270"
+    },
+    {
+      "code": "URBN 1871G",
+      "name": "URBN 1871G"
+    },
+    {
+      "code": "CSCI 1800",
+      "name": "CSCI 1800"
+    },
+    {
+      "code": "ECON 1340",
+      "name": "ECON 1340"
+    },
+    {
+      "code": "HIST 1080",
+      "name": "HIST 1080"
+    },
+    {
+      "code": "IAPA 1201B",
+      "name": "IAPA 1201B"
+    },
+    {
+      "code": "IAPA 1203",
+      "name": "IAPA 1203"
+    },
+    {
+      "code": "POLS 1225",
+      "name": "POLS 1225"
+    },
+    {
+      "code": "POLS 1500",
+      "name": "POLS 1500"
+    },
+    {
+      "code": "POLS 1822I",
+      "name": "POLS 1822I"
+    },
+    {
+      "code": "SOC 1128",
+      "name": "SOC 1128"
+    },
+    {
+      "code": "UNIV 1001",
+      "name": "UNIV 1001"
+    },
+    {
+      "code": "AFRI 1170",
+      "name": "AFRI 1170"
+    },
+    {
+      "code": "ANTH 1300",
+      "name": "ANTH 1300"
+    },
+    {
+      "code": "CSCI 1580",
+      "name": "CSCI 1580"
+    },
+    {
+      "code": "ECON 1385",
+      "name": "ECON 1385"
+    },
+    {
+      "code": "ECON 1570",
+      "name": "ECON 1570"
+    },
+    {
+      "code": "ENVS 1400",
+      "name": "ENVS 1400"
+    },
+    {
+      "code": "HIST 1121",
+      "name": "HIST 1121"
+    },
+    {
+      "code": "HIST 1531",
+      "name": "HIST 1531"
+    },
+    {
+      "code": "HSP 1450",
+      "name": "HSP 1450"
+    },
+    {
+      "code": "HSP 1681",
+      "name": "HSP 1681"
+    },
+    {
+      "code": "POLS 1090",
+      "name": "POLS 1090"
+    },
+    {
+      "code": "POLS 1280",
+      "name": "POLS 1280"
+    },
+    {
+      "code": "SOC 1116",
+      "name": "SOC 1116"
+    },
+    {
+      "code": "URBN 1250",
+      "name": "URBN 1250"
+    }
+  ]
+}

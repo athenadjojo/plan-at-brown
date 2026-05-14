@@ -1,0 +1,2423 @@
+{
+  "concentration": "Biology",
+  "slug": "biol",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/biol/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__biology",
+      "name": "Standard program for the A.B. Biology",
+      "groups": [
+        {
+          "name": "Prerequisites: 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0350",
+                  "name": "CHEM 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0170",
+                  "name": "MATH 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or a statistics course, to be approved by the concentration advisor.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Ten Core Courses: 2,3,4",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 1 (Cell/Molecular Biology) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0500",
+                  "name": "BIOL 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0510",
+                  "name": "BIOL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1050",
+                  "name": "BIOL 1050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1310",
+                  "name": "BIOL 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1515",
+                  "name": "BIOL 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1810",
+                  "name": "BIOL 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1865",
+                  "name": "BIOL 1865"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 2 (Structure/Function) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0440",
+                  "name": "BIOL 0440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1120",
+                  "name": "BIOL 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1155",
+                  "name": "BIOL 1155"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1310",
+                  "name": "BIOL 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1330",
+                  "name": "BIOL 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1505",
+                  "name": "BIOL 1505"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1800",
+                  "name": "BIOL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1865",
+                  "name": "BIOL 1865"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0010",
+                  "name": "NEUR 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 3 (Organismal Biology) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0210",
+                  "name": "BIOL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0380",
+                  "name": "BIOL 0380"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0420",
+                  "name": "BIOL 0420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0430",
+                  "name": "BIOL 0430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0450",
+                  "name": "BIOL 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0480",
+                  "name": "BIOL 0480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1480",
+                  "name": "BIOL 1480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1515",
+                  "name": "BIOL 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1800",
+                  "name": "BIOL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 0490",
+                  "name": "ENVS 0490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include a Senior Capstone. 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        },
+        {
+          "name": "SENIOR CAPSTONE: To be fulfilled via ONE of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "BIOL 0946",
+                  "name": "BIOL 0946"
+                },
+                {
+                  "code": "BIOL 1100",
+                  "name": "1100"
+                },
+                {
+                  "code": "BIOL 1140",
+                  "name": "1140"
+                },
+                {
+                  "code": "BIOL 1150",
+                  "name": "1150"
+                },
+                {
+                  "code": "BIOL 1250",
+                  "name": "1250"
+                },
+                {
+                  "code": "BIOL 1330",
+                  "name": "1330"
+                },
+                {
+                  "code": "BIOL 1515",
+                  "name": "1515"
+                },
+                {
+                  "code": "BIOL 1525",
+                  "name": "1525"
+                },
+                {
+                  "code": "BIOL 1535",
+                  "name": "1535"
+                },
+                {
+                  "code": "BIOL 1555",
+                  "name": "1555"
+                },
+                {
+                  "code": "BIOL 1575",
+                  "name": "1575"
+                },
+                {
+                  "code": "BIOL 1600",
+                  "name": "1600"
+                },
+                {
+                  "code": "BIOL 1820",
+                  "name": "1820"
+                },
+                {
+                  "code": "BIOL 1970A",
+                  "name": "1970A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                },
+                {
+                  "code": "BIOL 1960",
+                  "name": "BIOL 1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Please visit the BUE webpage for more information.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0170",
+            "name": "MATH 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0500",
+            "name": "BIOL 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0510",
+            "name": "BIOL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1050",
+            "name": "BIOL 1050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1310",
+            "name": "BIOL 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1515",
+            "name": "BIOL 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1810",
+            "name": "BIOL 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1865",
+            "name": "BIOL 1865"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0440",
+            "name": "BIOL 0440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1120",
+            "name": "BIOL 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1155",
+            "name": "BIOL 1155"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1310",
+            "name": "BIOL 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1330",
+            "name": "BIOL 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1505",
+            "name": "BIOL 1505"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1800",
+            "name": "BIOL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1865",
+            "name": "BIOL 1865"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0010",
+            "name": "NEUR 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0210",
+            "name": "BIOL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0380",
+            "name": "BIOL 0380"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0420",
+            "name": "BIOL 0420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0430",
+            "name": "BIOL 0430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0450",
+            "name": "BIOL 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0480",
+            "name": "BIOL 0480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1480",
+            "name": "BIOL 1480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1515",
+            "name": "BIOL 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1800",
+            "name": "BIOL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 0490",
+            "name": "ENVS 0490"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "BIOL 0946",
+              "name": "BIOL 0946"
+            },
+            {
+              "code": "BIOL 1100",
+              "name": "1100"
+            },
+            {
+              "code": "BIOL 1140",
+              "name": "1140"
+            },
+            {
+              "code": "BIOL 1150",
+              "name": "1150"
+            },
+            {
+              "code": "BIOL 1250",
+              "name": "1250"
+            },
+            {
+              "code": "BIOL 1330",
+              "name": "1330"
+            },
+            {
+              "code": "BIOL 1515",
+              "name": "1515"
+            },
+            {
+              "code": "BIOL 1525",
+              "name": "1525"
+            },
+            {
+              "code": "BIOL 1535",
+              "name": "1535"
+            },
+            {
+              "code": "BIOL 1555",
+              "name": "1555"
+            },
+            {
+              "code": "BIOL 1575",
+              "name": "1575"
+            },
+            {
+              "code": "BIOL 1600",
+              "name": "1600"
+            },
+            {
+              "code": "BIOL 1820",
+              "name": "1820"
+            },
+            {
+              "code": "BIOL 1970A",
+              "name": "1970A"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "BIOL 1950",
+              "name": "BIOL 1950"
+            },
+            {
+              "code": "BIOL 1960",
+              "name": "BIOL 1960"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__biology",
+      "name": "Standard Program for the Sc.B. Biology",
+      "groups": [
+        {
+          "name": "Prerequisites: 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0170",
+                  "name": "MATH 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "or a statistics course to be approved by the concentration advisor",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Each of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0350",
+                  "name": "CHEM 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0360",
+                  "name": "CHEM 0360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0030",
+                  "name": "PHYS 0030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0040",
+                  "name": "PHYS 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Core Courses: 2,3,4",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 1 (Cell/Molecular Biology) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0500",
+                  "name": "BIOL 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0510",
+                  "name": "BIOL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1050",
+                  "name": "BIOL 1050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1310",
+                  "name": "BIOL 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1515",
+                  "name": "BIOL 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1810",
+                  "name": "BIOL 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1865",
+                  "name": "BIOL 1865"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 2 (Structure/Function) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0440",
+                  "name": "BIOL 0440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1120",
+                  "name": "BIOL 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1155",
+                  "name": "BIOL 1155"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1310",
+                  "name": "BIOL 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1330",
+                  "name": "BIOL 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1505",
+                  "name": "BIOL 1505"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1800",
+                  "name": "BIOL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1865",
+                  "name": "BIOL 1865"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0010",
+                  "name": "NEUR 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Area 3 (Organismal Biology) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0210",
+                  "name": "BIOL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0380",
+                  "name": "BIOL 0380"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0420",
+                  "name": "BIOL 0420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0430",
+                  "name": "BIOL 0430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0450",
+                  "name": "BIOL 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0480",
+                  "name": "BIOL 0480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1480",
+                  "name": "BIOL 1480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1515",
+                  "name": "BIOL 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1800",
+                  "name": "BIOL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 0490",
+                  "name": "ENVS 0490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include research. 4 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        },
+        {
+          "name": "RESEARCH:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "The two semester research requirement may be satisfied by any two of the opportunities listed below. Students may find the following resources useful in planning for research: the annual BUE-PLME Finding, Securing and Succeeding in Research workshop, the BUE Research webpage, and the Sheridan Center\u2019s Undergraduate Research & Experiential Opportunities webpage. Following conversation and agreement with the advisor, students articulate the research plan in the ASK declaration (in the designated text box) which is submitted for review and approval by the advisor.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Choose two:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1960",
+                  "name": "BIOL 1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1970",
+                  "name": "NEUR 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Independent study course in a related discipline (i.e. STEM disciplines, ENVS, PHP, etc.) if the project is relevant to the student\u2019s learning goals and interests in the concentration.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "A summer research experience equivalent in scope and scale to work the student would pursue in a Biology independent study course. Examples include UTRAs, LINK awards, approved research programs at other institutions, etc. These experiences do not count as a course in the 10 course core requirement, but they can be used to satisfy the one semester of the research requirement. Advisors will work with students to review these experiences - drawing on a range of potential materials including a written summary of the experience, formal work plans, materials produced (i.e. presentations/papers), and in some cases a letter from the supporting advisor.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Other equivalent opportunities not listed - with approval from the concentration advisor and Dean Achilli.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Students are encouraged to pursue research related to their track",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "TRACK:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                },
+                {
+                  "code": "BIOL 1960",
+                  "name": "1960"
+                }
+              ],
+              "count": 3,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0170",
+            "name": "MATH 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0030",
+            "name": "PHYS 0030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0040",
+            "name": "PHYS 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0500",
+            "name": "BIOL 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0510",
+            "name": "BIOL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1050",
+            "name": "BIOL 1050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1310",
+            "name": "BIOL 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1515",
+            "name": "BIOL 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1810",
+            "name": "BIOL 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1865",
+            "name": "BIOL 1865"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0440",
+            "name": "BIOL 0440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1120",
+            "name": "BIOL 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1155",
+            "name": "BIOL 1155"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1310",
+            "name": "BIOL 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1330",
+            "name": "BIOL 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1505",
+            "name": "BIOL 1505"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1800",
+            "name": "BIOL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1865",
+            "name": "BIOL 1865"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0010",
+            "name": "NEUR 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0210",
+            "name": "BIOL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0380",
+            "name": "BIOL 0380"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0420",
+            "name": "BIOL 0420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0430",
+            "name": "BIOL 0430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0450",
+            "name": "BIOL 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0480",
+            "name": "BIOL 0480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1480",
+            "name": "BIOL 1480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1515",
+            "name": "BIOL 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1800",
+            "name": "BIOL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 0490",
+            "name": "ENVS 0490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1950",
+            "name": "BIOL 1950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1960",
+            "name": "BIOL 1960"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1970",
+            "name": "NEUR 1970"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "BIOL 1950",
+              "name": "BIOL 1950"
+            },
+            {
+              "code": "BIOL 1960",
+              "name": "1960"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "tracks",
+      "name": "Tracks",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "BIOL 1535",
+              "name": "BIOL 1535"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "BIOL 1555",
+              "name": "BIOL 1555"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "BIOL 1575",
+              "name": "BIOL 1575"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "BIOL 1595",
+              "name": "BIOL 1595"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1535",
+            "name": "BIOL 1535"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1555",
+            "name": "BIOL 1555"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1575",
+            "name": "BIOL 1575"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1595",
+            "name": "BIOL 1595"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "BIOL 0280",
+      "name": "BIOL 0280"
+    },
+    {
+      "code": "BIOL 0470",
+      "name": "BIOL 0470"
+    },
+    {
+      "code": "BIOL 0500",
+      "name": "BIOL 0500"
+    },
+    {
+      "code": "BIOL 0510",
+      "name": "BIOL 0510"
+    },
+    {
+      "code": "BIOL 0530",
+      "name": "BIOL 0530"
+    },
+    {
+      "code": "BIOL 1050",
+      "name": "BIOL 1050"
+    },
+    {
+      "code": "BIOL 1310",
+      "name": "BIOL 1310"
+    },
+    {
+      "code": "BIOL 1515",
+      "name": "BIOL 1515"
+    },
+    {
+      "code": "BIOL 1810",
+      "name": "BIOL 1810"
+    },
+    {
+      "code": "BIOL 1865",
+      "name": "BIOL 1865"
+    },
+    {
+      "code": "NEUR 1020",
+      "name": "NEUR 1020"
+    },
+    {
+      "code": "BIOL 0410",
+      "name": "BIOL 0410"
+    },
+    {
+      "code": "BIOL 0440",
+      "name": "BIOL 0440"
+    },
+    {
+      "code": "BIOL 0800",
+      "name": "BIOL 0800"
+    },
+    {
+      "code": "BIOL 1120",
+      "name": "BIOL 1120"
+    },
+    {
+      "code": "BIOL 1155",
+      "name": "BIOL 1155"
+    },
+    {
+      "code": "BIOL 1330",
+      "name": "BIOL 1330"
+    },
+    {
+      "code": "BIOL 1505",
+      "name": "BIOL 1505"
+    },
+    {
+      "code": "BIOL 1800",
+      "name": "BIOL 1800"
+    },
+    {
+      "code": "NEUR 0010",
+      "name": "NEUR 0010"
+    },
+    {
+      "code": "BIOL 0210",
+      "name": "BIOL 0210"
+    },
+    {
+      "code": "BIOL 0380",
+      "name": "BIOL 0380"
+    },
+    {
+      "code": "BIOL 0420",
+      "name": "BIOL 0420"
+    },
+    {
+      "code": "BIOL 0430",
+      "name": "BIOL 0430"
+    },
+    {
+      "code": "BIOL 0450",
+      "name": "BIOL 0450"
+    },
+    {
+      "code": "BIOL 0480",
+      "name": "BIOL 0480"
+    },
+    {
+      "code": "BIOL 1480",
+      "name": "BIOL 1480"
+    },
+    {
+      "code": "ENVS 0490",
+      "name": "ENVS 0490"
+    },
+    {
+      "code": "BIOL 0946",
+      "name": "BIOL 0946"
+    },
+    {
+      "code": "BIOL 1100",
+      "name": "1100"
+    },
+    {
+      "code": "BIOL 1140",
+      "name": "1140"
+    },
+    {
+      "code": "BIOL 1150",
+      "name": "1150"
+    },
+    {
+      "code": "BIOL 1250",
+      "name": "1250"
+    },
+    {
+      "code": "BIOL 1525",
+      "name": "1525"
+    },
+    {
+      "code": "BIOL 1535",
+      "name": "1535"
+    },
+    {
+      "code": "BIOL 1555",
+      "name": "1555"
+    },
+    {
+      "code": "BIOL 1575",
+      "name": "1575"
+    },
+    {
+      "code": "BIOL 1600",
+      "name": "1600"
+    },
+    {
+      "code": "BIOL 1820",
+      "name": "1820"
+    },
+    {
+      "code": "BIOL 1970A",
+      "name": "1970A"
+    },
+    {
+      "code": "BIOL 1950",
+      "name": "BIOL 1950"
+    },
+    {
+      "code": "BIOL 1960",
+      "name": "BIOL 1960"
+    },
+    {
+      "code": "CHEM 0360",
+      "name": "CHEM 0360"
+    },
+    {
+      "code": "PHYS 0030",
+      "name": "PHYS 0030"
+    },
+    {
+      "code": "PHYS 0040",
+      "name": "PHYS 0040"
+    },
+    {
+      "code": "NEUR 1970",
+      "name": "NEUR 1970"
+    },
+    {
+      "code": "BIOL 1595",
+      "name": "BIOL 1595"
+    },
+    {
+      "code": "BIOL 1222A",
+      "name": "BIOL 1222A"
+    },
+    {
+      "code": "BIOL 1270",
+      "name": "BIOL 1270"
+    },
+    {
+      "code": "BIOL 1300",
+      "name": "BIOL 1300"
+    },
+    {
+      "code": "BIOL 1540",
+      "name": "BIOL 1540"
+    },
+    {
+      "code": "BIOL 1545",
+      "name": "BIOL 1545"
+    },
+    {
+      "code": "BIOL 1580",
+      "name": "BIOL 1580"
+    },
+    {
+      "code": "BIOL 1430",
+      "name": "BIOL 1430"
+    },
+    {
+      "code": "BIOL 1435",
+      "name": "BIOL 1435"
+    },
+    {
+      "code": "BIOL 1440",
+      "name": "BIOL 1440"
+    },
+    {
+      "code": "BIOL 1465",
+      "name": "BIOL 1465"
+    },
+    {
+      "code": "BIOL 1470",
+      "name": "BIOL 1470"
+    },
+    {
+      "code": "ENVS 1775",
+      "name": "ENVS 1775"
+    },
+    {
+      "code": "BIOL 1290",
+      "name": "BIOL 1290"
+    },
+    {
+      "code": "BIOL 1295",
+      "name": "BIOL 1295"
+    },
+    {
+      "code": "BIOL 1520",
+      "name": "BIOL 1520"
+    },
+    {
+      "code": "BIOL 1550",
+      "name": "BIOL 1550"
+    },
+    {
+      "code": "BIOL 1560",
+      "name": "BIOL 1560"
+    },
+    {
+      "code": "BIOL 1110",
+      "name": "BIOL 1110"
+    },
+    {
+      "code": "BIOL 1260",
+      "name": "BIOL 1260"
+    },
+    {
+      "code": "BIOL 1650",
+      "name": "BIOL 1650"
+    },
+    {
+      "code": "BIOL 1610",
+      "name": "BIOL 1610"
+    },
+    {
+      "code": "BIOL 1070",
+      "name": "BIOL 1070"
+    },
+    {
+      "code": "BIOL 1090",
+      "name": "BIOL 1090"
+    },
+    {
+      "code": "BIOL 1160",
+      "name": "BIOL 1160"
+    }
+  ]
+}

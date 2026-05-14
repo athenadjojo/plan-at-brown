@@ -1,0 +1,3941 @@
+{
+  "concentration": "German Studies",
+  "slug": "gmst",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/gmst/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree",
+      "name": "Standard program for the A.B. degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0500F",
+              "name": "GRMN 0500F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0600C",
+              "name": "GRMN 0600C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750B",
+              "name": "GRMN 0750B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750D",
+              "name": "GRMN 0750D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750F",
+              "name": "GRMN 0750F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1200C",
+              "name": "GRMN 1200C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1200D",
+              "name": "GRMN 1200D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320A",
+              "name": "GRMN 1320A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320D",
+              "name": "GRMN 1320D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320E",
+              "name": "GRMN 1320E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320F",
+              "name": "GRMN 1320F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320G",
+              "name": "GRMN 1320G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320I",
+              "name": "GRMN 1320I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320O",
+              "name": "GRMN 1320O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320S",
+              "name": "GRMN 1320S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1330A",
+              "name": "GRMN 1330A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340A",
+              "name": "GRMN 1340A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340B",
+              "name": "GRMN 1340B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340C",
+              "name": "GRMN 1340C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340D",
+              "name": "GRMN 1340D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340I",
+              "name": "GRMN 1340I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340J",
+              "name": "GRMN 1340J"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340K",
+              "name": "GRMN 1340K"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340L",
+              "name": "GRMN 1340L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340M",
+              "name": "GRMN 1340M"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340Q",
+              "name": "GRMN 1340Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440A",
+              "name": "GRMN 1440A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440C",
+              "name": "GRMN 1440C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440D",
+              "name": "GRMN 1440D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440E",
+              "name": "GRMN 1440E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440F",
+              "name": "GRMN 1440F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440H",
+              "name": "GRMN 1440H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440L",
+              "name": "GRMN 1440L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440N",
+              "name": "GRMN 1440N"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440O",
+              "name": "GRMN 1440O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440P",
+              "name": "GRMN 1440P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440S",
+              "name": "GRMN 1440S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440X",
+              "name": "GRMN 1440X"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440Y",
+              "name": "GRMN 1440Y"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1441C",
+              "name": "GRMN 1441C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450A",
+              "name": "GRMN 1450A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450B",
+              "name": "GRMN 1450B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450C",
+              "name": "GRMN 1450C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450F",
+              "name": "GRMN 1450F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450G",
+              "name": "GRMN 1450G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450H",
+              "name": "GRMN 1450H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1640C",
+              "name": "GRMN 1640C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660B",
+              "name": "GRMN 1660B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660C",
+              "name": "GRMN 1660C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660F",
+              "name": "GRMN 1660F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660G",
+              "name": "GRMN 1660G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660H",
+              "name": "GRMN 1660H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660I",
+              "name": "GRMN 1660I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660K",
+              "name": "GRMN 1660K"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660L",
+              "name": "GRMN 1660L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660P",
+              "name": "GRMN 1660P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660Q",
+              "name": "GRMN 1660Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660R",
+              "name": "GRMN 1660R"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660S",
+              "name": "GRMN 1660S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660T",
+              "name": "GRMN 1660T"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660U",
+              "name": "GRMN 1660U"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660V",
+              "name": "GRMN 1660V"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660W",
+              "name": "GRMN 1660W"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1661A",
+              "name": "GRMN 1661A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1661E",
+              "name": "GRMN 1661E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900A",
+              "name": "GRMN 1900A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900B",
+              "name": "GRMN 1900B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900C",
+              "name": "GRMN 1900C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900D",
+              "name": "GRMN 1900D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900E",
+              "name": "GRMN 1900E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320B",
+              "name": "GRMN 2320B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320C",
+              "name": "GRMN 2320C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320D",
+              "name": "GRMN 2320D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320E",
+              "name": "GRMN 2320E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2330A",
+              "name": "GRMN 2330A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340A",
+              "name": "GRMN 2340A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340B",
+              "name": "GRMN 2340B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340C",
+              "name": "GRMN 2340C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460A",
+              "name": "GRMN 2460A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460C",
+              "name": "GRMN 2460C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460D",
+              "name": "GRMN 2460D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660A",
+              "name": "GRMN 2660A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660C",
+              "name": "GRMN 2660C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660G",
+              "name": "GRMN 2660G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660H",
+              "name": "GRMN 2660H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660I",
+              "name": "GRMN 2660I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660O",
+              "name": "GRMN 2660O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660P",
+              "name": "GRMN 2660P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661A",
+              "name": "GRMN 2661A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661F",
+              "name": "GRMN 2661F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661J",
+              "name": "GRMN 2661J"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661Q",
+              "name": "GRMN 2661Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2662A",
+              "name": "GRMN 2662A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0500F",
+            "name": "GRMN 0500F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0600C",
+            "name": "GRMN 0600C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750B",
+            "name": "GRMN 0750B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750D",
+            "name": "GRMN 0750D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750F",
+            "name": "GRMN 0750F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1200C",
+            "name": "GRMN 1200C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1200D",
+            "name": "GRMN 1200D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320A",
+            "name": "GRMN 1320A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320D",
+            "name": "GRMN 1320D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320E",
+            "name": "GRMN 1320E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320F",
+            "name": "GRMN 1320F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320G",
+            "name": "GRMN 1320G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320I",
+            "name": "GRMN 1320I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320O",
+            "name": "GRMN 1320O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320S",
+            "name": "GRMN 1320S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1330A",
+            "name": "GRMN 1330A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340A",
+            "name": "GRMN 1340A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340B",
+            "name": "GRMN 1340B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340C",
+            "name": "GRMN 1340C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340D",
+            "name": "GRMN 1340D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340I",
+            "name": "GRMN 1340I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340J",
+            "name": "GRMN 1340J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340K",
+            "name": "GRMN 1340K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340L",
+            "name": "GRMN 1340L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340M",
+            "name": "GRMN 1340M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340Q",
+            "name": "GRMN 1340Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440A",
+            "name": "GRMN 1440A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440C",
+            "name": "GRMN 1440C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440D",
+            "name": "GRMN 1440D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440E",
+            "name": "GRMN 1440E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440F",
+            "name": "GRMN 1440F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440H",
+            "name": "GRMN 1440H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440L",
+            "name": "GRMN 1440L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440N",
+            "name": "GRMN 1440N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440O",
+            "name": "GRMN 1440O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440P",
+            "name": "GRMN 1440P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440S",
+            "name": "GRMN 1440S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440X",
+            "name": "GRMN 1440X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440Y",
+            "name": "GRMN 1440Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1441C",
+            "name": "GRMN 1441C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450A",
+            "name": "GRMN 1450A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450B",
+            "name": "GRMN 1450B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450C",
+            "name": "GRMN 1450C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450F",
+            "name": "GRMN 1450F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450G",
+            "name": "GRMN 1450G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450H",
+            "name": "GRMN 1450H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1640C",
+            "name": "GRMN 1640C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660B",
+            "name": "GRMN 1660B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660C",
+            "name": "GRMN 1660C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660F",
+            "name": "GRMN 1660F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660G",
+            "name": "GRMN 1660G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660H",
+            "name": "GRMN 1660H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660I",
+            "name": "GRMN 1660I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660K",
+            "name": "GRMN 1660K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660L",
+            "name": "GRMN 1660L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660P",
+            "name": "GRMN 1660P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660Q",
+            "name": "GRMN 1660Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660R",
+            "name": "GRMN 1660R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660S",
+            "name": "GRMN 1660S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660T",
+            "name": "GRMN 1660T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660U",
+            "name": "GRMN 1660U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660V",
+            "name": "GRMN 1660V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660W",
+            "name": "GRMN 1660W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1661A",
+            "name": "GRMN 1661A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1661E",
+            "name": "GRMN 1661E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900A",
+            "name": "GRMN 1900A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900B",
+            "name": "GRMN 1900B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900C",
+            "name": "GRMN 1900C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900D",
+            "name": "GRMN 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900E",
+            "name": "GRMN 1900E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320B",
+            "name": "GRMN 2320B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320C",
+            "name": "GRMN 2320C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320D",
+            "name": "GRMN 2320D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320E",
+            "name": "GRMN 2320E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2330A",
+            "name": "GRMN 2330A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340A",
+            "name": "GRMN 2340A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340B",
+            "name": "GRMN 2340B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340C",
+            "name": "GRMN 2340C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460A",
+            "name": "GRMN 2460A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460C",
+            "name": "GRMN 2460C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460D",
+            "name": "GRMN 2460D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660A",
+            "name": "GRMN 2660A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660C",
+            "name": "GRMN 2660C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660G",
+            "name": "GRMN 2660G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660H",
+            "name": "GRMN 2660H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660I",
+            "name": "GRMN 2660I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660O",
+            "name": "GRMN 2660O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660P",
+            "name": "GRMN 2660P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661A",
+            "name": "GRMN 2661A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661F",
+            "name": "GRMN 2661F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661J",
+            "name": "GRMN 2661J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661Q",
+            "name": "GRMN 2661Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2662A",
+            "name": "GRMN 2662A"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0500F",
+              "name": "GRMN 0500F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0600C",
+              "name": "GRMN 0600C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750B",
+              "name": "GRMN 0750B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750D",
+              "name": "GRMN 0750D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 0750F",
+              "name": "GRMN 0750F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1200C",
+              "name": "GRMN 1200C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1200D",
+              "name": "GRMN 1200D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320A",
+              "name": "GRMN 1320A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320D",
+              "name": "GRMN 1320D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320E",
+              "name": "GRMN 1320E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320F",
+              "name": "GRMN 1320F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320G",
+              "name": "GRMN 1320G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320I",
+              "name": "GRMN 1320I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320O",
+              "name": "GRMN 1320O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1320S",
+              "name": "GRMN 1320S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1330A",
+              "name": "GRMN 1330A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340A",
+              "name": "GRMN 1340A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340B",
+              "name": "GRMN 1340B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340C",
+              "name": "GRMN 1340C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340D",
+              "name": "GRMN 1340D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340I",
+              "name": "GRMN 1340I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340J",
+              "name": "GRMN 1340J"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340K",
+              "name": "GRMN 1340K"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340L",
+              "name": "GRMN 1340L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340M",
+              "name": "GRMN 1340M"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1340Q",
+              "name": "GRMN 1340Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440A",
+              "name": "GRMN 1440A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440C",
+              "name": "GRMN 1440C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440D",
+              "name": "GRMN 1440D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440E",
+              "name": "GRMN 1440E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440F",
+              "name": "GRMN 1440F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440H",
+              "name": "GRMN 1440H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440L",
+              "name": "GRMN 1440L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440N",
+              "name": "GRMN 1440N"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440O",
+              "name": "GRMN 1440O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440P",
+              "name": "GRMN 1440P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440S",
+              "name": "GRMN 1440S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440X",
+              "name": "GRMN 1440X"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1440Y",
+              "name": "GRMN 1440Y"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1441C",
+              "name": "GRMN 1441C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450A",
+              "name": "GRMN 1450A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450B",
+              "name": "GRMN 1450B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450C",
+              "name": "GRMN 1450C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450F",
+              "name": "GRMN 1450F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450G",
+              "name": "GRMN 1450G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1450H",
+              "name": "GRMN 1450H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1640C",
+              "name": "GRMN 1640C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660B",
+              "name": "GRMN 1660B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660C",
+              "name": "GRMN 1660C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660F",
+              "name": "GRMN 1660F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660G",
+              "name": "GRMN 1660G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660H",
+              "name": "GRMN 1660H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660I",
+              "name": "GRMN 1660I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660K",
+              "name": "GRMN 1660K"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660L",
+              "name": "GRMN 1660L"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660P",
+              "name": "GRMN 1660P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660Q",
+              "name": "GRMN 1660Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660R",
+              "name": "GRMN 1660R"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660S",
+              "name": "GRMN 1660S"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660T",
+              "name": "GRMN 1660T"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660U",
+              "name": "GRMN 1660U"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660V",
+              "name": "GRMN 1660V"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1660W",
+              "name": "GRMN 1660W"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1661A",
+              "name": "GRMN 1661A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1661E",
+              "name": "GRMN 1661E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900A",
+              "name": "GRMN 1900A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900B",
+              "name": "GRMN 1900B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900C",
+              "name": "GRMN 1900C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900D",
+              "name": "GRMN 1900D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 1900E",
+              "name": "GRMN 1900E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320B",
+              "name": "GRMN 2320B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320C",
+              "name": "GRMN 2320C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320D",
+              "name": "GRMN 2320D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2320E",
+              "name": "GRMN 2320E"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2330A",
+              "name": "GRMN 2330A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340A",
+              "name": "GRMN 2340A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340B",
+              "name": "GRMN 2340B"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2340C",
+              "name": "GRMN 2340C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460A",
+              "name": "GRMN 2460A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460C",
+              "name": "GRMN 2460C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2460D",
+              "name": "GRMN 2460D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660A",
+              "name": "GRMN 2660A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660C",
+              "name": "GRMN 2660C"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660G",
+              "name": "GRMN 2660G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660H",
+              "name": "GRMN 2660H"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660I",
+              "name": "GRMN 2660I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660O",
+              "name": "GRMN 2660O"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2660P",
+              "name": "GRMN 2660P"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661A",
+              "name": "GRMN 2661A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661F",
+              "name": "GRMN 2661F"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661J",
+              "name": "GRMN 2661J"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2661Q",
+              "name": "GRMN 2661Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "GRMN 2662A",
+              "name": "GRMN 2662A"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0500F",
+            "name": "GRMN 0500F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0600C",
+            "name": "GRMN 0600C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750B",
+            "name": "GRMN 0750B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750D",
+            "name": "GRMN 0750D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 0750F",
+            "name": "GRMN 0750F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1200C",
+            "name": "GRMN 1200C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1200D",
+            "name": "GRMN 1200D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320A",
+            "name": "GRMN 1320A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320D",
+            "name": "GRMN 1320D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320E",
+            "name": "GRMN 1320E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320F",
+            "name": "GRMN 1320F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320G",
+            "name": "GRMN 1320G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320I",
+            "name": "GRMN 1320I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320O",
+            "name": "GRMN 1320O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1320S",
+            "name": "GRMN 1320S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1330A",
+            "name": "GRMN 1330A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340A",
+            "name": "GRMN 1340A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340B",
+            "name": "GRMN 1340B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340C",
+            "name": "GRMN 1340C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340D",
+            "name": "GRMN 1340D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340I",
+            "name": "GRMN 1340I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340J",
+            "name": "GRMN 1340J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340K",
+            "name": "GRMN 1340K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340L",
+            "name": "GRMN 1340L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340M",
+            "name": "GRMN 1340M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1340Q",
+            "name": "GRMN 1340Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440A",
+            "name": "GRMN 1440A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440C",
+            "name": "GRMN 1440C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440D",
+            "name": "GRMN 1440D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440E",
+            "name": "GRMN 1440E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440F",
+            "name": "GRMN 1440F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440H",
+            "name": "GRMN 1440H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440L",
+            "name": "GRMN 1440L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440N",
+            "name": "GRMN 1440N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440O",
+            "name": "GRMN 1440O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440P",
+            "name": "GRMN 1440P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440S",
+            "name": "GRMN 1440S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440X",
+            "name": "GRMN 1440X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1440Y",
+            "name": "GRMN 1440Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1441C",
+            "name": "GRMN 1441C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450A",
+            "name": "GRMN 1450A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450B",
+            "name": "GRMN 1450B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450C",
+            "name": "GRMN 1450C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450F",
+            "name": "GRMN 1450F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450G",
+            "name": "GRMN 1450G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1450H",
+            "name": "GRMN 1450H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1640C",
+            "name": "GRMN 1640C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660B",
+            "name": "GRMN 1660B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660C",
+            "name": "GRMN 1660C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660F",
+            "name": "GRMN 1660F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660G",
+            "name": "GRMN 1660G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660H",
+            "name": "GRMN 1660H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660I",
+            "name": "GRMN 1660I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660K",
+            "name": "GRMN 1660K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660L",
+            "name": "GRMN 1660L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660P",
+            "name": "GRMN 1660P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660Q",
+            "name": "GRMN 1660Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660R",
+            "name": "GRMN 1660R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660S",
+            "name": "GRMN 1660S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660T",
+            "name": "GRMN 1660T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660U",
+            "name": "GRMN 1660U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660V",
+            "name": "GRMN 1660V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1660W",
+            "name": "GRMN 1660W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1661A",
+            "name": "GRMN 1661A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1661E",
+            "name": "GRMN 1661E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900A",
+            "name": "GRMN 1900A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900B",
+            "name": "GRMN 1900B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900C",
+            "name": "GRMN 1900C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900D",
+            "name": "GRMN 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 1900E",
+            "name": "GRMN 1900E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320B",
+            "name": "GRMN 2320B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320C",
+            "name": "GRMN 2320C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320D",
+            "name": "GRMN 2320D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2320E",
+            "name": "GRMN 2320E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2330A",
+            "name": "GRMN 2330A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340A",
+            "name": "GRMN 2340A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340B",
+            "name": "GRMN 2340B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2340C",
+            "name": "GRMN 2340C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460A",
+            "name": "GRMN 2460A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460C",
+            "name": "GRMN 2460C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2460D",
+            "name": "GRMN 2460D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660A",
+            "name": "GRMN 2660A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660C",
+            "name": "GRMN 2660C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660G",
+            "name": "GRMN 2660G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660H",
+            "name": "GRMN 2660H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660I",
+            "name": "GRMN 2660I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660O",
+            "name": "GRMN 2660O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2660P",
+            "name": "GRMN 2660P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661A",
+            "name": "GRMN 2661A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661F",
+            "name": "GRMN 2661F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661J",
+            "name": "GRMN 2661J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2661Q",
+            "name": "GRMN 2661Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GRMN 2662A",
+            "name": "GRMN 2662A"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "GRMN 0400",
+      "name": "GRMN 0400"
+    },
+    {
+      "code": "GRMN 0450",
+      "name": "GRMN 0450"
+    },
+    {
+      "code": "GRMN 0500F",
+      "name": "GRMN 0500F"
+    },
+    {
+      "code": "GRMN 0600C",
+      "name": "GRMN 0600C"
+    },
+    {
+      "code": "GRMN 0750B",
+      "name": "GRMN 0750B"
+    },
+    {
+      "code": "GRMN 0750D",
+      "name": "GRMN 0750D"
+    },
+    {
+      "code": "GRMN 0750F",
+      "name": "GRMN 0750F"
+    },
+    {
+      "code": "GRMN 1200C",
+      "name": "GRMN 1200C"
+    },
+    {
+      "code": "GRMN 1200D",
+      "name": "GRMN 1200D"
+    },
+    {
+      "code": "GRMN 1320A",
+      "name": "GRMN 1320A"
+    },
+    {
+      "code": "GRMN 1320D",
+      "name": "GRMN 1320D"
+    },
+    {
+      "code": "GRMN 1320E",
+      "name": "GRMN 1320E"
+    },
+    {
+      "code": "GRMN 1320F",
+      "name": "GRMN 1320F"
+    },
+    {
+      "code": "GRMN 1320G",
+      "name": "GRMN 1320G"
+    },
+    {
+      "code": "GRMN 1320I",
+      "name": "GRMN 1320I"
+    },
+    {
+      "code": "GRMN 1320O",
+      "name": "GRMN 1320O"
+    },
+    {
+      "code": "GRMN 1320S",
+      "name": "GRMN 1320S"
+    },
+    {
+      "code": "GRMN 1330A",
+      "name": "GRMN 1330A"
+    },
+    {
+      "code": "GRMN 1340A",
+      "name": "GRMN 1340A"
+    },
+    {
+      "code": "GRMN 1340B",
+      "name": "GRMN 1340B"
+    },
+    {
+      "code": "GRMN 1340C",
+      "name": "GRMN 1340C"
+    },
+    {
+      "code": "GRMN 1340D",
+      "name": "GRMN 1340D"
+    },
+    {
+      "code": "GRMN 1340I",
+      "name": "GRMN 1340I"
+    },
+    {
+      "code": "GRMN 1340J",
+      "name": "GRMN 1340J"
+    },
+    {
+      "code": "GRMN 1340K",
+      "name": "GRMN 1340K"
+    },
+    {
+      "code": "GRMN 1340L",
+      "name": "GRMN 1340L"
+    },
+    {
+      "code": "GRMN 1340M",
+      "name": "GRMN 1340M"
+    },
+    {
+      "code": "GRMN 1340Q",
+      "name": "GRMN 1340Q"
+    },
+    {
+      "code": "GRMN 1440A",
+      "name": "GRMN 1440A"
+    },
+    {
+      "code": "GRMN 1440C",
+      "name": "GRMN 1440C"
+    },
+    {
+      "code": "GRMN 1440D",
+      "name": "GRMN 1440D"
+    },
+    {
+      "code": "GRMN 1440E",
+      "name": "GRMN 1440E"
+    },
+    {
+      "code": "GRMN 1440F",
+      "name": "GRMN 1440F"
+    },
+    {
+      "code": "GRMN 1440H",
+      "name": "GRMN 1440H"
+    },
+    {
+      "code": "GRMN 1440L",
+      "name": "GRMN 1440L"
+    },
+    {
+      "code": "GRMN 1440N",
+      "name": "GRMN 1440N"
+    },
+    {
+      "code": "GRMN 1440O",
+      "name": "GRMN 1440O"
+    },
+    {
+      "code": "GRMN 1440P",
+      "name": "GRMN 1440P"
+    },
+    {
+      "code": "GRMN 1440S",
+      "name": "GRMN 1440S"
+    },
+    {
+      "code": "GRMN 1440X",
+      "name": "GRMN 1440X"
+    },
+    {
+      "code": "GRMN 1440Y",
+      "name": "GRMN 1440Y"
+    },
+    {
+      "code": "GRMN 1441C",
+      "name": "GRMN 1441C"
+    },
+    {
+      "code": "GRMN 1450A",
+      "name": "GRMN 1450A"
+    },
+    {
+      "code": "GRMN 1450B",
+      "name": "GRMN 1450B"
+    },
+    {
+      "code": "GRMN 1450C",
+      "name": "GRMN 1450C"
+    },
+    {
+      "code": "GRMN 1450F",
+      "name": "GRMN 1450F"
+    },
+    {
+      "code": "GRMN 1450G",
+      "name": "GRMN 1450G"
+    },
+    {
+      "code": "GRMN 1450H",
+      "name": "GRMN 1450H"
+    },
+    {
+      "code": "GRMN 1640C",
+      "name": "GRMN 1640C"
+    },
+    {
+      "code": "GRMN 1660B",
+      "name": "GRMN 1660B"
+    },
+    {
+      "code": "GRMN 1660C",
+      "name": "GRMN 1660C"
+    },
+    {
+      "code": "GRMN 1660F",
+      "name": "GRMN 1660F"
+    },
+    {
+      "code": "GRMN 1660G",
+      "name": "GRMN 1660G"
+    },
+    {
+      "code": "GRMN 1660H",
+      "name": "GRMN 1660H"
+    },
+    {
+      "code": "GRMN 1660I",
+      "name": "GRMN 1660I"
+    },
+    {
+      "code": "GRMN 1660K",
+      "name": "GRMN 1660K"
+    },
+    {
+      "code": "GRMN 1660L",
+      "name": "GRMN 1660L"
+    },
+    {
+      "code": "GRMN 1660P",
+      "name": "GRMN 1660P"
+    },
+    {
+      "code": "GRMN 1660Q",
+      "name": "GRMN 1660Q"
+    },
+    {
+      "code": "GRMN 1660R",
+      "name": "GRMN 1660R"
+    },
+    {
+      "code": "GRMN 1660S",
+      "name": "GRMN 1660S"
+    },
+    {
+      "code": "GRMN 1660T",
+      "name": "GRMN 1660T"
+    },
+    {
+      "code": "GRMN 1660U",
+      "name": "GRMN 1660U"
+    },
+    {
+      "code": "GRMN 1660V",
+      "name": "GRMN 1660V"
+    },
+    {
+      "code": "GRMN 1660W",
+      "name": "GRMN 1660W"
+    },
+    {
+      "code": "GRMN 1661A",
+      "name": "GRMN 1661A"
+    },
+    {
+      "code": "GRMN 1661E",
+      "name": "GRMN 1661E"
+    },
+    {
+      "code": "GRMN 1900A",
+      "name": "GRMN 1900A"
+    },
+    {
+      "code": "GRMN 1900B",
+      "name": "GRMN 1900B"
+    },
+    {
+      "code": "GRMN 1900C",
+      "name": "GRMN 1900C"
+    },
+    {
+      "code": "GRMN 1900D",
+      "name": "GRMN 1900D"
+    },
+    {
+      "code": "GRMN 1900E",
+      "name": "GRMN 1900E"
+    },
+    {
+      "code": "GRMN 2320B",
+      "name": "GRMN 2320B"
+    },
+    {
+      "code": "GRMN 2320C",
+      "name": "GRMN 2320C"
+    },
+    {
+      "code": "GRMN 2320D",
+      "name": "GRMN 2320D"
+    },
+    {
+      "code": "GRMN 2320E",
+      "name": "GRMN 2320E"
+    },
+    {
+      "code": "GRMN 2330A",
+      "name": "GRMN 2330A"
+    },
+    {
+      "code": "GRMN 2340A",
+      "name": "GRMN 2340A"
+    },
+    {
+      "code": "GRMN 2340B",
+      "name": "GRMN 2340B"
+    },
+    {
+      "code": "GRMN 2340C",
+      "name": "GRMN 2340C"
+    },
+    {
+      "code": "GRMN 2460A",
+      "name": "GRMN 2460A"
+    },
+    {
+      "code": "GRMN 2460C",
+      "name": "GRMN 2460C"
+    },
+    {
+      "code": "GRMN 2460D",
+      "name": "GRMN 2460D"
+    },
+    {
+      "code": "GRMN 2660A",
+      "name": "GRMN 2660A"
+    },
+    {
+      "code": "GRMN 2660C",
+      "name": "GRMN 2660C"
+    },
+    {
+      "code": "GRMN 2660G",
+      "name": "GRMN 2660G"
+    },
+    {
+      "code": "GRMN 2660H",
+      "name": "GRMN 2660H"
+    },
+    {
+      "code": "GRMN 2660I",
+      "name": "GRMN 2660I"
+    },
+    {
+      "code": "GRMN 2660O",
+      "name": "GRMN 2660O"
+    },
+    {
+      "code": "GRMN 2660P",
+      "name": "GRMN 2660P"
+    },
+    {
+      "code": "GRMN 2661A",
+      "name": "GRMN 2661A"
+    },
+    {
+      "code": "GRMN 2661F",
+      "name": "GRMN 2661F"
+    },
+    {
+      "code": "GRMN 2661J",
+      "name": "GRMN 2661J"
+    },
+    {
+      "code": "GRMN 2661Q",
+      "name": "GRMN 2661Q"
+    },
+    {
+      "code": "GRMN 2662A",
+      "name": "GRMN 2662A"
+    }
+  ]
+}

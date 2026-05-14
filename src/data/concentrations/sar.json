@@ -1,0 +1,1461 @@
+{
+  "concentration": "Social Analysis and Research",
+  "slug": "sar",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/sar/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "Required core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2010",
+                  "name": "SOC 2010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1010",
+                  "name": "SOC 1010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1950",
+                  "name": "SOC 1950"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three (3) substantive or theory courses (non-methodological courses) in Sociology, two (2) of which must be at the 1000-level or above. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Three (3)  of the following advanced analysis courses: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1117",
+                  "name": "SOC 1117"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1118",
+                  "name": "SOC 1118"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1120",
+                  "name": "SOC 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1340",
+                  "name": "SOC 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1872N",
+                  "name": "SOC 1872N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2020",
+                  "name": "SOC 2020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2070",
+                  "name": "SOC 2070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2210",
+                  "name": "SOC 2210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2230",
+                  "name": "SOC 2230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2240",
+                  "name": "SOC 2240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2250",
+                  "name": "SOC 2250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2260T",
+                  "name": "SOC 2260T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2610",
+                  "name": "SOC 2610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2612",
+                  "name": "SOC 2612"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2960G",
+                  "name": "SOC 2960G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2960Y",
+                  "name": "SOC 2960Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2961A",
+                  "name": "SOC 2961A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Research experience (1 course) 0-1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1970",
+                  "name": "SOC 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2010",
+            "name": "SOC 2010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1010",
+            "name": "SOC 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1950",
+            "name": "SOC 1950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1117",
+            "name": "SOC 1117"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1118",
+            "name": "SOC 1118"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1120",
+            "name": "SOC 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1340",
+            "name": "SOC 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1872N",
+            "name": "SOC 1872N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2020",
+            "name": "SOC 2020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2070",
+            "name": "SOC 2070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2210",
+            "name": "SOC 2210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2230",
+            "name": "SOC 2230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2240",
+            "name": "SOC 2240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2250",
+            "name": "SOC 2250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2260T",
+            "name": "SOC 2260T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2610",
+            "name": "SOC 2610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2612",
+            "name": "SOC 2612"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2960G",
+            "name": "SOC 2960G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2960Y",
+            "name": "SOC 2960Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2961A",
+            "name": "SOC 2961A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1970",
+            "name": "SOC 1970"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "organizational_studies_track_requirements",
+      "name": "Organizational Studies Track requirements",
+      "groups": [
+        {
+          "name": "Required core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1010",
+                  "name": "SOC 1010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1950",
+                  "name": "SOC 1950"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2010",
+                  "name": "SOC 2010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Any combination of two (2) courses from below: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 0300",
+                  "name": "SOC 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1311",
+                  "name": "SOC 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1315",
+                  "name": "SOC 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One (1) Advanced Organizational Studies Elective: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1070",
+                  "name": "SOC 1070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1117",
+                  "name": "SOC 1117"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1118",
+                  "name": "SOC 1118"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1120",
+                  "name": "SOC 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1311",
+                  "name": "SOC 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1315",
+                  "name": "SOC 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1871C",
+                  "name": "SOC 1871C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three (3) of the following Advanced Analysis Courses: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1117",
+                  "name": "SOC 1117"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1118",
+                  "name": "SOC 1118"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1120",
+                  "name": "SOC 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1340",
+                  "name": "SOC 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1872N",
+                  "name": "SOC 1872N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2020",
+                  "name": "SOC 2020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2070",
+                  "name": "SOC 2070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2210",
+                  "name": "SOC 2210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2230",
+                  "name": "SOC 2230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2240",
+                  "name": "SOC 2240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2250",
+                  "name": "SOC 2250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2260T",
+                  "name": "SOC 2260T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2610",
+                  "name": "SOC 2610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2612",
+                  "name": "SOC 2612"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2960G",
+                  "name": "SOC 2960G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2960Y",
+                  "name": "SOC 2960Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 2961A",
+                  "name": "SOC 2961A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Research experience (1 course) 0-1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1970",
+                  "name": "SOC 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1010",
+            "name": "SOC 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1950",
+            "name": "SOC 1950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2010",
+            "name": "SOC 2010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 0300",
+            "name": "SOC 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1311",
+            "name": "SOC 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1315",
+            "name": "SOC 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1070",
+            "name": "SOC 1070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1117",
+            "name": "SOC 1117"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1118",
+            "name": "SOC 1118"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1120",
+            "name": "SOC 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1311",
+            "name": "SOC 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1315",
+            "name": "SOC 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1871C",
+            "name": "SOC 1871C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1117",
+            "name": "SOC 1117"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1118",
+            "name": "SOC 1118"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1120",
+            "name": "SOC 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1340",
+            "name": "SOC 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1872N",
+            "name": "SOC 1872N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2020",
+            "name": "SOC 2020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2070",
+            "name": "SOC 2070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2210",
+            "name": "SOC 2210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2230",
+            "name": "SOC 2230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2240",
+            "name": "SOC 2240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2250",
+            "name": "SOC 2250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2260T",
+            "name": "SOC 2260T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2610",
+            "name": "SOC 2610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2612",
+            "name": "SOC 2612"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2960G",
+            "name": "SOC 2960G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2960Y",
+            "name": "SOC 2960Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 2961A",
+            "name": "SOC 2961A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1970",
+            "name": "SOC 1970"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "SOC 1020",
+      "name": "SOC 1020"
+    },
+    {
+      "code": "SOC 2010",
+      "name": "SOC 2010"
+    },
+    {
+      "code": "SOC 1010",
+      "name": "SOC 1010"
+    },
+    {
+      "code": "SOC 1950",
+      "name": "SOC 1950"
+    },
+    {
+      "code": "SOC 1117",
+      "name": "SOC 1117"
+    },
+    {
+      "code": "SOC 1118",
+      "name": "SOC 1118"
+    },
+    {
+      "code": "SOC 1120",
+      "name": "SOC 1120"
+    },
+    {
+      "code": "SOC 1260",
+      "name": "SOC 1260"
+    },
+    {
+      "code": "SOC 1340",
+      "name": "SOC 1340"
+    },
+    {
+      "code": "SOC 1872N",
+      "name": "SOC 1872N"
+    },
+    {
+      "code": "SOC 2020",
+      "name": "SOC 2020"
+    },
+    {
+      "code": "SOC 2070",
+      "name": "SOC 2070"
+    },
+    {
+      "code": "SOC 2210",
+      "name": "SOC 2210"
+    },
+    {
+      "code": "SOC 2230",
+      "name": "SOC 2230"
+    },
+    {
+      "code": "SOC 2240",
+      "name": "SOC 2240"
+    },
+    {
+      "code": "SOC 2250",
+      "name": "SOC 2250"
+    },
+    {
+      "code": "SOC 2260T",
+      "name": "SOC 2260T"
+    },
+    {
+      "code": "SOC 2610",
+      "name": "SOC 2610"
+    },
+    {
+      "code": "SOC 2612",
+      "name": "SOC 2612"
+    },
+    {
+      "code": "SOC 2960G",
+      "name": "SOC 2960G"
+    },
+    {
+      "code": "SOC 2960Y",
+      "name": "SOC 2960Y"
+    },
+    {
+      "code": "SOC 2961A",
+      "name": "SOC 2961A"
+    },
+    {
+      "code": "SOC 1970",
+      "name": "SOC 1970"
+    },
+    {
+      "code": "SOC 0300",
+      "name": "SOC 0300"
+    },
+    {
+      "code": "SOC 1311",
+      "name": "SOC 1311"
+    },
+    {
+      "code": "SOC 1315",
+      "name": "SOC 1315"
+    },
+    {
+      "code": "SOC 1070",
+      "name": "SOC 1070"
+    },
+    {
+      "code": "SOC 1871C",
+      "name": "SOC 1871C"
+    }
+  ]
+}

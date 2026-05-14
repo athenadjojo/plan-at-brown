@@ -1,0 +1,239 @@
+{
+  "concentration": "Critical Native American and Indigenous Studies",
+  "slug": "nais",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/nais/",
+  "tracks": [
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ETHN 1200K",
+              "name": "ETHN 1200K"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas. 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Four elective courses from the following Concentration Breadth Areas: 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "1) Creative Expressions (Arts, Literature and Language)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "2) History, Politics and Policy Issues",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "3) Language and Identity",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "4) Systems of Knowledge and Belief: Fundamentals of Indigenous Living, Society and Wellness (Environment, Medicine, Biology, Health, Psychology, Public Health, Philosophy, Religion)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "At least two breadth areas must be included in the overall course of study, with a minimum of two courses in a breadth area outside of the focus area of study (if that is connected to only one breadth area); electives provide an opportunity for expansion beyond the focus area.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "No more than two Independent Study Project (ISP or GISP) courses counting towards fulfillment of the concentration.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Courses that are not NAIS designated (in the list of concentration courses) may count toward the concentration if agreed upon by the NAIS DUS and closely connected to areas of study.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NAIS 1900",
+                  "name": "NAIS 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1200K",
+            "name": "ETHN 1200K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NAIS 1900",
+            "name": "NAIS 1900"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements_for_the_a_b__degree",
+      "name": "Requirements for the A.B. degree",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ETHN 1200K",
+              "name": "ETHN 1200K"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas. 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Four elective courses from the following Concentration Breadth Areas: 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "1) Creative Expressions (Arts, Literature and Language)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "2) History, Politics and Policy Issues",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "3) Language and Identity",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "4) Systems of Knowledge and Belief: Fundamentals of Indigenous Living, Society and Wellness (Environment, Medicine, Biology, Health, Psychology, Public Health, Philosophy, Religion)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "At least two breadth areas must be included in the overall course of study, with a minimum of two courses in a breadth area outside of the focus area of study (if that is connected to only one breadth area); electives provide an opportunity for expansion beyond the focus area.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "No more than two Independent Study Project (ISP or GISP) courses counting towards fulfillment of the concentration.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Courses that are not NAIS designated (in the list of concentration courses) may count toward the concentration if agreed upon by the NAIS DUS and closely connected to areas of study.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NAIS 1900",
+                  "name": "NAIS 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1200K",
+            "name": "ETHN 1200K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NAIS 1900",
+            "name": "NAIS 1900"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ETHN 1200K",
+      "name": "ETHN 1200K"
+    },
+    {
+      "code": "NAIS 1900",
+      "name": "NAIS 1900"
+    }
+  ]
+}

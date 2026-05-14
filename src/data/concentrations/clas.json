@@ -1,0 +1,1468 @@
+{
+  "concentration": "Classics",
+  "slug": "clas",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/clas/",
+  "tracks": [
+    {
+      "id": "classics",
+      "name": "Classics",
+      "groups": [
+        {
+          "name": "One course in Greek or Latin on the 1000-level or above. 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Select any two  of the four ancient history courses: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1210",
+                  "name": "CLAS 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1220",
+                  "name": "CLAS 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1200B",
+                  "name": "HIST 1200B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1201B",
+                  "name": "HIST 1201B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "GREK 0100",
+                  "name": "GREK 0100"
+                },
+                {
+                  "code": "GREK 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "GREK 0110",
+                  "name": "0110"
+                },
+                {
+                  "code": "LATN 0100",
+                  "name": "LATN 0100"
+                },
+                {
+                  "code": "LATN 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "LATN 0110",
+                  "name": "0110"
+                }
+              ],
+              "count": 5,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1210",
+            "name": "CLAS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1220",
+            "name": "CLAS 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1200B",
+            "name": "HIST 1200B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1201B",
+            "name": "HIST 1201B"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "GREK 0100",
+              "name": "GREK 0100"
+            },
+            {
+              "code": "GREK 0200",
+              "name": "0200"
+            },
+            {
+              "code": "GREK 0110",
+              "name": "0110"
+            },
+            {
+              "code": "LATN 0100",
+              "name": "LATN 0100"
+            },
+            {
+              "code": "LATN 0200",
+              "name": "0200"
+            },
+            {
+              "code": "LATN 0110",
+              "name": "0110"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "greek",
+      "name": "Greek",
+      "groups": [
+        {
+          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be: 1 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1810",
+                  "name": "GREK 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1820",
+                  "name": "GREK 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1210",
+                  "name": "CLAS 1210"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1220",
+                  "name": "CLAS 1220"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "GREK 0100",
+                  "name": "GREK 0100"
+                },
+                {
+                  "code": "GREK 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "GREK 0110",
+                  "name": "0110"
+                },
+                {
+                  "code": "LATN 0100",
+                  "name": "LATN 0100"
+                },
+                {
+                  "code": "LATN 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "LATN 0110",
+                  "name": "0110"
+                }
+              ],
+              "count": 2,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1810",
+            "name": "GREK 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1820",
+            "name": "GREK 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1210",
+            "name": "CLAS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1220",
+            "name": "CLAS 1220"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "GREK 0100",
+              "name": "GREK 0100"
+            },
+            {
+              "code": "GREK 0200",
+              "name": "0200"
+            },
+            {
+              "code": "GREK 0110",
+              "name": "0110"
+            },
+            {
+              "code": "LATN 0100",
+              "name": "LATN 0100"
+            },
+            {
+              "code": "LATN 0200",
+              "name": "0200"
+            },
+            {
+              "code": "LATN 0110",
+              "name": "0110"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "latin",
+      "name": "Latin",
+      "groups": [
+        {
+          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be: 1 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1810",
+                  "name": "LATN 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1820",
+                  "name": "LATN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1201B",
+                  "name": "HIST 1201B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "GREK 0100",
+                  "name": "GREK 0100"
+                },
+                {
+                  "code": "GREK 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "GREK 0110",
+                  "name": "0110"
+                },
+                {
+                  "code": "LATN 0100",
+                  "name": "LATN 0100"
+                },
+                {
+                  "code": "LATN 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "LATN 0110",
+                  "name": "0110"
+                }
+              ],
+              "count": 2,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1810",
+            "name": "LATN 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1820",
+            "name": "LATN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1201B",
+            "name": "HIST 1201B"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "GREK 0100",
+              "name": "GREK 0100"
+            },
+            {
+              "code": "GREK 0200",
+              "name": "0200"
+            },
+            {
+              "code": "GREK 0110",
+              "name": "0110"
+            },
+            {
+              "code": "LATN 0100",
+              "name": "LATN 0100"
+            },
+            {
+              "code": "LATN 0200",
+              "name": "0200"
+            },
+            {
+              "code": "LATN 0110",
+              "name": "0110"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "greek_and_latin",
+      "name": "Greek and Latin",
+      "groups": [
+        {
+          "name": "Ancient Language A (Either Latin or Ancient Greek) requires four (4) courses on the 1000-level.  Typically Ancient Language A will be the one in which a survey course will be taken. 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Ancient Language B (Either Ancient Greet or Latin, respectively) requires four ancient language courses of which two can be 0300 and 0400 and the other two at 1000-level or above. 2 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "One of the survey courses in Ancient Language A: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1810",
+                  "name": "LATN 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1820",
+                  "name": "LATN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1810",
+                  "name": "GREK 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1820",
+                  "name": "GREK 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Any THREE of the FOUR Ancient History courses: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1210",
+                  "name": "CLAS 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1220",
+                  "name": "CLAS 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1200B",
+                  "name": "HIST 1200B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1201B",
+                  "name": "HIST 1201B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond,\" OR a DIAP course offered by the Department of Classics. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1810",
+            "name": "LATN 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1820",
+            "name": "LATN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1810",
+            "name": "GREK 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1820",
+            "name": "GREK 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1210",
+            "name": "CLAS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1220",
+            "name": "CLAS 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1200B",
+            "name": "HIST 1200B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1201B",
+            "name": "HIST 1201B"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "south_asian_classics",
+      "name": "South Asian Classics",
+      "groups": [
+        {
+          "name": "At least one Sanskrit course above Sanskrit 0300 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Three of the Sanskrit Classics Courses in Translation 2 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "SANS 0100",
+                  "name": "SANS 0100"
+                },
+                {
+                  "code": "SANS 0200",
+                  "name": "0200"
+                },
+                {
+                  "code": "SANS 0300",
+                  "name": "0300"
+                }
+              ],
+              "count": 4,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 4 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "SANS 0100",
+              "name": "SANS 0100"
+            },
+            {
+              "code": "SANS 0200",
+              "name": "0200"
+            },
+            {
+              "code": "SANS 0300",
+              "name": "0300"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "sanskrit",
+      "name": "Sanskrit",
+      "groups": [
+        {
+          "name": "Two Sanskrit courses at the 1000-level or above 1 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two of the Sanskrit Classics Courses in Translation 2 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "SANS 0300",
+                  "name": "SANS 0300"
+                },
+                {
+                  "code": "SANS 0400",
+                  "name": "SANS 0400"
+                }
+              ],
+              "count": 4,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 4 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "SANS 0300",
+              "name": "SANS 0300"
+            },
+            {
+              "code": "SANS 0400",
+              "name": "SANS 0400"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "greek_and_sanskrit",
+      "name": "Greek and Sanskrit",
+      "groups": [
+        {
+          "name": "Four Sanskrit courses at any level 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be: 2 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1810",
+                  "name": "GREK 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "GREK 1820",
+                  "name": "GREK 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One of the two Ancient Greek History Courses: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Either",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1210",
+                  "name": "CLAS 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1220",
+                  "name": "CLAS 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1200B",
+                  "name": "HIST 1200B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "GREK 0300",
+                  "name": "GREK 0300"
+                },
+                {
+                  "code": "GREK 0400",
+                  "name": "GREK 0400"
+                }
+              ],
+              "count": 2,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1810",
+            "name": "GREK 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "GREK 1820",
+            "name": "GREK 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1210",
+            "name": "CLAS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1220",
+            "name": "CLAS 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1200B",
+            "name": "HIST 1200B"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "GREK 0300",
+              "name": "GREK 0300"
+            },
+            {
+              "code": "GREK 0400",
+              "name": "GREK 0400"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "latin_and_sanskrit",
+      "name": "Latin and Sanskrit",
+      "groups": [
+        {
+          "name": "Four Sanskrit courses at any level 1 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be 2 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1810",
+                  "name": "LATN 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 1820",
+                  "name": "LATN 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One of the two Roman Ancient History courses 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Either",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1310",
+                  "name": "CLAS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1320",
+                  "name": "CLAS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1201B",
+                  "name": "HIST 1201B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "LATN 0300",
+                  "name": "LATN 0300"
+                },
+                {
+                  "code": "LATN 0400",
+                  "name": "LATN 0400"
+                }
+              ],
+              "count": 2,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1810",
+            "name": "LATN 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 1820",
+            "name": "LATN 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1310",
+            "name": "CLAS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1320",
+            "name": "CLAS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1201B",
+            "name": "HIST 1201B"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "LATN 0300",
+              "name": "LATN 0300"
+            },
+            {
+              "code": "LATN 0400",
+              "name": "LATN 0400"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CLAS 1210",
+      "name": "CLAS 1210"
+    },
+    {
+      "code": "CLAS 1220",
+      "name": "CLAS 1220"
+    },
+    {
+      "code": "HIST 1200B",
+      "name": "HIST 1200B"
+    },
+    {
+      "code": "CLAS 1310",
+      "name": "CLAS 1310"
+    },
+    {
+      "code": "CLAS 1320",
+      "name": "CLAS 1320"
+    },
+    {
+      "code": "HIST 1201B",
+      "name": "HIST 1201B"
+    },
+    {
+      "code": "GREK 0100",
+      "name": "GREK 0100"
+    },
+    {
+      "code": "GREK 0200",
+      "name": "0200"
+    },
+    {
+      "code": "GREK 0110",
+      "name": "0110"
+    },
+    {
+      "code": "LATN 0100",
+      "name": "LATN 0100"
+    },
+    {
+      "code": "LATN 0200",
+      "name": "0200"
+    },
+    {
+      "code": "LATN 0110",
+      "name": "0110"
+    },
+    {
+      "code": "GREK 1110B",
+      "name": "GREK 1110B"
+    },
+    {
+      "code": "GREK 1110S",
+      "name": "GREK 1110S"
+    },
+    {
+      "code": "GREK 1111B",
+      "name": "GREK 1111B"
+    },
+    {
+      "code": "GREK 1150",
+      "name": "GREK 1150"
+    },
+    {
+      "code": "GREK 1810",
+      "name": "GREK 1810"
+    },
+    {
+      "code": "LATN 1020D",
+      "name": "LATN 1020D"
+    },
+    {
+      "code": "LATN 1040B",
+      "name": "LATN 1040B"
+    },
+    {
+      "code": "LATN 1060G",
+      "name": "LATN 1060G"
+    },
+    {
+      "code": "LATN 1110F",
+      "name": "LATN 1110F"
+    },
+    {
+      "code": "LATN 1110H",
+      "name": "LATN 1110H"
+    },
+    {
+      "code": "LATN 1110P",
+      "name": "LATN 1110P"
+    },
+    {
+      "code": "LATN 1820",
+      "name": "LATN 1820"
+    },
+    {
+      "code": "LATN 1930B",
+      "name": "LATN 1930B"
+    },
+    {
+      "code": "LATN 2080F",
+      "name": "LATN 2080F"
+    },
+    {
+      "code": "CLAS 0150",
+      "name": "CLAS 0150"
+    },
+    {
+      "code": "CLAS 0660",
+      "name": "CLAS 0660"
+    },
+    {
+      "code": "CLAS 0765",
+      "name": "CLAS 0765"
+    },
+    {
+      "code": "CLAS 0780",
+      "name": "CLAS 0780"
+    },
+    {
+      "code": "CLAS 0855",
+      "name": "CLAS 0855"
+    },
+    {
+      "code": "CLAS 0900",
+      "name": "CLAS 0900"
+    },
+    {
+      "code": "CLAS 1120G",
+      "name": "CLAS 1120G"
+    },
+    {
+      "code": "CLAS 1120Q",
+      "name": "CLAS 1120Q"
+    },
+    {
+      "code": "CLAS 1120U",
+      "name": "CLAS 1120U"
+    },
+    {
+      "code": "CLAS 1145",
+      "name": "CLAS 1145"
+    },
+    {
+      "code": "CLAS 1750H",
+      "name": "CLAS 1750H"
+    },
+    {
+      "code": "GREK 1110H",
+      "name": "GREK 1110H"
+    },
+    {
+      "code": "SANS 0100",
+      "name": "SANS 0100"
+    },
+    {
+      "code": "SANS 0200",
+      "name": "SANS 0200"
+    },
+    {
+      "code": "GREK 1820",
+      "name": "GREK 1820"
+    },
+    {
+      "code": "LATN 0300",
+      "name": "LATN 0300"
+    },
+    {
+      "code": "LATN 0400",
+      "name": "LATN 0400"
+    },
+    {
+      "code": "LATN 1810",
+      "name": "LATN 1810"
+    },
+    {
+      "code": "CLAS 0771",
+      "name": "CLAS 0771"
+    },
+    {
+      "code": "CLAS 1750U",
+      "name": "CLAS 1750U"
+    },
+    {
+      "code": "GREK 0300",
+      "name": "GREK 0300"
+    },
+    {
+      "code": "GREK 0400",
+      "name": "GREK 0400"
+    },
+    {
+      "code": "SANS 0300",
+      "name": "0300"
+    },
+    {
+      "code": "SANS 0400",
+      "name": "SANS 0400"
+    },
+    {
+      "code": "SANS 1080",
+      "name": "SANS 1080"
+    },
+    {
+      "code": "SANS 1600",
+      "name": "SANS 1600"
+    }
+  ]
+}

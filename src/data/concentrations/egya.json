@@ -1,0 +1,1618 @@
+{
+  "concentration": "Egyptology and Assyriology",
+  "slug": "egya",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/egya/",
+  "tracks": [
+    {
+      "id": "assyriology_track",
+      "name": "Assyriology Track",
+      "groups": [
+        {
+          "name": "Language Courses (two courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One course in cuneiform-based language, normally Introduction to Akkadian, Introduction to Sumerian, or Introduction to Hittite.  One additional language course, either Intermediaet Akkadian or another language with the EGYT or ASYR course code.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1000",
+                  "name": "ASYR 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1400",
+                  "name": "ASYR 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1900",
+                  "name": "ASYR 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "And one of the Following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1010",
+                  "name": "ASYR 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1400",
+                  "name": "ASYR 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1900",
+                  "name": "ASYR 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1310",
+                  "name": "EGYT 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1320",
+                  "name": "EGYT 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Foundations (Four Courses): One course in each of the following areas: 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "History",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0600",
+                  "name": "EGYT 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0300",
+                  "name": "ASYR 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0800",
+                  "name": "ASYR 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Archaeology:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0800",
+                  "name": "ASYR 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0372",
+                  "name": "ARCH 0372"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0760",
+                  "name": "ARCH 0760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1475",
+                  "name": "ARCH 1475"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1635",
+                  "name": "ARCH 1635"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1879",
+                  "name": "ARCH 1879"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Religion and Literature",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0300",
+                  "name": "EGYT 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0255",
+                  "name": "ARCH 0255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0310",
+                  "name": "ASYR 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1100",
+                  "name": "ASYR 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1110",
+                  "name": "ASYR 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Making Knowledge - Ancient and Mondern",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0320",
+                  "name": "ASYR 0320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0500",
+                  "name": "ASYR 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1160",
+                  "name": "ASYR 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1500",
+                  "name": "ASYR 1500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1600",
+                  "name": "ASYR 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1700",
+                  "name": "ASYR 1700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1725",
+                  "name": "ASYR 1725"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1538",
+                  "name": "ARCH 1538"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1830",
+                  "name": "ARCH 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Depth Requirement (Two Courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "At least two additional courses at the 1000 level or higher that include ancient Mesopotamia as a major component of the syllabus, usually in ASYR or ARCH. Subject to the approval of the concentration advisor and DUS.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Breadth Requirement (Two Courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department\u2019s faculty. Subject to the approval of the concentration advisor and DUS.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1000",
+            "name": "ASYR 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1400",
+            "name": "ASYR 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1900",
+            "name": "ASYR 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1010",
+            "name": "ASYR 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1400",
+            "name": "ASYR 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1900",
+            "name": "ASYR 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1310",
+            "name": "EGYT 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1320",
+            "name": "EGYT 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0600",
+            "name": "EGYT 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0300",
+            "name": "ASYR 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0800",
+            "name": "ASYR 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0800",
+            "name": "ASYR 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0372",
+            "name": "ARCH 0372"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0760",
+            "name": "ARCH 0760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1475",
+            "name": "ARCH 1475"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1635",
+            "name": "ARCH 1635"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1879",
+            "name": "ARCH 1879"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0300",
+            "name": "EGYT 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0255",
+            "name": "ARCH 0255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0310",
+            "name": "ASYR 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1100",
+            "name": "ASYR 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1110",
+            "name": "ASYR 1110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0320",
+            "name": "ASYR 0320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0500",
+            "name": "ASYR 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1160",
+            "name": "ASYR 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1500",
+            "name": "ASYR 1500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1600",
+            "name": "ASYR 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1700",
+            "name": "ASYR 1700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1725",
+            "name": "ASYR 1725"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1538",
+            "name": "ARCH 1538"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1830",
+            "name": "ARCH 1830"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "egyptology_track",
+      "name": "Egyptology Track",
+      "groups": [
+        {
+          "name": "Language Courses (two courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "One course in the ancient Egyptian language, ordinarily Middle Egyptian I. However, other phases of the ancient Egyptian language can be substituted for one or both of these, such as Late Egyptian or Coptic. One additional language course, either Middle Egyptian II or another language with the EGYT or ASYR course code.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1310",
+                  "name": "EGYT 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "And one of the Following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1320",
+                  "name": "EGYT 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 2210",
+                  "name": "EGYT 2210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 2410",
+                  "name": "EGYT 2410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 2610",
+                  "name": "EGYT 2610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1000",
+                  "name": "ASYR 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1010",
+                  "name": "ASYR 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1400",
+                  "name": "ASYR 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1900",
+                  "name": "ASYR 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Foundations (Four Courses): One course in each of the following areas: 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "History",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0500",
+                  "name": "EGYT 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0550",
+                  "name": "EGYT 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0600",
+                  "name": "EGYT 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1030",
+                  "name": "EGYT 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1430",
+                  "name": "EGYT 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1465",
+                  "name": "EGYT 1465"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Archaeology:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1510",
+                  "name": "EGYT 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0150",
+                  "name": "ARCH 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0760",
+                  "name": "ARCH 0760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1630",
+                  "name": "ARCH 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1635",
+                  "name": "ARCH 1635"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1879",
+                  "name": "ARCH 1879"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Religion and Literature",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 0300",
+                  "name": "EGYT 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1100",
+                  "name": "EGYT 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1420",
+                  "name": "EGYT 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0255",
+                  "name": "ARCH 0255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Making Knowledge - Ancient and Mondern",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1400",
+                  "name": "EGYT 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1485",
+                  "name": "EGYT 1485"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1490",
+                  "name": "EGYT 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0320",
+                  "name": "ASYR 0320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0500",
+                  "name": "ASYR 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1160",
+                  "name": "ASYR 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1600",
+                  "name": "ASYR 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1538",
+                  "name": "ARCH 1538"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1830",
+                  "name": "ARCH 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Depth Requirement (Two Courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "At least two additional courses at the 1000 level or higher that include ancient Egypt as a major component of the syllabus, usually in EGYT or ARCH. Subject to the approval of the concentration advisor and DUS.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Breadth Requirement (Two Courses) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department\u2019s faculty. Subject to the approval of the concentration advisor and DUS.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1310",
+            "name": "EGYT 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1320",
+            "name": "EGYT 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 2210",
+            "name": "EGYT 2210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 2410",
+            "name": "EGYT 2410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 2610",
+            "name": "EGYT 2610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1000",
+            "name": "ASYR 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1010",
+            "name": "ASYR 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1400",
+            "name": "ASYR 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1900",
+            "name": "ASYR 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0500",
+            "name": "EGYT 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0550",
+            "name": "EGYT 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0600",
+            "name": "EGYT 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1030",
+            "name": "EGYT 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1430",
+            "name": "EGYT 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1465",
+            "name": "EGYT 1465"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1510",
+            "name": "EGYT 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0150",
+            "name": "ARCH 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0760",
+            "name": "ARCH 0760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1630",
+            "name": "ARCH 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1635",
+            "name": "ARCH 1635"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1879",
+            "name": "ARCH 1879"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 0300",
+            "name": "EGYT 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1100",
+            "name": "EGYT 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1420",
+            "name": "EGYT 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0255",
+            "name": "ARCH 0255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1400",
+            "name": "EGYT 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1485",
+            "name": "EGYT 1485"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1490",
+            "name": "EGYT 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0320",
+            "name": "ASYR 0320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0500",
+            "name": "ASYR 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1160",
+            "name": "ASYR 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1600",
+            "name": "ASYR 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1538",
+            "name": "ARCH 1538"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1830",
+            "name": "ARCH 1830"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ASYR 1000",
+      "name": "ASYR 1000"
+    },
+    {
+      "code": "ASYR 1400",
+      "name": "ASYR 1400"
+    },
+    {
+      "code": "ASYR 1900",
+      "name": "ASYR 1900"
+    },
+    {
+      "code": "ASYR 1010",
+      "name": "ASYR 1010"
+    },
+    {
+      "code": "EGYT 1310",
+      "name": "EGYT 1310"
+    },
+    {
+      "code": "EGYT 1320",
+      "name": "EGYT 1320"
+    },
+    {
+      "code": "EGYT 0600",
+      "name": "EGYT 0600"
+    },
+    {
+      "code": "ASYR 0300",
+      "name": "ASYR 0300"
+    },
+    {
+      "code": "ASYR 0800",
+      "name": "ASYR 0800"
+    },
+    {
+      "code": "ARCH 0372",
+      "name": "ARCH 0372"
+    },
+    {
+      "code": "ARCH 0760",
+      "name": "ARCH 0760"
+    },
+    {
+      "code": "ARCH 1475",
+      "name": "ARCH 1475"
+    },
+    {
+      "code": "ARCH 1635",
+      "name": "ARCH 1635"
+    },
+    {
+      "code": "ARCH 1879",
+      "name": "ARCH 1879"
+    },
+    {
+      "code": "EGYT 0300",
+      "name": "EGYT 0300"
+    },
+    {
+      "code": "ARCH 0255",
+      "name": "ARCH 0255"
+    },
+    {
+      "code": "ASYR 0310",
+      "name": "ASYR 0310"
+    },
+    {
+      "code": "ASYR 1100",
+      "name": "ASYR 1100"
+    },
+    {
+      "code": "ASYR 1110",
+      "name": "ASYR 1110"
+    },
+    {
+      "code": "ASYR 0320",
+      "name": "ASYR 0320"
+    },
+    {
+      "code": "ASYR 0500",
+      "name": "ASYR 0500"
+    },
+    {
+      "code": "ASYR 1160",
+      "name": "ASYR 1160"
+    },
+    {
+      "code": "ASYR 1500",
+      "name": "ASYR 1500"
+    },
+    {
+      "code": "ASYR 1600",
+      "name": "ASYR 1600"
+    },
+    {
+      "code": "ASYR 1700",
+      "name": "ASYR 1700"
+    },
+    {
+      "code": "ASYR 1725",
+      "name": "ASYR 1725"
+    },
+    {
+      "code": "ARCH 1538",
+      "name": "ARCH 1538"
+    },
+    {
+      "code": "ARCH 1830",
+      "name": "ARCH 1830"
+    },
+    {
+      "code": "EGYT 2210",
+      "name": "EGYT 2210"
+    },
+    {
+      "code": "EGYT 2410",
+      "name": "EGYT 2410"
+    },
+    {
+      "code": "EGYT 2610",
+      "name": "EGYT 2610"
+    },
+    {
+      "code": "EGYT 0500",
+      "name": "EGYT 0500"
+    },
+    {
+      "code": "EGYT 0550",
+      "name": "EGYT 0550"
+    },
+    {
+      "code": "EGYT 1030",
+      "name": "EGYT 1030"
+    },
+    {
+      "code": "EGYT 1430",
+      "name": "EGYT 1430"
+    },
+    {
+      "code": "EGYT 1465",
+      "name": "EGYT 1465"
+    },
+    {
+      "code": "EGYT 1510",
+      "name": "EGYT 1510"
+    },
+    {
+      "code": "ARCH 0150",
+      "name": "ARCH 0150"
+    },
+    {
+      "code": "ARCH 1630",
+      "name": "ARCH 1630"
+    },
+    {
+      "code": "EGYT 1100",
+      "name": "EGYT 1100"
+    },
+    {
+      "code": "EGYT 1420",
+      "name": "EGYT 1420"
+    },
+    {
+      "code": "EGYT 1400",
+      "name": "EGYT 1400"
+    },
+    {
+      "code": "EGYT 1485",
+      "name": "EGYT 1485"
+    },
+    {
+      "code": "EGYT 1490",
+      "name": "EGYT 1490"
+    }
+  ]
+}

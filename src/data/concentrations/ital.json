@@ -1,0 +1,1123 @@
+{
+  "concentration": "Italian Studies",
+  "slug": "ital",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/ital/",
+  "tracks": [
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "ITALIAN STUDIES COURSES",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0600",
+                  "name": "ITAL 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0750",
+                  "name": "ITAL 0750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0751",
+                  "name": "ITAL 0751"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0950",
+                  "name": "ITAL 0950"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0975",
+                  "name": "ITAL 0975"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0981",
+                  "name": "ITAL 0981"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1000B",
+                  "name": "ITAL 1000B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1000D",
+                  "name": "ITAL 1000D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1000E",
+                  "name": "ITAL 1000E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1010",
+                  "name": "ITAL 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1029",
+                  "name": "ITAL 1029"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1030A",
+                  "name": "ITAL 1030A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1320",
+                  "name": "ITAL 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1340",
+                  "name": "ITAL 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1350A",
+                  "name": "ITAL 1350A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400B",
+                  "name": "ITAL 1400B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400D",
+                  "name": "ITAL 1400D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400F",
+                  "name": "ITAL 1400F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400H",
+                  "name": "ITAL 1400H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400M",
+                  "name": "ITAL 1400M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1400P",
+                  "name": "ITAL 1400P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1420",
+                  "name": "ITAL 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1550",
+                  "name": "ITAL 1550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1580",
+                  "name": "ITAL 1580"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1590",
+                  "name": "ITAL 1590"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1610",
+                  "name": "ITAL 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1620",
+                  "name": "ITAL 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1920",
+                  "name": "ITAL 1920"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1990",
+                  "name": "ITAL 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 2100",
+                  "name": "ITAL 2100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 2190B",
+                  "name": "ITAL 2190B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 2190G",
+                  "name": "ITAL 2190G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 2220",
+                  "name": "ITAL 2220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "COURSES IN OTHER DEPARTMENTS",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0340",
+                  "name": "HIAA 0340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0550",
+                  "name": "HIAA 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0560",
+                  "name": "HIAA 0560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1200D",
+                  "name": "HIAA 1200D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1301",
+                  "name": "HIAA 1301"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1302",
+                  "name": "HIAA 1302"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1303",
+                  "name": "HIAA 1303"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1550B",
+                  "name": "HIAA 1550B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1560A",
+                  "name": "HIAA 1560A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1560C",
+                  "name": "HIAA 1560C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1560D",
+                  "name": "HIAA 1560D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1560F",
+                  "name": "HIAA 1560F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1600C",
+                  "name": "HIAA 1600C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MUSC 0071",
+                  "name": "MUSC 0071"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0600",
+            "name": "ITAL 0600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0750",
+            "name": "ITAL 0750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0751",
+            "name": "ITAL 0751"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0950",
+            "name": "ITAL 0950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0975",
+            "name": "ITAL 0975"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0981",
+            "name": "ITAL 0981"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1000B",
+            "name": "ITAL 1000B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1000D",
+            "name": "ITAL 1000D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1000E",
+            "name": "ITAL 1000E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1010",
+            "name": "ITAL 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1029",
+            "name": "ITAL 1029"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1030A",
+            "name": "ITAL 1030A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1320",
+            "name": "ITAL 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1340",
+            "name": "ITAL 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1350A",
+            "name": "ITAL 1350A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400B",
+            "name": "ITAL 1400B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400D",
+            "name": "ITAL 1400D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400F",
+            "name": "ITAL 1400F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400H",
+            "name": "ITAL 1400H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400M",
+            "name": "ITAL 1400M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1400P",
+            "name": "ITAL 1400P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1420",
+            "name": "ITAL 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1550",
+            "name": "ITAL 1550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1580",
+            "name": "ITAL 1580"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1590",
+            "name": "ITAL 1590"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1610",
+            "name": "ITAL 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1620",
+            "name": "ITAL 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1920",
+            "name": "ITAL 1920"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1990",
+            "name": "ITAL 1990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 2100",
+            "name": "ITAL 2100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 2190B",
+            "name": "ITAL 2190B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 2190G",
+            "name": "ITAL 2190G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 2220",
+            "name": "ITAL 2220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0340",
+            "name": "HIAA 0340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0550",
+            "name": "HIAA 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0560",
+            "name": "HIAA 0560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1200D",
+            "name": "HIAA 1200D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1301",
+            "name": "HIAA 1301"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1302",
+            "name": "HIAA 1302"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1303",
+            "name": "HIAA 1303"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1550B",
+            "name": "HIAA 1550B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1560A",
+            "name": "HIAA 1560A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1560C",
+            "name": "HIAA 1560C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1560D",
+            "name": "HIAA 1560D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1560F",
+            "name": "HIAA 1560F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1600C",
+            "name": "HIAA 1600C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MUSC 0071",
+            "name": "MUSC 0071"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ITAL 0600",
+      "name": "ITAL 0600"
+    },
+    {
+      "code": "ITAL 0400",
+      "name": "ITAL 0400"
+    },
+    {
+      "code": "ITAL 0750",
+      "name": "ITAL 0750"
+    },
+    {
+      "code": "ITAL 0751",
+      "name": "ITAL 0751"
+    },
+    {
+      "code": "ITAL 0950",
+      "name": "ITAL 0950"
+    },
+    {
+      "code": "ITAL 0975",
+      "name": "ITAL 0975"
+    },
+    {
+      "code": "ITAL 0981",
+      "name": "ITAL 0981"
+    },
+    {
+      "code": "ITAL 1000B",
+      "name": "ITAL 1000B"
+    },
+    {
+      "code": "ITAL 1000D",
+      "name": "ITAL 1000D"
+    },
+    {
+      "code": "ITAL 1000E",
+      "name": "ITAL 1000E"
+    },
+    {
+      "code": "ITAL 1010",
+      "name": "ITAL 1010"
+    },
+    {
+      "code": "ITAL 1029",
+      "name": "ITAL 1029"
+    },
+    {
+      "code": "ITAL 1030A",
+      "name": "ITAL 1030A"
+    },
+    {
+      "code": "ITAL 1320",
+      "name": "ITAL 1320"
+    },
+    {
+      "code": "ITAL 1340",
+      "name": "ITAL 1340"
+    },
+    {
+      "code": "ITAL 1350A",
+      "name": "ITAL 1350A"
+    },
+    {
+      "code": "ITAL 1400B",
+      "name": "ITAL 1400B"
+    },
+    {
+      "code": "ITAL 1400D",
+      "name": "ITAL 1400D"
+    },
+    {
+      "code": "ITAL 1400F",
+      "name": "ITAL 1400F"
+    },
+    {
+      "code": "ITAL 1400H",
+      "name": "ITAL 1400H"
+    },
+    {
+      "code": "ITAL 1400M",
+      "name": "ITAL 1400M"
+    },
+    {
+      "code": "ITAL 1400P",
+      "name": "ITAL 1400P"
+    },
+    {
+      "code": "ITAL 1420",
+      "name": "ITAL 1420"
+    },
+    {
+      "code": "ITAL 1550",
+      "name": "ITAL 1550"
+    },
+    {
+      "code": "ITAL 1580",
+      "name": "ITAL 1580"
+    },
+    {
+      "code": "ITAL 1590",
+      "name": "ITAL 1590"
+    },
+    {
+      "code": "ITAL 1610",
+      "name": "ITAL 1610"
+    },
+    {
+      "code": "ITAL 1620",
+      "name": "ITAL 1620"
+    },
+    {
+      "code": "ITAL 1920",
+      "name": "ITAL 1920"
+    },
+    {
+      "code": "ITAL 1990",
+      "name": "ITAL 1990"
+    },
+    {
+      "code": "ITAL 2100",
+      "name": "ITAL 2100"
+    },
+    {
+      "code": "ITAL 2190B",
+      "name": "ITAL 2190B"
+    },
+    {
+      "code": "ITAL 2190G",
+      "name": "ITAL 2190G"
+    },
+    {
+      "code": "ITAL 2220",
+      "name": "ITAL 2220"
+    },
+    {
+      "code": "HIAA 0340",
+      "name": "HIAA 0340"
+    },
+    {
+      "code": "HIAA 0550",
+      "name": "HIAA 0550"
+    },
+    {
+      "code": "HIAA 0560",
+      "name": "HIAA 0560"
+    },
+    {
+      "code": "HIAA 1200D",
+      "name": "HIAA 1200D"
+    },
+    {
+      "code": "HIAA 1301",
+      "name": "HIAA 1301"
+    },
+    {
+      "code": "HIAA 1302",
+      "name": "HIAA 1302"
+    },
+    {
+      "code": "HIAA 1303",
+      "name": "HIAA 1303"
+    },
+    {
+      "code": "HIAA 1550B",
+      "name": "HIAA 1550B"
+    },
+    {
+      "code": "HIAA 1560A",
+      "name": "HIAA 1560A"
+    },
+    {
+      "code": "HIAA 1560C",
+      "name": "HIAA 1560C"
+    },
+    {
+      "code": "HIAA 1560D",
+      "name": "HIAA 1560D"
+    },
+    {
+      "code": "HIAA 1560F",
+      "name": "HIAA 1560F"
+    },
+    {
+      "code": "HIAA 1600C",
+      "name": "HIAA 1600C"
+    },
+    {
+      "code": "MUSC 0071",
+      "name": "MUSC 0071"
+    },
+    {
+      "code": "ITAL 0300",
+      "name": "ITAL 0300"
+    }
+  ]
+}

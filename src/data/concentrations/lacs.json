@@ -1,0 +1,456 @@
+{
+  "concentration": "Latin American and Caribbean Studies",
+  "slug": "lacs",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/lacs/",
+  "tracks": [
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 0500",
+              "name": "LACA 0500"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1504G",
+              "name": "LACA 1504G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1510I",
+              "name": "LACA 1510I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1630",
+              "name": "LACA 1630"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HISP 0730",
+              "name": "HISP 0730"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HISP 1330Z",
+              "name": "HISP 1330Z"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HIST 0234",
+              "name": "HIST 0234"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HIST 1966Q",
+              "name": "HIST 1966Q"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "POLS 1210",
+              "name": "POLS 1210"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "POBS 0280",
+              "name": "POBS 0280"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 0500",
+            "name": "LACA 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1504G",
+            "name": "LACA 1504G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1510I",
+            "name": "LACA 1510I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1630",
+            "name": "LACA 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0730",
+            "name": "HISP 0730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 1330Z",
+            "name": "HISP 1330Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0234",
+            "name": "HIST 0234"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1966Q",
+            "name": "HIST 1966Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1210",
+            "name": "POLS 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 0280",
+            "name": "POBS 0280"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "writing_requirement",
+      "name": "Writing Requirement",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1900",
+              "name": "LACA 1900"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "ETHN 1200D",
+              "name": "ETHN 1200D"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 0500",
+              "name": "LACA 0500"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1504G",
+              "name": "LACA 1504G"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "LACA 1630",
+              "name": "LACA 1630"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 0710I",
+              "name": "COLT 0710I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HISP 0730",
+              "name": "HISP 0730"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HIST 0233",
+              "name": "HIST 0233"
+            }
+          ],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "HIST 1977I",
+              "name": "HIST 1977I"
+            }
+          ],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1900",
+            "name": "LACA 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1200D",
+            "name": "ETHN 1200D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 0500",
+            "name": "LACA 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1504G",
+            "name": "LACA 1504G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LACA 1630",
+            "name": "LACA 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 0710I",
+            "name": "COLT 0710I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 0730",
+            "name": "HISP 0730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0233",
+            "name": "HIST 0233"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1977I",
+            "name": "HIST 1977I"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "LACA 0500",
+      "name": "LACA 0500"
+    },
+    {
+      "code": "LACA 1504G",
+      "name": "LACA 1504G"
+    },
+    {
+      "code": "LACA 1510I",
+      "name": "LACA 1510I"
+    },
+    {
+      "code": "LACA 1630",
+      "name": "LACA 1630"
+    },
+    {
+      "code": "HISP 0730",
+      "name": "HISP 0730"
+    },
+    {
+      "code": "HISP 1330Z",
+      "name": "HISP 1330Z"
+    },
+    {
+      "code": "HIST 0234",
+      "name": "HIST 0234"
+    },
+    {
+      "code": "HIST 1966Q",
+      "name": "HIST 1966Q"
+    },
+    {
+      "code": "POLS 1210",
+      "name": "POLS 1210"
+    },
+    {
+      "code": "POBS 0280",
+      "name": "POBS 0280"
+    },
+    {
+      "code": "LACA 1900",
+      "name": "LACA 1900"
+    },
+    {
+      "code": "LACA 1990",
+      "name": "LACA 1990"
+    },
+    {
+      "code": "LACA 1991",
+      "name": "LACA 1991"
+    },
+    {
+      "code": "ETHN 1200D",
+      "name": "ETHN 1200D"
+    },
+    {
+      "code": "COLT 0710I",
+      "name": "COLT 0710I"
+    },
+    {
+      "code": "HIST 0233",
+      "name": "HIST 0233"
+    },
+    {
+      "code": "HIST 1977I",
+      "name": "HIST 1977I"
+    }
+  ]
+}

@@ -1,0 +1,1518 @@
+{
+  "concentration": "Psychology",
+  "slug": "psyc",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/psyc/",
+  "tracks": [
+    {
+      "id": "requirements_for_the_a_b__degree",
+      "name": "Requirements for the A.B. degree",
+      "groups": [
+        {
+          "name": "STANDARD PROGRAM FOR THE A.B. DEGREE",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Common Core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five courses from the following: 5",
+          "type": "section",
+          "count": 5,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0010",
+                  "name": "CPSY 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0100",
+                  "name": "CPSY 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0110",
+                  "name": "CPSY 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0500",
+                  "name": "CPSY 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0610",
+                  "name": "CPSY 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0620",
+                  "name": "CPSY 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0702",
+                  "name": "CPSY 0702"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four approved Electives related to Psychology 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CPSY 1970",
+                  "name": "CPSY 1970"
+                },
+                {
+                  "code": "CPSY 1980",
+                  "name": "CPSY 1980"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0010",
+            "name": "CPSY 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0100",
+            "name": "CPSY 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0110",
+            "name": "CPSY 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0500",
+            "name": "CPSY 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0610",
+            "name": "CPSY 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0620",
+            "name": "CPSY 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0702",
+            "name": "CPSY 0702"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CPSY 1970",
+              "name": "CPSY 1970"
+            },
+            {
+              "code": "CPSY 1980",
+              "name": "CPSY 1980"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "common_core",
+      "name": "Common Core",
+      "groups": [
+        {
+          "name": "STANDARD PROGRAM FOR THE Sc.B. DEGREE",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Common Core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five courses from the following: 5",
+          "type": "section",
+          "count": 5,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0010",
+                  "name": "CPSY 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0100",
+                  "name": "CPSY 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0110",
+                  "name": "CPSY 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0500",
+                  "name": "CPSY 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0610",
+                  "name": "CPSY 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0620",
+                  "name": "CPSY 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0702",
+                  "name": "CPSY 0702"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four approved Electives related to Psychology 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CPSY 1970",
+                  "name": "CPSY 1970"
+                },
+                {
+                  "code": "CPSY 1980",
+                  "name": "CPSY 1980"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0010",
+            "name": "CPSY 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0100",
+            "name": "CPSY 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0110",
+            "name": "CPSY 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0500",
+            "name": "CPSY 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0610",
+            "name": "CPSY 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0620",
+            "name": "CPSY 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0702",
+            "name": "CPSY 0702"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CPSY 1970",
+              "name": "CPSY 1970"
+            },
+            {
+              "code": "CPSY 1980",
+              "name": "CPSY 1980"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "additional_scb_requirements_in_psychology",
+      "name": "Additional ScB Requirements in Psychology",
+      "groups": [
+        {
+          "name": "STANDARD PROGRAM FOR THE Sc.B. DEGREE",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Common Core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five courses from the following: 5",
+          "type": "section",
+          "count": 5,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0010",
+                  "name": "CPSY 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0100",
+                  "name": "CPSY 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0110",
+                  "name": "CPSY 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0500",
+                  "name": "CPSY 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0610",
+                  "name": "CPSY 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0620",
+                  "name": "CPSY 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0702",
+                  "name": "CPSY 0702"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four approved Electives related to Psychology 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CPSY 1970",
+                  "name": "CPSY 1970"
+                },
+                {
+                  "code": "CPSY 1980",
+                  "name": "CPSY 1980"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0010",
+            "name": "CPSY 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0100",
+            "name": "CPSY 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0110",
+            "name": "CPSY 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0500",
+            "name": "CPSY 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0610",
+            "name": "CPSY 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0620",
+            "name": "CPSY 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0702",
+            "name": "CPSY 0702"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CPSY 1970",
+              "name": "CPSY 1970"
+            },
+            {
+              "code": "CPSY 1980",
+              "name": "CPSY 1980"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements_specific_for_the_sc_b__degree",
+      "name": "Requirements Specific for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "STANDARD PROGRAM FOR THE Sc.B. DEGREE",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Common Core:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five courses from the following: 5",
+          "type": "section",
+          "count": 5,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0010",
+                  "name": "CPSY 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0100",
+                  "name": "CPSY 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0110",
+                  "name": "CPSY 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0500",
+                  "name": "CPSY 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0610",
+                  "name": "CPSY 0610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0620",
+                  "name": "CPSY 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0702",
+                  "name": "CPSY 0702"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four approved Electives related to Psychology 4",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CPSY 1970",
+                  "name": "CPSY 1970"
+                },
+                {
+                  "code": "CPSY 1980",
+                  "name": "CPSY 1980"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0010",
+            "name": "CPSY 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0100",
+            "name": "CPSY 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0110",
+            "name": "CPSY 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0500",
+            "name": "CPSY 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0610",
+            "name": "CPSY 0610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0620",
+            "name": "CPSY 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0702",
+            "name": "CPSY 0702"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CPSY 1970",
+              "name": "CPSY 1970"
+            },
+            {
+              "code": "CPSY 1980",
+              "name": "CPSY 1980"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "CPSY 1900",
+      "name": "CPSY 1900"
+    },
+    {
+      "code": "CPSY 0010",
+      "name": "CPSY 0010"
+    },
+    {
+      "code": "CPSY 0100",
+      "name": "CPSY 0100"
+    },
+    {
+      "code": "CPSY 0110",
+      "name": "CPSY 0110"
+    },
+    {
+      "code": "CPSY 0200",
+      "name": "CPSY 0200"
+    },
+    {
+      "code": "CPSY 0220",
+      "name": "CPSY 0220"
+    },
+    {
+      "code": "CPSY 0400",
+      "name": "CPSY 0400"
+    },
+    {
+      "code": "CPSY 0450",
+      "name": "CPSY 0450"
+    },
+    {
+      "code": "CPSY 0500",
+      "name": "CPSY 0500"
+    },
+    {
+      "code": "CPSY 0610",
+      "name": "CPSY 0610"
+    },
+    {
+      "code": "CPSY 0620",
+      "name": "CPSY 0620"
+    },
+    {
+      "code": "CPSY 0700",
+      "name": "CPSY 0700"
+    },
+    {
+      "code": "CPSY 0702",
+      "name": "CPSY 0702"
+    },
+    {
+      "code": "CPSY 0800",
+      "name": "CPSY 0800"
+    },
+    {
+      "code": "CPSY 1970",
+      "name": "CPSY 1970"
+    },
+    {
+      "code": "CPSY 1980",
+      "name": "CPSY 1980"
+    },
+    {
+      "code": "CPSY 1901",
+      "name": "CPSY 1901"
+    }
+  ]
+}

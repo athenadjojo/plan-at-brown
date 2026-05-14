@@ -1,0 +1,881 @@
+{
+  "concentration": "Comparative Literature",
+  "slug": "colt",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/colt/",
+  "tracks": [
+    {
+      "id": "prerequisites_in_languages_",
+      "name": "Prerequisites in languages:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "selecting_literature_courses_in_your_language_area",
+      "name": "Selecting literature courses in your language areas:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "transfer_of_credits_",
+      "name": "Transfer of Credits:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "joint_or_double_concentration_",
+      "name": "Joint or Double Concentration:",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "track_1__concentration_in_comparative_literature_i",
+      "name": "Track 1: Concentration in Comparative Literature in two languages",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "track_2__concentration_in_comparative_literature_i",
+      "name": "Track 2: Concentration in Comparative Literature in three languages",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "track_3__concentration_in_literary_translation",
+      "name": "Track 3: Concentration in Literary Translation",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Literary Translation (COLT 1710) 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "At least one workshop in Literary Arts. This may be taken at any level. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction.  Completing a thesis is required of all Track 3 students but does not guarantee departmental honors.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "requirements",
+      "name": "Requirements",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COLT 1210",
+              "name": "COLT 1210"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Literary Translation (COLT 1710) 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "At least one workshop in Literary Arts. This may be taken at any level. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.) 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement. 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction.  Completing a thesis is required of all Track 3 students but does not guarantee departmental honors.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1210",
+            "name": "COLT 1210"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "COLT 1210",
+      "name": "COLT 1210"
+    },
+    {
+      "code": "COLT 0510C",
+      "name": "COLT 0510C"
+    },
+    {
+      "code": "COLT 0510F",
+      "name": "COLT 0510F"
+    },
+    {
+      "code": "COLT 0510K",
+      "name": "COLT 0510K"
+    },
+    {
+      "code": "COLT 0510P",
+      "name": "COLT 0510P"
+    },
+    {
+      "code": "COLT 0610C",
+      "name": "COLT 0610C"
+    },
+    {
+      "code": "COLT 0610D",
+      "name": "COLT 0610D"
+    },
+    {
+      "code": "COLT 0610L",
+      "name": "COLT 0610L"
+    },
+    {
+      "code": "COLT 0610Q",
+      "name": "COLT 0610Q"
+    },
+    {
+      "code": "COLT 0611D",
+      "name": "COLT 0611D"
+    },
+    {
+      "code": "COLT 0710C",
+      "name": "COLT 0710C"
+    },
+    {
+      "code": "COLT 0710I",
+      "name": "COLT 0710I"
+    },
+    {
+      "code": "COLT 0710N",
+      "name": "COLT 0710N"
+    },
+    {
+      "code": "COLT 0710Q",
+      "name": "COLT 0710Q"
+    },
+    {
+      "code": "COLT 0710X",
+      "name": "COLT 0710X"
+    },
+    {
+      "code": "COLT 0710Z",
+      "name": "COLT 0710Z"
+    },
+    {
+      "code": "COLT 0711H",
+      "name": "COLT 0711H"
+    },
+    {
+      "code": "COLT 0711L",
+      "name": "COLT 0711L"
+    },
+    {
+      "code": "COLT 0711O",
+      "name": "COLT 0711O"
+    },
+    {
+      "code": "COLT 0711Q",
+      "name": "COLT 0711Q"
+    },
+    {
+      "code": "COLT 0711W",
+      "name": "COLT 0711W"
+    },
+    {
+      "code": "COLT 0810H",
+      "name": "COLT 0810H"
+    },
+    {
+      "code": "COLT 0810I",
+      "name": "COLT 0810I"
+    },
+    {
+      "code": "COLT 0810L",
+      "name": "COLT 0810L"
+    },
+    {
+      "code": "COLT 0810M",
+      "name": "COLT 0810M"
+    },
+    {
+      "code": "COLT 0811I",
+      "name": "COLT 0811I"
+    },
+    {
+      "code": "COLT 0811Z",
+      "name": "COLT 0811Z"
+    },
+    {
+      "code": "COLT 0812O",
+      "name": "COLT 0812O"
+    },
+    {
+      "code": "COLT 0812V",
+      "name": "COLT 0812V"
+    },
+    {
+      "code": "COLT 0812W",
+      "name": "COLT 0812W"
+    },
+    {
+      "code": "COLT 1310G",
+      "name": "COLT 1310G"
+    },
+    {
+      "code": "COLT 1310J",
+      "name": "COLT 1310J"
+    },
+    {
+      "code": "COLT 1310N",
+      "name": "COLT 1310N"
+    },
+    {
+      "code": "COLT 1410S",
+      "name": "COLT 1410S"
+    },
+    {
+      "code": "COLT 1420B",
+      "name": "COLT 1420B"
+    },
+    {
+      "code": "COLT 1420F",
+      "name": "COLT 1420F"
+    },
+    {
+      "code": "COLT 1420O",
+      "name": "COLT 1420O"
+    },
+    {
+      "code": "COLT 1421V",
+      "name": "COLT 1421V"
+    },
+    {
+      "code": "COLT 1422L",
+      "name": "COLT 1422L"
+    },
+    {
+      "code": "COLT 1422M",
+      "name": "COLT 1422M"
+    },
+    {
+      "code": "COLT 1422O",
+      "name": "COLT 1422O"
+    },
+    {
+      "code": "COLT 1430B",
+      "name": "COLT 1430B"
+    },
+    {
+      "code": "COLT 1430D",
+      "name": "COLT 1430D"
+    },
+    {
+      "code": "COLT 1430I",
+      "name": "COLT 1430I"
+    },
+    {
+      "code": "COLT 1430L",
+      "name": "COLT 1430L"
+    },
+    {
+      "code": "COLT 1431B",
+      "name": "COLT 1431B"
+    },
+    {
+      "code": "COLT 1431C",
+      "name": "COLT 1431C"
+    },
+    {
+      "code": "COLT 1431F",
+      "name": "COLT 1431F"
+    },
+    {
+      "code": "COLT 1431J",
+      "name": "COLT 1431J"
+    },
+    {
+      "code": "COLT 1431L",
+      "name": "COLT 1431L"
+    },
+    {
+      "code": "COLT 1440P",
+      "name": "COLT 1440P"
+    },
+    {
+      "code": "COLT 1440U",
+      "name": "COLT 1440U"
+    },
+    {
+      "code": "COLT 1440X",
+      "name": "COLT 1440X"
+    },
+    {
+      "code": "COLT 1610B",
+      "name": "COLT 1610B"
+    },
+    {
+      "code": "COLT 1610V",
+      "name": "COLT 1610V"
+    },
+    {
+      "code": "COLT 1710A",
+      "name": "COLT 1710A"
+    },
+    {
+      "code": "COLT 1710C",
+      "name": "COLT 1710C"
+    },
+    {
+      "code": "COLT 1710D",
+      "name": "COLT 1710D"
+    },
+    {
+      "code": "COLT 1810G",
+      "name": "COLT 1810G"
+    },
+    {
+      "code": "COLT 1810N",
+      "name": "COLT 1810N"
+    },
+    {
+      "code": "COLT 1810P",
+      "name": "COLT 1810P"
+    },
+    {
+      "code": "COLT 1811L",
+      "name": "COLT 1811L"
+    },
+    {
+      "code": "COLT 1812A",
+      "name": "COLT 1812A"
+    },
+    {
+      "code": "COLT 1813M",
+      "name": "COLT 1813M"
+    },
+    {
+      "code": "COLT 1813N",
+      "name": "COLT 1813N"
+    },
+    {
+      "code": "COLT 1813O",
+      "name": "COLT 1813O"
+    },
+    {
+      "code": "COLT 1814S",
+      "name": "COLT 1814S"
+    },
+    {
+      "code": "COLT 1814U",
+      "name": "COLT 1814U"
+    },
+    {
+      "code": "COLT 1815F",
+      "name": "COLT 1815F"
+    },
+    {
+      "code": "COLT 1815N",
+      "name": "COLT 1815N"
+    },
+    {
+      "code": "COLT 1815U",
+      "name": "COLT 1815U"
+    },
+    {
+      "code": "COLT 2520F",
+      "name": "COLT 2520F"
+    },
+    {
+      "code": "COLT 2720C",
+      "name": "COLT 2720C"
+    },
+    {
+      "code": "COLT 2720D",
+      "name": "COLT 2720D"
+    },
+    {
+      "code": "COLT 2820A",
+      "name": "COLT 2820A"
+    },
+    {
+      "code": "COLT 2820M",
+      "name": "COLT 2820M"
+    },
+    {
+      "code": "COLT 2821S",
+      "name": "COLT 2821S"
+    },
+    {
+      "code": "COLT 2822A",
+      "name": "COLT 2822A"
+    }
+  ]
+}

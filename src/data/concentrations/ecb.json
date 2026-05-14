@@ -1,0 +1,1431 @@
+{
+  "concentration": "Earth, Climate, and Biology",
+  "slug": "ecb",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/ecb/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_ab_degree",
+      "name": "Standard Program for the AB Degree",
+      "groups": [
+        {
+          "name": "Basic supporting science courses",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0210",
+                  "name": "BIOL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "A course to build quantitative skills: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0050",
+                  "name": "PHYS 0050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Nine Concentration courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two of these four fundamentals courses: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0220",
+                  "name": "EEPS 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0230",
+                  "name": "EEPS 0230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0240",
+                  "name": "EEPS 0240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0250",
+                  "name": "EEPS 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1240",
+                  "name": "EEPS 1240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select three upper level Biology courses such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0420",
+                  "name": "BIOL 0420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0430",
+                  "name": "BIOL 0430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0480",
+                  "name": "BIOL 0480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1470",
+                  "name": "BIOL 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three EEPS courses such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "EEPS 0220",
+                  "name": "EEPS 0220"
+                },
+                {
+                  "code": "EEPS 0230",
+                  "name": "EEPS 0230"
+                },
+                {
+                  "code": "EEPS 0240",
+                  "name": "EEPS 0240"
+                },
+                {
+                  "code": "EEPS 0250",
+                  "name": "EEPS 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0850",
+                  "name": "EEPS 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1120",
+                  "name": "EEPS 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1130",
+                  "name": "EEPS 1130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1150",
+                  "name": "EEPS 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1310",
+                  "name": "EEPS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1320",
+                  "name": "EEPS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1370",
+                  "name": "EEPS 1370"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1615",
+                  "name": "EEPS 1615"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1970",
+                  "name": "EEPS 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0210",
+            "name": "BIOL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0050",
+            "name": "PHYS 0050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0220",
+            "name": "EEPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0230",
+            "name": "EEPS 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0240",
+            "name": "EEPS 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0250",
+            "name": "EEPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1240",
+            "name": "EEPS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0420",
+            "name": "BIOL 0420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0430",
+            "name": "BIOL 0430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0480",
+            "name": "BIOL 0480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1470",
+            "name": "BIOL 1470"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "EEPS 0220",
+              "name": "EEPS 0220"
+            },
+            {
+              "code": "EEPS 0230",
+              "name": "EEPS 0230"
+            },
+            {
+              "code": "EEPS 0240",
+              "name": "EEPS 0240"
+            },
+            {
+              "code": "EEPS 0250",
+              "name": "EEPS 0250"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0850",
+            "name": "EEPS 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1120",
+            "name": "EEPS 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1130",
+            "name": "EEPS 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1150",
+            "name": "EEPS 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1310",
+            "name": "EEPS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1320",
+            "name": "EEPS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1370",
+            "name": "EEPS 1370"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1615",
+            "name": "EEPS 1615"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1970",
+            "name": "EEPS 1970"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_scb_degree",
+      "name": "Standard Program for the ScB Degree",
+      "groups": [
+        {
+          "name": "Five supporting science courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0210",
+                  "name": "BIOL 0210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three courses to build quantitative skills: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0090",
+                  "name": "MATH 0090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 0050",
+                  "name": "PHYS 0050"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Fourteen concentration courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0220",
+                  "name": "EEPS 0220"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0240",
+                  "name": "EEPS 0240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0230",
+                  "name": "EEPS 0230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0250",
+                  "name": "EEPS 0250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1240",
+                  "name": "EEPS 1240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three upper level Biology courses such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0410",
+                  "name": "BIOL 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0420",
+                  "name": "BIOL 0420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0430",
+                  "name": "BIOL 0430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0480",
+                  "name": "BIOL 0480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1470",
+                  "name": "BIOL 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three upper level EEPS courses such as: 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 0850",
+                  "name": "EEPS 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1120",
+                  "name": "EEPS 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1130",
+                  "name": "EEPS 1130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1150",
+                  "name": "EEPS 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1310",
+                  "name": "EEPS 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1320",
+                  "name": "EEPS 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1330",
+                  "name": "EEPS 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1370",
+                  "name": "EEPS 1370"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1430",
+                  "name": "EEPS 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1615",
+                  "name": "EEPS 1615"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three upper level science or math courses with approval from the concentration advisor 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1970",
+                  "name": "EEPS 1970"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0210",
+            "name": "BIOL 0210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0090",
+            "name": "MATH 0090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 0050",
+            "name": "PHYS 0050"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0220",
+            "name": "EEPS 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0240",
+            "name": "EEPS 0240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0230",
+            "name": "EEPS 0230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0250",
+            "name": "EEPS 0250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1240",
+            "name": "EEPS 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0410",
+            "name": "BIOL 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0420",
+            "name": "BIOL 0420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0430",
+            "name": "BIOL 0430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0480",
+            "name": "BIOL 0480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1470",
+            "name": "BIOL 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 0850",
+            "name": "EEPS 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1120",
+            "name": "EEPS 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1130",
+            "name": "EEPS 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1150",
+            "name": "EEPS 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1310",
+            "name": "EEPS 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1320",
+            "name": "EEPS 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1330",
+            "name": "EEPS 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1370",
+            "name": "EEPS 1370"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1430",
+            "name": "EEPS 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1615",
+            "name": "EEPS 1615"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1970",
+            "name": "EEPS 1970"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "BIOL 0210",
+      "name": "BIOL 0210"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "BIOL 0495",
+      "name": "BIOL 0495"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "PHYS 0050",
+      "name": "PHYS 0050"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "EEPS 0220",
+      "name": "EEPS 0220"
+    },
+    {
+      "code": "EEPS 0230",
+      "name": "EEPS 0230"
+    },
+    {
+      "code": "EEPS 0240",
+      "name": "EEPS 0240"
+    },
+    {
+      "code": "EEPS 0250",
+      "name": "EEPS 0250"
+    },
+    {
+      "code": "EEPS 1240",
+      "name": "EEPS 1240"
+    },
+    {
+      "code": "BIOL 0410",
+      "name": "BIOL 0410"
+    },
+    {
+      "code": "BIOL 0420",
+      "name": "BIOL 0420"
+    },
+    {
+      "code": "BIOL 0430",
+      "name": "BIOL 0430"
+    },
+    {
+      "code": "BIOL 0480",
+      "name": "BIOL 0480"
+    },
+    {
+      "code": "BIOL 1470",
+      "name": "BIOL 1470"
+    },
+    {
+      "code": "EEPS 0850",
+      "name": "EEPS 0850"
+    },
+    {
+      "code": "EEPS 1120",
+      "name": "EEPS 1120"
+    },
+    {
+      "code": "EEPS 1130",
+      "name": "EEPS 1130"
+    },
+    {
+      "code": "EEPS 1150",
+      "name": "EEPS 1150"
+    },
+    {
+      "code": "EEPS 1310",
+      "name": "EEPS 1310"
+    },
+    {
+      "code": "EEPS 1320",
+      "name": "EEPS 1320"
+    },
+    {
+      "code": "EEPS 1370",
+      "name": "EEPS 1370"
+    },
+    {
+      "code": "EEPS 1615",
+      "name": "EEPS 1615"
+    },
+    {
+      "code": "EEPS 1970",
+      "name": "EEPS 1970"
+    },
+    {
+      "code": "EEPS 1330",
+      "name": "EEPS 1330"
+    },
+    {
+      "code": "EEPS 1430",
+      "name": "EEPS 1430"
+    }
+  ]
+}

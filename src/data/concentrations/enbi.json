@@ -1,0 +1,1418 @@
+{
+  "concentration": "Biomedical Engineering",
+  "slug": "enbi",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/enbi/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "1. Core Courses",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0030",
+                  "name": "ENGN 0030"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0032",
+                  "name": "ENGN 0032"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0040",
+                  "name": "ENGN 0040"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0510",
+                  "name": "ENGN 0510"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0520",
+                  "name": "ENGN 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0720",
+                  "name": "ENGN 0720"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0810",
+                  "name": "ENGN 0810"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0330",
+                  "name": "CHEM 0330"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0190",
+                  "name": "MATH 0190"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0350",
+                  "name": "CHEM 0350"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1510",
+                  "name": "STAT 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "2. Upper Level Biomedical Engineering Curriculum",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1205",
+                  "name": "ENGN 1205"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1210",
+                  "name": "ENGN 1210"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1230",
+                  "name": "ENGN 1230"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1200",
+                  "name": "ENGN 1200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "3. Additional Biomedical Engineering Electives: Complete at least 3 courses from the following groups; other upper-level courses are subject to Concentration Advisor approval. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Select one or two of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1810",
+                  "name": "CSCI 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1820",
+                  "name": "CSCI 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 0500",
+                  "name": "ENGN 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1220",
+                  "name": "ENGN 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1221",
+                  "name": "ENGN 1221"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1222",
+                  "name": "ENGN 1222"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1223",
+                  "name": "ENGN 1223"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1224",
+                  "name": "ENGN 1224"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1225",
+                  "name": "ENGN 1225"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1740",
+                  "name": "ENGN 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2221",
+                  "name": "ENGN 2221"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2222",
+                  "name": "ENGN 2222"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2625",
+                  "name": "ENGN 2625"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2911R",
+                  "name": "ENGN 2911R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1140",
+                  "name": "BIOL 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1150",
+                  "name": "BIOL 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 2110",
+                  "name": "BIOL 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one or two more courses from:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0500",
+                  "name": "BIOL 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0510",
+                  "name": "BIOL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1090",
+                  "name": "BIOL 1090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1100",
+                  "name": "BIOL 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1555",
+                  "name": "BIOL 1555"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1070",
+                  "name": "APMA 1070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CHEM 0360",
+                  "name": "CHEM 0360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2910G",
+                  "name": "ENGN 2910G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1440",
+                  "name": "NEUR 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1610",
+                  "name": "PHYS 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1810",
+                  "name": "BIOL 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "4. Capstone Design 2",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1240",
+                  "name": "ENGN 1240"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1250",
+                  "name": "ENGN 1250"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "5. General Education Requirement: At least four approved courses must be taken in the humanities and social sciences.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0030",
+            "name": "ENGN 0030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0032",
+            "name": "ENGN 0032"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0040",
+            "name": "ENGN 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0510",
+            "name": "ENGN 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0520",
+            "name": "ENGN 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0720",
+            "name": "ENGN 0720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0810",
+            "name": "ENGN 0810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0330",
+            "name": "CHEM 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0190",
+            "name": "MATH 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0350",
+            "name": "CHEM 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1510",
+            "name": "STAT 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1205",
+            "name": "ENGN 1205"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1210",
+            "name": "ENGN 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1230",
+            "name": "ENGN 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1200",
+            "name": "ENGN 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1810",
+            "name": "CSCI 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1820",
+            "name": "CSCI 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 0500",
+            "name": "ENGN 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1220",
+            "name": "ENGN 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1221",
+            "name": "ENGN 1221"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1222",
+            "name": "ENGN 1222"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1223",
+            "name": "ENGN 1223"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1224",
+            "name": "ENGN 1224"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1225",
+            "name": "ENGN 1225"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1740",
+            "name": "ENGN 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2221",
+            "name": "ENGN 2221"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2222",
+            "name": "ENGN 2222"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2625",
+            "name": "ENGN 2625"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2911R",
+            "name": "ENGN 2911R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1140",
+            "name": "BIOL 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1150",
+            "name": "BIOL 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 2110",
+            "name": "BIOL 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0500",
+            "name": "BIOL 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0510",
+            "name": "BIOL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1090",
+            "name": "BIOL 1090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1100",
+            "name": "BIOL 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1555",
+            "name": "BIOL 1555"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1070",
+            "name": "APMA 1070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CHEM 0360",
+            "name": "CHEM 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2910G",
+            "name": "ENGN 2910G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1440",
+            "name": "NEUR 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1610",
+            "name": "PHYS 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1810",
+            "name": "BIOL 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1240",
+            "name": "ENGN 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1250",
+            "name": "ENGN 1250"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ENGN 0030",
+      "name": "ENGN 0030"
+    },
+    {
+      "code": "ENGN 0032",
+      "name": "ENGN 0032"
+    },
+    {
+      "code": "ENGN 0040",
+      "name": "ENGN 0040"
+    },
+    {
+      "code": "ENGN 0510",
+      "name": "ENGN 0510"
+    },
+    {
+      "code": "ENGN 0520",
+      "name": "ENGN 0520"
+    },
+    {
+      "code": "ENGN 0720",
+      "name": "ENGN 0720"
+    },
+    {
+      "code": "ENGN 0810",
+      "name": "ENGN 0810"
+    },
+    {
+      "code": "CHEM 0330",
+      "name": "CHEM 0330"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "CHEM 0350",
+      "name": "CHEM 0350"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "BIOL 0495",
+      "name": "BIOL 0495"
+    },
+    {
+      "code": "STAT 1510",
+      "name": "STAT 1510"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "ENGN 1205",
+      "name": "ENGN 1205"
+    },
+    {
+      "code": "ENGN 1210",
+      "name": "ENGN 1210"
+    },
+    {
+      "code": "ENGN 1230",
+      "name": "ENGN 1230"
+    },
+    {
+      "code": "ENGN 1200",
+      "name": "ENGN 1200"
+    },
+    {
+      "code": "BIOL 0800",
+      "name": "BIOL 0800"
+    },
+    {
+      "code": "CSCI 1810",
+      "name": "CSCI 1810"
+    },
+    {
+      "code": "CSCI 1820",
+      "name": "CSCI 1820"
+    },
+    {
+      "code": "ENGN 0500",
+      "name": "ENGN 0500"
+    },
+    {
+      "code": "ENGN 1220",
+      "name": "ENGN 1220"
+    },
+    {
+      "code": "ENGN 1221",
+      "name": "ENGN 1221"
+    },
+    {
+      "code": "ENGN 1222",
+      "name": "ENGN 1222"
+    },
+    {
+      "code": "ENGN 1223",
+      "name": "ENGN 1223"
+    },
+    {
+      "code": "ENGN 1224",
+      "name": "ENGN 1224"
+    },
+    {
+      "code": "ENGN 1225",
+      "name": "ENGN 1225"
+    },
+    {
+      "code": "ENGN 1740",
+      "name": "ENGN 1740"
+    },
+    {
+      "code": "ENGN 2221",
+      "name": "ENGN 2221"
+    },
+    {
+      "code": "ENGN 2222",
+      "name": "ENGN 2222"
+    },
+    {
+      "code": "ENGN 2625",
+      "name": "ENGN 2625"
+    },
+    {
+      "code": "ENGN 2911R",
+      "name": "ENGN 2911R"
+    },
+    {
+      "code": "BIOL 1140",
+      "name": "BIOL 1140"
+    },
+    {
+      "code": "BIOL 1150",
+      "name": "BIOL 1150"
+    },
+    {
+      "code": "BIOL 2110",
+      "name": "BIOL 2110"
+    },
+    {
+      "code": "BIOL 0280",
+      "name": "BIOL 0280"
+    },
+    {
+      "code": "BIOL 0470",
+      "name": "BIOL 0470"
+    },
+    {
+      "code": "BIOL 0500",
+      "name": "BIOL 0500"
+    },
+    {
+      "code": "BIOL 0510",
+      "name": "BIOL 0510"
+    },
+    {
+      "code": "BIOL 0530",
+      "name": "BIOL 0530"
+    },
+    {
+      "code": "BIOL 1090",
+      "name": "BIOL 1090"
+    },
+    {
+      "code": "BIOL 1100",
+      "name": "BIOL 1100"
+    },
+    {
+      "code": "BIOL 1555",
+      "name": "BIOL 1555"
+    },
+    {
+      "code": "APMA 1070",
+      "name": "APMA 1070"
+    },
+    {
+      "code": "CHEM 0360",
+      "name": "CHEM 0360"
+    },
+    {
+      "code": "ENGN 2910G",
+      "name": "ENGN 2910G"
+    },
+    {
+      "code": "NEUR 1020",
+      "name": "NEUR 1020"
+    },
+    {
+      "code": "NEUR 1440",
+      "name": "NEUR 1440"
+    },
+    {
+      "code": "PHYS 1610",
+      "name": "PHYS 1610"
+    },
+    {
+      "code": "BIOL 1810",
+      "name": "BIOL 1810"
+    },
+    {
+      "code": "ENGN 1240",
+      "name": "ENGN 1240"
+    },
+    {
+      "code": "ENGN 1250",
+      "name": "ENGN 1250"
+    },
+    {
+      "code": "APMA 0330",
+      "name": "APMA 0330"
+    },
+    {
+      "code": "APMA 0340",
+      "name": "APMA 0340"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    }
+  ]
+}

@@ -1,0 +1,1109 @@
+{
+  "concentration": "History",
+  "slug": "hist",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/hist/",
+  "tracks": [
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "Summary",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two (2) Courses in the \"Premodern\" era (P)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One (1) Course in Africa OR Middle East OR South Asia OR Southeast Asia",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One (1) Course in East Asia OR Latin America",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One (1) course in Europe OR North America",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One (1) course designated Global",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Students may take a maximum of 5 courses in any single geography",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Field of Focus (FF) - Students must take four courses in the field of focus.  These courses may be used to satisfy different requirements (geography and field of focus, etc.).",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Capstone Seminar: All concentrators must complete at least one capstone seminar (HIST 1960s and HIST 1970s series and select HIST 1980s courses), ideally, in the field of focus.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1992",
+                  "name": "HIST 1992"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1992",
+            "name": "HIST 1992"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "HIST 1992",
+      "name": "HIST 1992"
+    },
+    {
+      "code": "HIST 0150A",
+      "name": "HIST 0150A"
+    },
+    {
+      "code": "HIST 0150B",
+      "name": "HIST 0150B"
+    },
+    {
+      "code": "HIST 0150C",
+      "name": "HIST 0150C"
+    },
+    {
+      "code": "HIST 0150D",
+      "name": "HIST 0150D"
+    },
+    {
+      "code": "HIST 0150G",
+      "name": "HIST 0150G"
+    },
+    {
+      "code": "HIST 0150H",
+      "name": "HIST 0150H"
+    },
+    {
+      "code": "HIST 0150I",
+      "name": "HIST 0150I"
+    },
+    {
+      "code": "HIST 0150J",
+      "name": "HIST 0150J"
+    },
+    {
+      "code": "HIST 0150K",
+      "name": "HIST 0150K"
+    },
+    {
+      "code": "HIST 0202",
+      "name": "HIST 0202"
+    },
+    {
+      "code": "HIST 0203",
+      "name": "HIST 0203"
+    },
+    {
+      "code": "HIST 0212",
+      "name": "HIST 0212"
+    },
+    {
+      "code": "HIST 0214",
+      "name": "HIST 0214"
+    },
+    {
+      "code": "HIST 0218",
+      "name": "HIST 0218"
+    },
+    {
+      "code": "HIST 0233",
+      "name": "HIST 0233"
+    },
+    {
+      "code": "HIST 0234",
+      "name": "HIST 0234"
+    },
+    {
+      "code": "HIST 0243",
+      "name": "HIST 0243"
+    },
+    {
+      "code": "HIST 0244",
+      "name": "HIST 0244"
+    },
+    {
+      "code": "HIST 0246",
+      "name": "HIST 0246"
+    },
+    {
+      "code": "HIST 0247",
+      "name": "HIST 0247"
+    },
+    {
+      "code": "HIST 0250",
+      "name": "HIST 0250"
+    },
+    {
+      "code": "HIST 0252",
+      "name": "HIST 0252"
+    },
+    {
+      "code": "HIST 0253",
+      "name": "HIST 0253"
+    },
+    {
+      "code": "HIST 0253A",
+      "name": "HIST 0253A"
+    },
+    {
+      "code": "HIST 0254",
+      "name": "HIST 0254"
+    },
+    {
+      "code": "HIST 0255A",
+      "name": "HIST 0255A"
+    },
+    {
+      "code": "HIST 0256",
+      "name": "HIST 0256"
+    },
+    {
+      "code": "HIST 0260",
+      "name": "HIST 0260"
+    },
+    {
+      "code": "HIST 0270A",
+      "name": "HIST 0270A"
+    },
+    {
+      "code": "HIST 0270B",
+      "name": "HIST 0270B"
+    },
+    {
+      "code": "HIST 0276",
+      "name": "HIST 0276"
+    },
+    {
+      "code": "HIST 0276B",
+      "name": "HIST 0276B"
+    },
+    {
+      "code": "HIST 0285A",
+      "name": "HIST 0285A"
+    },
+    {
+      "code": "HIST 0286A",
+      "name": "HIST 0286A"
+    },
+    {
+      "code": "HIST 0286B",
+      "name": "HIST 0286B"
+    },
+    {
+      "code": "HIST 0510A",
+      "name": "HIST 0510A"
+    },
+    {
+      "code": "HIST 0510B",
+      "name": "HIST 0510B"
+    },
+    {
+      "code": "HIST 0520A",
+      "name": "HIST 0520A"
+    },
+    {
+      "code": "HIST 0521A",
+      "name": "HIST 0521A"
+    },
+    {
+      "code": "HIST 0521M",
+      "name": "HIST 0521M"
+    },
+    {
+      "code": "HIST 0522G",
+      "name": "HIST 0522G"
+    },
+    {
+      "code": "HIST 0522O",
+      "name": "HIST 0522O"
+    },
+    {
+      "code": "HIST 0523A",
+      "name": "HIST 0523A"
+    },
+    {
+      "code": "HIST 0523B",
+      "name": "HIST 0523B"
+    },
+    {
+      "code": "HIST 0523P",
+      "name": "HIST 0523P"
+    },
+    {
+      "code": "HIST 0537A",
+      "name": "HIST 0537A"
+    },
+    {
+      "code": "HIST 0550A",
+      "name": "HIST 0550A"
+    },
+    {
+      "code": "HIST 0551A",
+      "name": "HIST 0551A"
+    },
+    {
+      "code": "HIST 0552A",
+      "name": "HIST 0552A"
+    },
+    {
+      "code": "HIST 0555B",
+      "name": "HIST 0555B"
+    },
+    {
+      "code": "HIST 0557C",
+      "name": "HIST 0557C"
+    },
+    {
+      "code": "HIST 0557D",
+      "name": "HIST 0557D"
+    },
+    {
+      "code": "HIST 0558B",
+      "name": "HIST 0558B"
+    },
+    {
+      "code": "HIST 0558C",
+      "name": "HIST 0558C"
+    },
+    {
+      "code": "HIST 0559A",
+      "name": "HIST 0559A"
+    },
+    {
+      "code": "HIST 0559B",
+      "name": "HIST 0559B"
+    },
+    {
+      "code": "HIST 0559C",
+      "name": "HIST 0559C"
+    },
+    {
+      "code": "HIST 0574A",
+      "name": "HIST 0574A"
+    },
+    {
+      "code": "HIST 0576A",
+      "name": "HIST 0576A"
+    },
+    {
+      "code": "HIST 0577A",
+      "name": "HIST 0577A"
+    },
+    {
+      "code": "HIST 0577B",
+      "name": "HIST 0577B"
+    },
+    {
+      "code": "HIST 0580M",
+      "name": "HIST 0580M"
+    },
+    {
+      "code": "HIST 0580O",
+      "name": "HIST 0580O"
+    },
+    {
+      "code": "HIST 0582A",
+      "name": "HIST 0582A"
+    },
+    {
+      "code": "HIST 0621A",
+      "name": "HIST 0621A"
+    },
+    {
+      "code": "HIST 0621B",
+      "name": "HIST 0621B"
+    },
+    {
+      "code": "HIST 0623B",
+      "name": "HIST 0623B"
+    },
+    {
+      "code": "HIST 0623C",
+      "name": "HIST 0623C"
+    },
+    {
+      "code": "HIST 0654A",
+      "name": "HIST 0654A"
+    },
+    {
+      "code": "HIST 0654B",
+      "name": "HIST 0654B"
+    },
+    {
+      "code": "HIST 0655A",
+      "name": "HIST 0655A"
+    },
+    {
+      "code": "HIST 0657A",
+      "name": "HIST 0657A"
+    },
+    {
+      "code": "HIST 0658D",
+      "name": "HIST 0658D"
+    },
+    {
+      "code": "HIST 0673A",
+      "name": "HIST 0673A"
+    },
+    {
+      "code": "HIST 0675A",
+      "name": "HIST 0675A"
+    },
+    {
+      "code": "HIST 0685A",
+      "name": "HIST 0685A"
+    },
+    {
+      "code": "HIST 1030",
+      "name": "HIST 1030"
+    },
+    {
+      "code": "HIST 1060",
+      "name": "HIST 1060"
+    },
+    {
+      "code": "HIST 1070",
+      "name": "HIST 1070"
+    },
+    {
+      "code": "HIST 1080",
+      "name": "HIST 1080"
+    },
+    {
+      "code": "HIST 1081",
+      "name": "HIST 1081"
+    },
+    {
+      "code": "HIST 1101",
+      "name": "HIST 1101"
+    },
+    {
+      "code": "HIST 1110",
+      "name": "HIST 1110"
+    },
+    {
+      "code": "HIST 1111",
+      "name": "HIST 1111"
+    },
+    {
+      "code": "HIST 1112",
+      "name": "HIST 1112"
+    },
+    {
+      "code": "HIST 1118",
+      "name": "HIST 1118"
+    },
+    {
+      "code": "HIST 1120",
+      "name": "HIST 1120"
+    },
+    {
+      "code": "HIST 1121",
+      "name": "HIST 1121"
+    },
+    {
+      "code": "HIST 1122",
+      "name": "HIST 1122"
+    },
+    {
+      "code": "HIST 1123",
+      "name": "HIST 1123"
+    },
+    {
+      "code": "HIST 1141",
+      "name": "HIST 1141"
+    },
+    {
+      "code": "HIST 1149",
+      "name": "HIST 1149"
+    },
+    {
+      "code": "HIST 1150",
+      "name": "HIST 1150"
+    },
+    {
+      "code": "HIST 1155",
+      "name": "HIST 1155"
+    },
+    {
+      "code": "HIST 1156",
+      "name": "HIST 1156"
+    },
+    {
+      "code": "HIST 1200A",
+      "name": "HIST 1200A"
+    },
+    {
+      "code": "HIST 1200B",
+      "name": "HIST 1200B"
+    },
+    {
+      "code": "HIST 1200C",
+      "name": "HIST 1200C"
+    },
+    {
+      "code": "HIST 1201A",
+      "name": "HIST 1201A"
+    },
+    {
+      "code": "HIST 1201B",
+      "name": "HIST 1201B"
+    },
+    {
+      "code": "HIST 1202",
+      "name": "HIST 1202"
+    },
+    {
+      "code": "HIST 1205",
+      "name": "HIST 1205"
+    },
+    {
+      "code": "HIST 1210A",
+      "name": "HIST 1210A"
+    },
+    {
+      "code": "HIST 1211",
+      "name": "HIST 1211"
+    },
+    {
+      "code": "HIST 1216",
+      "name": "HIST 1216"
+    },
+    {
+      "code": "HIST 1240A",
+      "name": "HIST 1240A"
+    },
+    {
+      "code": "HIST 1241A",
+      "name": "HIST 1241A"
+    },
+    {
+      "code": "HIST 1260D",
+      "name": "HIST 1260D"
+    },
+    {
+      "code": "HIST 1262F",
+      "name": "HIST 1262F"
+    },
+    {
+      "code": "HIST 1262M",
+      "name": "HIST 1262M"
+    },
+    {
+      "code": "HIST 1264M",
+      "name": "HIST 1264M"
+    },
+    {
+      "code": "HIST 1266C",
+      "name": "HIST 1266C"
+    },
+    {
+      "code": "HIST 1266D",
+      "name": "HIST 1266D"
+    },
+    {
+      "code": "HIST 1267",
+      "name": "HIST 1267"
+    },
+    {
+      "code": "HIST 1268A",
+      "name": "HIST 1268A"
+    },
+    {
+      "code": "HIST 1268B",
+      "name": "HIST 1268B"
+    },
+    {
+      "code": "HIST 1268C",
+      "name": "HIST 1268C"
+    },
+    {
+      "code": "HIST 1270C",
+      "name": "HIST 1270C"
+    },
+    {
+      "code": "HIST 1272D",
+      "name": "HIST 1272D"
+    },
+    {
+      "code": "HIST 1272E",
+      "name": "HIST 1272E"
+    },
+    {
+      "code": "HIST 1320",
+      "name": "HIST 1320"
+    },
+    {
+      "code": "HIST 1333",
+      "name": "HIST 1333"
+    },
+    {
+      "code": "HIST 1340",
+      "name": "HIST 1340"
+    },
+    {
+      "code": "HIST 1360",
+      "name": "HIST 1360"
+    },
+    {
+      "code": "HIST 1381",
+      "name": "HIST 1381"
+    },
+    {
+      "code": "HIST 1382",
+      "name": "HIST 1382"
+    },
+    {
+      "code": "HIST 1440",
+      "name": "HIST 1440"
+    },
+    {
+      "code": "HIST 1455",
+      "name": "HIST 1455"
+    },
+    {
+      "code": "HIST 1457",
+      "name": "HIST 1457"
+    },
+    {
+      "code": "HIST 1470",
+      "name": "HIST 1470"
+    },
+    {
+      "code": "HIST 1502",
+      "name": "HIST 1502"
+    },
+    {
+      "code": "HIST 1503",
+      "name": "HIST 1503"
+    },
+    {
+      "code": "HIST 1505",
+      "name": "HIST 1505"
+    },
+    {
+      "code": "HIST 1507",
+      "name": "HIST 1507"
+    },
+    {
+      "code": "HIST 1511",
+      "name": "HIST 1511"
+    },
+    {
+      "code": "HIST 1512",
+      "name": "HIST 1512"
+    },
+    {
+      "code": "HIST 1513",
+      "name": "HIST 1513"
+    },
+    {
+      "code": "HIST 1514",
+      "name": "HIST 1514"
+    },
+    {
+      "code": "HIST 1515",
+      "name": "HIST 1515"
+    },
+    {
+      "code": "HIST 1530",
+      "name": "HIST 1530"
+    },
+    {
+      "code": "HIST 1531",
+      "name": "HIST 1531"
+    },
+    {
+      "code": "HIST 1532",
+      "name": "HIST 1532"
+    },
+    {
+      "code": "HIST 1533",
+      "name": "HIST 1533"
+    },
+    {
+      "code": "HIST 1553",
+      "name": "HIST 1553"
+    },
+    {
+      "code": "HIST 1554",
+      "name": "HIST 1554"
+    },
+    {
+      "code": "HIST 1570",
+      "name": "HIST 1570"
+    },
+    {
+      "code": "HIST 1571",
+      "name": "HIST 1571"
+    },
+    {
+      "code": "HIST 1574",
+      "name": "HIST 1574"
+    },
+    {
+      "code": "HIST 1620",
+      "name": "HIST 1620"
+    },
+    {
+      "code": "HIST 1640",
+      "name": "HIST 1640"
+    },
+    {
+      "code": "HIST 1735",
+      "name": "HIST 1735"
+    },
+    {
+      "code": "HIST 1800",
+      "name": "HIST 1800"
+    },
+    {
+      "code": "HIST 1820A",
+      "name": "HIST 1820A"
+    },
+    {
+      "code": "HIST 1820B",
+      "name": "HIST 1820B"
+    },
+    {
+      "code": "HIST 1820G",
+      "name": "HIST 1820G"
+    },
+    {
+      "code": "HIST 1825F",
+      "name": "HIST 1825F"
+    },
+    {
+      "code": "HIST 1825H",
+      "name": "HIST 1825H"
+    },
+    {
+      "code": "HIST 1825J",
+      "name": "HIST 1825J"
+    },
+    {
+      "code": "HIST 1825S",
+      "name": "HIST 1825S"
+    },
+    {
+      "code": "HIST 1830B",
+      "name": "HIST 1830B"
+    },
+    {
+      "code": "HIST 1830M",
+      "name": "HIST 1830M"
+    },
+    {
+      "code": "HIST 1835A",
+      "name": "HIST 1835A"
+    },
+    {
+      "code": "HIST 1942A",
+      "name": "HIST 1942A"
+    },
+    {
+      "code": "HIST 1952A",
+      "name": "HIST 1952A"
+    },
+    {
+      "code": "HIST 1956A",
+      "name": "HIST 1956A"
+    },
+    {
+      "code": "HIST 1956B",
+      "name": "HIST 1956B"
+    },
+    {
+      "code": "HIST 1956S",
+      "name": "HIST 1956S"
+    },
+    {
+      "code": "HIST 1960G",
+      "name": "HIST 1960G"
+    },
+    {
+      "code": "HIST 1960H",
+      "name": "HIST 1960H"
+    },
+    {
+      "code": "HIST 1960J",
+      "name": "HIST 1960J"
+    },
+    {
+      "code": "HIST 1960Q",
+      "name": "HIST 1960Q"
+    },
+    {
+      "code": "HIST 1960R",
+      "name": "HIST 1960R"
+    },
+    {
+      "code": "HIST 1960S",
+      "name": "HIST 1960S"
+    },
+    {
+      "code": "HIST 1961B",
+      "name": "HIST 1961B"
+    },
+    {
+      "code": "HIST 1961C",
+      "name": "HIST 1961C"
+    },
+    {
+      "code": "HIST 1961D",
+      "name": "HIST 1961D"
+    },
+    {
+      "code": "HIST 1961N",
+      "name": "HIST 1961N"
+    },
+    {
+      "code": "HIST 1962B",
+      "name": "HIST 1962B"
+    },
+    {
+      "code": "HIST 1962C",
+      "name": "HIST 1962C"
+    },
+    {
+      "code": "HIST 1962D",
+      "name": "HIST 1962D"
+    },
+    {
+      "code": "HIST 1962F",
+      "name": "HIST 1962F"
+    },
+    {
+      "code": "HIST 1962G",
+      "name": "HIST 1962G"
+    },
+    {
+      "code": "HIST 1963L",
+      "name": "HIST 1963L"
+    },
+    {
+      "code": "HIST 1963M",
+      "name": "HIST 1963M"
+    },
+    {
+      "code": "HIST 1963Q",
+      "name": "HIST 1963Q"
+    },
+    {
+      "code": "HIST 1964A",
+      "name": "HIST 1964A"
+    },
+    {
+      "code": "HIST 1964B",
+      "name": "HIST 1964B"
+    },
+    {
+      "code": "HIST 1964D",
+      "name": "HIST 1964D"
+    },
+    {
+      "code": "HIST 1964E",
+      "name": "HIST 1964E"
+    },
+    {
+      "code": "HIST 1964F",
+      "name": "HIST 1964F"
+    },
+    {
+      "code": "HIST 1964G",
+      "name": "HIST 1964G"
+    },
+    {
+      "code": "HIST 1964H",
+      "name": "HIST 1964H"
+    },
+    {
+      "code": "HIST 1964I",
+      "name": "HIST 1964I"
+    },
+    {
+      "code": "HIST 1964K",
+      "name": "HIST 1964K"
+    },
+    {
+      "code": "HIST 1964L",
+      "name": "HIST 1964L"
+    },
+    {
+      "code": "HIST 1964S",
+      "name": "HIST 1964S"
+    },
+    {
+      "code": "HIST 1965C",
+      "name": "HIST 1965C"
+    },
+    {
+      "code": "HIST 1965D",
+      "name": "HIST 1965D"
+    },
+    {
+      "code": "HIST 1965E",
+      "name": "HIST 1965E"
+    },
+    {
+      "code": "HIST 1965G",
+      "name": "HIST 1965G"
+    },
+    {
+      "code": "HIST 1965H",
+      "name": "HIST 1965H"
+    },
+    {
+      "code": "HIST 1965I",
+      "name": "HIST 1965I"
+    },
+    {
+      "code": "HIST 1965R",
+      "name": "HIST 1965R"
+    },
+    {
+      "code": "HIST 1967C",
+      "name": "HIST 1967C"
+    },
+    {
+      "code": "HIST 1967Q",
+      "name": "HIST 1967Q"
+    },
+    {
+      "code": "HIST 1967T",
+      "name": "HIST 1967T"
+    },
+    {
+      "code": "HIST 1968A",
+      "name": "HIST 1968A"
+    },
+    {
+      "code": "HIST 1968V",
+      "name": "HIST 1968V"
+    },
+    {
+      "code": "HIST 1969A",
+      "name": "HIST 1969A"
+    },
+    {
+      "code": "HIST 1969B",
+      "name": "HIST 1969B"
+    },
+    {
+      "code": "HIST 1969D",
+      "name": "HIST 1969D"
+    },
+    {
+      "code": "HIST 1970A",
+      "name": "HIST 1970A"
+    },
+    {
+      "code": "HIST 1970B",
+      "name": "HIST 1970B"
+    },
+    {
+      "code": "HIST 1970D",
+      "name": "HIST 1970D"
+    },
+    {
+      "code": "HIST 1970F",
+      "name": "HIST 1970F"
+    },
+    {
+      "code": "HIST 1970G",
+      "name": "HIST 1970G"
+    },
+    {
+      "code": "HIST 1971D",
+      "name": "HIST 1971D"
+    },
+    {
+      "code": "HIST 1972A",
+      "name": "HIST 1972A"
+    },
+    {
+      "code": "HIST 1972F",
+      "name": "HIST 1972F"
+    },
+    {
+      "code": "HIST 1972G",
+      "name": "HIST 1972G"
+    },
+    {
+      "code": "HIST 1972H",
+      "name": "HIST 1972H"
+    },
+    {
+      "code": "HIST 1972I",
+      "name": "HIST 1972I"
+    },
+    {
+      "code": "HIST 1972J",
+      "name": "HIST 1972J"
+    },
+    {
+      "code": "HIST 1973Q",
+      "name": "HIST 1973Q"
+    },
+    {
+      "code": "HIST 1974A",
+      "name": "HIST 1974A"
+    },
+    {
+      "code": "HIST 1974B",
+      "name": "HIST 1974B"
+    },
+    {
+      "code": "HIST 1974G",
+      "name": "HIST 1974G"
+    },
+    {
+      "code": "HIST 1974J",
+      "name": "HIST 1974J"
+    },
+    {
+      "code": "HIST 1974K",
+      "name": "HIST 1974K"
+    },
+    {
+      "code": "HIST 1974M",
+      "name": "HIST 1974M"
+    },
+    {
+      "code": "HIST 1974P",
+      "name": "HIST 1974P"
+    },
+    {
+      "code": "HIST 1974S",
+      "name": "HIST 1974S"
+    },
+    {
+      "code": "HIST 1974Y",
+      "name": "HIST 1974Y"
+    },
+    {
+      "code": "HIST 1975J",
+      "name": "HIST 1975J"
+    },
+    {
+      "code": "HIST 1976A",
+      "name": "HIST 1976A"
+    },
+    {
+      "code": "HIST 1976B",
+      "name": "HIST 1976B"
+    },
+    {
+      "code": "HIST 1976C",
+      "name": "HIST 1976C"
+    },
+    {
+      "code": "HIST 1976D",
+      "name": "HIST 1976D"
+    },
+    {
+      "code": "HIST 1976E",
+      "name": "HIST 1976E"
+    },
+    {
+      "code": "HIST 1976G",
+      "name": "HIST 1976G"
+    },
+    {
+      "code": "HIST 1976H",
+      "name": "HIST 1976H"
+    },
+    {
+      "code": "HIST 1976I",
+      "name": "HIST 1976I"
+    },
+    {
+      "code": "HIST 1976J",
+      "name": "HIST 1976J"
+    },
+    {
+      "code": "HIST 1976N",
+      "name": "HIST 1976N"
+    },
+    {
+      "code": "HIST 1976R",
+      "name": "HIST 1976R"
+    },
+    {
+      "code": "HIST 1977B",
+      "name": "HIST 1977B"
+    },
+    {
+      "code": "HIST 1977I",
+      "name": "HIST 1977I"
+    },
+    {
+      "code": "HIST 1977J",
+      "name": "HIST 1977J"
+    },
+    {
+      "code": "HIST 1990",
+      "name": "HIST 1990"
+    },
+    {
+      "code": "HIST 1993",
+      "name": "HIST 1993"
+    },
+    {
+      "code": "HIST 1994",
+      "name": "HIST 1994"
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "concentration": "Computational Neuroscience",
+  "slug": "cneu",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/cneu/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. Degree",
+      "groups": [
+        {
+          "name": "Background Courses (must take one of each):",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Calculus 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Differential Equations 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0350",
+                  "name": "APMA 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Linear Algebra 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                },
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                },
+                {
+                  "code": "MATH 0520",
+                  "name": "0520"
+                },
+                {
+                  "code": "MATH 0540",
+                  "name": "0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Statistics 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1450",
+                  "name": "CSCI 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Core Concentration Courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0010",
+                  "name": "NEUR 0010"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1030",
+                  "name": "NEUR 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0112",
+                  "name": "CSCI 0112"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0680",
+                  "name": "NEUR 0680"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Computational Neuroscience Electives From The Below List: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1492",
+                  "name": "CPSY 1492"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1440",
+                  "name": "NEUR 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1660",
+                  "name": "NEUR 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1291",
+                  "name": "CPSY 1291"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1810",
+                  "name": "CSCI 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1940B",
+                  "name": "NEUR 1940B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1630",
+                  "name": "NEUR 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1950",
+                  "name": "CPSY 1950"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1850",
+                  "name": "CPSY 1850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 2110",
+                  "name": "NEUR 2110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Course in Artificial Intelligence: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0410",
+                  "name": "CSCI 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1410",
+                  "name": "CSCI 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1411",
+                  "name": "CSCI 1411"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1420",
+                  "name": "CSCI 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1430",
+                  "name": "CSCI 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1460",
+                  "name": "CSCI 1460"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1470",
+                  "name": "CSCI 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 2060",
+                  "name": "DATA 2060"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1956S",
+                  "name": "HIST 1956S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Upper-Level Neuroscience Electives 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two courses that will enhance your understanding of the field of neuroscience. While electives need not be from the neuroscience department, the following list are common courses taught by Neuroscience and other departments that are often used as electives. We encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list.  These electives must be of 1000-level or above.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1400",
+                  "name": "CPSY 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900Z",
+                  "name": "ENGL 1900Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1220",
+                  "name": "ENGN 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1540",
+                  "name": "NEUR 1540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1650",
+                  "name": "NEUR 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1740",
+                  "name": "NEUR 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One Elective in Ethics: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1805",
+                  "name": "CSCI 1805"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1951I",
+                  "name": "CSCI 1951I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1951Z",
+                  "name": "CSCI 1951Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 0080",
+                  "name": "DATA 0080"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1000",
+                  "name": "ECON 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 1800",
+                  "name": "ENGN 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0401",
+                  "name": "PHIL 0401"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0403",
+                  "name": "PHIL 0403"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1910",
+                  "name": "APMA 1910"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STS 1700T",
+                  "name": "STS 1700T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two Additional Electives: 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two courses that will enhance your understanding of the field of computational neuroscience. These electives are not limited to a specific department, and are able to be any of the courses already listed for this concentration (though, you cannot cross-count an elective with a named requirement). The following list are courses that we recommend be used as electives, however, we encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list.  Students can substitute TWO semesters of independent study (NEUR1970 or equivalent course from another department) for one elective course",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0160",
+                  "name": "APMA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0200",
+                  "name": "APMA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0360",
+                  "name": "APMA 0360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1070",
+                  "name": "APMA 1070"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1170",
+                  "name": "APMA 1170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1360",
+                  "name": "APMA 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1660",
+                  "name": "APMA 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1690",
+                  "name": "APMA 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1710",
+                  "name": "APMA 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1740",
+                  "name": "APMA 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1860",
+                  "name": "APMA 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1941D",
+                  "name": "APMA 1941D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1435",
+                  "name": "BIOL 1435"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1555",
+                  "name": "BIOL 1555"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0800",
+                  "name": "CPSY 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0535",
+                  "name": "CSCI 0535"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1010",
+                  "name": "CSCI 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1570",
+                  "name": "CSCI 1570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1951A",
+                  "name": "CSCI 1951A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1951Q",
+                  "name": "CSCI 1951Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGN 2912P",
+                  "name": "ENGN 2912P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1210",
+                  "name": "MATH 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1610",
+                  "name": "MATH 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHYS 1610",
+                  "name": "PHYS 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "NEUR 1900 Capstone 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0350",
+            "name": "APMA 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "MATH 0540"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "APMA 0260",
+              "name": "APMA 0260"
+            },
+            {
+              "code": "MATH 0100",
+              "name": "MATH 0100"
+            },
+            {
+              "code": "MATH 0520",
+              "name": "0520"
+            },
+            {
+              "code": "MATH 0540",
+              "name": "0540"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1450",
+            "name": "CSCI 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0010",
+            "name": "NEUR 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1030",
+            "name": "NEUR 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0112",
+            "name": "CSCI 0112"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0200",
+            "name": "CSCI 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0680",
+            "name": "NEUR 0680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1492",
+            "name": "CPSY 1492"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1440",
+            "name": "NEUR 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1660",
+            "name": "NEUR 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1291",
+            "name": "CPSY 1291"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1810",
+            "name": "CSCI 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1940B",
+            "name": "NEUR 1940B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1630",
+            "name": "NEUR 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1950",
+            "name": "CPSY 1950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1850",
+            "name": "CPSY 1850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 2110",
+            "name": "NEUR 2110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0410",
+            "name": "CSCI 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1410",
+            "name": "CSCI 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1411",
+            "name": "CSCI 1411"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1420",
+            "name": "CSCI 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1430",
+            "name": "CSCI 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1460",
+            "name": "CSCI 1460"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1470",
+            "name": "CSCI 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 2060",
+            "name": "DATA 2060"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1956S",
+            "name": "HIST 1956S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1400",
+            "name": "CPSY 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900Z",
+            "name": "ENGL 1900Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1220",
+            "name": "ENGN 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1540",
+            "name": "NEUR 1540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1650",
+            "name": "NEUR 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1740",
+            "name": "NEUR 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1805",
+            "name": "CSCI 1805"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1951I",
+            "name": "CSCI 1951I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1951Z",
+            "name": "CSCI 1951Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 0080",
+            "name": "DATA 0080"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1000",
+            "name": "ECON 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 1800",
+            "name": "ENGN 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0401",
+            "name": "PHIL 0401"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0403",
+            "name": "PHIL 0403"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1910",
+            "name": "APMA 1910"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STS 1700T",
+            "name": "STS 1700T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0160",
+            "name": "APMA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0200",
+            "name": "APMA 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0360",
+            "name": "APMA 0360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1070",
+            "name": "APMA 1070"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1170",
+            "name": "APMA 1170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1360",
+            "name": "APMA 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1660",
+            "name": "APMA 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1690",
+            "name": "APMA 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1710",
+            "name": "APMA 1710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1740",
+            "name": "APMA 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1860",
+            "name": "APMA 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1941D",
+            "name": "APMA 1941D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1435",
+            "name": "BIOL 1435"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1555",
+            "name": "BIOL 1555"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0800",
+            "name": "CPSY 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0535",
+            "name": "CSCI 0535"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1010",
+            "name": "CSCI 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1570",
+            "name": "CSCI 1570"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1951A",
+            "name": "CSCI 1951A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1951Q",
+            "name": "CSCI 1951Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGN 2912P",
+            "name": "ENGN 2912P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1210",
+            "name": "MATH 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1610",
+            "name": "MATH 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHYS 1610",
+            "name": "PHYS 1610"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "APMA 0350",
+      "name": "APMA 0350"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "BIOL 0495",
+      "name": "BIOL 0495"
+    },
+    {
+      "code": "CSCI 1450",
+      "name": "CSCI 1450"
+    },
+    {
+      "code": "NEUR 0010",
+      "name": "NEUR 0010"
+    },
+    {
+      "code": "NEUR 1020",
+      "name": "NEUR 1020"
+    },
+    {
+      "code": "NEUR 1030",
+      "name": "NEUR 1030"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0112",
+      "name": "CSCI 0112"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "CSCI 0200",
+      "name": "CSCI 0200"
+    },
+    {
+      "code": "NEUR 0680",
+      "name": "NEUR 0680"
+    },
+    {
+      "code": "CPSY 1492",
+      "name": "CPSY 1492"
+    },
+    {
+      "code": "NEUR 1440",
+      "name": "NEUR 1440"
+    },
+    {
+      "code": "NEUR 1660",
+      "name": "NEUR 1660"
+    },
+    {
+      "code": "CPSY 1291",
+      "name": "CPSY 1291"
+    },
+    {
+      "code": "CSCI 1810",
+      "name": "CSCI 1810"
+    },
+    {
+      "code": "NEUR 1940B",
+      "name": "NEUR 1940B"
+    },
+    {
+      "code": "NEUR 1630",
+      "name": "NEUR 1630"
+    },
+    {
+      "code": "CPSY 1950",
+      "name": "CPSY 1950"
+    },
+    {
+      "code": "CPSY 1850",
+      "name": "CPSY 1850"
+    },
+    {
+      "code": "NEUR 2110",
+      "name": "NEUR 2110"
+    },
+    {
+      "code": "CSCI 0410",
+      "name": "CSCI 0410"
+    },
+    {
+      "code": "CSCI 1410",
+      "name": "CSCI 1410"
+    },
+    {
+      "code": "CSCI 1411",
+      "name": "CSCI 1411"
+    },
+    {
+      "code": "CSCI 1420",
+      "name": "CSCI 1420"
+    },
+    {
+      "code": "CSCI 1430",
+      "name": "CSCI 1430"
+    },
+    {
+      "code": "CSCI 1460",
+      "name": "CSCI 1460"
+    },
+    {
+      "code": "CSCI 1470",
+      "name": "CSCI 1470"
+    },
+    {
+      "code": "DATA 2060",
+      "name": "DATA 2060"
+    },
+    {
+      "code": "HIST 1956S",
+      "name": "HIST 1956S"
+    },
+    {
+      "code": "CPSY 1400",
+      "name": "CPSY 1400"
+    },
+    {
+      "code": "ENGL 1900Z",
+      "name": "ENGL 1900Z"
+    },
+    {
+      "code": "ENGN 1220",
+      "name": "ENGN 1220"
+    },
+    {
+      "code": "NEUR 1540",
+      "name": "NEUR 1540"
+    },
+    {
+      "code": "NEUR 1650",
+      "name": "NEUR 1650"
+    },
+    {
+      "code": "NEUR 1740",
+      "name": "NEUR 1740"
+    },
+    {
+      "code": "CSCI 1805",
+      "name": "CSCI 1805"
+    },
+    {
+      "code": "CSCI 1951I",
+      "name": "CSCI 1951I"
+    },
+    {
+      "code": "CSCI 1951Z",
+      "name": "CSCI 1951Z"
+    },
+    {
+      "code": "DATA 0080",
+      "name": "DATA 0080"
+    },
+    {
+      "code": "ECON 1000",
+      "name": "ECON 1000"
+    },
+    {
+      "code": "ENGN 1800",
+      "name": "ENGN 1800"
+    },
+    {
+      "code": "PHIL 0401",
+      "name": "PHIL 0401"
+    },
+    {
+      "code": "PHIL 0403",
+      "name": "PHIL 0403"
+    },
+    {
+      "code": "APMA 1910",
+      "name": "APMA 1910"
+    },
+    {
+      "code": "STS 1700T",
+      "name": "STS 1700T"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 0200",
+      "name": "APMA 0200"
+    },
+    {
+      "code": "APMA 0360",
+      "name": "APMA 0360"
+    },
+    {
+      "code": "APMA 1070",
+      "name": "APMA 1070"
+    },
+    {
+      "code": "APMA 1170",
+      "name": "APMA 1170"
+    },
+    {
+      "code": "APMA 1360",
+      "name": "APMA 1360"
+    },
+    {
+      "code": "APMA 1660",
+      "name": "APMA 1660"
+    },
+    {
+      "code": "APMA 1690",
+      "name": "APMA 1690"
+    },
+    {
+      "code": "APMA 1710",
+      "name": "APMA 1710"
+    },
+    {
+      "code": "APMA 1740",
+      "name": "APMA 1740"
+    },
+    {
+      "code": "APMA 1860",
+      "name": "APMA 1860"
+    },
+    {
+      "code": "APMA 1941D",
+      "name": "APMA 1941D"
+    },
+    {
+      "code": "BIOL 1435",
+      "name": "BIOL 1435"
+    },
+    {
+      "code": "BIOL 1555",
+      "name": "BIOL 1555"
+    },
+    {
+      "code": "CPSY 0450",
+      "name": "CPSY 0450"
+    },
+    {
+      "code": "CPSY 0800",
+      "name": "CPSY 0800"
+    },
+    {
+      "code": "CSCI 0535",
+      "name": "CSCI 0535"
+    },
+    {
+      "code": "CSCI 1010",
+      "name": "CSCI 1010"
+    },
+    {
+      "code": "CSCI 1570",
+      "name": "CSCI 1570"
+    },
+    {
+      "code": "CSCI 1951A",
+      "name": "CSCI 1951A"
+    },
+    {
+      "code": "CSCI 1951Q",
+      "name": "CSCI 1951Q"
+    },
+    {
+      "code": "ENGN 2912P",
+      "name": "ENGN 2912P"
+    },
+    {
+      "code": "MATH 1210",
+      "name": "MATH 1210"
+    },
+    {
+      "code": "MATH 1610",
+      "name": "MATH 1610"
+    },
+    {
+      "code": "PHYS 1610",
+      "name": "PHYS 1610"
+    }
+  ]
+}

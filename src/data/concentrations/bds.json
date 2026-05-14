@@ -1,0 +1,1600 @@
+{
+  "concentration": "Behavioral Decision Sciences",
+  "slug": "bds",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/bds/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_ab_degree",
+      "name": "Standard Program for the AB Degree",
+      "groups": [
+        {
+          "name": "Foundational Courses:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0220",
+                  "name": "CPSY 0220"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0400",
+                  "name": "CPSY 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0450",
+                  "name": "CPSY 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0620",
+                  "name": "CPSY 0620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one from the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0710",
+                  "name": "CPSY 0710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1280B",
+                  "name": "CPSY 1280B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1280C",
+                  "name": "CPSY 1280C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1470",
+                  "name": "CPSY 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1495",
+                  "name": "CPSY 1495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1560",
+                  "name": "CPSY 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1680A",
+                  "name": "CPSY 1680A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1680H",
+                  "name": "CPSY 1680H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1730",
+                  "name": "CPSY 1730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1750",
+                  "name": "CPSY 1750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1760",
+                  "name": "CPSY 1760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Distribution Requirements:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one Introductory Course from the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0950",
+                  "name": "CPSY 0950"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 0110",
+                  "name": "ECON 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select Two Advanced Courses From: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0410",
+                  "name": "CSCI 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1420",
+                  "name": "CSCI 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1090",
+                  "name": "ECON 1090"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1110",
+                  "name": "ECON 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1130",
+                  "name": "ECON 1130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1170",
+                  "name": "ECON 1170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1200",
+                  "name": "ECON 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1805",
+                  "name": "ECON 1805"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1820",
+                  "name": "ECON 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1870",
+                  "name": "ECON 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1610",
+                  "name": "PHIL 1610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1430",
+                  "name": "PHIL 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1311",
+                  "name": "SOC 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1315",
+                  "name": "SOC 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Methods Classes:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Basic Probability and Statistics. Choose One From the Following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1450",
+                  "name": "CSCI 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "DATA 0200",
+                  "name": "DATA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "ECON 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Advanced Methods. Choose one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1291",
+                  "name": "CPSY 1291"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1492",
+                  "name": "CPSY 1492"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1630",
+                  "name": "ECON 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "ECON 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LING 1771",
+                  "name": "LING 1771"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1120",
+                  "name": "SOC 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "or any advanced course in Computer Science beyond the introductory set of classes",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Choose one of the following Research Methods and Design courses: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1791",
+                  "name": "CPSY 1791"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1890",
+                  "name": "CPSY 1890"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1900",
+                  "name": "CPSY 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1901",
+                  "name": "CPSY 1901"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1629",
+                  "name": "ECON 1629"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1500A",
+                  "name": "IAPA 1500A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1600",
+                  "name": "POLS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "SOC 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1260",
+                  "name": "SOC 1260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Electives: 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Students will choose three additional courses in consultation with a concentration advisor that will constitute an integrated specialization in some area of decision science. Any advanced course taught at Brown is eligible.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Capstone: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1960",
+                  "name": "CPSY 1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0220",
+            "name": "CPSY 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0400",
+            "name": "CPSY 0400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0450",
+            "name": "CPSY 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0620",
+            "name": "CPSY 0620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0710",
+            "name": "CPSY 0710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1280B",
+            "name": "CPSY 1280B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1280C",
+            "name": "CPSY 1280C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1470",
+            "name": "CPSY 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1495",
+            "name": "CPSY 1495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1560",
+            "name": "CPSY 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1680A",
+            "name": "CPSY 1680A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1680H",
+            "name": "CPSY 1680H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1730",
+            "name": "CPSY 1730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1750",
+            "name": "CPSY 1750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1760",
+            "name": "CPSY 1760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0950",
+            "name": "CPSY 0950"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 0110",
+            "name": "ECON 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0410",
+            "name": "CSCI 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1420",
+            "name": "CSCI 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1090",
+            "name": "ECON 1090"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1110",
+            "name": "ECON 1110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1130",
+            "name": "ECON 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1170",
+            "name": "ECON 1170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1200",
+            "name": "ECON 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1805",
+            "name": "ECON 1805"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1820",
+            "name": "ECON 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1870",
+            "name": "ECON 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1610",
+            "name": "PHIL 1610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1430",
+            "name": "PHIL 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1311",
+            "name": "SOC 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1315",
+            "name": "SOC 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1450",
+            "name": "CSCI 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "DATA 0200",
+            "name": "DATA 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "ECON 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1291",
+            "name": "CPSY 1291"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1492",
+            "name": "CPSY 1492"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1630",
+            "name": "ECON 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "ECON 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LING 1771",
+            "name": "LING 1771"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1120",
+            "name": "SOC 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0200",
+            "name": "CSCI 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1791",
+            "name": "CPSY 1791"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1890",
+            "name": "CPSY 1890"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1900",
+            "name": "CPSY 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1901",
+            "name": "CPSY 1901"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1629",
+            "name": "ECON 1629"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1500A",
+            "name": "IAPA 1500A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1600",
+            "name": "POLS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "SOC 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1260",
+            "name": "SOC 1260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1960",
+            "name": "CPSY 1960"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "CPSY 0220",
+      "name": "CPSY 0220"
+    },
+    {
+      "code": "CPSY 0200",
+      "name": "CPSY 0200"
+    },
+    {
+      "code": "CPSY 0400",
+      "name": "CPSY 0400"
+    },
+    {
+      "code": "CPSY 0450",
+      "name": "CPSY 0450"
+    },
+    {
+      "code": "CPSY 0620",
+      "name": "CPSY 0620"
+    },
+    {
+      "code": "CPSY 0700",
+      "name": "CPSY 0700"
+    },
+    {
+      "code": "CPSY 0710",
+      "name": "CPSY 0710"
+    },
+    {
+      "code": "CPSY 1280B",
+      "name": "CPSY 1280B"
+    },
+    {
+      "code": "CPSY 1280C",
+      "name": "CPSY 1280C"
+    },
+    {
+      "code": "CPSY 1470",
+      "name": "CPSY 1470"
+    },
+    {
+      "code": "CPSY 1495",
+      "name": "CPSY 1495"
+    },
+    {
+      "code": "CPSY 1560",
+      "name": "CPSY 1560"
+    },
+    {
+      "code": "CPSY 1680A",
+      "name": "CPSY 1680A"
+    },
+    {
+      "code": "CPSY 1680H",
+      "name": "CPSY 1680H"
+    },
+    {
+      "code": "CPSY 1730",
+      "name": "CPSY 1730"
+    },
+    {
+      "code": "CPSY 1750",
+      "name": "CPSY 1750"
+    },
+    {
+      "code": "CPSY 1760",
+      "name": "CPSY 1760"
+    },
+    {
+      "code": "CPSY 0950",
+      "name": "CPSY 0950"
+    },
+    {
+      "code": "ECON 0110",
+      "name": "ECON 0110"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "CSCI 0410",
+      "name": "CSCI 0410"
+    },
+    {
+      "code": "CSCI 1420",
+      "name": "CSCI 1420"
+    },
+    {
+      "code": "ECON 1090",
+      "name": "ECON 1090"
+    },
+    {
+      "code": "ECON 1110",
+      "name": "ECON 1110"
+    },
+    {
+      "code": "ECON 1130",
+      "name": "ECON 1130"
+    },
+    {
+      "code": "ECON 1170",
+      "name": "ECON 1170"
+    },
+    {
+      "code": "ECON 1200",
+      "name": "ECON 1200"
+    },
+    {
+      "code": "ECON 1805",
+      "name": "ECON 1805"
+    },
+    {
+      "code": "ECON 1820",
+      "name": "ECON 1820"
+    },
+    {
+      "code": "ECON 1870",
+      "name": "ECON 1870"
+    },
+    {
+      "code": "PHIL 1610",
+      "name": "PHIL 1610"
+    },
+    {
+      "code": "PHIL 1430",
+      "name": "PHIL 1430"
+    },
+    {
+      "code": "SOC 1311",
+      "name": "SOC 1311"
+    },
+    {
+      "code": "SOC 1315",
+      "name": "SOC 1315"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "CSCI 1450",
+      "name": "CSCI 1450"
+    },
+    {
+      "code": "DATA 0200",
+      "name": "DATA 0200"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "CPSY 1291",
+      "name": "CPSY 1291"
+    },
+    {
+      "code": "CPSY 1492",
+      "name": "CPSY 1492"
+    },
+    {
+      "code": "ECON 1630",
+      "name": "ECON 1630"
+    },
+    {
+      "code": "ECON 1660",
+      "name": "ECON 1660"
+    },
+    {
+      "code": "LING 1771",
+      "name": "LING 1771"
+    },
+    {
+      "code": "SOC 1120",
+      "name": "SOC 1120"
+    },
+    {
+      "code": "SOC 1260",
+      "name": "SOC 1260"
+    },
+    {
+      "code": "CSCI 0200",
+      "name": "CSCI 0200"
+    },
+    {
+      "code": "CPSY 1791",
+      "name": "CPSY 1791"
+    },
+    {
+      "code": "CPSY 1890",
+      "name": "CPSY 1890"
+    },
+    {
+      "code": "CPSY 1900",
+      "name": "CPSY 1900"
+    },
+    {
+      "code": "CPSY 1901",
+      "name": "CPSY 1901"
+    },
+    {
+      "code": "ECON 1629",
+      "name": "ECON 1629"
+    },
+    {
+      "code": "IAPA 1500A",
+      "name": "IAPA 1500A"
+    },
+    {
+      "code": "POLS 1600",
+      "name": "POLS 1600"
+    },
+    {
+      "code": "SOC 1020",
+      "name": "SOC 1020"
+    },
+    {
+      "code": "CPSY 1960",
+      "name": "CPSY 1960"
+    }
+  ]
+}

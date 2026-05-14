@@ -1,0 +1,1006 @@
+{
+  "concentration": "Slavic Studies",
+  "slug": "slav",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/slav/",
+  "tracks": [
+    {
+      "id": "requirements_for_the_ab_degree",
+      "name": "Requirements for the AB Degree",
+      "groups": [
+        {
+          "name": "Six semesters of one Slavic language or the equivalent, or a combined total of eight semesters of two Slavic languages or the equivalent.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "RUSS 0100",
+                  "name": "RUSS 0100"
+                },
+                {
+                  "code": "RUSS 0200",
+                  "name": "RUSS 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 0110",
+                  "name": "RUSS 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "RUSS 0300",
+                  "name": "RUSS 0300"
+                },
+                {
+                  "code": "RUSS 0400",
+                  "name": "RUSS 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "RUSS 0500",
+                  "name": "RUSS 0500"
+                },
+                {
+                  "code": "RUSS 0600",
+                  "name": "RUSS 0600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "In cases where a student's interests and course of study warrant it, and only upon consulting the concentration advisor, the student may apply more than one Slavic language to the concentration (Czech or Polish in addition to Russian), and would then need a combined total of eight semesters of two Slavic languages:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CZCH 0100",
+                  "name": "CZCH 0100"
+                },
+                {
+                  "code": "CZCH 0200",
+                  "name": "CZCH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CZCH 0400",
+                  "name": "CZCH 0400"
+                },
+                {
+                  "code": "RUSS 0300",
+                  "name": "RUSS 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "PLSH 0100",
+                  "name": "PLSH 0100"
+                },
+                {
+                  "code": "PLSH 0200",
+                  "name": "PLSH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "PLSH 0300",
+                  "name": "PLSH 0300"
+                },
+                {
+                  "code": "PLSH 0400",
+                  "name": "PLSH 0400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "The concentration in Slavic Studies requires students to complete a minimum of seven 1000-level courses devoted to the study of the East European civilizations: literature, history, culture, theater, political science, economics, international relations.  Typically, at least four of these courses will be from within the Department of Slavic Studies.  Students' choice of courses is subject to the approval of the concentration advisor.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Courses in the Department of Slavic Studies:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CZCH 1000",
+                  "name": "CZCH 1000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1110",
+                  "name": "RUSS 1110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1120",
+                  "name": "RUSS 1120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1200",
+                  "name": "RUSS 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1220",
+                  "name": "RUSS 1220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1250",
+                  "name": "RUSS 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1290",
+                  "name": "RUSS 1290"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1300",
+                  "name": "RUSS 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1330",
+                  "name": "RUSS 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1340",
+                  "name": "RUSS 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1440",
+                  "name": "RUSS 1440"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1450",
+                  "name": "RUSS 1450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1500",
+                  "name": "RUSS 1500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1550",
+                  "name": "RUSS 1550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1600",
+                  "name": "RUSS 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1660",
+                  "name": "RUSS 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1800",
+                  "name": "RUSS 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1810",
+                  "name": "RUSS 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1820",
+                  "name": "RUSS 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1840",
+                  "name": "RUSS 1840"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1860",
+                  "name": "RUSS 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1848",
+                  "name": "RUSS 1848"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1870",
+                  "name": "RUSS 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1967",
+                  "name": "RUSS 1967"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SLAV 1250",
+                  "name": "SLAV 1250"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SLAV 1300",
+                  "name": "SLAV 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Sample courses in other departments:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1268A",
+                  "name": "HIST 1268A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1268B",
+                  "name": "HIST 1268B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1268C",
+                  "name": "HIST 1268C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "RUSS 0100",
+              "name": "RUSS 0100"
+            },
+            {
+              "code": "RUSS 0200",
+              "name": "RUSS 0200"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 0110",
+            "name": "RUSS 0110"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "RUSS 0300",
+              "name": "RUSS 0300"
+            },
+            {
+              "code": "RUSS 0400",
+              "name": "RUSS 0400"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "RUSS 0500",
+              "name": "RUSS 0500"
+            },
+            {
+              "code": "RUSS 0600",
+              "name": "RUSS 0600"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CZCH 0100",
+              "name": "CZCH 0100"
+            },
+            {
+              "code": "CZCH 0200",
+              "name": "CZCH 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CZCH 0400",
+              "name": "CZCH 0400"
+            },
+            {
+              "code": "RUSS 0300",
+              "name": "RUSS 0300"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "PLSH 0100",
+              "name": "PLSH 0100"
+            },
+            {
+              "code": "PLSH 0200",
+              "name": "PLSH 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "PLSH 0300",
+              "name": "PLSH 0300"
+            },
+            {
+              "code": "PLSH 0400",
+              "name": "PLSH 0400"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CZCH 1000",
+            "name": "CZCH 1000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1110",
+            "name": "RUSS 1110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1120",
+            "name": "RUSS 1120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1200",
+            "name": "RUSS 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1220",
+            "name": "RUSS 1220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1250",
+            "name": "RUSS 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1290",
+            "name": "RUSS 1290"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1300",
+            "name": "RUSS 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1330",
+            "name": "RUSS 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1340",
+            "name": "RUSS 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1440",
+            "name": "RUSS 1440"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1450",
+            "name": "RUSS 1450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1500",
+            "name": "RUSS 1500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1550",
+            "name": "RUSS 1550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1600",
+            "name": "RUSS 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1660",
+            "name": "RUSS 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1800",
+            "name": "RUSS 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1810",
+            "name": "RUSS 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1820",
+            "name": "RUSS 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1840",
+            "name": "RUSS 1840"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1860",
+            "name": "RUSS 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1848",
+            "name": "RUSS 1848"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1870",
+            "name": "RUSS 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1967",
+            "name": "RUSS 1967"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SLAV 1250",
+            "name": "SLAV 1250"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SLAV 1300",
+            "name": "SLAV 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1268A",
+            "name": "HIST 1268A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1268B",
+            "name": "HIST 1268B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1268C",
+            "name": "HIST 1268C"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "RUSS 0100",
+      "name": "RUSS 0100"
+    },
+    {
+      "code": "RUSS 0200",
+      "name": "RUSS 0200"
+    },
+    {
+      "code": "RUSS 0110",
+      "name": "RUSS 0110"
+    },
+    {
+      "code": "RUSS 0300",
+      "name": "RUSS 0300"
+    },
+    {
+      "code": "RUSS 0400",
+      "name": "RUSS 0400"
+    },
+    {
+      "code": "RUSS 0500",
+      "name": "RUSS 0500"
+    },
+    {
+      "code": "RUSS 0600",
+      "name": "RUSS 0600"
+    },
+    {
+      "code": "CZCH 0100",
+      "name": "CZCH 0100"
+    },
+    {
+      "code": "CZCH 0200",
+      "name": "CZCH 0200"
+    },
+    {
+      "code": "CZCH 0400",
+      "name": "CZCH 0400"
+    },
+    {
+      "code": "PLSH 0100",
+      "name": "PLSH 0100"
+    },
+    {
+      "code": "PLSH 0200",
+      "name": "PLSH 0200"
+    },
+    {
+      "code": "PLSH 0300",
+      "name": "PLSH 0300"
+    },
+    {
+      "code": "PLSH 0400",
+      "name": "PLSH 0400"
+    },
+    {
+      "code": "CZCH 1000",
+      "name": "CZCH 1000"
+    },
+    {
+      "code": "RUSS 1110",
+      "name": "RUSS 1110"
+    },
+    {
+      "code": "RUSS 1120",
+      "name": "RUSS 1120"
+    },
+    {
+      "code": "RUSS 1200",
+      "name": "RUSS 1200"
+    },
+    {
+      "code": "RUSS 1220",
+      "name": "RUSS 1220"
+    },
+    {
+      "code": "RUSS 1250",
+      "name": "RUSS 1250"
+    },
+    {
+      "code": "RUSS 1290",
+      "name": "RUSS 1290"
+    },
+    {
+      "code": "RUSS 1300",
+      "name": "RUSS 1300"
+    },
+    {
+      "code": "RUSS 1330",
+      "name": "RUSS 1330"
+    },
+    {
+      "code": "RUSS 1340",
+      "name": "RUSS 1340"
+    },
+    {
+      "code": "RUSS 1440",
+      "name": "RUSS 1440"
+    },
+    {
+      "code": "RUSS 1450",
+      "name": "RUSS 1450"
+    },
+    {
+      "code": "RUSS 1500",
+      "name": "RUSS 1500"
+    },
+    {
+      "code": "RUSS 1550",
+      "name": "RUSS 1550"
+    },
+    {
+      "code": "RUSS 1600",
+      "name": "RUSS 1600"
+    },
+    {
+      "code": "RUSS 1660",
+      "name": "RUSS 1660"
+    },
+    {
+      "code": "RUSS 1800",
+      "name": "RUSS 1800"
+    },
+    {
+      "code": "RUSS 1810",
+      "name": "RUSS 1810"
+    },
+    {
+      "code": "RUSS 1820",
+      "name": "RUSS 1820"
+    },
+    {
+      "code": "RUSS 1840",
+      "name": "RUSS 1840"
+    },
+    {
+      "code": "RUSS 1860",
+      "name": "RUSS 1860"
+    },
+    {
+      "code": "RUSS 1848",
+      "name": "RUSS 1848"
+    },
+    {
+      "code": "RUSS 1870",
+      "name": "RUSS 1870"
+    },
+    {
+      "code": "RUSS 1967",
+      "name": "RUSS 1967"
+    },
+    {
+      "code": "SLAV 1250",
+      "name": "SLAV 1250"
+    },
+    {
+      "code": "SLAV 1300",
+      "name": "SLAV 1300"
+    },
+    {
+      "code": "HIST 1268A",
+      "name": "HIST 1268A"
+    },
+    {
+      "code": "HIST 1268B",
+      "name": "HIST 1268B"
+    },
+    {
+      "code": "HIST 1268C",
+      "name": "HIST 1268C"
+    },
+    {
+      "code": "SLAV 1990",
+      "name": "SLAV 1990"
+    }
+  ]
+}

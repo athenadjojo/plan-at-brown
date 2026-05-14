@@ -1,0 +1,4481 @@
+{
+  "concentration": "English",
+  "slug": "engl",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/engl/",
+  "tracks": [
+    {
+      "id": "about_the_concentration",
+      "name": "About the Concentration",
+      "groups": [
+        {
+          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Addressing topics about which professors are especially passionate, these introductory courses aim to deepen and refine students\u2019 understanding of how literature matters: aesthetically, ethically, historically and politically. Students not only engage with larger questions about literature\u2019s significance, exploring the particular kinds of insights and thinking it is especially suited for conveying, they also gain a deeper awareness of the critical methods we use to understand and analyze it, engaging with matters of form, genre and media. Finally, these courses help students develop their skills as close, careful readers of literary form and language.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100A",
+                  "name": "ENGL 0100A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100C",
+                  "name": "ENGL 0100C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100D",
+                  "name": "ENGL 0100D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100F",
+                  "name": "ENGL 0100F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100G",
+                  "name": "ENGL 0100G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100J",
+                  "name": "ENGL 0100J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100M",
+                  "name": "ENGL 0100M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100N",
+                  "name": "ENGL 0100N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100P",
+                  "name": "ENGL 0100P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100Q",
+                  "name": "ENGL 0100Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100R",
+                  "name": "ENGL 0100R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100S",
+                  "name": "ENGL 0100S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100T",
+                  "name": "ENGL 0100T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100U",
+                  "name": "ENGL 0100U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100V",
+                  "name": "ENGL 0100V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100W",
+                  "name": "ENGL 0100W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100Y",
+                  "name": "ENGL 0100Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101A",
+                  "name": "ENGL 0101A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101B",
+                  "name": "ENGL 0101B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "These courses, which center on Medieval and Renaissance literary works, cast light on periods that can come across to us as both familiar and strange. They focus our attention on how literatures from these periods depict concepts such as aesthetics, romance, gender, sexuality, race, power and politics in ways that are like and unlike how we tend to think of them today\u2014on how pre-modern or early modern works can both defamiliarize the categories of experience and identity we tend to take for granted and also suggest something of their origins. Several courses under this rubric will also engage with recent literary and filmic adaptations of works from these eras, exploring how many such works continue to function as vibrant and at times ambivalent inspirations for the literary imaginings of later periods.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "3. ONE course in Literatures of Modernity (Post-1700): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "These courses explore the many strands of writing in English that have emerged from the eighteenth century through the present, shaping the contemporary world. These literatures reflect on political, economic, and intellectual history, from the idea of the nation and the structures of capital through the rise and dissolution of empire and the emergence of postcolonial states, including the forms of race, gender and sexuality that cut across them. Courses also examine how aesthetic works can shape and critique their moment: they look at genres like the novel and short story, poetry, drama, essays, and new, hybrid forms that have arisen with expanding digital media; they also take up a multitude of literary movements whose influences remain with us today, including Romanticism, realism, naturalism, modernism, and post-modernism.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "4. ONE course in Literatures of the Color Line: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "In 1903, W. E. B. Du Bois famously proclaimed in \"The Souls of Black Folk\" that \u201cThe problem of the twentieth century is the problem of the color-line,\u2014the relation of the darker to the lighter races of men in Asia and Africa, in America and the islands of the sea.\u201d Courses in this category explore the complex ways in which literary texts have addressed American histories of race, ethnicity, and empire. They may do so from the vantage point of ideas about difference and hierarchy that predate the modern conception of race and by engaging with earlier histories of conflict and contact. These courses explore issues of intersectionality as well, highlighting how race operates in relation to other structures of difference such as gender, sexuality and class.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100F",
+                  "name": "ENGL 0100F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100N",
+                  "name": "ENGL 0100N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100S",
+                  "name": "ENGL 0100S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100V",
+                  "name": "ENGL 0100V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101A",
+                  "name": "ENGL 0101A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150X",
+                  "name": "ENGL 0150X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150Y",
+                  "name": "ENGL 0150Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700E",
+                  "name": "ENGL 0700E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0500R",
+                  "name": "ENGL 0500R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0510F",
+                  "name": "ENGL 0510F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700G",
+                  "name": "ENGL 0700G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700U",
+                  "name": "ENGL 0700U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710B",
+                  "name": "ENGL 0710B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710Q",
+                  "name": "ENGL 0710Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710V",
+                  "name": "ENGL 0710V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710W",
+                  "name": "ENGL 0710W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710X",
+                  "name": "ENGL 0710X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710Y",
+                  "name": "ENGL 0710Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310H",
+                  "name": "ENGL 1310H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511A",
+                  "name": "ENGL 1511A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511C",
+                  "name": "ENGL 1511C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511P",
+                  "name": "ENGL 1511P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710I",
+                  "name": "ENGL 1710I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710J",
+                  "name": "ENGL 1710J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710K",
+                  "name": "ENGL 1710K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710M",
+                  "name": "ENGL 1710M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710P",
+                  "name": "ENGL 1710P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711D",
+                  "name": "ENGL 1711D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711H",
+                  "name": "ENGL 1711H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711J",
+                  "name": "ENGL 1711J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711K",
+                  "name": "ENGL 1711K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711L",
+                  "name": "ENGL 1711L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711N",
+                  "name": "ENGL 1711N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711O",
+                  "name": "ENGL 1711O"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711S",
+                  "name": "ENGL 1711S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760U",
+                  "name": "ENGL 1760U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760Y",
+                  "name": "ENGL 1760Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761B",
+                  "name": "ENGL 1761B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761E",
+                  "name": "ENGL 1761E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761F",
+                  "name": "ENGL 1761F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761G",
+                  "name": "ENGL 1761G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761V",
+                  "name": "ENGL 1761V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1762M",
+                  "name": "ENGL 1762M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900D",
+                  "name": "ENGL 1900D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901J",
+                  "name": "ENGL 1901J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950H",
+                  "name": "ENGL 1950H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "5. ONE course in Literary Theory and Cultural Critique: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "The late-twentieth century saw a revolution in the field of literary studies in the United States, as critics turned their attention to the contextual and historical nature of our categories of knowledge. This turn to theory was influenced by developments in psychoanalysis, linguistics, philosophy, political theory and sociology and by the emergence of social movements that challenged such structures as patriarchy, homophobia, racism, imperialism, economic inequality, and environmental violence. The avenues of inquiry opened up brought an increased awareness of the implication of literature in the operations of power and ideology; a sense of the potential for literary modes of presentation to challenge and displace such operations; and a new attention to the role of gender, race, empire, class, and sexuality in the formation of the literary work. Courses that satisfy the Literary Theory and Cultural Critique requirement explore some dimension of these issues \u2013 either directly, taking as their primary focus a set of theoretical questions or debates, or indirectly, by examining a compelling topical question of social and political significance through works of literature and literary theory.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150W",
+                  "name": "ENGL 0150W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700E",
+                  "name": "ENGL 0700E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710L",
+                  "name": "ENGL 0710L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710R",
+                  "name": "ENGL 0710R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0711B",
+                  "name": "ENGL 0711B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710W",
+                  "name": "ENGL 0710W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1140A",
+                  "name": "ENGL 1140A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1190S",
+                  "name": "ENGL 1190S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511Y",
+                  "name": "ENGL 1511Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1561D",
+                  "name": "ENGL 1561D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710M",
+                  "name": "ENGL 1710M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711K",
+                  "name": "ENGL 1711K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711J",
+                  "name": "ENGL 1711J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760J",
+                  "name": "ENGL 1760J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761D",
+                  "name": "ENGL 1761D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761L",
+                  "name": "ENGL 1761L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761Q",
+                  "name": "ENGL 1761Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1762D",
+                  "name": "ENGL 1762D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900D",
+                  "name": "ENGL 1900D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900J",
+                  "name": "ENGL 1900J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900K",
+                  "name": "ENGL 1900K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900P",
+                  "name": "ENGL 1900P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900Y",
+                  "name": "ENGL 1900Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900Z",
+                  "name": "ENGL 1900Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901H",
+                  "name": "ENGL 1901H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901L",
+                  "name": "ENGL 1901L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901J",
+                  "name": "ENGL 1901J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901Q",
+                  "name": "ENGL 1901Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950G",
+                  "name": "ENGL 1950G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950H",
+                  "name": "ENGL 1950H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2360Z",
+                  "name": "ENGL 2360Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2761C",
+                  "name": "ENGL 2761C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2561V",
+                  "name": "ENGL 2561V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2900N",
+                  "name": "ENGL 2900N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2900X",
+                  "name": "ENGL 2900X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901D",
+                  "name": "ENGL 2901D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901K",
+                  "name": "ENGL 2901K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901P",
+                  "name": "ENGL 2901P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "6. FIVE electives 2 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100A",
+            "name": "ENGL 0100A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100C",
+            "name": "ENGL 0100C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100D",
+            "name": "ENGL 0100D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100F",
+            "name": "ENGL 0100F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100G",
+            "name": "ENGL 0100G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100J",
+            "name": "ENGL 0100J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100M",
+            "name": "ENGL 0100M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100N",
+            "name": "ENGL 0100N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100P",
+            "name": "ENGL 0100P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100Q",
+            "name": "ENGL 0100Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100R",
+            "name": "ENGL 0100R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100S",
+            "name": "ENGL 0100S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100T",
+            "name": "ENGL 0100T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100U",
+            "name": "ENGL 0100U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100V",
+            "name": "ENGL 0100V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100W",
+            "name": "ENGL 0100W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100Y",
+            "name": "ENGL 0100Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101A",
+            "name": "ENGL 0101A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101B",
+            "name": "ENGL 0101B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100F",
+            "name": "ENGL 0100F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100N",
+            "name": "ENGL 0100N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100S",
+            "name": "ENGL 0100S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100V",
+            "name": "ENGL 0100V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101A",
+            "name": "ENGL 0101A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150X",
+            "name": "ENGL 0150X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150Y",
+            "name": "ENGL 0150Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700E",
+            "name": "ENGL 0700E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0500R",
+            "name": "ENGL 0500R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0510F",
+            "name": "ENGL 0510F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700G",
+            "name": "ENGL 0700G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700U",
+            "name": "ENGL 0700U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710B",
+            "name": "ENGL 0710B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710Q",
+            "name": "ENGL 0710Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710V",
+            "name": "ENGL 0710V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710W",
+            "name": "ENGL 0710W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710X",
+            "name": "ENGL 0710X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710Y",
+            "name": "ENGL 0710Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310H",
+            "name": "ENGL 1310H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511A",
+            "name": "ENGL 1511A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511C",
+            "name": "ENGL 1511C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511P",
+            "name": "ENGL 1511P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710I",
+            "name": "ENGL 1710I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710J",
+            "name": "ENGL 1710J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710K",
+            "name": "ENGL 1710K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710M",
+            "name": "ENGL 1710M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710P",
+            "name": "ENGL 1710P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711D",
+            "name": "ENGL 1711D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711H",
+            "name": "ENGL 1711H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711J",
+            "name": "ENGL 1711J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711K",
+            "name": "ENGL 1711K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711L",
+            "name": "ENGL 1711L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711N",
+            "name": "ENGL 1711N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711O",
+            "name": "ENGL 1711O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711S",
+            "name": "ENGL 1711S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760U",
+            "name": "ENGL 1760U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760Y",
+            "name": "ENGL 1760Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761B",
+            "name": "ENGL 1761B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761E",
+            "name": "ENGL 1761E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761F",
+            "name": "ENGL 1761F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761G",
+            "name": "ENGL 1761G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761V",
+            "name": "ENGL 1761V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1762M",
+            "name": "ENGL 1762M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900D",
+            "name": "ENGL 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901J",
+            "name": "ENGL 1901J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950H",
+            "name": "ENGL 1950H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150W",
+            "name": "ENGL 0150W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700E",
+            "name": "ENGL 0700E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710L",
+            "name": "ENGL 0710L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710R",
+            "name": "ENGL 0710R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0711B",
+            "name": "ENGL 0711B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710W",
+            "name": "ENGL 0710W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1140A",
+            "name": "ENGL 1140A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1190S",
+            "name": "ENGL 1190S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511Y",
+            "name": "ENGL 1511Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1561D",
+            "name": "ENGL 1561D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710M",
+            "name": "ENGL 1710M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711K",
+            "name": "ENGL 1711K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711J",
+            "name": "ENGL 1711J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760J",
+            "name": "ENGL 1760J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761D",
+            "name": "ENGL 1761D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761L",
+            "name": "ENGL 1761L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761Q",
+            "name": "ENGL 1761Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1762D",
+            "name": "ENGL 1762D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900D",
+            "name": "ENGL 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900J",
+            "name": "ENGL 1900J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900K",
+            "name": "ENGL 1900K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900P",
+            "name": "ENGL 1900P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900Y",
+            "name": "ENGL 1900Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900Z",
+            "name": "ENGL 1900Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901H",
+            "name": "ENGL 1901H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901L",
+            "name": "ENGL 1901L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901J",
+            "name": "ENGL 1901J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901Q",
+            "name": "ENGL 1901Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950G",
+            "name": "ENGL 1950G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950H",
+            "name": "ENGL 1950H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2360Z",
+            "name": "ENGL 2360Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2761C",
+            "name": "ENGL 2761C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2561V",
+            "name": "ENGL 2561V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2900N",
+            "name": "ENGL 2900N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2900X",
+            "name": "ENGL 2900X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901D",
+            "name": "ENGL 2901D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901K",
+            "name": "ENGL 2901K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901P",
+            "name": "ENGL 2901P"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "concentration_requirements",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Addressing topics about which professors are especially passionate, these introductory courses aim to deepen and refine students\u2019 understanding of how literature matters: aesthetically, ethically, historically and politically. Students not only engage with larger questions about literature\u2019s significance, exploring the particular kinds of insights and thinking it is especially suited for conveying, they also gain a deeper awareness of the critical methods we use to understand and analyze it, engaging with matters of form, genre and media. Finally, these courses help students develop their skills as close, careful readers of literary form and language.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100A",
+                  "name": "ENGL 0100A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100C",
+                  "name": "ENGL 0100C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100D",
+                  "name": "ENGL 0100D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100F",
+                  "name": "ENGL 0100F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100G",
+                  "name": "ENGL 0100G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100J",
+                  "name": "ENGL 0100J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100M",
+                  "name": "ENGL 0100M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100N",
+                  "name": "ENGL 0100N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100P",
+                  "name": "ENGL 0100P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100Q",
+                  "name": "ENGL 0100Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100R",
+                  "name": "ENGL 0100R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100S",
+                  "name": "ENGL 0100S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100T",
+                  "name": "ENGL 0100T"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100U",
+                  "name": "ENGL 0100U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100V",
+                  "name": "ENGL 0100V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100W",
+                  "name": "ENGL 0100W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100Y",
+                  "name": "ENGL 0100Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101A",
+                  "name": "ENGL 0101A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101B",
+                  "name": "ENGL 0101B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "These courses, which center on Medieval and Renaissance literary works, cast light on periods that can come across to us as both familiar and strange. They focus our attention on how literatures from these periods depict concepts such as aesthetics, romance, gender, sexuality, race, power and politics in ways that are like and unlike how we tend to think of them today\u2014on how pre-modern or early modern works can both defamiliarize the categories of experience and identity we tend to take for granted and also suggest something of their origins. Several courses under this rubric will also engage with recent literary and filmic adaptations of works from these eras, exploring how many such works continue to function as vibrant and at times ambivalent inspirations for the literary imaginings of later periods.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "3. ONE course in Literatures of Modernity (Post-1700): 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "These courses explore the many strands of writing in English that have emerged from the eighteenth century through the present, shaping the contemporary world. These literatures reflect on political, economic, and intellectual history, from the idea of the nation and the structures of capital through the rise and dissolution of empire and the emergence of postcolonial states, including the forms of race, gender and sexuality that cut across them. Courses also examine how aesthetic works can shape and critique their moment: they look at genres like the novel and short story, poetry, drama, essays, and new, hybrid forms that have arisen with expanding digital media; they also take up a multitude of literary movements whose influences remain with us today, including Romanticism, realism, naturalism, modernism, and post-modernism.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "4. ONE course in Literatures of the Color Line: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "In 1903, W. E. B. Du Bois famously proclaimed in \"The Souls of Black Folk\" that \u201cThe problem of the twentieth century is the problem of the color-line,\u2014the relation of the darker to the lighter races of men in Asia and Africa, in America and the islands of the sea.\u201d Courses in this category explore the complex ways in which literary texts have addressed American histories of race, ethnicity, and empire. They may do so from the vantage point of ideas about difference and hierarchy that predate the modern conception of race and by engaging with earlier histories of conflict and contact. These courses explore issues of intersectionality as well, highlighting how race operates in relation to other structures of difference such as gender, sexuality and class.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100F",
+                  "name": "ENGL 0100F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100N",
+                  "name": "ENGL 0100N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100S",
+                  "name": "ENGL 0100S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100V",
+                  "name": "ENGL 0100V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0101A",
+                  "name": "ENGL 0101A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150X",
+                  "name": "ENGL 0150X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150Y",
+                  "name": "ENGL 0150Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700E",
+                  "name": "ENGL 0700E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0500R",
+                  "name": "ENGL 0500R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0510F",
+                  "name": "ENGL 0510F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700G",
+                  "name": "ENGL 0700G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700U",
+                  "name": "ENGL 0700U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710B",
+                  "name": "ENGL 0710B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710Q",
+                  "name": "ENGL 0710Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710V",
+                  "name": "ENGL 0710V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710W",
+                  "name": "ENGL 0710W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710X",
+                  "name": "ENGL 0710X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710Y",
+                  "name": "ENGL 0710Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310H",
+                  "name": "ENGL 1310H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511A",
+                  "name": "ENGL 1511A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511C",
+                  "name": "ENGL 1511C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511P",
+                  "name": "ENGL 1511P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710I",
+                  "name": "ENGL 1710I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710J",
+                  "name": "ENGL 1710J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710K",
+                  "name": "ENGL 1710K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710M",
+                  "name": "ENGL 1710M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710P",
+                  "name": "ENGL 1710P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711D",
+                  "name": "ENGL 1711D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711H",
+                  "name": "ENGL 1711H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711J",
+                  "name": "ENGL 1711J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711K",
+                  "name": "ENGL 1711K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711L",
+                  "name": "ENGL 1711L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711N",
+                  "name": "ENGL 1711N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711O",
+                  "name": "ENGL 1711O"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711S",
+                  "name": "ENGL 1711S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760U",
+                  "name": "ENGL 1760U"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760Y",
+                  "name": "ENGL 1760Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761B",
+                  "name": "ENGL 1761B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761E",
+                  "name": "ENGL 1761E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761F",
+                  "name": "ENGL 1761F"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761G",
+                  "name": "ENGL 1761G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761V",
+                  "name": "ENGL 1761V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1762M",
+                  "name": "ENGL 1762M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900D",
+                  "name": "ENGL 1900D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901J",
+                  "name": "ENGL 1901J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950H",
+                  "name": "ENGL 1950H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "5. ONE course in Literary Theory and Cultural Critique: 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "The late-twentieth century saw a revolution in the field of literary studies in the United States, as critics turned their attention to the contextual and historical nature of our categories of knowledge. This turn to theory was influenced by developments in psychoanalysis, linguistics, philosophy, political theory and sociology and by the emergence of social movements that challenged such structures as patriarchy, homophobia, racism, imperialism, economic inequality, and environmental violence. The avenues of inquiry opened up brought an increased awareness of the implication of literature in the operations of power and ideology; a sense of the potential for literary modes of presentation to challenge and displace such operations; and a new attention to the role of gender, race, empire, class, and sexuality in the formation of the literary work. Courses that satisfy the Literary Theory and Cultural Critique requirement explore some dimension of these issues \u2013 either directly, taking as their primary focus a set of theoretical questions or debates, or indirectly, by examining a compelling topical question of social and political significance through works of literature and literary theory.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150W",
+                  "name": "ENGL 0150W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700E",
+                  "name": "ENGL 0700E"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710L",
+                  "name": "ENGL 0710L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710R",
+                  "name": "ENGL 0710R"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0711B",
+                  "name": "ENGL 0711B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0710W",
+                  "name": "ENGL 0710W"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1140A",
+                  "name": "ENGL 1140A"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1190S",
+                  "name": "ENGL 1190S"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1511Y",
+                  "name": "ENGL 1511Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1561D",
+                  "name": "ENGL 1561D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710M",
+                  "name": "ENGL 1710M"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711K",
+                  "name": "ENGL 1711K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711J",
+                  "name": "ENGL 1711J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1760J",
+                  "name": "ENGL 1760J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761D",
+                  "name": "ENGL 1761D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761L",
+                  "name": "ENGL 1761L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1761Q",
+                  "name": "ENGL 1761Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1762D",
+                  "name": "ENGL 1762D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900D",
+                  "name": "ENGL 1900D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900J",
+                  "name": "ENGL 1900J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900K",
+                  "name": "ENGL 1900K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900P",
+                  "name": "ENGL 1900P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900Y",
+                  "name": "ENGL 1900Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1900Z",
+                  "name": "ENGL 1900Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901H",
+                  "name": "ENGL 1901H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901L",
+                  "name": "ENGL 1901L"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901J",
+                  "name": "ENGL 1901J"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1901Q",
+                  "name": "ENGL 1901Q"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950G",
+                  "name": "ENGL 1950G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950H",
+                  "name": "ENGL 1950H"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2360Z",
+                  "name": "ENGL 2360Z"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2761C",
+                  "name": "ENGL 2761C"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2561V",
+                  "name": "ENGL 2561V"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2900N",
+                  "name": "ENGL 2900N"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2900X",
+                  "name": "ENGL 2900X"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901D",
+                  "name": "ENGL 2901D"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901K",
+                  "name": "ENGL 2901K"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2901P",
+                  "name": "ENGL 2901P"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "6. FIVE electives 2 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100A",
+            "name": "ENGL 0100A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100C",
+            "name": "ENGL 0100C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100D",
+            "name": "ENGL 0100D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100F",
+            "name": "ENGL 0100F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100G",
+            "name": "ENGL 0100G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100J",
+            "name": "ENGL 0100J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100M",
+            "name": "ENGL 0100M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100N",
+            "name": "ENGL 0100N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100P",
+            "name": "ENGL 0100P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100Q",
+            "name": "ENGL 0100Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100R",
+            "name": "ENGL 0100R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100S",
+            "name": "ENGL 0100S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100T",
+            "name": "ENGL 0100T"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100U",
+            "name": "ENGL 0100U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100V",
+            "name": "ENGL 0100V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100W",
+            "name": "ENGL 0100W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100Y",
+            "name": "ENGL 0100Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101A",
+            "name": "ENGL 0101A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101B",
+            "name": "ENGL 0101B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100F",
+            "name": "ENGL 0100F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100N",
+            "name": "ENGL 0100N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100S",
+            "name": "ENGL 0100S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100V",
+            "name": "ENGL 0100V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0101A",
+            "name": "ENGL 0101A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150X",
+            "name": "ENGL 0150X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150Y",
+            "name": "ENGL 0150Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700E",
+            "name": "ENGL 0700E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0500R",
+            "name": "ENGL 0500R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0510F",
+            "name": "ENGL 0510F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700G",
+            "name": "ENGL 0700G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700U",
+            "name": "ENGL 0700U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710B",
+            "name": "ENGL 0710B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710Q",
+            "name": "ENGL 0710Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710V",
+            "name": "ENGL 0710V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710W",
+            "name": "ENGL 0710W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710X",
+            "name": "ENGL 0710X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710Y",
+            "name": "ENGL 0710Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310H",
+            "name": "ENGL 1310H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511A",
+            "name": "ENGL 1511A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511C",
+            "name": "ENGL 1511C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511P",
+            "name": "ENGL 1511P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710I",
+            "name": "ENGL 1710I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710J",
+            "name": "ENGL 1710J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710K",
+            "name": "ENGL 1710K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710M",
+            "name": "ENGL 1710M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710P",
+            "name": "ENGL 1710P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711D",
+            "name": "ENGL 1711D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711H",
+            "name": "ENGL 1711H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711J",
+            "name": "ENGL 1711J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711K",
+            "name": "ENGL 1711K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711L",
+            "name": "ENGL 1711L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711N",
+            "name": "ENGL 1711N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711O",
+            "name": "ENGL 1711O"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711S",
+            "name": "ENGL 1711S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760U",
+            "name": "ENGL 1760U"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760Y",
+            "name": "ENGL 1760Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761B",
+            "name": "ENGL 1761B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761E",
+            "name": "ENGL 1761E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761F",
+            "name": "ENGL 1761F"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761G",
+            "name": "ENGL 1761G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761V",
+            "name": "ENGL 1761V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1762M",
+            "name": "ENGL 1762M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900D",
+            "name": "ENGL 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901J",
+            "name": "ENGL 1901J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950H",
+            "name": "ENGL 1950H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150W",
+            "name": "ENGL 0150W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700E",
+            "name": "ENGL 0700E"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710L",
+            "name": "ENGL 0710L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710R",
+            "name": "ENGL 0710R"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0711B",
+            "name": "ENGL 0711B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0710W",
+            "name": "ENGL 0710W"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1140A",
+            "name": "ENGL 1140A"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1190S",
+            "name": "ENGL 1190S"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1511Y",
+            "name": "ENGL 1511Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1561D",
+            "name": "ENGL 1561D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710M",
+            "name": "ENGL 1710M"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711K",
+            "name": "ENGL 1711K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711J",
+            "name": "ENGL 1711J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1760J",
+            "name": "ENGL 1760J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761D",
+            "name": "ENGL 1761D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761L",
+            "name": "ENGL 1761L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1761Q",
+            "name": "ENGL 1761Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1762D",
+            "name": "ENGL 1762D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900D",
+            "name": "ENGL 1900D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900J",
+            "name": "ENGL 1900J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900K",
+            "name": "ENGL 1900K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900P",
+            "name": "ENGL 1900P"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900Y",
+            "name": "ENGL 1900Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1900Z",
+            "name": "ENGL 1900Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901H",
+            "name": "ENGL 1901H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901L",
+            "name": "ENGL 1901L"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901J",
+            "name": "ENGL 1901J"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1901Q",
+            "name": "ENGL 1901Q"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950G",
+            "name": "ENGL 1950G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950H",
+            "name": "ENGL 1950H"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2360Z",
+            "name": "ENGL 2360Z"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2761C",
+            "name": "ENGL 2761C"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2561V",
+            "name": "ENGL 2561V"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2900N",
+            "name": "ENGL 2900N"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2900X",
+            "name": "ENGL 2900X"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901D",
+            "name": "ENGL 2901D"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901K",
+            "name": "ENGL 2901K"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2901P",
+            "name": "ENGL 2901P"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ENGL 0100A",
+      "name": "ENGL 0100A"
+    },
+    {
+      "code": "ENGL 0100C",
+      "name": "ENGL 0100C"
+    },
+    {
+      "code": "ENGL 0100D",
+      "name": "ENGL 0100D"
+    },
+    {
+      "code": "ENGL 0100F",
+      "name": "ENGL 0100F"
+    },
+    {
+      "code": "ENGL 0100G",
+      "name": "ENGL 0100G"
+    },
+    {
+      "code": "ENGL 0100J",
+      "name": "ENGL 0100J"
+    },
+    {
+      "code": "ENGL 0100M",
+      "name": "ENGL 0100M"
+    },
+    {
+      "code": "ENGL 0100N",
+      "name": "ENGL 0100N"
+    },
+    {
+      "code": "ENGL 0100P",
+      "name": "ENGL 0100P"
+    },
+    {
+      "code": "ENGL 0100Q",
+      "name": "ENGL 0100Q"
+    },
+    {
+      "code": "ENGL 0100R",
+      "name": "ENGL 0100R"
+    },
+    {
+      "code": "ENGL 0100S",
+      "name": "ENGL 0100S"
+    },
+    {
+      "code": "ENGL 0100T",
+      "name": "ENGL 0100T"
+    },
+    {
+      "code": "ENGL 0100U",
+      "name": "ENGL 0100U"
+    },
+    {
+      "code": "ENGL 0100V",
+      "name": "ENGL 0100V"
+    },
+    {
+      "code": "ENGL 0100W",
+      "name": "ENGL 0100W"
+    },
+    {
+      "code": "ENGL 0100Y",
+      "name": "ENGL 0100Y"
+    },
+    {
+      "code": "ENGL 0101A",
+      "name": "ENGL 0101A"
+    },
+    {
+      "code": "ENGL 0101B",
+      "name": "ENGL 0101B"
+    },
+    {
+      "code": "ENGL 0150X",
+      "name": "ENGL 0150X"
+    },
+    {
+      "code": "ENGL 0150Y",
+      "name": "ENGL 0150Y"
+    },
+    {
+      "code": "ENGL 0700E",
+      "name": "ENGL 0700E"
+    },
+    {
+      "code": "ENGL 0500R",
+      "name": "ENGL 0500R"
+    },
+    {
+      "code": "ENGL 0510F",
+      "name": "ENGL 0510F"
+    },
+    {
+      "code": "ENGL 0700G",
+      "name": "ENGL 0700G"
+    },
+    {
+      "code": "ENGL 0700U",
+      "name": "ENGL 0700U"
+    },
+    {
+      "code": "ENGL 0710B",
+      "name": "ENGL 0710B"
+    },
+    {
+      "code": "ENGL 0710Q",
+      "name": "ENGL 0710Q"
+    },
+    {
+      "code": "ENGL 0710V",
+      "name": "ENGL 0710V"
+    },
+    {
+      "code": "ENGL 0710W",
+      "name": "ENGL 0710W"
+    },
+    {
+      "code": "ENGL 0710X",
+      "name": "ENGL 0710X"
+    },
+    {
+      "code": "ENGL 0710Y",
+      "name": "ENGL 0710Y"
+    },
+    {
+      "code": "ENGL 1310H",
+      "name": "ENGL 1310H"
+    },
+    {
+      "code": "ENGL 1511A",
+      "name": "ENGL 1511A"
+    },
+    {
+      "code": "ENGL 1511C",
+      "name": "ENGL 1511C"
+    },
+    {
+      "code": "ENGL 1511P",
+      "name": "ENGL 1511P"
+    },
+    {
+      "code": "ENGL 1710I",
+      "name": "ENGL 1710I"
+    },
+    {
+      "code": "ENGL 1710J",
+      "name": "ENGL 1710J"
+    },
+    {
+      "code": "ENGL 1710K",
+      "name": "ENGL 1710K"
+    },
+    {
+      "code": "ENGL 1710M",
+      "name": "ENGL 1710M"
+    },
+    {
+      "code": "ENGL 1710P",
+      "name": "ENGL 1710P"
+    },
+    {
+      "code": "ENGL 1711D",
+      "name": "ENGL 1711D"
+    },
+    {
+      "code": "ENGL 1711H",
+      "name": "ENGL 1711H"
+    },
+    {
+      "code": "ENGL 1711J",
+      "name": "ENGL 1711J"
+    },
+    {
+      "code": "ENGL 1711K",
+      "name": "ENGL 1711K"
+    },
+    {
+      "code": "ENGL 1711L",
+      "name": "ENGL 1711L"
+    },
+    {
+      "code": "ENGL 1711N",
+      "name": "ENGL 1711N"
+    },
+    {
+      "code": "ENGL 1711O",
+      "name": "ENGL 1711O"
+    },
+    {
+      "code": "ENGL 1711S",
+      "name": "ENGL 1711S"
+    },
+    {
+      "code": "ENGL 1760U",
+      "name": "ENGL 1760U"
+    },
+    {
+      "code": "ENGL 1760Y",
+      "name": "ENGL 1760Y"
+    },
+    {
+      "code": "ENGL 1761B",
+      "name": "ENGL 1761B"
+    },
+    {
+      "code": "ENGL 1761E",
+      "name": "ENGL 1761E"
+    },
+    {
+      "code": "ENGL 1761F",
+      "name": "ENGL 1761F"
+    },
+    {
+      "code": "ENGL 1761G",
+      "name": "ENGL 1761G"
+    },
+    {
+      "code": "ENGL 1761V",
+      "name": "ENGL 1761V"
+    },
+    {
+      "code": "ENGL 1762M",
+      "name": "ENGL 1762M"
+    },
+    {
+      "code": "ENGL 1900D",
+      "name": "ENGL 1900D"
+    },
+    {
+      "code": "ENGL 1901J",
+      "name": "ENGL 1901J"
+    },
+    {
+      "code": "ENGL 1950H",
+      "name": "ENGL 1950H"
+    },
+    {
+      "code": "ENGL 0150W",
+      "name": "ENGL 0150W"
+    },
+    {
+      "code": "ENGL 0710L",
+      "name": "ENGL 0710L"
+    },
+    {
+      "code": "ENGL 0710R",
+      "name": "ENGL 0710R"
+    },
+    {
+      "code": "ENGL 0711B",
+      "name": "ENGL 0711B"
+    },
+    {
+      "code": "ENGL 1140A",
+      "name": "ENGL 1140A"
+    },
+    {
+      "code": "ENGL 1190S",
+      "name": "ENGL 1190S"
+    },
+    {
+      "code": "ENGL 1511Y",
+      "name": "ENGL 1511Y"
+    },
+    {
+      "code": "ENGL 1561D",
+      "name": "ENGL 1561D"
+    },
+    {
+      "code": "ENGL 1760J",
+      "name": "ENGL 1760J"
+    },
+    {
+      "code": "ENGL 1761D",
+      "name": "ENGL 1761D"
+    },
+    {
+      "code": "ENGL 1761L",
+      "name": "ENGL 1761L"
+    },
+    {
+      "code": "ENGL 1761Q",
+      "name": "ENGL 1761Q"
+    },
+    {
+      "code": "ENGL 1762D",
+      "name": "ENGL 1762D"
+    },
+    {
+      "code": "ENGL 1900J",
+      "name": "ENGL 1900J"
+    },
+    {
+      "code": "ENGL 1900K",
+      "name": "ENGL 1900K"
+    },
+    {
+      "code": "ENGL 1900P",
+      "name": "ENGL 1900P"
+    },
+    {
+      "code": "ENGL 1900Y",
+      "name": "ENGL 1900Y"
+    },
+    {
+      "code": "ENGL 1900Z",
+      "name": "ENGL 1900Z"
+    },
+    {
+      "code": "ENGL 1901H",
+      "name": "ENGL 1901H"
+    },
+    {
+      "code": "ENGL 1901L",
+      "name": "ENGL 1901L"
+    },
+    {
+      "code": "ENGL 1901Q",
+      "name": "ENGL 1901Q"
+    },
+    {
+      "code": "ENGL 1950G",
+      "name": "ENGL 1950G"
+    },
+    {
+      "code": "ENGL 2360Z",
+      "name": "ENGL 2360Z"
+    },
+    {
+      "code": "ENGL 2761C",
+      "name": "ENGL 2761C"
+    },
+    {
+      "code": "ENGL 2561V",
+      "name": "ENGL 2561V"
+    },
+    {
+      "code": "ENGL 2900N",
+      "name": "ENGL 2900N"
+    },
+    {
+      "code": "ENGL 2900X",
+      "name": "ENGL 2900X"
+    },
+    {
+      "code": "ENGL 2901D",
+      "name": "ENGL 2901D"
+    },
+    {
+      "code": "ENGL 2901K",
+      "name": "ENGL 2901K"
+    },
+    {
+      "code": "ENGL 2901P",
+      "name": "ENGL 2901P"
+    },
+    {
+      "code": "ENGL 1991",
+      "name": "ENGL 1991"
+    },
+    {
+      "code": "ENGL 1992",
+      "name": "ENGL 1992"
+    },
+    {
+      "code": "ENGL 1993",
+      "name": "ENGL 1993"
+    },
+    {
+      "code": "ENGL 1994",
+      "name": "ENGL 1994"
+    },
+    {
+      "code": "ENGL 1200",
+      "name": "ENGL 1200"
+    }
+  ]
+}

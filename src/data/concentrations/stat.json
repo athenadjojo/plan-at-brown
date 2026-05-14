@@ -1,0 +1,798 @@
+{
+  "concentration": "Statistics",
+  "slug": "stat",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/stat/",
+  "tracks": [
+    {
+      "id": "health_data_science_track",
+      "name": "Health Data Science Track",
+      "groups": [
+        {
+          "name": "Students must complete three courses within a track.  Other courses may be used with the approval fo the Director of the Statistics Concentration",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 0850",
+                  "name": "EPI 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1480",
+                  "name": "HSP 1480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1855",
+                  "name": "EPI 1855"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1854",
+                  "name": "EPI 1854"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2514",
+                  "name": "STAT 2514"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2516",
+                  "name": "STAT 2516"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2517",
+                  "name": "STAT 2517"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2650",
+                  "name": "STAT 2650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2602",
+                  "name": "STAT 2602"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 0850",
+            "name": "EPI 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1480",
+            "name": "HSP 1480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1855",
+            "name": "EPI 1855"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1854",
+            "name": "EPI 1854"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2514",
+            "name": "STAT 2514"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2516",
+            "name": "STAT 2516"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2517",
+            "name": "STAT 2517"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2650",
+            "name": "STAT 2650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2602",
+            "name": "STAT 2602"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "econometrics_track",
+      "name": "Econometrics Track",
+      "groups": [
+        {
+          "name": "Students must complete three courses within a track.  Other courses may be used with the approval fo the Director of the Statistics Concentration",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1480",
+                  "name": "HSP 1480"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1630",
+                  "name": "ECON 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "ECON 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1360",
+                  "name": "ECON 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1629",
+                  "name": "ECON 1629"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "ECON 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1200",
+                  "name": "APMA 1200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1720",
+                  "name": "APMA 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1480",
+            "name": "HSP 1480"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1630",
+            "name": "ECON 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "ECON 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1360",
+            "name": "ECON 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1629",
+            "name": "ECON 1629"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "ECON 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1200",
+            "name": "APMA 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1720",
+            "name": "APMA 1720"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "statisical_theory_track",
+      "name": "Statisical Theory Track",
+      "groups": [
+        {
+          "name": "Students must complete three courses within a track.  Other courses may be used with the approval fo the Director of the Statistics Concentration",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1740",
+                  "name": "APMA 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1670",
+                  "name": "APMA 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1680",
+                  "name": "APMA 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1690",
+                  "name": "APMA 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1630",
+                  "name": "MATH 1630"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2515",
+                  "name": "STAT 2515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2520",
+                  "name": "STAT 2520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2610",
+                  "name": "STAT 2610"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2530",
+                  "name": "STAT 2530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1740",
+            "name": "APMA 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1670",
+            "name": "APMA 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1680",
+            "name": "APMA 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1690",
+            "name": "APMA 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1630",
+            "name": "MATH 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2515",
+            "name": "STAT 2515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2520",
+            "name": "STAT 2520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2610",
+            "name": "STAT 2610"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2530",
+            "name": "STAT 2530"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0090",
+      "name": "MATH 0090"
+    },
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "STAT 1501",
+      "name": "STAT 1501"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "MATH 1210",
+      "name": "MATH 1210"
+    },
+    {
+      "code": "APMA 1660",
+      "name": "APMA 1660"
+    },
+    {
+      "code": "MATH 1620",
+      "name": "MATH 1620"
+    },
+    {
+      "code": "STAT 1560",
+      "name": "STAT 1560"
+    },
+    {
+      "code": "STAT 2560",
+      "name": "STAT 2560"
+    },
+    {
+      "code": "STAT 1511",
+      "name": "STAT 1511"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 1690",
+      "name": "APMA 1690"
+    },
+    {
+      "code": "ENGN 1950",
+      "name": "ENGN 1950"
+    },
+    {
+      "code": "APMA 1080",
+      "name": "APMA 1080"
+    },
+    {
+      "code": "APMA 1160",
+      "name": "APMA 1160"
+    },
+    {
+      "code": "APMA 1210",
+      "name": "APMA 1210"
+    },
+    {
+      "code": "APMA 1710",
+      "name": "APMA 1710"
+    },
+    {
+      "code": "APMA 1860",
+      "name": "APMA 1860"
+    },
+    {
+      "code": "BIOL 1435",
+      "name": "BIOL 1435"
+    },
+    {
+      "code": "CSCI 1420",
+      "name": "CSCI 1420"
+    },
+    {
+      "code": "CSCI 1430",
+      "name": "CSCI 1430"
+    },
+    {
+      "code": "CSCI 1470",
+      "name": "CSCI 1470"
+    },
+    {
+      "code": "CSCI 1491",
+      "name": "CSCI 1491"
+    },
+    {
+      "code": "CSCI 1520",
+      "name": "CSCI 1520"
+    },
+    {
+      "code": "CSCI 1810",
+      "name": "CSCI 1810"
+    },
+    {
+      "code": "CSCI 1820",
+      "name": "CSCI 1820"
+    },
+    {
+      "code": "CSCI 1951A",
+      "name": "CSCI 1951A"
+    },
+    {
+      "code": "ENGN 2520",
+      "name": "ENGN 2520"
+    },
+    {
+      "code": "SOC 1120",
+      "name": "SOC 1120"
+    },
+    {
+      "code": "SOC 1340",
+      "name": "SOC 1340"
+    },
+    {
+      "code": "SOC 2230",
+      "name": "SOC 2230"
+    },
+    {
+      "code": "SOC 2960G",
+      "name": "SOC 2960G"
+    },
+    {
+      "code": "PHP 1970",
+      "name": "PHP 1970"
+    },
+    {
+      "code": "PHP 1980",
+      "name": "PHP 1980"
+    },
+    {
+      "code": "EPI 0850",
+      "name": "EPI 0850"
+    },
+    {
+      "code": "HSP 1480",
+      "name": "HSP 1480"
+    },
+    {
+      "code": "EPI 1855",
+      "name": "EPI 1855"
+    },
+    {
+      "code": "EPI 1854",
+      "name": "EPI 1854"
+    },
+    {
+      "code": "STAT 2514",
+      "name": "STAT 2514"
+    },
+    {
+      "code": "STAT 2516",
+      "name": "STAT 2516"
+    },
+    {
+      "code": "STAT 2517",
+      "name": "STAT 2517"
+    },
+    {
+      "code": "STAT 2650",
+      "name": "STAT 2650"
+    },
+    {
+      "code": "STAT 2602",
+      "name": "STAT 2602"
+    },
+    {
+      "code": "ECON 1630",
+      "name": "ECON 1630"
+    },
+    {
+      "code": "ECON 1640",
+      "name": "ECON 1640"
+    },
+    {
+      "code": "ECON 1360",
+      "name": "ECON 1360"
+    },
+    {
+      "code": "ECON 1629",
+      "name": "ECON 1629"
+    },
+    {
+      "code": "ECON 1670",
+      "name": "ECON 1670"
+    },
+    {
+      "code": "APMA 1200",
+      "name": "APMA 1200"
+    },
+    {
+      "code": "APMA 1720",
+      "name": "APMA 1720"
+    },
+    {
+      "code": "APMA 1740",
+      "name": "APMA 1740"
+    },
+    {
+      "code": "APMA 1670",
+      "name": "APMA 1670"
+    },
+    {
+      "code": "APMA 1680",
+      "name": "APMA 1680"
+    },
+    {
+      "code": "MATH 1630",
+      "name": "MATH 1630"
+    },
+    {
+      "code": "STAT 2515",
+      "name": "STAT 2515"
+    },
+    {
+      "code": "STAT 2520",
+      "name": "STAT 2520"
+    },
+    {
+      "code": "STAT 2610",
+      "name": "STAT 2610"
+    },
+    {
+      "code": "STAT 2530",
+      "name": "STAT 2530"
+    }
+  ]
+}

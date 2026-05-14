@@ -1,0 +1,329 @@
+{
+  "concentration": "Mathematics",
+  "slug": "math",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/math/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_sc_b__degree",
+      "name": "Standard program for the Sc.B. degree",
+      "groups": [
+        {
+          "name": "Prerequisites:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Multivariate calculus and linear algebra (choose one of the following sequences): 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                },
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                },
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                },
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                },
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Or the equivalent",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Program:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1630",
+                  "name": "MATH 1630"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1640",
+                  "name": "MATH 1640"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1530",
+                  "name": "MATH 1530"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1540",
+                  "name": "MATH 1540"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1560",
+                  "name": "MATH 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Four other 1000- or 2000- level Mathematics courses.   The year-long sequence 0750/0760 may be substituted for one of these course credits. 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        },
+        {
+          "name": "Four additional courses in mathematics, science, economics, or applied mathematics approved by the concentration advisor. 4",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0180",
+              "name": "MATH 0180"
+            },
+            {
+              "code": "MATH 0520",
+              "name": "MATH 0520"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0180",
+              "name": "MATH 0180"
+            },
+            {
+              "code": "MATH 0540",
+              "name": "MATH 0540"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0200",
+              "name": "MATH 0200"
+            },
+            {
+              "code": "MATH 0520",
+              "name": "MATH 0520"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0350",
+              "name": "MATH 0350"
+            },
+            {
+              "code": "MATH 0540",
+              "name": "MATH 0540"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1630",
+            "name": "MATH 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1640",
+            "name": "MATH 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1530",
+            "name": "MATH 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1540",
+            "name": "MATH 1540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1560",
+            "name": "MATH 1560"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 1010",
+      "name": "MATH 1010"
+    },
+    {
+      "code": "MATH 1630",
+      "name": "MATH 1630"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "MATH 1530",
+      "name": "MATH 1530"
+    },
+    {
+      "code": "MATH 1970",
+      "name": "MATH 1970"
+    },
+    {
+      "code": "MATH 1640",
+      "name": "MATH 1640"
+    },
+    {
+      "code": "MATH 1540",
+      "name": "MATH 1540"
+    },
+    {
+      "code": "MATH 1560",
+      "name": "MATH 1560"
+    },
+    {
+      "code": "MATH 1460",
+      "name": "MATH 1460"
+    },
+    {
+      "code": "MATH 1710",
+      "name": "MATH 1710"
+    }
+  ]
+}

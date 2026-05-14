@@ -1,0 +1,2463 @@
+{
+  "concentration": "Anthropology",
+  "slug": "anth",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/anth/",
+  "tracks": [
+    {
+      "id": "research_opportunities_and_engaged_scholarship",
+      "name": "Research Opportunities and Engaged Scholarship",
+      "groups": [
+        {
+          "name": "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0300",
+                  "name": "ANTH 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0800",
+                  "name": "ANTH 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one foundational course in archaeology or biological anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one of the following courses in anthropological methodology, to prepare students for further research: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1201",
+                  "name": "ANTH 1201"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1621",
+                  "name": "ANTH 1621"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1720",
+                  "name": "ANTH 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1900",
+                  "name": "ARCH 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1740",
+                  "name": "ANTH 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five additional courses in anthropology of the student's choosing. At least three of these electives will need to be at the 1000-level to meet the requirements of the concentration. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0300",
+            "name": "ANTH 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0800",
+            "name": "ANTH 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1201",
+            "name": "ANTH 1201"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1621",
+            "name": "ANTH 1621"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1720",
+            "name": "ANTH 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1900",
+            "name": "ARCH 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1740",
+            "name": "ANTH 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "general_anthropology_track",
+      "name": "General Anthropology Track",
+      "groups": [
+        {
+          "name": "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0300",
+                  "name": "ANTH 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0800",
+                  "name": "ANTH 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one foundational course in archaeology or biological anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one of the following courses in anthropological methodology, to prepare students for further research: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1201",
+                  "name": "ANTH 1201"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1621",
+                  "name": "ANTH 1621"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1720",
+                  "name": "ANTH 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1900",
+                  "name": "ARCH 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1740",
+                  "name": "ANTH 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five additional courses in anthropology of the student's choosing. At least three of these electives will need to be at the 1000-level to meet the requirements of the concentration. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0300",
+            "name": "ANTH 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0800",
+            "name": "ANTH 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1201",
+            "name": "ANTH 1201"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1621",
+            "name": "ANTH 1621"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1720",
+            "name": "ANTH 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1900",
+            "name": "ARCH 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1740",
+            "name": "ANTH 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "medical_anthropology_track",
+      "name": "Medical Anthropology Track",
+      "groups": [
+        {
+          "name": "Foundation course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0300",
+                  "name": "ANTH 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two courses in at least two of the four major subfields of anthropology: 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Choose one:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose any one 0000 or 1000-level course in socio-cultural anthropology or linguistic anthropology such as:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0800",
+                  "name": "ANTH 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1111",
+                  "name": "ANTH 1111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1150",
+                  "name": "ANTH 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1255",
+                  "name": "ANTH 1255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1320",
+                  "name": "ANTH 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1848",
+                  "name": "ANTH 1848"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Methods Course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least one 1000-level course in medical anthropology such as: 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1242",
+                  "name": "ANTH 1242"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1300",
+                  "name": "ANTH 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1301",
+                  "name": "ANTH 1301"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1310",
+                  "name": "ANTH 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "An additional three anthropology courses of the student's choosing.  At least two of the electives must be at the 1000-level to meet the general requirements of the concentration. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "At least one non-anthropology course in the natural sciences, public health, or psychology that focuses on human health to give students basic exposure to the science of human physical and/or mental health.  This course is in addition to the nine courses required in ANTH. 2 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0300",
+            "name": "ANTH 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0800",
+            "name": "ANTH 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1111",
+            "name": "ANTH 1111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1150",
+            "name": "ANTH 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1255",
+            "name": "ANTH 1255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1320",
+            "name": "ANTH 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1848",
+            "name": "ANTH 1848"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1242",
+            "name": "ANTH 1242"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1300",
+            "name": "ANTH 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1301",
+            "name": "ANTH 1301"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1310",
+            "name": "ANTH 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "socio_cultural_anthropology_track",
+      "name": "Socio-Cultural Anthropology Track",
+      "groups": [
+        {
+          "name": "Foundation course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in archaeology or biological anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Research methods 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "At least two 1000-level courses that focus on specific aspects of sociocultural methods or theories, or in a particular region, such as: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1111",
+                  "name": "ANTH 1111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1150",
+                  "name": "ANTH 1150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1240",
+                  "name": "ANTH 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1242",
+                  "name": "ANTH 1242"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1255",
+                  "name": "ANTH 1255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1300",
+                  "name": "ANTH 1300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1301",
+                  "name": "ANTH 1301"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1310",
+                  "name": "ANTH 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1320",
+                  "name": "ANTH 1320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1515",
+                  "name": "ANTH 1515"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1848",
+                  "name": "ANTH 1848"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1911",
+                  "name": "ANTH 1911"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "An additional three anthropology courses of the student's choosing.  At least one of the electives must be at the 1000-level to meet the general requirements of the concentration. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1111",
+            "name": "ANTH 1111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1150",
+            "name": "ANTH 1150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1240",
+            "name": "ANTH 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1242",
+            "name": "ANTH 1242"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1255",
+            "name": "ANTH 1255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1300",
+            "name": "ANTH 1300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1301",
+            "name": "ANTH 1301"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1310",
+            "name": "ANTH 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1320",
+            "name": "ANTH 1320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1515",
+            "name": "ANTH 1515"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1848",
+            "name": "ANTH 1848"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1911",
+            "name": "ANTH 1911"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "linguistic_anthropology_track",
+      "name": "Linguistic Anthropology Track",
+      "groups": [
+        {
+          "name": "Foundation course 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0800",
+                  "name": "ANTH 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional course in linguistic anthropology from the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0805",
+                  "name": "ANTH 0805"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1311",
+                  "name": "ANTH 1311"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1810",
+                  "name": "ANTH 1810"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two other foundational courses in anthropology: 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Choose one:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0300",
+                  "name": "ANTH 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Research methods 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "ANTH 1940"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "An additional three anthropology courses of the student's choosing.  At least two of the electives must be at the 1000-level to meet the requirements of the concentration. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "At least one general course focusing on aspects of linguistic structure. 1 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "At least one language course (one semester) in any language other than English 2 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0800",
+            "name": "ANTH 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0805",
+            "name": "ANTH 0805"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1311",
+            "name": "ANTH 1311"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1810",
+            "name": "ANTH 1810"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0300",
+            "name": "ANTH 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "ANTH 1940"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "anthropological_archaeology_track",
+      "name": "Anthropological Archaeology Track",
+      "groups": [
+        {
+          "name": "Foundation course in anthropological archaeology 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0500",
+                  "name": "ANTH 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Foundation course in socio-cultural anthropology 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one course in anthropological  archaeology methodology: 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1201",
+                  "name": "ANTH 1201"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1621",
+                  "name": "ANTH 1621"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1900",
+                  "name": "ARCH 1900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1740",
+                  "name": "ANTH 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one course that involves detailed archaeological investigation of a geographic region: 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1031",
+                  "name": "ANTH 1031"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1126",
+                  "name": "ANTH 1126"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1505",
+                  "name": "ANTH 1505"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1624",
+                  "name": "ANTH 1624"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1640",
+                  "name": "ANTH 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1650",
+                  "name": "ANTH 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1692",
+                  "name": "ANTH 1692"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One 1000-level course in anthropology with significant archaeological, material culture, and/or museum studies component.  A second geographic area course from the list above may be used to meet this requirement.  Other regularly offered courses that meet this requirement include: 3 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1125",
+                  "name": "ANTH 1125"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1620",
+                  "name": "ANTH 1620"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1623",
+                  "name": "ANTH 1623"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1820",
+                  "name": "ANTH 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Three anthropology courses of the student's choosing.  At least one of the electives must be at the 1000-level to meet the general requirements of the concentration. 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0500",
+            "name": "ANTH 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1201",
+            "name": "ANTH 1201"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1621",
+            "name": "ANTH 1621"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1900",
+            "name": "ARCH 1900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1740",
+            "name": "ANTH 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1031",
+            "name": "ANTH 1031"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1126",
+            "name": "ANTH 1126"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1505",
+            "name": "ANTH 1505"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1624",
+            "name": "ANTH 1624"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1640",
+            "name": "ANTH 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1650",
+            "name": "ANTH 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1692",
+            "name": "ANTH 1692"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1125",
+            "name": "ANTH 1125"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1620",
+            "name": "ANTH 1620"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1623",
+            "name": "ANTH 1623"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1820",
+            "name": "ANTH 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "biological_anthropology_track",
+      "name": "Biological Anthropology Track",
+      "groups": [
+        {
+          "name": "Foundation course in biological anthropology 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0310",
+                  "name": "ANTH 0310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Choose one foundational course in cultural anthropology, medical anthropology, or linguistic anthropology: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0100",
+                  "name": "ANTH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0300",
+                  "name": "ANTH 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 0800",
+                  "name": "ANTH 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Biological anthropology methodology 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1720",
+                  "name": "ANTH 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Five anthropology courses of the student's choosing. At least three of the electives must be at the 1000-level to meet the requirements of the concentration. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "At least one non-anthropology course with a biological focus. Any course with a BIOL subject code can be used to fulfill this requirement.  Students are especially encouraged to consider a course with a significant content devoted to genetics and/or evolutionary theory. This course is in addition to the nine courses required in ANTH. 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Choose at least one course in statistics.  This course is in addition to the nine courses required in ANTH.  Possible courses include: 1 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "SOC 1100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1501",
+                  "name": "STAT 1501"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Senior Seminar 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1990",
+                  "name": "ANTH 1990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0310",
+            "name": "ANTH 0310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0100",
+            "name": "ANTH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0300",
+            "name": "ANTH 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 0800",
+            "name": "ANTH 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1720",
+            "name": "ANTH 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "SOC 1100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1501",
+            "name": "STAT 1501"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1990",
+            "name": "ANTH 1990"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "ANTH 0100",
+      "name": "ANTH 0100"
+    },
+    {
+      "code": "ANTH 0300",
+      "name": "ANTH 0300"
+    },
+    {
+      "code": "ANTH 0800",
+      "name": "ANTH 0800"
+    },
+    {
+      "code": "ANTH 0310",
+      "name": "ANTH 0310"
+    },
+    {
+      "code": "ANTH 0500",
+      "name": "ANTH 0500"
+    },
+    {
+      "code": "ANTH 1201",
+      "name": "ANTH 1201"
+    },
+    {
+      "code": "ANTH 1621",
+      "name": "ANTH 1621"
+    },
+    {
+      "code": "ANTH 1720",
+      "name": "ANTH 1720"
+    },
+    {
+      "code": "ARCH 1900",
+      "name": "ARCH 1900"
+    },
+    {
+      "code": "ANTH 1940",
+      "name": "ANTH 1940"
+    },
+    {
+      "code": "ANTH 1740",
+      "name": "ANTH 1740"
+    },
+    {
+      "code": "ANTH 1990",
+      "name": "ANTH 1990"
+    },
+    {
+      "code": "ANTH 1111",
+      "name": "ANTH 1111"
+    },
+    {
+      "code": "ANTH 1150",
+      "name": "ANTH 1150"
+    },
+    {
+      "code": "ANTH 1255",
+      "name": "ANTH 1255"
+    },
+    {
+      "code": "ANTH 1320",
+      "name": "ANTH 1320"
+    },
+    {
+      "code": "ANTH 1848",
+      "name": "ANTH 1848"
+    },
+    {
+      "code": "ANTH 1242",
+      "name": "ANTH 1242"
+    },
+    {
+      "code": "ANTH 1300",
+      "name": "ANTH 1300"
+    },
+    {
+      "code": "ANTH 1301",
+      "name": "ANTH 1301"
+    },
+    {
+      "code": "ANTH 1310",
+      "name": "ANTH 1310"
+    },
+    {
+      "code": "ANTH 1240",
+      "name": "ANTH 1240"
+    },
+    {
+      "code": "ANTH 1515",
+      "name": "ANTH 1515"
+    },
+    {
+      "code": "ANTH 1911",
+      "name": "ANTH 1911"
+    },
+    {
+      "code": "ANTH 0805",
+      "name": "ANTH 0805"
+    },
+    {
+      "code": "ANTH 1311",
+      "name": "ANTH 1311"
+    },
+    {
+      "code": "ANTH 1810",
+      "name": "ANTH 1810"
+    },
+    {
+      "code": "LING 0100",
+      "name": "LING 0100"
+    },
+    {
+      "code": "SLAV 1300",
+      "name": "SLAV 1300"
+    },
+    {
+      "code": "ANTH 1031",
+      "name": "ANTH 1031"
+    },
+    {
+      "code": "ANTH 1126",
+      "name": "ANTH 1126"
+    },
+    {
+      "code": "ANTH 1505",
+      "name": "ANTH 1505"
+    },
+    {
+      "code": "ANTH 1624",
+      "name": "ANTH 1624"
+    },
+    {
+      "code": "ANTH 1640",
+      "name": "ANTH 1640"
+    },
+    {
+      "code": "ANTH 1650",
+      "name": "ANTH 1650"
+    },
+    {
+      "code": "ANTH 1692",
+      "name": "ANTH 1692"
+    },
+    {
+      "code": "ANTH 1125",
+      "name": "ANTH 1125"
+    },
+    {
+      "code": "ANTH 1620",
+      "name": "ANTH 1620"
+    },
+    {
+      "code": "ANTH 1623",
+      "name": "ANTH 1623"
+    },
+    {
+      "code": "ANTH 1820",
+      "name": "ANTH 1820"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "BIOL 0495",
+      "name": "BIOL 0495"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "STAT 1501",
+      "name": "STAT 1501"
+    },
+    {
+      "code": "ANTH 1930",
+      "name": "ANTH 1930"
+    },
+    {
+      "code": "ANTH 1970",
+      "name": "ANTH 1970"
+    }
+  ]
+}

@@ -1,0 +1,2844 @@
+{
+  "concentration": "Contemplative Studies",
+  "slug": "ctmp",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/ctmp/",
+  "tracks": [
+    {
+      "id": "concentration_core__6_courses_including_the_senior",
+      "name": "Concentration Core (6 courses including the Senior Concentration Seminar)",
+      "groups": [
+        {
+          "name": "",
+          "type": "required",
+          "courses": [
+            {
+              "code": "COST 0100",
+              "name": "COST 0100"
+            }
+          ],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Two introductory science courses addressing the biological, psychological, and neurological functionsing of the human body/mind complex with health implications, and how contemplative practices affect it.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one from the following list: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "BIOL 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0200",
+                  "name": "CPSY 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0500",
+                  "name": "CPSY 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 0010",
+                  "name": "NEUR 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Others with approval",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one from following list: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0200",
+                  "name": "COST 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 1020",
+                  "name": "COST 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two humanities courses that present important themes that can emerge from bringing a Contemplative Studies perspective to the study of contemplative religious traditions and to the philosophical analysis of the key questions of human existence. 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1240",
+                  "name": "ANTH 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0990",
+                  "name": "CLAS 0990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1120G",
+                  "name": "CLAS 1120G"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0040",
+                  "name": "COST 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0040",
+                  "name": "RELS 0040"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0145",
+                  "name": "COST 0145"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0145",
+                  "name": "RELS 0145"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0450",
+                  "name": "COST 0450"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0010",
+                  "name": "PHIL 0010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0015",
+                  "name": "PHIL 0015"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0510",
+                  "name": "PHIL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1800",
+                  "name": "PHIL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1825",
+                  "name": "PHIL 1825"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0056",
+                  "name": "RELS 0056"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0065",
+                  "name": "RELS 0065"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1370B",
+                  "name": "RELS 1370B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Others with approval",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 1950",
+                  "name": "COST 1950"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Students must complete six addtional courses in either a Science or Humanities track. 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0100",
+            "name": "COST 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "BIOL 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0200",
+            "name": "CPSY 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0500",
+            "name": "CPSY 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 0010",
+            "name": "NEUR 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0200",
+            "name": "COST 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 1020",
+            "name": "COST 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1240",
+            "name": "ANTH 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0990",
+            "name": "CLAS 0990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1120G",
+            "name": "CLAS 1120G"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0040",
+            "name": "COST 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0040",
+            "name": "RELS 0040"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0145",
+            "name": "COST 0145"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0145",
+            "name": "RELS 0145"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0450",
+            "name": "COST 0450"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0010",
+            "name": "PHIL 0010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0015",
+            "name": "PHIL 0015"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0510",
+            "name": "PHIL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1800",
+            "name": "PHIL 1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1825",
+            "name": "PHIL 1825"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0056",
+            "name": "RELS 0056"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0065",
+            "name": "RELS 0065"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1370B",
+            "name": "RELS 1370B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 1950",
+            "name": "COST 1950"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "track_requirements__6_additional_courses_including",
+      "name": "Track Requirements (6 additional courses Including a Capstone Course)",
+      "groups": [
+        {
+          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program.  The Capstone course can be either:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "COST 1910",
+                  "name": "COST 1910"
+                },
+                {
+                  "code": "COST 1920",
+                  "name": "1920"
+                },
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                },
+                {
+                  "code": "BIOL 1960",
+                  "name": "1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course.  It is expected that such Capstone research papers will be more substantial than a term paper.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1880",
+                  "name": "BIOL 1880"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0710",
+                  "name": "CPSY 0710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1193",
+                  "name": "CPSY 1193"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1194",
+                  "name": "CPSY 1194"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1291",
+                  "name": "CPSY 1291"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1400",
+                  "name": "CPSY 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1490",
+                  "name": "CPSY 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1492",
+                  "name": "CPSY 1492"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1570",
+                  "name": "CPSY 1570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1590",
+                  "name": "CPSY 1590"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1791",
+                  "name": "CPSY 1791"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0200",
+                  "name": "COST 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 1020",
+                  "name": "COST 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1030",
+                  "name": "NEUR 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1540",
+                  "name": "NEUR 1540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1600",
+                  "name": "NEUR 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1940I",
+                  "name": "NEUR 1940I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1600",
+                  "name": "PHP 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1920",
+                  "name": "PHP 1920"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Others with approval",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One statistics course (others with approval) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1501",
+                  "name": "STAT 1501"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "COST 1910",
+              "name": "COST 1910"
+            },
+            {
+              "code": "COST 1920",
+              "name": "1920"
+            },
+            {
+              "code": "BIOL 1950",
+              "name": "BIOL 1950"
+            },
+            {
+              "code": "BIOL 1960",
+              "name": "1960"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1880",
+            "name": "BIOL 1880"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0710",
+            "name": "CPSY 0710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1193",
+            "name": "CPSY 1193"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1194",
+            "name": "CPSY 1194"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1291",
+            "name": "CPSY 1291"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1400",
+            "name": "CPSY 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1490",
+            "name": "CPSY 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1492",
+            "name": "CPSY 1492"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1570",
+            "name": "CPSY 1570"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1590",
+            "name": "CPSY 1590"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1791",
+            "name": "CPSY 1791"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0200",
+            "name": "COST 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 1020",
+            "name": "COST 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1030",
+            "name": "NEUR 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1540",
+            "name": "NEUR 1540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1600",
+            "name": "NEUR 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1940I",
+            "name": "NEUR 1940I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1600",
+            "name": "PHP 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1920",
+            "name": "PHP 1920"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1501",
+            "name": "STAT 1501"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "science_track",
+      "name": "Science Track",
+      "groups": [
+        {
+          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program.  The Capstone course can be either:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "COST 1910",
+                  "name": "COST 1910"
+                },
+                {
+                  "code": "COST 1920",
+                  "name": "1920"
+                },
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                },
+                {
+                  "code": "BIOL 1960",
+                  "name": "1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course.  It is expected that such Capstone research papers will be more substantial than a term paper.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0280",
+                  "name": "BIOL 0280"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "BIOL 0470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "BIOL 0530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "BIOL 0800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 1880",
+                  "name": "BIOL 1880"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0700",
+                  "name": "CPSY 0700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0710",
+                  "name": "CPSY 0710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1193",
+                  "name": "CPSY 1193"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1194",
+                  "name": "CPSY 1194"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1291",
+                  "name": "CPSY 1291"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1400",
+                  "name": "CPSY 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1490",
+                  "name": "CPSY 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1492",
+                  "name": "CPSY 1492"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1570",
+                  "name": "CPSY 1570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1590",
+                  "name": "CPSY 1590"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 1791",
+                  "name": "CPSY 1791"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0200",
+                  "name": "COST 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 1020",
+                  "name": "COST 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1020",
+                  "name": "NEUR 1020"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1030",
+                  "name": "NEUR 1030"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1540",
+                  "name": "NEUR 1540"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1600",
+                  "name": "NEUR 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "NEUR 1940I",
+                  "name": "NEUR 1940I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1600",
+                  "name": "PHP 1600"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1920",
+                  "name": "PHP 1920"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Others with approval",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "One statistics course (others with approval) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "APMA 0650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "APMA 1650"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0495",
+                  "name": "BIOL 0495"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "CPSY 0900"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1501",
+                  "name": "STAT 1501"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "COST 1910",
+              "name": "COST 1910"
+            },
+            {
+              "code": "COST 1920",
+              "name": "1920"
+            },
+            {
+              "code": "BIOL 1950",
+              "name": "BIOL 1950"
+            },
+            {
+              "code": "BIOL 1960",
+              "name": "1960"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0280",
+            "name": "BIOL 0280"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "BIOL 0470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "BIOL 0530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "BIOL 0800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 1880",
+            "name": "BIOL 1880"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0700",
+            "name": "CPSY 0700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0710",
+            "name": "CPSY 0710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1193",
+            "name": "CPSY 1193"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1194",
+            "name": "CPSY 1194"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1291",
+            "name": "CPSY 1291"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1400",
+            "name": "CPSY 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1490",
+            "name": "CPSY 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1492",
+            "name": "CPSY 1492"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1570",
+            "name": "CPSY 1570"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1590",
+            "name": "CPSY 1590"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 1791",
+            "name": "CPSY 1791"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0200",
+            "name": "COST 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 1020",
+            "name": "COST 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1020",
+            "name": "NEUR 1020"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1030",
+            "name": "NEUR 1030"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1540",
+            "name": "NEUR 1540"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1600",
+            "name": "NEUR 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "NEUR 1940I",
+            "name": "NEUR 1940I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1600",
+            "name": "PHP 1600"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1920",
+            "name": "PHP 1920"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "APMA 0650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "APMA 1650"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0495",
+            "name": "BIOL 0495"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "CPSY 0900"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1501",
+            "name": "STAT 1501"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "humanities_track",
+      "name": "Humanities Track",
+      "groups": [
+        {
+          "name": "Six courses, including a Capstone Course, from across the two areas below: 6",
+          "type": "label",
+          "courses": [],
+          "count": 6,
+          "notes": []
+        },
+        {
+          "name": "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program.  The Capstone course can be either:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "COST 1910",
+                  "name": "COST 1910"
+                },
+                {
+                  "code": "COST 1920",
+                  "name": "1920"
+                },
+                {
+                  "code": "BIOL 1950",
+                  "name": "BIOL 1950"
+                },
+                {
+                  "code": "BIOL 1960",
+                  "name": "1960"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course.  It is expected that such Capstone research papers will be more substantial than a term paper.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Contemplative Religious Traditions",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0210Y",
+                  "name": "CLAS 0210Y"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0820",
+                  "name": "CLAS 0820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0850",
+                  "name": "CLAS 0850"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0990",
+                  "name": "CLAS 0990"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0995",
+                  "name": "CLAS 0995"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1140",
+                  "name": "CLAS 1140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1160",
+                  "name": "CLAS 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0145",
+                  "name": "COST 0145"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0535",
+                  "name": "COST 0535"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 0550",
+                  "name": "COST 0550"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COST 1420",
+                  "name": "COST 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EAST 1420",
+                  "name": "EAST 1420"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0045",
+                  "name": "RELS 0045"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0100",
+                  "name": "RELS 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0120",
+                  "name": "RELS 0120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1441",
+                  "name": "RELS 1441"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0570",
+                  "name": "RELS 0570"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0580",
+                  "name": "RELS 0580"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1370B",
+                  "name": "RELS 1370B"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1425",
+                  "name": "RELS 1425"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1442",
+                  "name": "RELS 1442"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "The Pholosophy of Mind",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0110",
+                  "name": "PHIL 0110"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 0510",
+                  "name": "PHIL 0510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1230",
+                  "name": "PHIL 1230"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1240",
+                  "name": "PHIL 1240"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1430",
+                  "name": "PHIL 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1705",
+                  "name": "PHIL 1705"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1735",
+                  "name": "PHIL 1735"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1755",
+                  "name": "PHIL 1755"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHIL 1800",
+                  "name": "PHIL 1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Others with approval",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "COST 1910",
+              "name": "COST 1910"
+            },
+            {
+              "code": "COST 1920",
+              "name": "1920"
+            },
+            {
+              "code": "BIOL 1950",
+              "name": "BIOL 1950"
+            },
+            {
+              "code": "BIOL 1960",
+              "name": "1960"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0210Y",
+            "name": "CLAS 0210Y"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0820",
+            "name": "CLAS 0820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0850",
+            "name": "CLAS 0850"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0990",
+            "name": "CLAS 0990"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0995",
+            "name": "CLAS 0995"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1140",
+            "name": "CLAS 1140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1160",
+            "name": "CLAS 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0145",
+            "name": "COST 0145"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0535",
+            "name": "COST 0535"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 0550",
+            "name": "COST 0550"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COST 1420",
+            "name": "COST 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EAST 1420",
+            "name": "EAST 1420"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0045",
+            "name": "RELS 0045"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0100",
+            "name": "RELS 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0120",
+            "name": "RELS 0120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1441",
+            "name": "RELS 1441"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0570",
+            "name": "RELS 0570"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0580",
+            "name": "RELS 0580"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1370B",
+            "name": "RELS 1370B"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1425",
+            "name": "RELS 1425"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1442",
+            "name": "RELS 1442"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0110",
+            "name": "PHIL 0110"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 0510",
+            "name": "PHIL 0510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1230",
+            "name": "PHIL 1230"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1240",
+            "name": "PHIL 1240"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1430",
+            "name": "PHIL 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1705",
+            "name": "PHIL 1705"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1735",
+            "name": "PHIL 1735"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1755",
+            "name": "PHIL 1755"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHIL 1800",
+            "name": "PHIL 1800"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "COST 0100",
+      "name": "COST 0100"
+    },
+    {
+      "code": "BIOL 0200",
+      "name": "BIOL 0200"
+    },
+    {
+      "code": "CPSY 0200",
+      "name": "CPSY 0200"
+    },
+    {
+      "code": "CPSY 0500",
+      "name": "CPSY 0500"
+    },
+    {
+      "code": "NEUR 0010",
+      "name": "NEUR 0010"
+    },
+    {
+      "code": "COST 0200",
+      "name": "COST 0200"
+    },
+    {
+      "code": "COST 1020",
+      "name": "COST 1020"
+    },
+    {
+      "code": "ANTH 1240",
+      "name": "ANTH 1240"
+    },
+    {
+      "code": "CLAS 0990",
+      "name": "CLAS 0990"
+    },
+    {
+      "code": "CLAS 1120G",
+      "name": "CLAS 1120G"
+    },
+    {
+      "code": "COST 0040",
+      "name": "COST 0040"
+    },
+    {
+      "code": "RELS 0040",
+      "name": "RELS 0040"
+    },
+    {
+      "code": "COST 0145",
+      "name": "COST 0145"
+    },
+    {
+      "code": "RELS 0145",
+      "name": "RELS 0145"
+    },
+    {
+      "code": "COST 0450",
+      "name": "COST 0450"
+    },
+    {
+      "code": "PHIL 0010",
+      "name": "PHIL 0010"
+    },
+    {
+      "code": "PHIL 0015",
+      "name": "PHIL 0015"
+    },
+    {
+      "code": "PHIL 0510",
+      "name": "PHIL 0510"
+    },
+    {
+      "code": "PHIL 1800",
+      "name": "PHIL 1800"
+    },
+    {
+      "code": "PHIL 1825",
+      "name": "PHIL 1825"
+    },
+    {
+      "code": "RELS 0056",
+      "name": "RELS 0056"
+    },
+    {
+      "code": "RELS 0065",
+      "name": "RELS 0065"
+    },
+    {
+      "code": "RELS 1370B",
+      "name": "RELS 1370B"
+    },
+    {
+      "code": "COST 1950",
+      "name": "COST 1950"
+    },
+    {
+      "code": "COST 1910",
+      "name": "COST 1910"
+    },
+    {
+      "code": "COST 1920",
+      "name": "1920"
+    },
+    {
+      "code": "BIOL 1950",
+      "name": "BIOL 1950"
+    },
+    {
+      "code": "BIOL 1960",
+      "name": "1960"
+    },
+    {
+      "code": "BIOL 0280",
+      "name": "BIOL 0280"
+    },
+    {
+      "code": "BIOL 0470",
+      "name": "BIOL 0470"
+    },
+    {
+      "code": "BIOL 0530",
+      "name": "BIOL 0530"
+    },
+    {
+      "code": "BIOL 0800",
+      "name": "BIOL 0800"
+    },
+    {
+      "code": "BIOL 1880",
+      "name": "BIOL 1880"
+    },
+    {
+      "code": "CPSY 0700",
+      "name": "CPSY 0700"
+    },
+    {
+      "code": "CPSY 0710",
+      "name": "CPSY 0710"
+    },
+    {
+      "code": "CPSY 1193",
+      "name": "CPSY 1193"
+    },
+    {
+      "code": "CPSY 1194",
+      "name": "CPSY 1194"
+    },
+    {
+      "code": "CPSY 1291",
+      "name": "CPSY 1291"
+    },
+    {
+      "code": "CPSY 1400",
+      "name": "CPSY 1400"
+    },
+    {
+      "code": "CPSY 1490",
+      "name": "CPSY 1490"
+    },
+    {
+      "code": "CPSY 1492",
+      "name": "CPSY 1492"
+    },
+    {
+      "code": "CPSY 1570",
+      "name": "CPSY 1570"
+    },
+    {
+      "code": "CPSY 1590",
+      "name": "CPSY 1590"
+    },
+    {
+      "code": "CPSY 1791",
+      "name": "CPSY 1791"
+    },
+    {
+      "code": "NEUR 1020",
+      "name": "NEUR 1020"
+    },
+    {
+      "code": "NEUR 1030",
+      "name": "NEUR 1030"
+    },
+    {
+      "code": "NEUR 1540",
+      "name": "NEUR 1540"
+    },
+    {
+      "code": "NEUR 1600",
+      "name": "NEUR 1600"
+    },
+    {
+      "code": "NEUR 1940I",
+      "name": "NEUR 1940I"
+    },
+    {
+      "code": "PHP 1600",
+      "name": "PHP 1600"
+    },
+    {
+      "code": "PHP 1920",
+      "name": "PHP 1920"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "BIOL 0495",
+      "name": "BIOL 0495"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "STAT 1501",
+      "name": "STAT 1501"
+    },
+    {
+      "code": "CLAS 0210Y",
+      "name": "CLAS 0210Y"
+    },
+    {
+      "code": "CLAS 0820",
+      "name": "CLAS 0820"
+    },
+    {
+      "code": "CLAS 0850",
+      "name": "CLAS 0850"
+    },
+    {
+      "code": "CLAS 0995",
+      "name": "CLAS 0995"
+    },
+    {
+      "code": "CLAS 1140",
+      "name": "CLAS 1140"
+    },
+    {
+      "code": "CLAS 1160",
+      "name": "CLAS 1160"
+    },
+    {
+      "code": "COST 0535",
+      "name": "COST 0535"
+    },
+    {
+      "code": "COST 0550",
+      "name": "COST 0550"
+    },
+    {
+      "code": "COST 1420",
+      "name": "COST 1420"
+    },
+    {
+      "code": "EAST 1420",
+      "name": "EAST 1420"
+    },
+    {
+      "code": "RELS 0045",
+      "name": "RELS 0045"
+    },
+    {
+      "code": "RELS 0100",
+      "name": "RELS 0100"
+    },
+    {
+      "code": "RELS 0120",
+      "name": "RELS 0120"
+    },
+    {
+      "code": "RELS 1441",
+      "name": "RELS 1441"
+    },
+    {
+      "code": "RELS 0570",
+      "name": "RELS 0570"
+    },
+    {
+      "code": "RELS 0580",
+      "name": "RELS 0580"
+    },
+    {
+      "code": "RELS 1425",
+      "name": "RELS 1425"
+    },
+    {
+      "code": "RELS 1442",
+      "name": "RELS 1442"
+    },
+    {
+      "code": "PHIL 0110",
+      "name": "PHIL 0110"
+    },
+    {
+      "code": "PHIL 1230",
+      "name": "PHIL 1230"
+    },
+    {
+      "code": "PHIL 1240",
+      "name": "PHIL 1240"
+    },
+    {
+      "code": "PHIL 1430",
+      "name": "PHIL 1430"
+    },
+    {
+      "code": "PHIL 1705",
+      "name": "PHIL 1705"
+    },
+    {
+      "code": "PHIL 1735",
+      "name": "PHIL 1735"
+    },
+    {
+      "code": "PHIL 1755",
+      "name": "PHIL 1755"
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "concentration": "Computer Science",
+  "slug": "comp",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/comp/",
+  "tracks": [
+    {
+      "id": "requirements_for_the_standard_track_of_the_a_b__de",
+      "name": "Requirements for the Standard Track of the A.B. degree",
+      "groups": [
+        {
+          "name": "Concentration Requirements (10 courses)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Core Computer Science:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following series: 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Series A",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                },
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Series B",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                },
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Series C",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "AND",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Series D 1",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                },
+                {
+                  "code": "CSCI 0200",
+                  "name": "CSCI 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Introductory Math Foundations 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0220",
+                  "name": "CSCI 0220"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1530",
+                  "name": "MATH 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Foundations Courses",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "AB students must take one course from each foundation area",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Foundation Areas",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "a. Algorithms/Theory Foundations 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0500",
+                  "name": "CSCI 0500"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "b. AI/Machine Learning/Data Science Foundations 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0410",
+                  "name": "CSCI 0410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "c. Systems Foundations 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0300",
+                  "name": "CSCI 0300"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0320",
+                  "name": "CSCI 0320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0330",
+                  "name": "CSCI 0330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "CSCI Technical Electives 2",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Two CSCI courses at the 1000 level. 3",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Two additional electives.  These can include: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0320",
+                  "name": "CSCI 0320"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "1000-level and 2000-level CSCI courses (at most one can be a non-technical course as defined in concentration handbook).",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "choose_one",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                },
+                {
+                  "code": "MATH 0540",
+                  "name": "MATH 0540"
+                },
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One approved 1000-level course outside of CS (see the concentration handbook for the current list)",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1970",
+                  "name": "CSCI 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 1973",
+                  "name": "CSCI 1973"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Capstone",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "A capstone taken in the senior year (from the list of approved capstone courses in the concentration handbook). The capstone may also be used to satisfy another requirement.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CSCI 0150",
+              "name": "CSCI 0150"
+            },
+            {
+              "code": "CSCI 0200",
+              "name": "CSCI 0200"
+            }
+          ]
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CSCI 0170",
+              "name": "CSCI 0170"
+            },
+            {
+              "code": "CSCI 0200",
+              "name": "CSCI 0200"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0200",
+            "name": "CSCI 0200"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "CSCI 0111",
+              "name": "CSCI 0111"
+            },
+            {
+              "code": "CSCI 0200",
+              "name": "CSCI 0200"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0220",
+            "name": "CSCI 0220"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1530",
+            "name": "MATH 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0500",
+            "name": "CSCI 0500"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0410",
+            "name": "CSCI 0410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0300",
+            "name": "CSCI 0300"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0320",
+            "name": "CSCI 0320"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0330",
+            "name": "CSCI 0330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0320",
+            "name": "CSCI 0320"
+          }
+        },
+        {
+          "type": "choose_one",
+          "options": [
+            {
+              "code": "MATH 0520",
+              "name": "MATH 0520"
+            },
+            {
+              "code": "MATH 0540",
+              "name": "MATH 0540"
+            },
+            {
+              "code": "APMA 0260",
+              "name": "APMA 0260"
+            }
+          ]
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1970",
+            "name": "CSCI 1970"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 1973",
+            "name": "CSCI 1973"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "MATH 0170",
+      "name": "MATH 0170"
+    },
+    {
+      "code": "MATH 0190",
+      "name": "MATH 0190"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0200",
+      "name": "CSCI 0200"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0220",
+      "name": "CSCI 0220"
+    },
+    {
+      "code": "MATH 1530",
+      "name": "MATH 1530"
+    },
+    {
+      "code": "CSCI 0500",
+      "name": "CSCI 0500"
+    },
+    {
+      "code": "CSCI 0410",
+      "name": "CSCI 0410"
+    },
+    {
+      "code": "CSCI 0300",
+      "name": "CSCI 0300"
+    },
+    {
+      "code": "CSCI 0330",
+      "name": "CSCI 0330"
+    },
+    {
+      "code": "CSCI 0320",
+      "name": "CSCI 0320"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "MATH 0540",
+      "name": "MATH 0540"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "1655"
+    },
+    {
+      "code": "CSCI 1970",
+      "name": "CSCI 1970"
+    },
+    {
+      "code": "CSCI 1973",
+      "name": "CSCI 1973"
+    }
+  ]
+}

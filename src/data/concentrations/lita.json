@@ -1,0 +1,36 @@
+{
+  "concentration": "Literary Arts",
+  "slug": "lita",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/lita/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "LITR 0100A",
+      "name": "LITR 0100A"
+    },
+    {
+      "code": "LITR 0100B",
+      "name": "LITR 0100B"
+    },
+    {
+      "code": "LITR 0110A",
+      "name": "LITR 0110A"
+    },
+    {
+      "code": "LITR 0110B",
+      "name": "LITR 0110B"
+    },
+    {
+      "code": "LITR 0110D",
+      "name": "LITR 0110D"
+    },
+    {
+      "code": "LITR 0110E",
+      "name": "LITR 0110E"
+    },
+    {
+      "code": "LITR 1310",
+      "name": "LITR 1310"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "concentration": "Urban Studies",
+  "slug": "urbn",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/urbn/",
+  "tracks": [],
+  "all_courses": [
+    {
+      "code": "URBN 0210",
+      "name": "URBN 0210"
+    },
+    {
+      "code": "URBN 0230",
+      "name": "URBN 0230"
+    },
+    {
+      "code": "ANTH 1940",
+      "name": "ANTH 1940"
+    },
+    {
+      "code": "APMA 0650",
+      "name": "APMA 0650"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "APMA 1660",
+      "name": "APMA 1660"
+    },
+    {
+      "code": "CPSY 0900",
+      "name": "CPSY 0900"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "EDUC 1230",
+      "name": "EDUC 1230"
+    },
+    {
+      "code": "POLS 1600",
+      "name": "POLS 1600"
+    },
+    {
+      "code": "SOC 1020",
+      "name": "SOC 1020"
+    },
+    {
+      "code": "SOC 1100",
+      "name": "SOC 1100"
+    },
+    {
+      "code": "URBN 1100",
+      "name": "URBN 1100"
+    },
+    {
+      "code": "ANTH 1201",
+      "name": "ANTH 1201"
+    },
+    {
+      "code": "ANTH 1236",
+      "name": "ANTH 1236"
+    },
+    {
+      "code": "ANTH 1255",
+      "name": "ANTH 1255"
+    },
+    {
+      "code": "ECON 1410",
+      "name": "ECON 1410"
+    },
+    {
+      "code": "EEPS 1320",
+      "name": "EEPS 1320"
+    },
+    {
+      "code": "ENGL 0100N",
+      "name": "ENGL 0100N"
+    },
+    {
+      "code": "ENGL 0700R",
+      "name": "ENGL 0700R"
+    },
+    {
+      "code": "ENGL 1711D",
+      "name": "ENGL 1711D"
+    },
+    {
+      "code": "ENVS 1107",
+      "name": "ENVS 1107"
+    },
+    {
+      "code": "ENVS 1247",
+      "name": "ENVS 1247"
+    },
+    {
+      "code": "ENVS 1400",
+      "name": "ENVS 1400"
+    },
+    {
+      "code": "ENVS 1580",
+      "name": "ENVS 1580"
+    },
+    {
+      "code": "HIAA 0074",
+      "name": "HIAA 0074"
+    },
+    {
+      "code": "HIAA 0081",
+      "name": "HIAA 0081"
+    },
+    {
+      "code": "HIAA 0100",
+      "name": "HIAA 0100"
+    },
+    {
+      "code": "HIAA 0710",
+      "name": "HIAA 0710"
+    },
+    {
+      "code": "HIAA 0770",
+      "name": "HIAA 0770"
+    },
+    {
+      "code": "HIAA 0850",
+      "name": "HIAA 0850"
+    },
+    {
+      "code": "HIAA 0860",
+      "name": "HIAA 0860"
+    },
+    {
+      "code": "HIAA 0861",
+      "name": "HIAA 0861"
+    },
+    {
+      "code": "HIAA 1171",
+      "name": "HIAA 1171"
+    },
+    {
+      "code": "HIST 1533",
+      "name": "HIST 1533"
+    },
+    {
+      "code": "POLS 0220",
+      "name": "POLS 0220"
+    },
+    {
+      "code": "POLS 1310",
+      "name": "POLS 1310"
+    },
+    {
+      "code": "SOC 1340",
+      "name": "SOC 1340"
+    },
+    {
+      "code": "URBN 0074",
+      "name": "URBN 0074"
+    },
+    {
+      "code": "URBN 0214",
+      "name": "URBN 0214"
+    },
+    {
+      "code": "URBN 0215",
+      "name": "URBN 0215"
+    },
+    {
+      "code": "URBN 1000",
+      "name": "URBN 1000"
+    },
+    {
+      "code": "URBN 1140",
+      "name": "URBN 1140"
+    },
+    {
+      "code": "URBN 1200",
+      "name": "URBN 1200"
+    },
+    {
+      "code": "URBN 1250",
+      "name": "URBN 1250"
+    },
+    {
+      "code": "URBN 1260",
+      "name": "URBN 1260"
+    },
+    {
+      "code": "URBN 1270",
+      "name": "URBN 1270"
+    },
+    {
+      "code": "URBN 1290",
+      "name": "URBN 1290"
+    },
+    {
+      "code": "EDUC 1250",
+      "name": "EDUC 1250"
+    },
+    {
+      "code": "EDUC 1620",
+      "name": "EDUC 1620"
+    },
+    {
+      "code": "ETHN 1751F",
+      "name": "ETHN 1751F"
+    },
+    {
+      "code": "ENVS 1875",
+      "name": "ENVS 1875"
+    },
+    {
+      "code": "ENVS 1926",
+      "name": "ENVS 1926"
+    },
+    {
+      "code": "HIAA 1850H",
+      "name": "HIAA 1850H"
+    },
+    {
+      "code": "HIAA 1910A",
+      "name": "HIAA 1910A"
+    },
+    {
+      "code": "IAPA 1701F",
+      "name": "IAPA 1701F"
+    },
+    {
+      "code": "POLS 1821V",
+      "name": "POLS 1821V"
+    },
+    {
+      "code": "POLS 1822S",
+      "name": "POLS 1822S"
+    },
+    {
+      "code": "SOC 0310",
+      "name": "SOC 0310"
+    },
+    {
+      "code": "SOC 1871W",
+      "name": "SOC 1871W"
+    },
+    {
+      "code": "SOC 1871X",
+      "name": "SOC 1871X"
+    },
+    {
+      "code": "SOC 1873G",
+      "name": "SOC 1873G"
+    },
+    {
+      "code": "URBN 0820A",
+      "name": "URBN 0820A"
+    },
+    {
+      "code": "URBN 1870A",
+      "name": "URBN 1870A"
+    },
+    {
+      "code": "URBN 1870D",
+      "name": "URBN 1870D"
+    },
+    {
+      "code": "URBN 1870G",
+      "name": "URBN 1870G"
+    },
+    {
+      "code": "URBN 1870J",
+      "name": "URBN 1870J"
+    },
+    {
+      "code": "URBN 1870K",
+      "name": "URBN 1870K"
+    },
+    {
+      "code": "URBN 1870M",
+      "name": "URBN 1870M"
+    },
+    {
+      "code": "URBN 1870N",
+      "name": "URBN 1870N"
+    },
+    {
+      "code": "URBN 1870Q",
+      "name": "URBN 1870Q"
+    },
+    {
+      "code": "URBN 1870T",
+      "name": "URBN 1870T"
+    },
+    {
+      "code": "URBN 1870X",
+      "name": "URBN 1870X"
+    },
+    {
+      "code": "URBN 1870Z",
+      "name": "URBN 1870Z"
+    },
+    {
+      "code": "URBN 1871A",
+      "name": "URBN 1871A"
+    },
+    {
+      "code": "URBN 1871B",
+      "name": "URBN 1871B"
+    },
+    {
+      "code": "URBN 1871E",
+      "name": "URBN 1871E"
+    },
+    {
+      "code": "URBN 1871F",
+      "name": "URBN 1871F"
+    },
+    {
+      "code": "URBN 1871G",
+      "name": "URBN 1871G"
+    },
+    {
+      "code": "URBN 1872",
+      "name": "URBN 1872"
+    },
+    {
+      "code": "URBN 1932",
+      "name": "URBN 1932"
+    },
+    {
+      "code": "URBN 1943",
+      "name": "URBN 1943"
+    },
+    {
+      "code": "AFRI 0600",
+      "name": "AFRI 0600"
+    },
+    {
+      "code": "AFRI 1075",
+      "name": "AFRI 1075"
+    },
+    {
+      "code": "AMST 1611A",
+      "name": "AMST 1611A"
+    },
+    {
+      "code": "ARCH 1900",
+      "name": "ARCH 1900"
+    },
+    {
+      "code": "ECON 1370",
+      "name": "ECON 1370"
+    },
+    {
+      "code": "EDUC 1240",
+      "name": "EDUC 1240"
+    },
+    {
+      "code": "EDUC 1330",
+      "name": "EDUC 1330"
+    },
+    {
+      "code": "ENGL 1050S",
+      "name": "ENGL 1050S"
+    },
+    {
+      "code": "ENGL 1710I",
+      "name": "ENGL 1710I"
+    },
+    {
+      "code": "ENVS 0705",
+      "name": "ENVS 0705"
+    },
+    {
+      "code": "ENVS 1555",
+      "name": "ENVS 1555"
+    },
+    {
+      "code": "HIAA 1307",
+      "name": "HIAA 1307"
+    },
+    {
+      "code": "HIST 1961D",
+      "name": "HIST 1961D"
+    },
+    {
+      "code": "POLS 1824D",
+      "name": "POLS 1824D"
+    },
+    {
+      "code": "POLS 1826A",
+      "name": "POLS 1826A"
+    },
+    {
+      "code": "RUSS 1440",
+      "name": "RUSS 1440"
+    },
+    {
+      "code": "SOC 1270",
+      "name": "SOC 1270"
+    }
+  ]
+}

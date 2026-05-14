@@ -1,0 +1,237 @@
+{
+  "concentration": "Visual Art",
+  "slug": "visa",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/visa/",
+  "tracks": [
+    {
+      "id": "concentration_program_requirements",
+      "name": "Concentration Program Requirements",
+      "groups": [
+        {
+          "name": "Concentration Requirements:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Three Foundation courses are required. One from each of three categories.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Category I: Analog 2D (choose one from the following:) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0100",
+                  "name": "VISA 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0160",
+                  "name": "VISA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Category II: Digital & 4D (choose one from the following) 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0120",
+                  "name": "VISA 0120"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0140",
+                  "name": "VISA 0140"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0150",
+                  "name": "VISA 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Category III: Spatial & 3D (choose one from the following): 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "VISA 0130",
+                  "name": "VISA 0130"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "VISA 0170 Spatial Dynamics Foundations",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Five additional upper level studio courses are required. A minimum of three of these upper level studio courses must be taken within the Brown Visual Art Department. Only one ISP or GISP can be counted towards the concentration. When combined with the three Foundation courses, a total of six studio courses are required to be taken within the department. 5",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "3 HIAA courses are required. (3 credits total) 3",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": []
+        },
+        {
+          "name": "One course on 20th and/or 21st century art, one on non-Western practice, and one HIAA seminar. HIAA courses in Architectural Practice cannot be counted towards the Art History requirement.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Senior Thesis Exhibition: which does not carry academic credit, is required for graduation (usually presented during the seventh or eighth semester).",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0100",
+            "name": "VISA 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0160",
+            "name": "VISA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0120",
+            "name": "VISA 0120"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0140",
+            "name": "VISA 0140"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0150",
+            "name": "VISA 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "VISA 0130",
+            "name": "VISA 0130"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "VISA 0100",
+      "name": "VISA 0100"
+    },
+    {
+      "code": "VISA 0160",
+      "name": "VISA 0160"
+    },
+    {
+      "code": "VISA 0120",
+      "name": "VISA 0120"
+    },
+    {
+      "code": "VISA 0140",
+      "name": "VISA 0140"
+    },
+    {
+      "code": "VISA 0150",
+      "name": "VISA 0150"
+    },
+    {
+      "code": "VISA 0130",
+      "name": "VISA 0130"
+    },
+    {
+      "code": "VISA 1800C",
+      "name": "VISA 1800C"
+    },
+    {
+      "code": "VISA 1990",
+      "name": "VISA 1990"
+    }
+  ]
+}

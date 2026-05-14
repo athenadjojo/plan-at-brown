@@ -1,0 +1,3625 @@
+{
+  "concentration": "Applied Mathematics-Economics",
+  "slug": "apme",
+  "url": "https://bulletin.brown.edu/the-college/concentrations/apme/",
+  "tracks": [
+    {
+      "id": "standard_program_for_the_a_b__degree__mathematical",
+      "name": "Standard program for the A.B. degree (Mathematical Finance track):",
+      "groups": [
+        {
+          "name": "Prerequisites:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Course Requirements: 13 Courses: 6 Applied Math and 7 Economics",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Applied Mathematics Requirements",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "and",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "APMA 0365 Applied Partial Differential Equations I with Theory 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0160",
+                  "name": "APMA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0200",
+                  "name": "APMA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1200",
+                  "name": "APMA 1200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1160",
+                  "name": "APMA 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1180",
+                  "name": "APMA 1180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1210",
+                  "name": "APMA 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1330",
+                  "name": "APMA 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1360",
+                  "name": "APMA 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1660",
+                  "name": "APMA 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1670",
+                  "name": "APMA 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1680",
+                  "name": "APMA 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1690",
+                  "name": "APMA 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1710",
+                  "name": "APMA 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1720",
+                  "name": "APMA 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1740",
+                  "name": "APMA 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1860",
+                  "name": "APMA 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1010",
+                  "name": "MATH 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "APMA 193X, 194X Senior Seminar series, depending on topic 4",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Economics Requirements:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1130",
+                  "name": "ECON 1130"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1210",
+                  "name": "ECON 1210"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1630",
+                  "name": "ECON 1630"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two 1000-level courses from the \"financial economics\" group: 2 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1710",
+                  "name": "ECON 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1720",
+                  "name": "ECON 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1730",
+                  "name": "ECON 1730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1750",
+                  "name": "ECON 1750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1760",
+                  "name": "ECON 1760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1770",
+                  "name": "ECON 1770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1780",
+                  "name": "ECON 1780"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1830",
+                  "name": "ECON 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one 1000-level course from the \"mathematical economics\" group: 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1170",
+                  "name": "ECON 1170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1225",
+                  "name": "ECON 1225"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1255",
+                  "name": "ECON 1255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1470",
+                  "name": "ECON 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1490",
+                  "name": "ECON 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1545",
+                  "name": "ECON 1545"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1560",
+                  "name": "ECON 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "ECON 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "ECON 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "ECON 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "ECON 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1750",
+                  "name": "ECON 1750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1770",
+                  "name": "ECON 1770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1805",
+                  "name": "ECON 1805"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1820",
+                  "name": "ECON 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1860",
+                  "name": "ECON 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1870",
+                  "name": "ECON 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one 1000-level course from the \"data methods\" group: 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1301",
+                  "name": "ECON 1301"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1310",
+                  "name": "ECON 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1315",
+                  "name": "ECON 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1330",
+                  "name": "ECON 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1340",
+                  "name": "ECON 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1345",
+                  "name": "ECON 1345"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1355",
+                  "name": "ECON 1355"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1360",
+                  "name": "ECON 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1375",
+                  "name": "ECON 1375"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1385",
+                  "name": "ECON 1385"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1400",
+                  "name": "ECON 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1410",
+                  "name": "ECON 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1430",
+                  "name": "ECON 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1510",
+                  "name": "ECON 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1520",
+                  "name": "ECON 1520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1530",
+                  "name": "ECON 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1629",
+                  "name": "ECON 1629"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "ECON 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "ECON 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "ECON 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "ECON 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1825",
+                  "name": "ECON 1825"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1830",
+                  "name": "ECON 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0260",
+            "name": "APMA 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0260",
+            "name": "APMA 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0160",
+            "name": "APMA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0200",
+            "name": "APMA 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1200",
+            "name": "APMA 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1160",
+            "name": "APMA 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1180",
+            "name": "APMA 1180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1210",
+            "name": "APMA 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1330",
+            "name": "APMA 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1360",
+            "name": "APMA 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1660",
+            "name": "APMA 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1670",
+            "name": "APMA 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1680",
+            "name": "APMA 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1690",
+            "name": "APMA 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1710",
+            "name": "APMA 1710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1720",
+            "name": "APMA 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1740",
+            "name": "APMA 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1860",
+            "name": "APMA 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1010",
+            "name": "MATH 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1130",
+            "name": "ECON 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1210",
+            "name": "ECON 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1630",
+            "name": "ECON 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1710",
+            "name": "ECON 1710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1720",
+            "name": "ECON 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1730",
+            "name": "ECON 1730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1750",
+            "name": "ECON 1750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1760",
+            "name": "ECON 1760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1770",
+            "name": "ECON 1770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1780",
+            "name": "ECON 1780"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1830",
+            "name": "ECON 1830"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1170",
+            "name": "ECON 1170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1225",
+            "name": "ECON 1225"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1255",
+            "name": "ECON 1255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1470",
+            "name": "ECON 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1490",
+            "name": "ECON 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1545",
+            "name": "ECON 1545"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1560",
+            "name": "ECON 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "ECON 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "ECON 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "ECON 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "ECON 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1750",
+            "name": "ECON 1750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1770",
+            "name": "ECON 1770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1805",
+            "name": "ECON 1805"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1820",
+            "name": "ECON 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1860",
+            "name": "ECON 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1870",
+            "name": "ECON 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1301",
+            "name": "ECON 1301"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1310",
+            "name": "ECON 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1315",
+            "name": "ECON 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1330",
+            "name": "ECON 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1340",
+            "name": "ECON 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1345",
+            "name": "ECON 1345"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1355",
+            "name": "ECON 1355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1360",
+            "name": "ECON 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1375",
+            "name": "ECON 1375"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1385",
+            "name": "ECON 1385"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1400",
+            "name": "ECON 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1410",
+            "name": "ECON 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1430",
+            "name": "ECON 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1510",
+            "name": "ECON 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1520",
+            "name": "ECON 1520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1530",
+            "name": "ECON 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1629",
+            "name": "ECON 1629"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "ECON 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "ECON 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "ECON 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "ECON 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1825",
+            "name": "ECON 1825"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1830",
+            "name": "ECON 1830"
+          }
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "standard_program_for_the_sc_b__degree__mathematica",
+      "name": "Standard program for the Sc.B. degree (Mathematical Finance track):",
+      "groups": [
+        {
+          "name": "Prerequisites:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0100",
+                  "name": "MATH 0100"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "MATH 0520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0260",
+                  "name": "APMA 0260"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0200",
+                  "name": "MATH 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0350",
+                  "name": "MATH 0350"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Course Requirements: 16 courses: 7 Applied Math and 9 Economics",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Applied Mathematics requirements:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0355",
+                  "name": "APMA 0355"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "and",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "APMA 0365 Applied Partial Differential Equations I with Theory 1",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "Select one of the following: 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0160",
+                  "name": "APMA 0160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0200",
+                  "name": "APMA 0200"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0111",
+                  "name": "CSCI 0111"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0150",
+                  "name": "CSCI 0150"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0170",
+                  "name": "CSCI 0170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CSCI 0190",
+                  "name": "CSCI 0190"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1200",
+                  "name": "APMA 1200"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "APMA 1655"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two of the following: 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1160",
+                  "name": "APMA 1160"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1180",
+                  "name": "APMA 1180"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1210",
+                  "name": "APMA 1210"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1330",
+                  "name": "APMA 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1360",
+                  "name": "APMA 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1660",
+                  "name": "APMA 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1670",
+                  "name": "APMA 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1680",
+                  "name": "APMA 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1690",
+                  "name": "APMA 1690"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1710",
+                  "name": "APMA 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1720",
+                  "name": "APMA 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1740",
+                  "name": "APMA 1740"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1860",
+                  "name": "APMA 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1010",
+                  "name": "MATH 1010"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "APMA 193X, 194X Senior Seminar series, depending on topic 4",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Economics Requirements:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1130",
+                  "name": "ECON 1130"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1210",
+                  "name": "ECON 1210"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1630",
+                  "name": "ECON 1630"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select three 1000-level courses from the \"financial economics\" group: 2 3",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1710",
+                  "name": "ECON 1710"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1720",
+                  "name": "ECON 1720"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1730",
+                  "name": "ECON 1730"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1750",
+                  "name": "ECON 1750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1760",
+                  "name": "ECON 1760"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1770",
+                  "name": "ECON 1770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1780",
+                  "name": "ECON 1780"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1830",
+                  "name": "ECON 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select two 1000-level courses from the \"mathematical economics\" group: 2 2",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1170",
+                  "name": "ECON 1170"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1225",
+                  "name": "ECON 1225"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1255",
+                  "name": "ECON 1255"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1470",
+                  "name": "ECON 1470"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1490",
+                  "name": "ECON 1490"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1545",
+                  "name": "ECON 1545"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1560",
+                  "name": "ECON 1560"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "ECON 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "ECON 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "ECON 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "ECON 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1750",
+                  "name": "ECON 1750"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1770",
+                  "name": "ECON 1770"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1805",
+                  "name": "ECON 1805"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1820",
+                  "name": "ECON 1820"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1860",
+                  "name": "ECON 1860"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1870",
+                  "name": "ECON 1870"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Select one 1000-level course from the \"data methods\" group: 2 1",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1301",
+                  "name": "ECON 1301"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1310",
+                  "name": "ECON 1310"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1315",
+                  "name": "ECON 1315"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1330",
+                  "name": "ECON 1330"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1345",
+                  "name": "ECON 1345"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1340",
+                  "name": "ECON 1340"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1355",
+                  "name": "ECON 1355"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1360",
+                  "name": "ECON 1360"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1375",
+                  "name": "ECON 1375"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1385",
+                  "name": "ECON 1385"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1400",
+                  "name": "ECON 1400"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1410",
+                  "name": "ECON 1410"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1430",
+                  "name": "ECON 1430"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1510",
+                  "name": "ECON 1510"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1520",
+                  "name": "ECON 1520"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1530",
+                  "name": "ECON 1530"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1629",
+                  "name": "ECON 1629"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "ECON 1640"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "ECON 1660"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "ECON 1670"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "ECON 1680"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1825",
+                  "name": "ECON 1825"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1830",
+                  "name": "ECON 1830"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0100",
+            "name": "MATH 0100"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "MATH 0520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0260",
+            "name": "APMA 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0260",
+            "name": "APMA 0260"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0200",
+            "name": "MATH 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0350",
+            "name": "MATH 0350"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0355",
+            "name": "APMA 0355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0160",
+            "name": "APMA 0160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0200",
+            "name": "APMA 0200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0111",
+            "name": "CSCI 0111"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0150",
+            "name": "CSCI 0150"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0170",
+            "name": "CSCI 0170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CSCI 0190",
+            "name": "CSCI 0190"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1200",
+            "name": "APMA 1200"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "APMA 1655"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1160",
+            "name": "APMA 1160"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1180",
+            "name": "APMA 1180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1210",
+            "name": "APMA 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1330",
+            "name": "APMA 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1360",
+            "name": "APMA 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1660",
+            "name": "APMA 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1670",
+            "name": "APMA 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1680",
+            "name": "APMA 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1690",
+            "name": "APMA 1690"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1710",
+            "name": "APMA 1710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1720",
+            "name": "APMA 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1740",
+            "name": "APMA 1740"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1860",
+            "name": "APMA 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1010",
+            "name": "MATH 1010"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1130",
+            "name": "ECON 1130"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1210",
+            "name": "ECON 1210"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1630",
+            "name": "ECON 1630"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1710",
+            "name": "ECON 1710"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1720",
+            "name": "ECON 1720"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1730",
+            "name": "ECON 1730"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1750",
+            "name": "ECON 1750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1760",
+            "name": "ECON 1760"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1770",
+            "name": "ECON 1770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1780",
+            "name": "ECON 1780"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1830",
+            "name": "ECON 1830"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1170",
+            "name": "ECON 1170"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1225",
+            "name": "ECON 1225"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1255",
+            "name": "ECON 1255"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1470",
+            "name": "ECON 1470"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1490",
+            "name": "ECON 1490"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1545",
+            "name": "ECON 1545"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1560",
+            "name": "ECON 1560"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "ECON 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "ECON 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "ECON 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "ECON 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1750",
+            "name": "ECON 1750"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1770",
+            "name": "ECON 1770"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1805",
+            "name": "ECON 1805"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1820",
+            "name": "ECON 1820"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1860",
+            "name": "ECON 1860"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1870",
+            "name": "ECON 1870"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1301",
+            "name": "ECON 1301"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1310",
+            "name": "ECON 1310"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1315",
+            "name": "ECON 1315"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1330",
+            "name": "ECON 1330"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1345",
+            "name": "ECON 1345"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1340",
+            "name": "ECON 1340"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1355",
+            "name": "ECON 1355"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1360",
+            "name": "ECON 1360"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1375",
+            "name": "ECON 1375"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1385",
+            "name": "ECON 1385"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1400",
+            "name": "ECON 1400"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1410",
+            "name": "ECON 1410"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1430",
+            "name": "ECON 1430"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1510",
+            "name": "ECON 1510"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1520",
+            "name": "ECON 1520"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1530",
+            "name": "ECON 1530"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1629",
+            "name": "ECON 1629"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "ECON 1640"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "ECON 1660"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "ECON 1670"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "ECON 1680"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1825",
+            "name": "ECON 1825"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1830",
+            "name": "ECON 1830"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "all_courses": [
+    {
+      "code": "MATH 0100",
+      "name": "MATH 0100"
+    },
+    {
+      "code": "APMA 0260",
+      "name": "APMA 0260"
+    },
+    {
+      "code": "MATH 0180",
+      "name": "MATH 0180"
+    },
+    {
+      "code": "MATH 0200",
+      "name": "MATH 0200"
+    },
+    {
+      "code": "MATH 0350",
+      "name": "MATH 0350"
+    },
+    {
+      "code": "MATH 0520",
+      "name": "MATH 0520"
+    },
+    {
+      "code": "APMA 0355",
+      "name": "APMA 0355"
+    },
+    {
+      "code": "APMA 0160",
+      "name": "APMA 0160"
+    },
+    {
+      "code": "APMA 0200",
+      "name": "APMA 0200"
+    },
+    {
+      "code": "CSCI 0111",
+      "name": "CSCI 0111"
+    },
+    {
+      "code": "CSCI 0150",
+      "name": "CSCI 0150"
+    },
+    {
+      "code": "CSCI 0170",
+      "name": "CSCI 0170"
+    },
+    {
+      "code": "CSCI 0190",
+      "name": "CSCI 0190"
+    },
+    {
+      "code": "APMA 1200",
+      "name": "APMA 1200"
+    },
+    {
+      "code": "APMA 1210",
+      "name": "APMA 1210"
+    },
+    {
+      "code": "APMA 1655",
+      "name": "APMA 1655"
+    },
+    {
+      "code": "ECON 1130",
+      "name": "ECON 1130"
+    },
+    {
+      "code": "ECON 1210",
+      "name": "ECON 1210"
+    },
+    {
+      "code": "ECON 1630",
+      "name": "ECON 1630"
+    },
+    {
+      "code": "ECON 1170",
+      "name": "ECON 1170"
+    },
+    {
+      "code": "ECON 1225",
+      "name": "ECON 1225"
+    },
+    {
+      "code": "ECON 1255",
+      "name": "ECON 1255"
+    },
+    {
+      "code": "ECON 1470",
+      "name": "ECON 1470"
+    },
+    {
+      "code": "ECON 1490",
+      "name": "ECON 1490"
+    },
+    {
+      "code": "ECON 1545",
+      "name": "ECON 1545"
+    },
+    {
+      "code": "ECON 1560",
+      "name": "ECON 1560"
+    },
+    {
+      "code": "ECON 1640",
+      "name": "ECON 1640"
+    },
+    {
+      "code": "ECON 1660",
+      "name": "ECON 1660"
+    },
+    {
+      "code": "ECON 1670",
+      "name": "ECON 1670"
+    },
+    {
+      "code": "ECON 1680",
+      "name": "ECON 1680"
+    },
+    {
+      "code": "ECON 1750",
+      "name": "ECON 1750"
+    },
+    {
+      "code": "ECON 1770",
+      "name": "ECON 1770"
+    },
+    {
+      "code": "ECON 1805",
+      "name": "ECON 1805"
+    },
+    {
+      "code": "ECON 1820",
+      "name": "ECON 1820"
+    },
+    {
+      "code": "ECON 1860",
+      "name": "ECON 1860"
+    },
+    {
+      "code": "ECON 1870",
+      "name": "ECON 1870"
+    },
+    {
+      "code": "ECON 1301",
+      "name": "ECON 1301"
+    },
+    {
+      "code": "ECON 1310",
+      "name": "ECON 1310"
+    },
+    {
+      "code": "ECON 1315",
+      "name": "ECON 1315"
+    },
+    {
+      "code": "ECON 1330",
+      "name": "ECON 1330"
+    },
+    {
+      "code": "ECON 1340",
+      "name": "ECON 1340"
+    },
+    {
+      "code": "ECON 1345",
+      "name": "ECON 1345"
+    },
+    {
+      "code": "ECON 1355",
+      "name": "ECON 1355"
+    },
+    {
+      "code": "ECON 1360",
+      "name": "ECON 1360"
+    },
+    {
+      "code": "ECON 1375",
+      "name": "ECON 1375"
+    },
+    {
+      "code": "ECON 1385",
+      "name": "ECON 1385"
+    },
+    {
+      "code": "ECON 1400",
+      "name": "ECON 1400"
+    },
+    {
+      "code": "ECON 1410",
+      "name": "ECON 1410"
+    },
+    {
+      "code": "ECON 1430",
+      "name": "ECON 1430"
+    },
+    {
+      "code": "ECON 1510",
+      "name": "ECON 1510"
+    },
+    {
+      "code": "ECON 1520",
+      "name": "ECON 1520"
+    },
+    {
+      "code": "ECON 1530",
+      "name": "ECON 1530"
+    },
+    {
+      "code": "ECON 1629",
+      "name": "ECON 1629"
+    },
+    {
+      "code": "ECON 1825",
+      "name": "ECON 1825"
+    },
+    {
+      "code": "ECON 1830",
+      "name": "ECON 1830"
+    },
+    {
+      "code": "ECON 1110",
+      "name": "ECON 1110"
+    },
+    {
+      "code": "ECON 1620",
+      "name": "ECON 1620"
+    },
+    {
+      "code": "ECON 1960",
+      "name": "ECON 1960"
+    },
+    {
+      "code": "ECON 1970",
+      "name": "ECON 1970"
+    },
+    {
+      "code": "APMA 1000",
+      "name": "APMA 1000"
+    },
+    {
+      "code": "MATH 1000",
+      "name": "MATH 1000"
+    },
+    {
+      "code": "MATH 1001",
+      "name": "MATH 1001"
+    },
+    {
+      "code": "APMA 1650",
+      "name": "APMA 1650"
+    },
+    {
+      "code": "MATH 1210",
+      "name": "MATH 1210"
+    },
+    {
+      "code": "MATH 1610",
+      "name": "MATH 1610"
+    },
+    {
+      "code": "APMA 1160",
+      "name": "APMA 1160"
+    },
+    {
+      "code": "APMA 1180",
+      "name": "APMA 1180"
+    },
+    {
+      "code": "APMA 1330",
+      "name": "APMA 1330"
+    },
+    {
+      "code": "APMA 1360",
+      "name": "APMA 1360"
+    },
+    {
+      "code": "APMA 1660",
+      "name": "APMA 1660"
+    },
+    {
+      "code": "APMA 1670",
+      "name": "APMA 1670"
+    },
+    {
+      "code": "APMA 1680",
+      "name": "APMA 1680"
+    },
+    {
+      "code": "APMA 1690",
+      "name": "APMA 1690"
+    },
+    {
+      "code": "APMA 1710",
+      "name": "APMA 1710"
+    },
+    {
+      "code": "APMA 1720",
+      "name": "APMA 1720"
+    },
+    {
+      "code": "APMA 1740",
+      "name": "APMA 1740"
+    },
+    {
+      "code": "APMA 1860",
+      "name": "APMA 1860"
+    },
+    {
+      "code": "MATH 1010",
+      "name": "MATH 1010"
+    },
+    {
+      "code": "ECON 1710",
+      "name": "ECON 1710"
+    },
+    {
+      "code": "ECON 1720",
+      "name": "ECON 1720"
+    },
+    {
+      "code": "ECON 1730",
+      "name": "ECON 1730"
+    },
+    {
+      "code": "ECON 1760",
+      "name": "ECON 1760"
+    },
+    {
+      "code": "ECON 1780",
+      "name": "ECON 1780"
+    },
+    {
+      "code": "APMA 1910",
+      "name": "APMA 1910"
+    }
+  ]
+}
