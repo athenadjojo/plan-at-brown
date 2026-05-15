@@ -2,6 +2,7 @@
   "concentration": "Behavioral Decision Sciences",
   "slug": "bds",
   "url": "https://bulletin.brown.edu/the-college/concentrations/bds/",
+  "description": "Leading to a Bachelor of Arts, the study of decision making at Brown covers descriptive questions like how people, institutions, and nations make judgments and decisions; normative questions about rationality, such as what constitutes the best judgments and decisions; and prescriptive questions, such as how the process of decision making can be improved to make actual decisions closer to optimal ones. By virtue of its broad interdisciplinary nature, the study of decision making covers work found in a variety of more traditional disciplines including psychology, cognitive science, economics, philosophy, computer science, and neuroscience.\u00a0ProfessorsStevenSlomanandDavid Levariare the concentration advisors.\u00a0Upon declaring, concentrators are also encouraged to speak with the appropriate area\u00a0specialist from among those listedhere. Students will be expected to take no more than 6 courses below the 1000-level within the concentration.\u00a0 Students with multiple concentrations may not apply more than 2 courses from a second concentration to the AB in Behavioral Decision Sciences.\u00a0 Students are responsible for satisfying all prerequisites for courses they plan to take.",
   "tracks": [
     {
       "id": "standard_program_for_the_ab_degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": 1,
@@ -28,7 +29,7 @@
           "notes": []
         },
         {
-          "name": "Choose one of the following: 1",
+          "name": "Choose one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -38,7 +39,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -74,7 +75,7 @@
               "courses": [
                 {
                   "code": "CPSY 0620",
-                  "name": "CPSY 0620"
+                  "name": "Social and Moral Development"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -96,7 +97,7 @@
           "notes": []
         },
         {
-          "name": "Choose one from the following: 1",
+          "name": "Choose one from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -106,7 +107,7 @@
               "courses": [
                 {
                   "code": "CPSY 0710",
-                  "name": "CPSY 0710"
+                  "name": "The Psychology and Philosophy of Happiness"
                 }
               ],
               "count": null,
@@ -118,7 +119,7 @@
               "courses": [
                 {
                   "code": "CPSY 1280B",
-                  "name": "CPSY 1280B"
+                  "name": "Special Topics in Cognition: Collective Cognition and Collective Behavior"
                 }
               ],
               "count": null,
@@ -130,7 +131,7 @@
               "courses": [
                 {
                   "code": "CPSY 1280C",
-                  "name": "CPSY 1280C"
+                  "name": "Topics in Cognition: Information and Decision Making"
                 }
               ],
               "count": null,
@@ -142,7 +143,7 @@
               "courses": [
                 {
                   "code": "CPSY 1470",
-                  "name": "CPSY 1470"
+                  "name": "Mechanisms of Motivated Decision Making"
                 }
               ],
               "count": null,
@@ -154,7 +155,7 @@
               "courses": [
                 {
                   "code": "CPSY 1495",
-                  "name": "CPSY 1495"
+                  "name": "Affective Neuroscience"
                 }
               ],
               "count": null,
@@ -166,7 +167,7 @@
               "courses": [
                 {
                   "code": "CPSY 1560",
-                  "name": "CPSY 1560"
+                  "name": "Visually-Guided Action and Cognitive Processes"
                 }
               ],
               "count": null,
@@ -178,7 +179,7 @@
               "courses": [
                 {
                   "code": "CPSY 1680A",
-                  "name": "CPSY 1680A"
+                  "name": "Topics in Development: Social Learning"
                 }
               ],
               "count": null,
@@ -190,7 +191,7 @@
               "courses": [
                 {
                   "code": "CPSY 1680H",
-                  "name": "CPSY 1680H"
+                  "name": "The Developmental Origins of Cooperation"
                 }
               ],
               "count": null,
@@ -202,7 +203,7 @@
               "courses": [
                 {
                   "code": "CPSY 1730",
-                  "name": "CPSY 1730"
+                  "name": "Psychology in Business and Economics"
                 }
               ],
               "count": null,
@@ -214,7 +215,7 @@
               "courses": [
                 {
                   "code": "CPSY 1750",
-                  "name": "CPSY 1750"
+                  "name": "Blame and Punishment"
                 }
               ],
               "count": null,
@@ -226,7 +227,7 @@
               "courses": [
                 {
                   "code": "CPSY 1760",
-                  "name": "CPSY 1760"
+                  "name": "The Moral Brain"
                 }
               ],
               "count": null,
@@ -243,7 +244,7 @@
           "notes": []
         },
         {
-          "name": "Select one Introductory Course from the following: 1",
+          "name": "Select one Introductory Course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -253,7 +254,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -265,7 +266,7 @@
               "courses": [
                 {
                   "code": "ECON 0110",
-                  "name": "ECON 0110"
+                  "name": "Principles of Economics"
                 }
               ],
               "count": null,
@@ -277,7 +278,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -289,7 +290,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -301,7 +302,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -313,7 +314,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -323,7 +324,7 @@
           "notes": []
         },
         {
-          "name": "Select Two Advanced Courses From: 2",
+          "name": "Select Two Advanced Courses From:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -345,7 +346,7 @@
               "courses": [
                 {
                   "code": "CSCI 1420",
-                  "name": "CSCI 1420"
+                  "name": "Machine Learning"
                 }
               ],
               "count": null,
@@ -357,7 +358,7 @@
               "courses": [
                 {
                   "code": "ECON 1090",
-                  "name": "ECON 1090"
+                  "name": "Introduction to Game Theory"
                 }
               ],
               "count": null,
@@ -369,7 +370,7 @@
               "courses": [
                 {
                   "code": "ECON 1110",
-                  "name": "ECON 1110"
+                  "name": "Intermediate Microeconomics"
                 }
               ],
               "count": null,
@@ -381,7 +382,7 @@
               "courses": [
                 {
                   "code": "ECON 1130",
-                  "name": "ECON 1130"
+                  "name": "Intermediate Microeconomics (Mathematical)"
                 }
               ],
               "count": null,
@@ -393,7 +394,7 @@
               "courses": [
                 {
                   "code": "ECON 1170",
-                  "name": "ECON 1170"
+                  "name": "Welfare Economics and Social Choice Theory"
                 }
               ],
               "count": null,
@@ -405,7 +406,7 @@
               "courses": [
                 {
                   "code": "ECON 1200",
-                  "name": "ECON 1200"
+                  "name": "History of Economic Thought"
                 }
               ],
               "count": null,
@@ -417,7 +418,7 @@
               "courses": [
                 {
                   "code": "ECON 1805",
-                  "name": "ECON 1805"
+                  "name": "Experimental and Behavioral Economics"
                 }
               ],
               "count": null,
@@ -429,7 +430,7 @@
               "courses": [
                 {
                   "code": "ECON 1820",
-                  "name": "ECON 1820"
+                  "name": "Theory of Behavioral Economics"
                 }
               ],
               "count": null,
@@ -441,7 +442,7 @@
               "courses": [
                 {
                   "code": "ECON 1870",
-                  "name": "ECON 1870"
+                  "name": "Game Theory and Applications to Economics"
                 }
               ],
               "count": null,
@@ -453,7 +454,7 @@
               "courses": [
                 {
                   "code": "PHIL 1610",
-                  "name": "PHIL 1610"
+                  "name": "Decision Theory: Foundations and Applications"
                 }
               ],
               "count": null,
@@ -465,7 +466,7 @@
               "courses": [
                 {
                   "code": "PHIL 1430",
-                  "name": "PHIL 1430"
+                  "name": "Moral Theories"
                 }
               ],
               "count": null,
@@ -477,7 +478,7 @@
               "courses": [
                 {
                   "code": "SOC 1311",
-                  "name": "SOC 1311"
+                  "name": "Micro-Organizational Theory: Social Behavior in Organizations"
                 }
               ],
               "count": null,
@@ -489,7 +490,7 @@
               "courses": [
                 {
                   "code": "SOC 1315",
-                  "name": "SOC 1315"
+                  "name": "Macro-Organizational Theory: Organizations in Social Context"
                 }
               ],
               "count": null,
@@ -506,7 +507,7 @@
           "notes": []
         },
         {
-          "name": "Basic Probability and Statistics. Choose One From the Following: 1",
+          "name": "Basic Probability and Statistics. Choose One From the Following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -516,7 +517,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -528,7 +529,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -540,7 +541,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -552,7 +553,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -564,7 +565,7 @@
               "courses": [
                 {
                   "code": "DATA 0200",
-                  "name": "DATA 0200"
+                  "name": "Data Science Fluency"
                 }
               ],
               "count": null,
@@ -576,7 +577,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": null,
@@ -586,7 +587,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Methods. Choose one of the following: 1",
+          "name": "Advanced Methods. Choose one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -596,7 +597,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -608,7 +609,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -620,7 +621,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": null,
@@ -632,7 +633,7 @@
               "courses": [
                 {
                   "code": "ECON 1660",
-                  "name": "ECON 1660"
+                  "name": "Big Data"
                 }
               ],
               "count": null,
@@ -644,7 +645,7 @@
               "courses": [
                 {
                   "code": "LING 1771",
-                  "name": "LING 1771"
+                  "name": "Introduction to Corpus Linguistics"
                 }
               ],
               "count": null,
@@ -656,7 +657,7 @@
               "courses": [
                 {
                   "code": "SOC 1120",
-                  "name": "SOC 1120"
+                  "name": "Market and Social Surveys"
                 }
               ],
               "count": null,
@@ -668,7 +669,7 @@
               "courses": [
                 {
                   "code": "SOC 1260",
-                  "name": "SOC 1260"
+                  "name": "Market Research in Public and Private Sectors"
                 }
               ],
               "count": null,
@@ -680,7 +681,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -692,7 +693,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -704,7 +705,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -716,7 +717,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -728,7 +729,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -745,7 +746,7 @@
           "notes": []
         },
         {
-          "name": "Choose one of the following Research Methods and Design courses: 1",
+          "name": "Choose one of the following Research Methods and Design courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -755,7 +756,7 @@
               "courses": [
                 {
                   "code": "CPSY 1791",
-                  "name": "CPSY 1791"
+                  "name": "Laboratory in Social Cognition"
                 }
               ],
               "count": null,
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "CPSY 1890",
-                  "name": "CPSY 1890"
+                  "name": "Laboratory in Psycholinguistics"
                 }
               ],
               "count": null,
@@ -779,7 +780,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design"
                 }
               ],
               "count": null,
@@ -791,7 +792,7 @@
               "courses": [
                 {
                   "code": "CPSY 1901",
-                  "name": "CPSY 1901"
+                  "name": "Research Methods"
                 }
               ],
               "count": null,
@@ -803,7 +804,7 @@
               "courses": [
                 {
                   "code": "ECON 1629",
-                  "name": "ECON 1629"
+                  "name": "Applied Research Methods for Economists"
                 }
               ],
               "count": null,
@@ -815,7 +816,7 @@
               "courses": [
                 {
                   "code": "IAPA 1500A",
-                  "name": "IAPA 1500A"
+                  "name": "Ethnographic Research Methods"
                 }
               ],
               "count": null,
@@ -827,7 +828,7 @@
               "courses": [
                 {
                   "code": "POLS 1600",
-                  "name": "POLS 1600"
+                  "name": "Political Research Methods"
                 }
               ],
               "count": null,
@@ -839,7 +840,7 @@
               "courses": [
                 {
                   "code": "SOC 1020",
-                  "name": "SOC 1020"
+                  "name": "Methods of Social Research"
                 }
               ],
               "count": null,
@@ -851,7 +852,7 @@
               "courses": [
                 {
                   "code": "SOC 1260",
-                  "name": "SOC 1260"
+                  "name": "Market Research in Public and Private Sectors"
                 }
               ],
               "count": null,
@@ -861,7 +862,7 @@
           "notes": []
         },
         {
-          "name": "Electives: 3",
+          "name": "Electives:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -875,7 +876,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: 1",
+          "name": "Capstone:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -885,7 +886,7 @@
               "courses": [
                 {
                   "code": "CPSY 1960",
-                  "name": "CPSY 1960"
+                  "name": "Senior Seminar in Behavioral Decision Sciences"
                 }
               ],
               "count": null,
@@ -900,455 +901,455 @@
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0620",
-            "name": "CPSY 0620"
+            "name": "Social and Moral Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0710",
-            "name": "CPSY 0710"
+            "name": "The Psychology and Philosophy of Happiness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1280B",
-            "name": "CPSY 1280B"
+            "name": "Special Topics in Cognition: Collective Cognition and Collective Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1280C",
-            "name": "CPSY 1280C"
+            "name": "Topics in Cognition: Information and Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1470",
-            "name": "CPSY 1470"
+            "name": "Mechanisms of Motivated Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1495",
-            "name": "CPSY 1495"
+            "name": "Affective Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1560",
-            "name": "CPSY 1560"
+            "name": "Visually-Guided Action and Cognitive Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1680A",
-            "name": "CPSY 1680A"
+            "name": "Topics in Development: Social Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1680H",
-            "name": "CPSY 1680H"
+            "name": "The Developmental Origins of Cooperation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1730",
-            "name": "CPSY 1730"
+            "name": "Psychology in Business and Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1750",
-            "name": "CPSY 1750"
+            "name": "Blame and Punishment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1760",
-            "name": "CPSY 1760"
+            "name": "The Moral Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1420",
-            "name": "CSCI 1420"
+            "name": "Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1090",
-            "name": "ECON 1090"
+            "name": "Introduction to Game Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1110",
-            "name": "ECON 1110"
+            "name": "Intermediate Microeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1170",
-            "name": "ECON 1170"
+            "name": "Welfare Economics and Social Choice Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1200",
-            "name": "ECON 1200"
+            "name": "History of Economic Thought"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1805",
-            "name": "ECON 1805"
+            "name": "Experimental and Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1820",
-            "name": "ECON 1820"
+            "name": "Theory of Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1870",
-            "name": "ECON 1870"
+            "name": "Game Theory and Applications to Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1610",
-            "name": "PHIL 1610"
+            "name": "Decision Theory: Foundations and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1430",
-            "name": "PHIL 1430"
+            "name": "Moral Theories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1311",
-            "name": "SOC 1311"
+            "name": "Micro-Organizational Theory: Social Behavior in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1315",
-            "name": "SOC 1315"
+            "name": "Macro-Organizational Theory: Organizations in Social Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 0200",
-            "name": "DATA 0200"
+            "name": "Data Science Fluency"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1660",
-            "name": "ECON 1660"
+            "name": "Big Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1771",
-            "name": "LING 1771"
+            "name": "Introduction to Corpus Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1120",
-            "name": "SOC 1120"
+            "name": "Market and Social Surveys"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1260",
-            "name": "SOC 1260"
+            "name": "Market Research in Public and Private Sectors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1791",
-            "name": "CPSY 1791"
+            "name": "Laboratory in Social Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1890",
-            "name": "CPSY 1890"
+            "name": "Laboratory in Psycholinguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1629",
-            "name": "ECON 1629"
+            "name": "Applied Research Methods for Economists"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1500A",
-            "name": "IAPA 1500A"
+            "name": "Ethnographic Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1600",
-            "name": "POLS 1600"
+            "name": "Political Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1020",
-            "name": "SOC 1020"
+            "name": "Methods of Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1260",
-            "name": "SOC 1260"
+            "name": "Market Research in Public and Private Sectors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1960",
-            "name": "CPSY 1960"
+            "name": "Senior Seminar in Behavioral Decision Sciences"
           }
         }
       ],
@@ -1358,243 +1359,243 @@
   "all_courses": [
     {
       "code": "CPSY 0220",
-      "name": "CPSY 0220"
+      "name": "Making Decisions"
     },
     {
       "code": "CPSY 0200",
-      "name": "CPSY 0200"
+      "name": "Human Cognition"
     },
     {
       "code": "CPSY 0400",
-      "name": "CPSY 0400"
+      "name": "Cognitive Neuroscience"
     },
     {
       "code": "CPSY 0450",
-      "name": "CPSY 0450"
+      "name": "Brain Damage and the Mind"
     },
     {
       "code": "CPSY 0620",
-      "name": "CPSY 0620"
+      "name": "Social and Moral Development"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "CPSY 0710",
-      "name": "CPSY 0710"
+      "name": "The Psychology and Philosophy of Happiness"
     },
     {
       "code": "CPSY 1280B",
-      "name": "CPSY 1280B"
+      "name": "Special Topics in Cognition: Collective Cognition and Collective Behavior"
     },
     {
       "code": "CPSY 1280C",
-      "name": "CPSY 1280C"
+      "name": "Topics in Cognition: Information and Decision Making"
     },
     {
       "code": "CPSY 1470",
-      "name": "CPSY 1470"
+      "name": "Mechanisms of Motivated Decision Making"
     },
     {
       "code": "CPSY 1495",
-      "name": "CPSY 1495"
+      "name": "Affective Neuroscience"
     },
     {
       "code": "CPSY 1560",
-      "name": "CPSY 1560"
+      "name": "Visually-Guided Action and Cognitive Processes"
     },
     {
       "code": "CPSY 1680A",
-      "name": "CPSY 1680A"
+      "name": "Topics in Development: Social Learning"
     },
     {
       "code": "CPSY 1680H",
-      "name": "CPSY 1680H"
+      "name": "The Developmental Origins of Cooperation"
     },
     {
       "code": "CPSY 1730",
-      "name": "CPSY 1730"
+      "name": "Psychology in Business and Economics"
     },
     {
       "code": "CPSY 1750",
-      "name": "CPSY 1750"
+      "name": "Blame and Punishment"
     },
     {
       "code": "CPSY 1760",
-      "name": "CPSY 1760"
+      "name": "The Moral Brain"
     },
     {
       "code": "CPSY 0950",
-      "name": "CPSY 0950"
+      "name": "Introduction to programming"
     },
     {
       "code": "ECON 0110",
-      "name": "ECON 0110"
+      "name": "Principles of Economics"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "CSCI 0410",
-      "name": "CSCI 0410"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 1420",
-      "name": "CSCI 1420"
+      "name": "Machine Learning"
     },
     {
       "code": "ECON 1090",
-      "name": "ECON 1090"
+      "name": "Introduction to Game Theory"
     },
     {
       "code": "ECON 1110",
-      "name": "ECON 1110"
+      "name": "Intermediate Microeconomics"
     },
     {
       "code": "ECON 1130",
-      "name": "ECON 1130"
+      "name": "Intermediate Microeconomics (Mathematical)"
     },
     {
       "code": "ECON 1170",
-      "name": "ECON 1170"
+      "name": "Welfare Economics and Social Choice Theory"
     },
     {
       "code": "ECON 1200",
-      "name": "ECON 1200"
+      "name": "History of Economic Thought"
     },
     {
       "code": "ECON 1805",
-      "name": "ECON 1805"
+      "name": "Experimental and Behavioral Economics"
     },
     {
       "code": "ECON 1820",
-      "name": "ECON 1820"
+      "name": "Theory of Behavioral Economics"
     },
     {
       "code": "ECON 1870",
-      "name": "ECON 1870"
+      "name": "Game Theory and Applications to Economics"
     },
     {
       "code": "PHIL 1610",
-      "name": "PHIL 1610"
+      "name": "Decision Theory: Foundations and Applications"
     },
     {
       "code": "PHIL 1430",
-      "name": "PHIL 1430"
+      "name": "Moral Theories"
     },
     {
       "code": "SOC 1311",
-      "name": "SOC 1311"
+      "name": "Micro-Organizational Theory: Social Behavior in Organizations"
     },
     {
       "code": "SOC 1315",
-      "name": "SOC 1315"
+      "name": "Macro-Organizational Theory: Organizations in Social Context"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "DATA 0200",
-      "name": "DATA 0200"
+      "name": "Data Science Fluency"
     },
     {
       "code": "ECON 1620",
-      "name": "ECON 1620"
+      "name": "Introduction to Econometrics"
     },
     {
       "code": "CPSY 1291",
-      "name": "CPSY 1291"
+      "name": "Computational Methods for Mind, Brain and Behavior"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "ECON 1630",
-      "name": "ECON 1630"
+      "name": "Mathematical Econometrics I"
     },
     {
       "code": "ECON 1660",
-      "name": "ECON 1660"
+      "name": "Big Data"
     },
     {
       "code": "LING 1771",
-      "name": "LING 1771"
+      "name": "Introduction to Corpus Linguistics"
     },
     {
       "code": "SOC 1120",
-      "name": "SOC 1120"
+      "name": "Market and Social Surveys"
     },
     {
       "code": "SOC 1260",
-      "name": "SOC 1260"
+      "name": "Market Research in Public and Private Sectors"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CPSY 1791",
-      "name": "CPSY 1791"
+      "name": "Laboratory in Social Cognition"
     },
     {
       "code": "CPSY 1890",
-      "name": "CPSY 1890"
+      "name": "Laboratory in Psycholinguistics"
     },
     {
       "code": "CPSY 1900",
-      "name": "CPSY 1900"
+      "name": "Research Methods And Design"
     },
     {
       "code": "CPSY 1901",
-      "name": "CPSY 1901"
+      "name": "Research Methods"
     },
     {
       "code": "ECON 1629",
-      "name": "ECON 1629"
+      "name": "Applied Research Methods for Economists"
     },
     {
       "code": "IAPA 1500A",
-      "name": "IAPA 1500A"
+      "name": "Ethnographic Research Methods"
     },
     {
       "code": "POLS 1600",
-      "name": "POLS 1600"
+      "name": "Political Research Methods"
     },
     {
       "code": "SOC 1020",
-      "name": "SOC 1020"
+      "name": "Methods of Social Research"
     },
     {
       "code": "CPSY 1960",
-      "name": "CPSY 1960"
+      "name": "Senior Seminar in Behavioral Decision Sciences"
     }
   ]
 }

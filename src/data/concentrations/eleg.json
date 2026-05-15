@@ -2,6 +2,7 @@
   "concentration": "Electrical Engineering",
   "slug": "eleg",
   "url": "https://bulletin.brown.edu/the-college/concentrations/eleg/",
+  "description": "The Sc.B. program in Electrical Engineering equips students with a solid foundation for careers in electrical engineering and related fields, to advance the knowledge base for future technologies, and to merge teaching, scholarship, and practice in the pursuit of solutions to human needs. Electrical engineers design and manufacture microelectronic hardware; sensors; biomedical instrumentation; communication systems; control systems; radar and navigation equipment, as well as power generation and distribution equipment and propulsion systems. The professional organization for electrical engineers, the Institute of Electrical and Electronics Engineers (IEEE), has over 400,000 members worldwide. \u200b\u200bThe curriculum consists of an interdisciplinary engineering core that includes courses in engineering, mathematics, and computer science, followed by advanced courses in electrical engineering, which include linear systems, analog and digital electronics, advanced science (typically modern physics or quantum mechanics) and three upper-level EE courses selected by the students. The program culminates with the capstone project course.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus1"
                 }
               ],
               "count": 1,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science2"
                 }
               ],
               "count": 1,
@@ -354,7 +355,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -366,7 +367,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -378,7 +379,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -390,7 +391,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -402,7 +403,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -422,7 +423,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": 1,
@@ -434,7 +435,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": 1,
@@ -446,7 +447,7 @@
               "courses": [
                 {
                   "code": "ENGN 1630",
-                  "name": "ENGN 1630"
+                  "name": "Digital Electronics Systems Design"
                 }
               ],
               "count": 1,
@@ -458,7 +459,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter3"
                 }
               ],
               "count": 1,
@@ -470,7 +471,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -480,7 +481,7 @@
           "notes": []
         },
         {
-          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups: 3",
+          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -497,7 +498,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "ENGN 1580",
-                  "name": "ENGN 1580"
+                  "name": "Communication Systems"
                 }
               ],
               "count": null,
@@ -521,7 +522,7 @@
               "courses": [
                 {
                   "code": "ENGN 1590",
-                  "name": "ENGN 1590"
+                  "name": "Semiconductor Devices"
                 }
               ],
               "count": null,
@@ -533,7 +534,7 @@
               "courses": [
                 {
                   "code": "ENGN 1600",
-                  "name": "ENGN 1600"
+                  "name": "Design and Implementation of Digital Integrated Circuits"
                 }
               ],
               "count": null,
@@ -545,7 +546,7 @@
               "courses": [
                 {
                   "code": "ENGN 1610",
-                  "name": "ENGN 1610"
+                  "name": "Image Understanding"
                 }
               ],
               "count": null,
@@ -557,7 +558,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -567,7 +568,7 @@
           "notes": []
         },
         {
-          "name": "Up to two other Electrical Engineering courses 4",
+          "name": "Up to two other Electrical Engineering courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -577,7 +578,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -589,7 +590,7 @@
               "courses": [
                 {
                   "code": "ENGN 1560",
-                  "name": "ENGN 1560"
+                  "name": "Applications in Microwave Communications"
                 }
               ],
               "count": null,
@@ -601,7 +602,7 @@
               "courses": [
                 {
                   "code": "ENGN 1565",
-                  "name": "ENGN 1565"
+                  "name": "Physical and Physics Foundation of Computing"
                 }
               ],
               "count": null,
@@ -613,7 +614,7 @@
               "courses": [
                 {
                   "code": "ENGN 1595",
-                  "name": "ENGN 1595"
+                  "name": "Lasers and Nonlinear Optics"
                 }
               ],
               "count": null,
@@ -625,7 +626,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -637,7 +638,7 @@
               "courses": [
                 {
                   "code": "ENGN 1690",
-                  "name": "ENGN 1690"
+                  "name": "Photonics Devices and Sensors"
                 }
               ],
               "count": null,
@@ -649,7 +650,7 @@
               "courses": [
                 {
                   "code": "ENGN 1790",
-                  "name": "ENGN 1790"
+                  "name": "Quantum Optics"
                 }
               ],
               "count": null,
@@ -661,7 +662,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -673,7 +674,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931A",
-                  "name": "ENGN 1931A"
+                  "name": "Photovoltaics Engineering"
                 }
               ],
               "count": null,
@@ -685,7 +686,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -697,7 +698,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931I",
-                  "name": "ENGN 1931I"
+                  "name": "Design of Robotic Systems"
                 }
               ],
               "count": null,
@@ -709,7 +710,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -721,7 +722,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -731,7 +732,7 @@
           "notes": []
         },
         {
-          "name": "Up to one interdisciplinary engineering science course: 6",
+          "name": "Up to one interdisciplinary engineering science course:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -741,7 +742,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -753,7 +754,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -765,7 +766,7 @@
               "courses": [
                 {
                   "code": "ENGN 1450",
-                  "name": "ENGN 1450"
+                  "name": "Properties and Processing of Electronic Materials"
                 }
               ],
               "count": null,
@@ -777,7 +778,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -789,7 +790,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -801,7 +802,7 @@
               "courses": [
                 {
                   "code": "PHYS 1970F",
-                  "name": "PHYS 1970F"
+                  "name": "Quantum Information"
                 }
               ],
               "count": null,
@@ -811,7 +812,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design: At least one course from the following: 7 1",
+          "name": "4. Capstone Design: At least one course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -821,7 +822,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -833,7 +834,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -845,7 +846,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -867,462 +868,462 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1630",
-            "name": "ENGN 1630"
+            "name": "Digital Electronics Systems Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1580",
-            "name": "ENGN 1580"
+            "name": "Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1590",
-            "name": "ENGN 1590"
+            "name": "Semiconductor Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1600",
-            "name": "ENGN 1600"
+            "name": "Design and Implementation of Digital Integrated Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1610",
-            "name": "ENGN 1610"
+            "name": "Image Understanding"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1560",
-            "name": "ENGN 1560"
+            "name": "Applications in Microwave Communications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1565",
-            "name": "ENGN 1565"
+            "name": "Physical and Physics Foundation of Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1595",
-            "name": "ENGN 1595"
+            "name": "Lasers and Nonlinear Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1690",
-            "name": "ENGN 1690"
+            "name": "Photonics Devices and Sensors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1790",
-            "name": "ENGN 1790"
+            "name": "Quantum Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931A",
-            "name": "ENGN 1931A"
+            "name": "Photovoltaics Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931I",
-            "name": "ENGN 1931I"
+            "name": "Design of Robotic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1450",
-            "name": "ENGN 1450"
+            "name": "Properties and Processing of Electronic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1970F",
-            "name": "PHYS 1970F"
+            "name": "Quantum Information"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         }
       ],
@@ -1343,7 +1344,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -1355,7 +1356,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -1367,7 +1368,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -1379,7 +1380,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -1391,7 +1392,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -1403,7 +1404,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -1415,7 +1416,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -1427,7 +1428,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -1439,7 +1440,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -1451,7 +1452,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -1463,7 +1464,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -1475,7 +1476,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -1487,7 +1488,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -1499,7 +1500,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -1511,7 +1512,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -1523,7 +1524,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -1535,7 +1536,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1547,7 +1548,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -1559,7 +1560,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1571,7 +1572,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1583,7 +1584,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1595,7 +1596,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -1607,7 +1608,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -1619,7 +1620,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus1"
                 }
               ],
               "count": 1,
@@ -1631,7 +1632,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -1643,7 +1644,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -1655,7 +1656,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -1667,7 +1668,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science2"
                 }
               ],
               "count": 1,
@@ -1679,7 +1680,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -1691,7 +1692,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1703,7 +1704,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1715,7 +1716,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -1727,7 +1728,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -1747,7 +1748,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": 1,
@@ -1759,7 +1760,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": 1,
@@ -1771,7 +1772,7 @@
               "courses": [
                 {
                   "code": "ENGN 1630",
-                  "name": "ENGN 1630"
+                  "name": "Digital Electronics Systems Design"
                 }
               ],
               "count": 1,
@@ -1783,7 +1784,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter3"
                 }
               ],
               "count": 1,
@@ -1795,7 +1796,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -1805,7 +1806,7 @@
           "notes": []
         },
         {
-          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups: 3",
+          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -1822,7 +1823,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -1834,7 +1835,7 @@
               "courses": [
                 {
                   "code": "ENGN 1580",
-                  "name": "ENGN 1580"
+                  "name": "Communication Systems"
                 }
               ],
               "count": null,
@@ -1846,7 +1847,7 @@
               "courses": [
                 {
                   "code": "ENGN 1590",
-                  "name": "ENGN 1590"
+                  "name": "Semiconductor Devices"
                 }
               ],
               "count": null,
@@ -1858,7 +1859,7 @@
               "courses": [
                 {
                   "code": "ENGN 1600",
-                  "name": "ENGN 1600"
+                  "name": "Design and Implementation of Digital Integrated Circuits"
                 }
               ],
               "count": null,
@@ -1870,7 +1871,7 @@
               "courses": [
                 {
                   "code": "ENGN 1610",
-                  "name": "ENGN 1610"
+                  "name": "Image Understanding"
                 }
               ],
               "count": null,
@@ -1882,7 +1883,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -1892,7 +1893,7 @@
           "notes": []
         },
         {
-          "name": "Up to two other Electrical Engineering courses 4",
+          "name": "Up to two other Electrical Engineering courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1902,7 +1903,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -1914,7 +1915,7 @@
               "courses": [
                 {
                   "code": "ENGN 1560",
-                  "name": "ENGN 1560"
+                  "name": "Applications in Microwave Communications"
                 }
               ],
               "count": null,
@@ -1926,7 +1927,7 @@
               "courses": [
                 {
                   "code": "ENGN 1565",
-                  "name": "ENGN 1565"
+                  "name": "Physical and Physics Foundation of Computing"
                 }
               ],
               "count": null,
@@ -1938,7 +1939,7 @@
               "courses": [
                 {
                   "code": "ENGN 1595",
-                  "name": "ENGN 1595"
+                  "name": "Lasers and Nonlinear Optics"
                 }
               ],
               "count": null,
@@ -1950,7 +1951,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -1962,7 +1963,7 @@
               "courses": [
                 {
                   "code": "ENGN 1690",
-                  "name": "ENGN 1690"
+                  "name": "Photonics Devices and Sensors"
                 }
               ],
               "count": null,
@@ -1974,7 +1975,7 @@
               "courses": [
                 {
                   "code": "ENGN 1790",
-                  "name": "ENGN 1790"
+                  "name": "Quantum Optics"
                 }
               ],
               "count": null,
@@ -1986,7 +1987,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -1998,7 +1999,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931A",
-                  "name": "ENGN 1931A"
+                  "name": "Photovoltaics Engineering"
                 }
               ],
               "count": null,
@@ -2010,7 +2011,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -2022,7 +2023,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931I",
-                  "name": "ENGN 1931I"
+                  "name": "Design of Robotic Systems"
                 }
               ],
               "count": null,
@@ -2034,7 +2035,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -2046,7 +2047,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -2056,7 +2057,7 @@
           "notes": []
         },
         {
-          "name": "Up to one interdisciplinary engineering science course: 6",
+          "name": "Up to one interdisciplinary engineering science course:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2066,7 +2067,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2078,7 +2079,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -2090,7 +2091,7 @@
               "courses": [
                 {
                   "code": "ENGN 1450",
-                  "name": "ENGN 1450"
+                  "name": "Properties and Processing of Electronic Materials"
                 }
               ],
               "count": null,
@@ -2102,7 +2103,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -2114,7 +2115,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -2126,7 +2127,7 @@
               "courses": [
                 {
                   "code": "PHYS 1970F",
-                  "name": "PHYS 1970F"
+                  "name": "Quantum Information"
                 }
               ],
               "count": null,
@@ -2136,7 +2137,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design: At least one course from the following: 7 1",
+          "name": "4. Capstone Design: At least one course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2146,7 +2147,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -2158,7 +2159,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -2170,7 +2171,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -2192,462 +2193,462 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1630",
-            "name": "ENGN 1630"
+            "name": "Digital Electronics Systems Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1580",
-            "name": "ENGN 1580"
+            "name": "Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1590",
-            "name": "ENGN 1590"
+            "name": "Semiconductor Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1600",
-            "name": "ENGN 1600"
+            "name": "Design and Implementation of Digital Integrated Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1610",
-            "name": "ENGN 1610"
+            "name": "Image Understanding"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1560",
-            "name": "ENGN 1560"
+            "name": "Applications in Microwave Communications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1565",
-            "name": "ENGN 1565"
+            "name": "Physical and Physics Foundation of Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1595",
-            "name": "ENGN 1595"
+            "name": "Lasers and Nonlinear Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1690",
-            "name": "ENGN 1690"
+            "name": "Photonics Devices and Sensors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1790",
-            "name": "ENGN 1790"
+            "name": "Quantum Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931A",
-            "name": "ENGN 1931A"
+            "name": "Photovoltaics Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931I",
-            "name": "ENGN 1931I"
+            "name": "Design of Robotic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1450",
-            "name": "ENGN 1450"
+            "name": "Properties and Processing of Electronic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1970F",
-            "name": "PHYS 1970F"
+            "name": "Quantum Information"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         }
       ],
@@ -2668,7 +2669,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -2680,7 +2681,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -2692,7 +2693,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -2704,7 +2705,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -2716,7 +2717,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2728,7 +2729,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -2740,7 +2741,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -2752,7 +2753,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -2764,7 +2765,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -2776,7 +2777,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -2788,7 +2789,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -2800,7 +2801,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -2812,7 +2813,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -2824,7 +2825,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -2836,7 +2837,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -2848,7 +2849,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -2860,7 +2861,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2872,7 +2873,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2884,7 +2885,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2896,7 +2897,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -2908,7 +2909,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2920,7 +2921,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -2932,7 +2933,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -2944,7 +2945,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus1"
                 }
               ],
               "count": 1,
@@ -2956,7 +2957,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -2968,7 +2969,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -2980,7 +2981,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -2992,7 +2993,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science2"
                 }
               ],
               "count": 1,
@@ -3004,7 +3005,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -3016,7 +3017,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -3028,7 +3029,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -3040,7 +3041,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -3052,7 +3053,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -3072,7 +3073,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": 1,
@@ -3084,7 +3085,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": 1,
@@ -3096,7 +3097,7 @@
               "courses": [
                 {
                   "code": "ENGN 1630",
-                  "name": "ENGN 1630"
+                  "name": "Digital Electronics Systems Design"
                 }
               ],
               "count": 1,
@@ -3108,7 +3109,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter3"
                 }
               ],
               "count": 1,
@@ -3120,7 +3121,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -3130,7 +3131,7 @@
           "notes": []
         },
         {
-          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups: 3",
+          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -3147,7 +3148,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -3159,7 +3160,7 @@
               "courses": [
                 {
                   "code": "ENGN 1580",
-                  "name": "ENGN 1580"
+                  "name": "Communication Systems"
                 }
               ],
               "count": null,
@@ -3171,7 +3172,7 @@
               "courses": [
                 {
                   "code": "ENGN 1590",
-                  "name": "ENGN 1590"
+                  "name": "Semiconductor Devices"
                 }
               ],
               "count": null,
@@ -3183,7 +3184,7 @@
               "courses": [
                 {
                   "code": "ENGN 1600",
-                  "name": "ENGN 1600"
+                  "name": "Design and Implementation of Digital Integrated Circuits"
                 }
               ],
               "count": null,
@@ -3195,7 +3196,7 @@
               "courses": [
                 {
                   "code": "ENGN 1610",
-                  "name": "ENGN 1610"
+                  "name": "Image Understanding"
                 }
               ],
               "count": null,
@@ -3207,7 +3208,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -3217,7 +3218,7 @@
           "notes": []
         },
         {
-          "name": "Up to two other Electrical Engineering courses 4",
+          "name": "Up to two other Electrical Engineering courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -3227,7 +3228,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -3239,7 +3240,7 @@
               "courses": [
                 {
                   "code": "ENGN 1560",
-                  "name": "ENGN 1560"
+                  "name": "Applications in Microwave Communications"
                 }
               ],
               "count": null,
@@ -3251,7 +3252,7 @@
               "courses": [
                 {
                   "code": "ENGN 1565",
-                  "name": "ENGN 1565"
+                  "name": "Physical and Physics Foundation of Computing"
                 }
               ],
               "count": null,
@@ -3263,7 +3264,7 @@
               "courses": [
                 {
                   "code": "ENGN 1595",
-                  "name": "ENGN 1595"
+                  "name": "Lasers and Nonlinear Optics"
                 }
               ],
               "count": null,
@@ -3275,7 +3276,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -3287,7 +3288,7 @@
               "courses": [
                 {
                   "code": "ENGN 1690",
-                  "name": "ENGN 1690"
+                  "name": "Photonics Devices and Sensors"
                 }
               ],
               "count": null,
@@ -3299,7 +3300,7 @@
               "courses": [
                 {
                   "code": "ENGN 1790",
-                  "name": "ENGN 1790"
+                  "name": "Quantum Optics"
                 }
               ],
               "count": null,
@@ -3311,7 +3312,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -3323,7 +3324,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931A",
-                  "name": "ENGN 1931A"
+                  "name": "Photovoltaics Engineering"
                 }
               ],
               "count": null,
@@ -3335,7 +3336,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -3347,7 +3348,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931I",
-                  "name": "ENGN 1931I"
+                  "name": "Design of Robotic Systems"
                 }
               ],
               "count": null,
@@ -3359,7 +3360,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -3371,7 +3372,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -3381,7 +3382,7 @@
           "notes": []
         },
         {
-          "name": "Up to one interdisciplinary engineering science course: 6",
+          "name": "Up to one interdisciplinary engineering science course:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -3391,7 +3392,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -3403,7 +3404,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -3415,7 +3416,7 @@
               "courses": [
                 {
                   "code": "ENGN 1450",
-                  "name": "ENGN 1450"
+                  "name": "Properties and Processing of Electronic Materials"
                 }
               ],
               "count": null,
@@ -3427,7 +3428,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -3439,7 +3440,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -3451,7 +3452,7 @@
               "courses": [
                 {
                   "code": "PHYS 1970F",
-                  "name": "PHYS 1970F"
+                  "name": "Quantum Information"
                 }
               ],
               "count": null,
@@ -3461,7 +3462,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design: At least one course from the following: 7 1",
+          "name": "4. Capstone Design: At least one course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -3471,7 +3472,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -3483,7 +3484,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -3495,7 +3496,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -3517,462 +3518,462 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1630",
-            "name": "ENGN 1630"
+            "name": "Digital Electronics Systems Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1580",
-            "name": "ENGN 1580"
+            "name": "Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1590",
-            "name": "ENGN 1590"
+            "name": "Semiconductor Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1600",
-            "name": "ENGN 1600"
+            "name": "Design and Implementation of Digital Integrated Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1610",
-            "name": "ENGN 1610"
+            "name": "Image Understanding"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1560",
-            "name": "ENGN 1560"
+            "name": "Applications in Microwave Communications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1565",
-            "name": "ENGN 1565"
+            "name": "Physical and Physics Foundation of Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1595",
-            "name": "ENGN 1595"
+            "name": "Lasers and Nonlinear Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1690",
-            "name": "ENGN 1690"
+            "name": "Photonics Devices and Sensors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1790",
-            "name": "ENGN 1790"
+            "name": "Quantum Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931A",
-            "name": "ENGN 1931A"
+            "name": "Photovoltaics Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931I",
-            "name": "ENGN 1931I"
+            "name": "Design of Robotic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1450",
-            "name": "ENGN 1450"
+            "name": "Properties and Processing of Electronic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1970F",
-            "name": "PHYS 1970F"
+            "name": "Quantum Information"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         }
       ],
@@ -3993,7 +3994,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -4005,7 +4006,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -4017,7 +4018,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -4029,7 +4030,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -4041,7 +4042,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -4053,7 +4054,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -4065,7 +4066,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -4077,7 +4078,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -4089,7 +4090,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -4101,7 +4102,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -4113,7 +4114,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -4125,7 +4126,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -4137,7 +4138,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -4149,7 +4150,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -4161,7 +4162,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -4173,7 +4174,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -4185,7 +4186,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -4197,7 +4198,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -4209,7 +4210,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -4221,7 +4222,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -4233,7 +4234,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -4245,7 +4246,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -4257,7 +4258,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -4269,7 +4270,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus1"
                 }
               ],
               "count": 1,
@@ -4281,7 +4282,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -4293,7 +4294,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -4305,7 +4306,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -4317,7 +4318,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science2"
                 }
               ],
               "count": 1,
@@ -4329,7 +4330,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -4341,7 +4342,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -4353,7 +4354,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -4365,7 +4366,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -4377,7 +4378,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -4397,7 +4398,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": 1,
@@ -4409,7 +4410,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": 1,
@@ -4421,7 +4422,7 @@
               "courses": [
                 {
                   "code": "ENGN 1630",
-                  "name": "ENGN 1630"
+                  "name": "Digital Electronics Systems Design"
                 }
               ],
               "count": 1,
@@ -4433,7 +4434,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter3"
                 }
               ],
               "count": 1,
@@ -4445,7 +4446,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -4455,7 +4456,7 @@
           "notes": []
         },
         {
-          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups: 3",
+          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -4472,7 +4473,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -4484,7 +4485,7 @@
               "courses": [
                 {
                   "code": "ENGN 1580",
-                  "name": "ENGN 1580"
+                  "name": "Communication Systems"
                 }
               ],
               "count": null,
@@ -4496,7 +4497,7 @@
               "courses": [
                 {
                   "code": "ENGN 1590",
-                  "name": "ENGN 1590"
+                  "name": "Semiconductor Devices"
                 }
               ],
               "count": null,
@@ -4508,7 +4509,7 @@
               "courses": [
                 {
                   "code": "ENGN 1600",
-                  "name": "ENGN 1600"
+                  "name": "Design and Implementation of Digital Integrated Circuits"
                 }
               ],
               "count": null,
@@ -4520,7 +4521,7 @@
               "courses": [
                 {
                   "code": "ENGN 1610",
-                  "name": "ENGN 1610"
+                  "name": "Image Understanding"
                 }
               ],
               "count": null,
@@ -4532,7 +4533,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -4542,7 +4543,7 @@
           "notes": []
         },
         {
-          "name": "Up to two other Electrical Engineering courses 4",
+          "name": "Up to two other Electrical Engineering courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -4552,7 +4553,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -4564,7 +4565,7 @@
               "courses": [
                 {
                   "code": "ENGN 1560",
-                  "name": "ENGN 1560"
+                  "name": "Applications in Microwave Communications"
                 }
               ],
               "count": null,
@@ -4576,7 +4577,7 @@
               "courses": [
                 {
                   "code": "ENGN 1565",
-                  "name": "ENGN 1565"
+                  "name": "Physical and Physics Foundation of Computing"
                 }
               ],
               "count": null,
@@ -4588,7 +4589,7 @@
               "courses": [
                 {
                   "code": "ENGN 1595",
-                  "name": "ENGN 1595"
+                  "name": "Lasers and Nonlinear Optics"
                 }
               ],
               "count": null,
@@ -4600,7 +4601,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -4612,7 +4613,7 @@
               "courses": [
                 {
                   "code": "ENGN 1690",
-                  "name": "ENGN 1690"
+                  "name": "Photonics Devices and Sensors"
                 }
               ],
               "count": null,
@@ -4624,7 +4625,7 @@
               "courses": [
                 {
                   "code": "ENGN 1790",
-                  "name": "ENGN 1790"
+                  "name": "Quantum Optics"
                 }
               ],
               "count": null,
@@ -4636,7 +4637,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -4648,7 +4649,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931A",
-                  "name": "ENGN 1931A"
+                  "name": "Photovoltaics Engineering"
                 }
               ],
               "count": null,
@@ -4660,7 +4661,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -4672,7 +4673,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931I",
-                  "name": "ENGN 1931I"
+                  "name": "Design of Robotic Systems"
                 }
               ],
               "count": null,
@@ -4684,7 +4685,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -4696,7 +4697,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -4706,7 +4707,7 @@
           "notes": []
         },
         {
-          "name": "Up to one interdisciplinary engineering science course: 6",
+          "name": "Up to one interdisciplinary engineering science course:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -4716,7 +4717,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -4728,7 +4729,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -4740,7 +4741,7 @@
               "courses": [
                 {
                   "code": "ENGN 1450",
-                  "name": "ENGN 1450"
+                  "name": "Properties and Processing of Electronic Materials"
                 }
               ],
               "count": null,
@@ -4752,7 +4753,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -4764,7 +4765,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -4776,7 +4777,7 @@
               "courses": [
                 {
                   "code": "PHYS 1970F",
-                  "name": "PHYS 1970F"
+                  "name": "Quantum Information"
                 }
               ],
               "count": null,
@@ -4786,7 +4787,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design: At least one course from the following: 7 1",
+          "name": "4. Capstone Design: At least one course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -4796,7 +4797,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -4808,7 +4809,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -4820,7 +4821,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -4842,462 +4843,462 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1630",
-            "name": "ENGN 1630"
+            "name": "Digital Electronics Systems Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1580",
-            "name": "ENGN 1580"
+            "name": "Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1590",
-            "name": "ENGN 1590"
+            "name": "Semiconductor Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1600",
-            "name": "ENGN 1600"
+            "name": "Design and Implementation of Digital Integrated Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1610",
-            "name": "ENGN 1610"
+            "name": "Image Understanding"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1560",
-            "name": "ENGN 1560"
+            "name": "Applications in Microwave Communications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1565",
-            "name": "ENGN 1565"
+            "name": "Physical and Physics Foundation of Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1595",
-            "name": "ENGN 1595"
+            "name": "Lasers and Nonlinear Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1690",
-            "name": "ENGN 1690"
+            "name": "Photonics Devices and Sensors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1790",
-            "name": "ENGN 1790"
+            "name": "Quantum Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931A",
-            "name": "ENGN 1931A"
+            "name": "Photovoltaics Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931I",
-            "name": "ENGN 1931I"
+            "name": "Design of Robotic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1450",
-            "name": "ENGN 1450"
+            "name": "Properties and Processing of Electronic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1970F",
-            "name": "PHYS 1970F"
+            "name": "Quantum Information"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         }
       ],
@@ -5318,7 +5319,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -5330,7 +5331,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -5342,7 +5343,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -5354,7 +5355,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -5366,7 +5367,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -5378,7 +5379,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -5390,7 +5391,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -5402,7 +5403,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -5414,7 +5415,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -5426,7 +5427,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -5438,7 +5439,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -5450,7 +5451,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -5462,7 +5463,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -5474,7 +5475,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -5486,7 +5487,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -5498,7 +5499,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -5510,7 +5511,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -5522,7 +5523,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -5534,7 +5535,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -5546,7 +5547,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -5558,7 +5559,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -5570,7 +5571,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -5582,7 +5583,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -5594,7 +5595,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus1"
                 }
               ],
               "count": 1,
@@ -5606,7 +5607,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -5618,7 +5619,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -5630,7 +5631,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -5642,7 +5643,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science2"
                 }
               ],
               "count": 1,
@@ -5654,7 +5655,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -5666,7 +5667,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -5678,7 +5679,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -5690,7 +5691,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -5702,7 +5703,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -5722,7 +5723,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": 1,
@@ -5734,7 +5735,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": 1,
@@ -5746,7 +5747,7 @@
               "courses": [
                 {
                   "code": "ENGN 1630",
-                  "name": "ENGN 1630"
+                  "name": "Digital Electronics Systems Design"
                 }
               ],
               "count": 1,
@@ -5758,7 +5759,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter3"
                 }
               ],
               "count": 1,
@@ -5770,7 +5771,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -5780,7 +5781,7 @@
           "notes": []
         },
         {
-          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups: 3",
+          "name": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -5797,7 +5798,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -5809,7 +5810,7 @@
               "courses": [
                 {
                   "code": "ENGN 1580",
-                  "name": "ENGN 1580"
+                  "name": "Communication Systems"
                 }
               ],
               "count": null,
@@ -5821,7 +5822,7 @@
               "courses": [
                 {
                   "code": "ENGN 1590",
-                  "name": "ENGN 1590"
+                  "name": "Semiconductor Devices"
                 }
               ],
               "count": null,
@@ -5833,7 +5834,7 @@
               "courses": [
                 {
                   "code": "ENGN 1600",
-                  "name": "ENGN 1600"
+                  "name": "Design and Implementation of Digital Integrated Circuits"
                 }
               ],
               "count": null,
@@ -5845,7 +5846,7 @@
               "courses": [
                 {
                   "code": "ENGN 1610",
-                  "name": "ENGN 1610"
+                  "name": "Image Understanding"
                 }
               ],
               "count": null,
@@ -5857,7 +5858,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -5867,7 +5868,7 @@
           "notes": []
         },
         {
-          "name": "Up to two other Electrical Engineering courses 4",
+          "name": "Up to two other Electrical Engineering courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -5877,7 +5878,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -5889,7 +5890,7 @@
               "courses": [
                 {
                   "code": "ENGN 1560",
-                  "name": "ENGN 1560"
+                  "name": "Applications in Microwave Communications"
                 }
               ],
               "count": null,
@@ -5901,7 +5902,7 @@
               "courses": [
                 {
                   "code": "ENGN 1565",
-                  "name": "ENGN 1565"
+                  "name": "Physical and Physics Foundation of Computing"
                 }
               ],
               "count": null,
@@ -5913,7 +5914,7 @@
               "courses": [
                 {
                   "code": "ENGN 1595",
-                  "name": "ENGN 1595"
+                  "name": "Lasers and Nonlinear Optics"
                 }
               ],
               "count": null,
@@ -5925,7 +5926,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -5937,7 +5938,7 @@
               "courses": [
                 {
                   "code": "ENGN 1690",
-                  "name": "ENGN 1690"
+                  "name": "Photonics Devices and Sensors"
                 }
               ],
               "count": null,
@@ -5949,7 +5950,7 @@
               "courses": [
                 {
                   "code": "ENGN 1790",
-                  "name": "ENGN 1790"
+                  "name": "Quantum Optics"
                 }
               ],
               "count": null,
@@ -5961,7 +5962,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -5973,7 +5974,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931A",
-                  "name": "ENGN 1931A"
+                  "name": "Photovoltaics Engineering"
                 }
               ],
               "count": null,
@@ -5985,7 +5986,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -5997,7 +5998,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931I",
-                  "name": "ENGN 1931I"
+                  "name": "Design of Robotic Systems"
                 }
               ],
               "count": null,
@@ -6009,7 +6010,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -6021,7 +6022,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -6031,7 +6032,7 @@
           "notes": []
         },
         {
-          "name": "Up to one interdisciplinary engineering science course: 6",
+          "name": "Up to one interdisciplinary engineering science course:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -6041,7 +6042,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -6053,7 +6054,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -6065,7 +6066,7 @@
               "courses": [
                 {
                   "code": "ENGN 1450",
-                  "name": "ENGN 1450"
+                  "name": "Properties and Processing of Electronic Materials"
                 }
               ],
               "count": null,
@@ -6077,7 +6078,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -6089,7 +6090,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -6101,7 +6102,7 @@
               "courses": [
                 {
                   "code": "PHYS 1970F",
-                  "name": "PHYS 1970F"
+                  "name": "Quantum Information"
                 }
               ],
               "count": null,
@@ -6111,7 +6112,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design: At least one course from the following: 7 1",
+          "name": "4. Capstone Design: At least one course from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -6121,7 +6122,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design5"
                 }
               ],
               "count": null,
@@ -6133,7 +6134,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -6145,7 +6146,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -6167,462 +6168,462 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1630",
-            "name": "ENGN 1630"
+            "name": "Digital Electronics Systems Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1580",
-            "name": "ENGN 1580"
+            "name": "Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1590",
-            "name": "ENGN 1590"
+            "name": "Semiconductor Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1600",
-            "name": "ENGN 1600"
+            "name": "Design and Implementation of Digital Integrated Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1610",
-            "name": "ENGN 1610"
+            "name": "Image Understanding"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1560",
-            "name": "ENGN 1560"
+            "name": "Applications in Microwave Communications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1565",
-            "name": "ENGN 1565"
+            "name": "Physical and Physics Foundation of Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1595",
-            "name": "ENGN 1595"
+            "name": "Lasers and Nonlinear Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1690",
-            "name": "ENGN 1690"
+            "name": "Photonics Devices and Sensors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1790",
-            "name": "ENGN 1790"
+            "name": "Quantum Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931A",
-            "name": "ENGN 1931A"
+            "name": "Photovoltaics Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931I",
-            "name": "ENGN 1931I"
+            "name": "Design of Robotic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1450",
-            "name": "ENGN 1450"
+            "name": "Properties and Processing of Electronic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1970F",
-            "name": "PHYS 1970F"
+            "name": "Quantum Information"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design5"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         }
       ],
@@ -6700,207 +6701,207 @@
     },
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0520",
-      "name": "ENGN 0520"
+      "name": "Electrical Circuits and Signals"
     },
     {
       "code": "ENGN 0720",
-      "name": "ENGN 0720"
+      "name": "Thermodynamics"
     },
     {
       "code": "ENGN 0310",
-      "name": "ENGN 0310"
+      "name": "Mechanics of Solids and Structures"
     },
     {
       "code": "ENGN 0500",
-      "name": "ENGN 0500"
+      "name": "Digital Computing Systems"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "APMA 1710",
-      "name": "APMA 1710"
+      "name": "Information Theory"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science2"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "ENGN 1931Z",
-      "name": "ENGN 1931Z"
+      "name": "Interfaces, Information and Automation"
     },
     {
       "code": "ENGN 1570",
-      "name": "ENGN 1570"
+      "name": "Linear System Analysis"
     },
     {
       "code": "ENGN 1620",
-      "name": "ENGN 1620"
+      "name": "Analysis and Design of Electronic Circuits"
     },
     {
       "code": "ENGN 1630",
-      "name": "ENGN 1630"
+      "name": "Digital Electronics Systems Design"
     },
     {
       "code": "PHYS 0790",
-      "name": "PHYS 0790"
+      "name": "Physics of Matter3"
     },
     {
       "code": "PHYS 1410",
-      "name": "PHYS 1410"
+      "name": "Quantum Mechanics A"
     },
     {
       "code": "ENGN 1230",
-      "name": "ENGN 1230"
+      "name": "Instrumentation Design"
     },
     {
       "code": "ENGN 1580",
-      "name": "ENGN 1580"
+      "name": "Communication Systems"
     },
     {
       "code": "ENGN 1590",
-      "name": "ENGN 1590"
+      "name": "Semiconductor Devices"
     },
     {
       "code": "ENGN 1600",
-      "name": "ENGN 1600"
+      "name": "Design and Implementation of Digital Integrated Circuits"
     },
     {
       "code": "ENGN 1610",
-      "name": "ENGN 1610"
+      "name": "Image Understanding"
     },
     {
       "code": "ENGN 1640",
-      "name": "ENGN 1640"
+      "name": "Design of Computing Systems"
     },
     {
       "code": "ENGN 1220",
-      "name": "ENGN 1220"
+      "name": "Neuroengineering"
     },
     {
       "code": "ENGN 1560",
-      "name": "ENGN 1560"
+      "name": "Applications in Microwave Communications"
     },
     {
       "code": "ENGN 1565",
-      "name": "ENGN 1565"
+      "name": "Physical and Physics Foundation of Computing"
     },
     {
       "code": "ENGN 1595",
-      "name": "ENGN 1595"
+      "name": "Lasers and Nonlinear Optics"
     },
     {
       "code": "ENGN 1650",
-      "name": "ENGN 1650"
+      "name": "Embedded Microprocessor Design5"
     },
     {
       "code": "ENGN 1690",
-      "name": "ENGN 1690"
+      "name": "Photonics Devices and Sensors"
     },
     {
       "code": "ENGN 1790",
-      "name": "ENGN 1790"
+      "name": "Quantum Optics"
     },
     {
       "code": "ENGN 1225",
-      "name": "ENGN 1225"
+      "name": "Biomedical Optics"
     },
     {
       "code": "ENGN 1931A",
-      "name": "ENGN 1931A"
+      "name": "Photovoltaics Engineering"
     },
     {
       "code": "ENGN 1931F",
-      "name": "ENGN 1931F"
+      "name": "Introduction to Power Engineering"
     },
     {
       "code": "ENGN 1931I",
-      "name": "ENGN 1931I"
+      "name": "Design of Robotic Systems"
     },
     {
       "code": "ENGN 1931Y",
-      "name": "ENGN 1931Y"
+      "name": "Control Systems Engineering"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "ENGN 1370",
-      "name": "ENGN 1370"
+      "name": "Advanced Engineering Mechanics"
     },
     {
       "code": "ENGN 1450",
-      "name": "ENGN 1450"
+      "name": "Properties and Processing of Electronic Materials"
     },
     {
       "code": "NEUR 2110",
-      "name": "NEUR 2110"
+      "name": "Statistical Neuroscience"
     },
     {
       "code": "PHYS 1420",
-      "name": "PHYS 1420"
+      "name": "Quantum Mechanics B"
     },
     {
       "code": "PHYS 1970F",
-      "name": "PHYS 1970F"
+      "name": "Quantum Information"
     },
     {
       "code": "ENGN 1000",
-      "name": "ENGN 1000"
+      "name": "Projects in Engineering Design I"
     },
     {
       "code": "ENGN 1001",
-      "name": "ENGN 1001"
+      "name": "Projects in Engineering Design II"
     },
     {
       "code": "ENGN 2500",

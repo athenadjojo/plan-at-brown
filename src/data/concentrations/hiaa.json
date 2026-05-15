@@ -2,13 +2,14 @@
   "concentration": "History of Art and Architecture",
   "slug": "hiaa",
   "url": "https://bulletin.brown.edu/the-college/concentrations/hiaa/",
+  "description": "The concentration in History of Art and Architecture (HIAA) introduces students to the history of art, architecture, and material culture. Students in HIAA explore a wide range of artistic traditions from around the world, and develop the skills necessary to analyze artworks, artifacts, and the built environment dating from the paleolithic to the contemporary. Concentrators are encouraged to develop familiarity with the distinctive periods, regions, sub-fields, and theoretical approaches that collectively inform the discipline, while at the same time developing an individualized program. Concentrators will receive essential training in perceptual, historical, and critical analysis. To complete the concentration, students are expected to take a minimum of ten courses. These include 3 lecture courses that engage three different geographies, relating to Africa, the Americas, Asia, Europe, or a course that engages the Islamic world, or multiple regions; and 2 lecture courses that engage two different periods, from ancient-medieval to early modern, modern-contemporary, or a course that engages multiple periods. In addition to these five lecture courses, students will take three seminar courses to engage in smaller, often thematic conversations. They will identify one elective course that they can choose in HIAA or a course related to the arts in a different department. To conclude their concentration, students will take a HIAA course that they designate as their one-term Capstone or apply to do a two-term Honors thesis.",
   "tracks": [
     {
       "id": "history_of_art_and_architecture_requirements",
       "name": "History of Art and Architecture Requirements",
       "groups": [
         {
-          "name": "3 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage three different geographies (Africa, Americas, Asia, Europe, the Islamic World, Multiple Regions)   2 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage two different periods (Ancient-Medieval, Early Modern, Modern-Contemporary, Multiple Periods) 5",
+          "name": "3 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage three different geographies (Africa, Americas, Asia, Europe, the Islamic World, Multiple Regions)   2 Lecture Courses, numbered HIAA 0001\u2013HIAA 0999. These courses should engage two different periods (Ancient-Medieval, Early Modern, Modern-Contemporary, Multiple Periods)",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -32,7 +33,7 @@
               "courses": [
                 {
                   "code": "HIAA 0022",
-                  "name": "HIAA 0022"
+                  "name": "The Art of Enlightenment"
                 }
               ],
               "count": null,
@@ -44,7 +45,7 @@
               "courses": [
                 {
                   "code": "HIAA 0024",
-                  "name": "HIAA 0024"
+                  "name": "Arts of Asia: Beginnings to 1300"
                 }
               ],
               "count": null,
@@ -56,7 +57,7 @@
               "courses": [
                 {
                   "code": "HIAA 0032",
-                  "name": "HIAA 0032"
+                  "name": "Art and Architecture of the Roman Empire"
                 }
               ],
               "count": null,
@@ -68,7 +69,7 @@
               "courses": [
                 {
                   "code": "HIAA 0322",
-                  "name": "HIAA 0322"
+                  "name": "The Arts of Religion and Ritual in the Ancient World"
                 }
               ],
               "count": null,
@@ -88,7 +89,7 @@
               "courses": [
                 {
                   "code": "HIAA 0063",
-                  "name": "HIAA 0063"
+                  "name": "Food and Art in the Early Modern World"
                 }
               ],
               "count": null,
@@ -100,7 +101,7 @@
               "courses": [
                 {
                   "code": "HIAA 0660",
-                  "name": "HIAA 0660"
+                  "name": "Giotto to Watteau:  Introduction to the Art of Europe from Renaissance to French Revolution"
                 }
               ],
               "count": null,
@@ -120,7 +121,7 @@
               "courses": [
                 {
                   "code": "HIAA 0070",
-                  "name": "HIAA 0070"
+                  "name": "Introduction to American Art: The 19th Century"
                 }
               ],
               "count": null,
@@ -132,7 +133,7 @@
               "courses": [
                 {
                   "code": "HIAA 0072",
-                  "name": "HIAA 0072"
+                  "name": "Introduction to American Art: The Twentieth Century"
                 }
               ],
               "count": null,
@@ -144,7 +145,7 @@
               "courses": [
                 {
                   "code": "HIAA 0075",
-                  "name": "HIAA 0075"
+                  "name": "Introduction to the History of Art: Modern Photography"
                 }
               ],
               "count": null,
@@ -156,7 +157,7 @@
               "courses": [
                 {
                   "code": "HIAA 0077",
-                  "name": "HIAA 0077"
+                  "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
                 }
               ],
               "count": null,
@@ -168,7 +169,7 @@
               "courses": [
                 {
                   "code": "HIAA 0084",
-                  "name": "HIAA 0084"
+                  "name": "Postwar to Postmodernism:  Art Since 1945"
                 }
               ],
               "count": null,
@@ -180,7 +181,7 @@
               "courses": [
                 {
                   "code": "HIAA 0087",
-                  "name": "HIAA 0087"
+                  "name": "Contemporary Art"
                 }
               ],
               "count": null,
@@ -192,7 +193,7 @@
               "courses": [
                 {
                   "code": "HIAA 0089",
-                  "name": "HIAA 0089"
+                  "name": "Contemporary Photography"
                 }
               ],
               "count": null,
@@ -204,7 +205,7 @@
               "courses": [
                 {
                   "code": "HIAA 0090",
-                  "name": "HIAA 0090"
+                  "name": "The Other History of Modern Architecture"
                 }
               ],
               "count": null,
@@ -216,7 +217,7 @@
               "courses": [
                 {
                   "code": "HIAA 0820",
-                  "name": "HIAA 0820"
+                  "name": "Art and Technology from Futurism to Hacktivism"
                 }
               ],
               "count": null,
@@ -228,7 +229,7 @@
               "courses": [
                 {
                   "code": "HIAA 0850",
-                  "name": "HIAA 0850"
+                  "name": "Modern Architecture"
                 }
               ],
               "count": null,
@@ -240,7 +241,7 @@
               "courses": [
                 {
                   "code": "HIAA 0860",
-                  "name": "HIAA 0860"
+                  "name": "Contemporary Architecture"
                 }
               ],
               "count": null,
@@ -252,7 +253,7 @@
               "courses": [
                 {
                   "code": "HIAA 0861",
-                  "name": "HIAA 0861"
+                  "name": "City and Cinema"
                 }
               ],
               "count": null,
@@ -272,7 +273,7 @@
               "courses": [
                 {
                   "code": "HIAA 0023",
-                  "name": "HIAA 0023"
+                  "name": "South Asian Art and Architecture"
                 }
               ],
               "count": null,
@@ -284,7 +285,7 @@
               "courses": [
                 {
                   "code": "HIAA 0010",
-                  "name": "HIAA 0010"
+                  "name": "A Global History of Art and Architecture"
                 }
               ],
               "count": null,
@@ -296,7 +297,7 @@
               "courses": [
                 {
                   "code": "HIAA 0081",
-                  "name": "HIAA 0081"
+                  "name": "Architecture of the House Through Space and Time"
                 }
               ],
               "count": null,
@@ -308,7 +309,7 @@
               "courses": [
                 {
                   "code": "HIAA 0770",
-                  "name": "HIAA 0770"
+                  "name": "Architecture and Urbanism of Africa"
                 }
               ],
               "count": null,
@@ -335,7 +336,7 @@
               "courses": [
                 {
                   "code": "HIAA 0770",
-                  "name": "HIAA 0770"
+                  "name": "Architecture and Urbanism of Africa"
                 }
               ],
               "count": null,
@@ -355,7 +356,7 @@
               "courses": [
                 {
                   "code": "HIAA 0070",
-                  "name": "HIAA 0070"
+                  "name": "Introduction to American Art: The 19th Century"
                 }
               ],
               "count": null,
@@ -367,7 +368,7 @@
               "courses": [
                 {
                   "code": "HIAA 0072",
-                  "name": "HIAA 0072"
+                  "name": "Introduction to American Art: The Twentieth Century"
                 }
               ],
               "count": null,
@@ -379,7 +380,7 @@
               "courses": [
                 {
                   "code": "HIAA 0089",
-                  "name": "HIAA 0089"
+                  "name": "Contemporary Photography"
                 }
               ],
               "count": null,
@@ -399,7 +400,7 @@
               "courses": [
                 {
                   "code": "HIAA 0022",
-                  "name": "HIAA 0022"
+                  "name": "The Art of Enlightenment"
                 }
               ],
               "count": null,
@@ -411,7 +412,7 @@
               "courses": [
                 {
                   "code": "HIAA 0023",
-                  "name": "HIAA 0023"
+                  "name": "South Asian Art and Architecture"
                 }
               ],
               "count": null,
@@ -431,7 +432,7 @@
               "courses": [
                 {
                   "code": "HIAA 0032",
-                  "name": "HIAA 0032"
+                  "name": "Art and Architecture of the Roman Empire"
                 }
               ],
               "count": null,
@@ -443,7 +444,7 @@
               "courses": [
                 {
                   "code": "HIAA 0075",
-                  "name": "HIAA 0075"
+                  "name": "Introduction to the History of Art: Modern Photography"
                 }
               ],
               "count": null,
@@ -455,7 +456,7 @@
               "courses": [
                 {
                   "code": "HIAA 0077",
-                  "name": "HIAA 0077"
+                  "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
                 }
               ],
               "count": null,
@@ -475,7 +476,7 @@
               "courses": [
                 {
                   "code": "HIAA 0041",
-                  "name": "HIAA 0041"
+                  "name": "The Architectures of Islam"
                 }
               ],
               "count": null,
@@ -487,7 +488,7 @@
               "courses": [
                 {
                   "code": "HIAA 0081",
-                  "name": "HIAA 0081"
+                  "name": "Architecture of the House Through Space and Time"
                 }
               ],
               "count": null,
@@ -499,7 +500,7 @@
               "courses": [
                 {
                   "code": "HIAA 0084",
-                  "name": "HIAA 0084"
+                  "name": "Postwar to Postmodernism:  Art Since 1945"
                 }
               ],
               "count": null,
@@ -511,7 +512,7 @@
               "courses": [
                 {
                   "code": "HIAA 0087",
-                  "name": "HIAA 0087"
+                  "name": "Contemporary Art"
                 }
               ],
               "count": null,
@@ -523,7 +524,7 @@
               "courses": [
                 {
                   "code": "HIAA 0090",
-                  "name": "HIAA 0090"
+                  "name": "The Other History of Modern Architecture"
                 }
               ],
               "count": null,
@@ -535,7 +536,7 @@
               "courses": [
                 {
                   "code": "HIAA 0322",
-                  "name": "HIAA 0322"
+                  "name": "The Arts of Religion and Ritual in the Ancient World"
                 }
               ],
               "count": null,
@@ -547,7 +548,7 @@
               "courses": [
                 {
                   "code": "HIAA 0820",
-                  "name": "HIAA 0820"
+                  "name": "Art and Technology from Futurism to Hacktivism"
                 }
               ],
               "count": null,
@@ -559,7 +560,7 @@
               "courses": [
                 {
                   "code": "HIAA 0850",
-                  "name": "HIAA 0850"
+                  "name": "Modern Architecture"
                 }
               ],
               "count": null,
@@ -571,7 +572,7 @@
               "courses": [
                 {
                   "code": "HIAA 0860",
-                  "name": "HIAA 0860"
+                  "name": "Contemporary Architecture"
                 }
               ],
               "count": null,
@@ -595,7 +596,7 @@
               "courses": [
                 {
                   "code": "HIAA 1181",
-                  "name": "HIAA 1181"
+                  "name": "Prefabrication and Architecture"
                 }
               ],
               "count": null,
@@ -607,7 +608,7 @@
               "courses": [
                 {
                   "code": "HIAA 1201",
-                  "name": "HIAA 1201"
+                  "name": "Brushwork: Chinese Painting in Time"
                 }
               ],
               "count": null,
@@ -619,7 +620,7 @@
               "courses": [
                 {
                   "code": "HIAA 1202",
-                  "name": "HIAA 1202"
+                  "name": "Mountains and Waters: Art and Ecology in East Asia"
                 }
               ],
               "count": null,
@@ -631,7 +632,7 @@
               "courses": [
                 {
                   "code": "HIAA 1212",
-                  "name": "HIAA 1212"
+                  "name": "The Pictured Text"
                 }
               ],
               "count": null,
@@ -643,7 +644,7 @@
               "courses": [
                 {
                   "code": "HIAA 1213",
-                  "name": "HIAA 1213"
+                  "name": "The Bureaucracy of Hell: Envisioning Death in East Asian Art"
                 }
               ],
               "count": null,
@@ -655,7 +656,7 @@
               "courses": [
                 {
                   "code": "HIAA 1305",
-                  "name": "HIAA 1305"
+                  "name": "Pre-Columbian Art + Architecture"
                 }
               ],
               "count": null,
@@ -667,7 +668,7 @@
               "courses": [
                 {
                   "code": "HIAA 1307",
-                  "name": "HIAA 1307"
+                  "name": "Politics and Spectacle in the Arts of Ancient Rome"
                 }
               ],
               "count": null,
@@ -679,7 +680,7 @@
               "courses": [
                 {
                   "code": "HIAA 1308",
-                  "name": "HIAA 1308"
+                  "name": "Arts of Memory in Ancient Rome"
                 }
               ],
               "count": null,
@@ -691,7 +692,7 @@
               "courses": [
                 {
                   "code": "HIAA 1620",
-                  "name": "HIAA 1620"
+                  "name": "Arts Between Europe and the World:  1500-1700"
                 }
               ],
               "count": null,
@@ -703,7 +704,7 @@
               "courses": [
                 {
                   "code": "HIAA 1720",
-                  "name": "HIAA 1720"
+                  "name": "The Art of Portraiture: Pre-Histories of the Selfie"
                 }
               ],
               "count": null,
@@ -715,7 +716,7 @@
               "courses": [
                 {
                   "code": "HIAA 1771",
-                  "name": "HIAA 1771"
+                  "name": "Eclectic Arts in the Global 19th Century"
                 }
               ],
               "count": null,
@@ -727,7 +728,7 @@
               "courses": [
                 {
                   "code": "HIAA 1810",
-                  "name": "HIAA 1810"
+                  "name": "Contemporary Art and Activism"
                 }
               ],
               "count": null,
@@ -739,7 +740,7 @@
               "courses": [
                 {
                   "code": "HIAA 1811",
-                  "name": "HIAA 1811"
+                  "name": "Possible Futures:  Art and the Social Network before the Internet (1950-1979)"
                 }
               ],
               "count": null,
@@ -751,7 +752,7 @@
               "courses": [
                 {
                   "code": "HIAA 1820",
-                  "name": "HIAA 1820"
+                  "name": "Abstraction in Theory and Practice"
                 }
               ],
               "count": null,
@@ -763,7 +764,7 @@
               "courses": [
                 {
                   "code": "HIAA 1822",
-                  "name": "HIAA 1822"
+                  "name": "Dada and Surrealism: Anarchy, Exile, Alterity"
                 }
               ],
               "count": null,
@@ -775,7 +776,7 @@
               "courses": [
                 {
                   "code": "HIAA 1850G",
-                  "name": "HIAA 1850G"
+                  "name": "Contemporary American Urbanism: City Design and Planning, 1945-2000"
                 }
               ],
               "count": null,
@@ -787,7 +788,7 @@
               "courses": [
                 {
                   "code": "HIAA 1850H",
-                  "name": "HIAA 1850H"
+                  "name": "Berlin: Architecture, Politics and Memory"
                 }
               ],
               "count": null,
@@ -799,7 +800,7 @@
               "courses": [
                 {
                   "code": "HIAA 1880",
-                  "name": "HIAA 1880"
+                  "name": "Criticality and Modern Art"
                 }
               ],
               "count": null,
@@ -811,7 +812,7 @@
               "courses": [
                 {
                   "code": "HIAA 1888",
-                  "name": "HIAA 1888"
+                  "name": "Exhibition as Medium"
                 }
               ],
               "count": null,
@@ -823,7 +824,7 @@
               "courses": [
                 {
                   "code": "HIAA 1890G",
-                  "name": "HIAA 1890G"
+                  "name": "Contemporary Art of Africa and the Diaspora"
                 }
               ],
               "count": null,
@@ -835,7 +836,7 @@
               "courses": [
                 {
                   "code": "HIAA 1900",
-                  "name": "HIAA 1900"
+                  "name": "Museum Interpretation Practices"
                 }
               ],
               "count": null,
@@ -847,7 +848,7 @@
               "courses": [
                 {
                   "code": "HIAA 1910A",
-                  "name": "HIAA 1910A"
+                  "name": "Providence Architecture"
                 }
               ],
               "count": null,
@@ -859,7 +860,7 @@
               "courses": [
                 {
                   "code": "HIAA 1930",
-                  "name": "HIAA 1930"
+                  "name": "The History and Methods of Art Historical Interpretation"
                 }
               ],
               "count": null,
@@ -871,7 +872,7 @@
               "courses": [
                 {
                   "code": "HIAA 1931",
-                  "name": "HIAA 1931"
+                  "name": "Museums, Histories, Critiques"
                 }
               ],
               "count": null,
@@ -881,7 +882,7 @@
           "notes": []
         },
         {
-          "name": "1 Elective: This can include courses taught in the department, cross-listed courses from other departments, or courses in other departments approved by the concentration advisor. 1 1",
+          "name": "1 Elective: This can include courses taught in the department, cross-listed courses from other departments, or courses in other departments approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -900,280 +901,280 @@
           "type": "required",
           "course": {
             "code": "HIAA 0022",
-            "name": "HIAA 0022"
+            "name": "The Art of Enlightenment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0024",
-            "name": "HIAA 0024"
+            "name": "Arts of Asia: Beginnings to 1300"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0032",
-            "name": "HIAA 0032"
+            "name": "Art and Architecture of the Roman Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0322",
-            "name": "HIAA 0322"
+            "name": "The Arts of Religion and Ritual in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0063",
-            "name": "HIAA 0063"
+            "name": "Food and Art in the Early Modern World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0660",
-            "name": "HIAA 0660"
+            "name": "Giotto to Watteau:  Introduction to the Art of Europe from Renaissance to French Revolution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0070",
-            "name": "HIAA 0070"
+            "name": "Introduction to American Art: The 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0072",
-            "name": "HIAA 0072"
+            "name": "Introduction to American Art: The Twentieth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0075",
-            "name": "HIAA 0075"
+            "name": "Introduction to the History of Art: Modern Photography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0077",
-            "name": "HIAA 0077"
+            "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0084",
-            "name": "HIAA 0084"
+            "name": "Postwar to Postmodernism:  Art Since 1945"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0087",
-            "name": "HIAA 0087"
+            "name": "Contemporary Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0089",
-            "name": "HIAA 0089"
+            "name": "Contemporary Photography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0090",
-            "name": "HIAA 0090"
+            "name": "The Other History of Modern Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0820",
-            "name": "HIAA 0820"
+            "name": "Art and Technology from Futurism to Hacktivism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0850",
-            "name": "HIAA 0850"
+            "name": "Modern Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0860",
-            "name": "HIAA 0860"
+            "name": "Contemporary Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0861",
-            "name": "HIAA 0861"
+            "name": "City and Cinema"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0023",
-            "name": "HIAA 0023"
+            "name": "South Asian Art and Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0010",
-            "name": "HIAA 0010"
+            "name": "A Global History of Art and Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0081",
-            "name": "HIAA 0081"
+            "name": "Architecture of the House Through Space and Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0770",
-            "name": "HIAA 0770"
+            "name": "Architecture and Urbanism of Africa"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0770",
-            "name": "HIAA 0770"
+            "name": "Architecture and Urbanism of Africa"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0070",
-            "name": "HIAA 0070"
+            "name": "Introduction to American Art: The 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0072",
-            "name": "HIAA 0072"
+            "name": "Introduction to American Art: The Twentieth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0089",
-            "name": "HIAA 0089"
+            "name": "Contemporary Photography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0022",
-            "name": "HIAA 0022"
+            "name": "The Art of Enlightenment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0023",
-            "name": "HIAA 0023"
+            "name": "South Asian Art and Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0032",
-            "name": "HIAA 0032"
+            "name": "Art and Architecture of the Roman Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0075",
-            "name": "HIAA 0075"
+            "name": "Introduction to the History of Art: Modern Photography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0077",
-            "name": "HIAA 0077"
+            "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0041",
-            "name": "HIAA 0041"
+            "name": "The Architectures of Islam"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0081",
-            "name": "HIAA 0081"
+            "name": "Architecture of the House Through Space and Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0084",
-            "name": "HIAA 0084"
+            "name": "Postwar to Postmodernism:  Art Since 1945"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0087",
-            "name": "HIAA 0087"
+            "name": "Contemporary Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0090",
-            "name": "HIAA 0090"
+            "name": "The Other History of Modern Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0322",
-            "name": "HIAA 0322"
+            "name": "The Arts of Religion and Ritual in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0820",
-            "name": "HIAA 0820"
+            "name": "Art and Technology from Futurism to Hacktivism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0850",
-            "name": "HIAA 0850"
+            "name": "Modern Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0860",
-            "name": "HIAA 0860"
+            "name": "Contemporary Architecture"
           }
         },
         {
@@ -1187,168 +1188,168 @@
           "type": "required",
           "course": {
             "code": "HIAA 1181",
-            "name": "HIAA 1181"
+            "name": "Prefabrication and Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1201",
-            "name": "HIAA 1201"
+            "name": "Brushwork: Chinese Painting in Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1202",
-            "name": "HIAA 1202"
+            "name": "Mountains and Waters: Art and Ecology in East Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1212",
-            "name": "HIAA 1212"
+            "name": "The Pictured Text"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1213",
-            "name": "HIAA 1213"
+            "name": "The Bureaucracy of Hell: Envisioning Death in East Asian Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1305",
-            "name": "HIAA 1305"
+            "name": "Pre-Columbian Art + Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1307",
-            "name": "HIAA 1307"
+            "name": "Politics and Spectacle in the Arts of Ancient Rome"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1308",
-            "name": "HIAA 1308"
+            "name": "Arts of Memory in Ancient Rome"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1620",
-            "name": "HIAA 1620"
+            "name": "Arts Between Europe and the World:  1500-1700"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1720",
-            "name": "HIAA 1720"
+            "name": "The Art of Portraiture: Pre-Histories of the Selfie"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1771",
-            "name": "HIAA 1771"
+            "name": "Eclectic Arts in the Global 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1810",
-            "name": "HIAA 1810"
+            "name": "Contemporary Art and Activism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1811",
-            "name": "HIAA 1811"
+            "name": "Possible Futures:  Art and the Social Network before the Internet (1950-1979)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1820",
-            "name": "HIAA 1820"
+            "name": "Abstraction in Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1822",
-            "name": "HIAA 1822"
+            "name": "Dada and Surrealism: Anarchy, Exile, Alterity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1850G",
-            "name": "HIAA 1850G"
+            "name": "Contemporary American Urbanism: City Design and Planning, 1945-2000"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1850H",
-            "name": "HIAA 1850H"
+            "name": "Berlin: Architecture, Politics and Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1880",
-            "name": "HIAA 1880"
+            "name": "Criticality and Modern Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1888",
-            "name": "HIAA 1888"
+            "name": "Exhibition as Medium"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1890G",
-            "name": "HIAA 1890G"
+            "name": "Contemporary Art of Africa and the Diaspora"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1900",
-            "name": "HIAA 1900"
+            "name": "Museum Interpretation Practices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1910A",
-            "name": "HIAA 1910A"
+            "name": "Providence Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1930",
-            "name": "HIAA 1930"
+            "name": "The History and Methods of Art Historical Interpretation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1931",
-            "name": "HIAA 1931"
+            "name": "Museums, Histories, Critiques"
           }
         }
       ],
@@ -1358,95 +1359,95 @@
   "all_courses": [
     {
       "code": "HIAA 0022",
-      "name": "HIAA 0022"
+      "name": "The Art of Enlightenment"
     },
     {
       "code": "HIAA 0024",
-      "name": "HIAA 0024"
+      "name": "Arts of Asia: Beginnings to 1300"
     },
     {
       "code": "HIAA 0032",
-      "name": "HIAA 0032"
+      "name": "Art and Architecture of the Roman Empire"
     },
     {
       "code": "HIAA 0322",
-      "name": "HIAA 0322"
+      "name": "The Arts of Religion and Ritual in the Ancient World"
     },
     {
       "code": "HIAA 0063",
-      "name": "HIAA 0063"
+      "name": "Food and Art in the Early Modern World"
     },
     {
       "code": "HIAA 0660",
-      "name": "HIAA 0660"
+      "name": "Giotto to Watteau:  Introduction to the Art of Europe from Renaissance to French Revolution"
     },
     {
       "code": "HIAA 0070",
-      "name": "HIAA 0070"
+      "name": "Introduction to American Art: The 19th Century"
     },
     {
       "code": "HIAA 0072",
-      "name": "HIAA 0072"
+      "name": "Introduction to American Art: The Twentieth Century"
     },
     {
       "code": "HIAA 0075",
-      "name": "HIAA 0075"
+      "name": "Introduction to the History of Art: Modern Photography"
     },
     {
       "code": "HIAA 0077",
-      "name": "HIAA 0077"
+      "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
     },
     {
       "code": "HIAA 0084",
-      "name": "HIAA 0084"
+      "name": "Postwar to Postmodernism:  Art Since 1945"
     },
     {
       "code": "HIAA 0087",
-      "name": "HIAA 0087"
+      "name": "Contemporary Art"
     },
     {
       "code": "HIAA 0089",
-      "name": "HIAA 0089"
+      "name": "Contemporary Photography"
     },
     {
       "code": "HIAA 0090",
-      "name": "HIAA 0090"
+      "name": "The Other History of Modern Architecture"
     },
     {
       "code": "HIAA 0820",
-      "name": "HIAA 0820"
+      "name": "Art and Technology from Futurism to Hacktivism"
     },
     {
       "code": "HIAA 0850",
-      "name": "HIAA 0850"
+      "name": "Modern Architecture"
     },
     {
       "code": "HIAA 0860",
-      "name": "HIAA 0860"
+      "name": "Contemporary Architecture"
     },
     {
       "code": "HIAA 0861",
-      "name": "HIAA 0861"
+      "name": "City and Cinema"
     },
     {
       "code": "HIAA 0023",
-      "name": "HIAA 0023"
+      "name": "South Asian Art and Architecture"
     },
     {
       "code": "HIAA 0010",
-      "name": "HIAA 0010"
+      "name": "A Global History of Art and Architecture"
     },
     {
       "code": "HIAA 0081",
-      "name": "HIAA 0081"
+      "name": "Architecture of the House Through Space and Time"
     },
     {
       "code": "HIAA 0770",
-      "name": "HIAA 0770"
+      "name": "Architecture and Urbanism of Africa"
     },
     {
       "code": "HIAA 0041",
-      "name": "HIAA 0041"
+      "name": "The Architectures of Islam"
     },
     {
       "code": "HIAA 1931",
@@ -1454,95 +1455,95 @@
     },
     {
       "code": "HIAA 1181",
-      "name": "HIAA 1181"
+      "name": "Prefabrication and Architecture"
     },
     {
       "code": "HIAA 1201",
-      "name": "HIAA 1201"
+      "name": "Brushwork: Chinese Painting in Time"
     },
     {
       "code": "HIAA 1202",
-      "name": "HIAA 1202"
+      "name": "Mountains and Waters: Art and Ecology in East Asia"
     },
     {
       "code": "HIAA 1212",
-      "name": "HIAA 1212"
+      "name": "The Pictured Text"
     },
     {
       "code": "HIAA 1213",
-      "name": "HIAA 1213"
+      "name": "The Bureaucracy of Hell: Envisioning Death in East Asian Art"
     },
     {
       "code": "HIAA 1305",
-      "name": "HIAA 1305"
+      "name": "Pre-Columbian Art + Architecture"
     },
     {
       "code": "HIAA 1307",
-      "name": "HIAA 1307"
+      "name": "Politics and Spectacle in the Arts of Ancient Rome"
     },
     {
       "code": "HIAA 1308",
-      "name": "HIAA 1308"
+      "name": "Arts of Memory in Ancient Rome"
     },
     {
       "code": "HIAA 1620",
-      "name": "HIAA 1620"
+      "name": "Arts Between Europe and the World:  1500-1700"
     },
     {
       "code": "HIAA 1720",
-      "name": "HIAA 1720"
+      "name": "The Art of Portraiture: Pre-Histories of the Selfie"
     },
     {
       "code": "HIAA 1771",
-      "name": "HIAA 1771"
+      "name": "Eclectic Arts in the Global 19th Century"
     },
     {
       "code": "HIAA 1810",
-      "name": "HIAA 1810"
+      "name": "Contemporary Art and Activism"
     },
     {
       "code": "HIAA 1811",
-      "name": "HIAA 1811"
+      "name": "Possible Futures:  Art and the Social Network before the Internet (1950-1979)"
     },
     {
       "code": "HIAA 1820",
-      "name": "HIAA 1820"
+      "name": "Abstraction in Theory and Practice"
     },
     {
       "code": "HIAA 1822",
-      "name": "HIAA 1822"
+      "name": "Dada and Surrealism: Anarchy, Exile, Alterity"
     },
     {
       "code": "HIAA 1850G",
-      "name": "HIAA 1850G"
+      "name": "Contemporary American Urbanism: City Design and Planning, 1945-2000"
     },
     {
       "code": "HIAA 1850H",
-      "name": "HIAA 1850H"
+      "name": "Berlin: Architecture, Politics and Memory"
     },
     {
       "code": "HIAA 1880",
-      "name": "HIAA 1880"
+      "name": "Criticality and Modern Art"
     },
     {
       "code": "HIAA 1888",
-      "name": "HIAA 1888"
+      "name": "Exhibition as Medium"
     },
     {
       "code": "HIAA 1890G",
-      "name": "HIAA 1890G"
+      "name": "Contemporary Art of Africa and the Diaspora"
     },
     {
       "code": "HIAA 1900",
-      "name": "HIAA 1900"
+      "name": "Museum Interpretation Practices"
     },
     {
       "code": "HIAA 1910A",
-      "name": "HIAA 1910A"
+      "name": "Providence Architecture"
     },
     {
       "code": "HIAA 1930",
-      "name": "HIAA 1930"
+      "name": "The History and Methods of Art Historical Interpretation"
     },
     {
       "code": "HIAA 1990",

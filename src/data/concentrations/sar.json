@@ -2,6 +2,7 @@
   "concentration": "Social Analysis and Research",
   "slug": "sar",
   "url": "https://bulletin.brown.edu/the-college/concentrations/sar/",
+  "description": "The Sc.B. concentration in Social Analysis and Research provides both a conceptual and a working knowledge of the techniques for data collection and analysis used for social research in academic and non-academic environments. The centerpiece of the concentration is a rigorous and comprehensive collection of courses: (1) that develop an understanding of the principles underlying the processes of data collection and analysis; and (2) that train students in the application of advanced statistical techniques for data description and analysis. The concepts and skills learned in these courses are reinforced through engagement in applied research with Sociology faculty and/or internships with local organizations in the for profit and not-for-profit sectors. Concentrators also take courses that provide grounding in the theoretical approaches to social phenomena that are foundational to social research. Graduates develop an understanding of the concepts and processes that underlie the issues studied by sociologists and the analytic techniques that allow sociologists to understand social relations and individual behavior.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "SOC 1100",
-                  "name": "SOC 1100"
+                  "name": "Introductory Statistics for Social Research"
                 }
               ],
               "count": 1,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "SOC 1020",
-                  "name": "SOC 1020"
+                  "name": "Methods of Social Research"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "SOC 2010",
-                  "name": "SOC 2010"
+                  "name": "Multivariate Statistical Methods I"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "SOC 1010",
-                  "name": "SOC 1010"
+                  "name": "Classical Sociological Theory"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "SOC 1950",
-                  "name": "SOC 1950"
+                  "name": "Senior Seminar"
                 }
               ],
               "count": 1,
@@ -112,14 +113,14 @@
           "notes": []
         },
         {
-          "name": "Three (3) substantive or theory courses (non-methodological courses) in Sociology, two (2) of which must be at the 1000-level or above. 3",
+          "name": "Three (3) substantive or theory courses (non-methodological courses) in Sociology, two (2) of which must be at the 1000-level or above.",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "Three (3)  of the following advanced analysis courses: 3",
+          "name": "Three (3)  of the following advanced analysis courses:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -129,7 +130,7 @@
               "courses": [
                 {
                   "code": "SOC 1117",
-                  "name": "SOC 1117"
+                  "name": "Focus Groups for Market and Social Research"
                 }
               ],
               "count": null,
@@ -141,7 +142,7 @@
               "courses": [
                 {
                   "code": "SOC 1118",
-                  "name": "SOC 1118"
+                  "name": "Context Research for Innovation"
                 }
               ],
               "count": null,
@@ -153,7 +154,7 @@
               "courses": [
                 {
                   "code": "SOC 1120",
-                  "name": "SOC 1120"
+                  "name": "Market and Social Surveys"
                 }
               ],
               "count": null,
@@ -165,7 +166,7 @@
               "courses": [
                 {
                   "code": "SOC 1260",
-                  "name": "SOC 1260"
+                  "name": "Market Research in Public and Private Sectors"
                 }
               ],
               "count": null,
@@ -177,7 +178,7 @@
               "courses": [
                 {
                   "code": "SOC 1340",
-                  "name": "SOC 1340"
+                  "name": "Principles and Methods of Geographic Information Systems"
                 }
               ],
               "count": null,
@@ -189,7 +190,7 @@
               "courses": [
                 {
                   "code": "SOC 1872N",
-                  "name": "SOC 1872N"
+                  "name": "Ethnography in Organizations"
                 }
               ],
               "count": null,
@@ -201,7 +202,7 @@
               "courses": [
                 {
                   "code": "SOC 2020",
-                  "name": "SOC 2020"
+                  "name": "Multivariate Statistical Methods II"
                 }
               ],
               "count": null,
@@ -213,7 +214,7 @@
               "courses": [
                 {
                   "code": "SOC 2070",
-                  "name": "SOC 2070"
+                  "name": "Text as Data for Social Science Research"
                 }
               ],
               "count": null,
@@ -225,7 +226,7 @@
               "courses": [
                 {
                   "code": "SOC 2210",
-                  "name": "SOC 2210"
+                  "name": "Qualitative Methods"
                 }
               ],
               "count": null,
@@ -237,7 +238,7 @@
               "courses": [
                 {
                   "code": "SOC 2230",
-                  "name": "SOC 2230"
+                  "name": "Techniques of Demographic Analysis"
                 }
               ],
               "count": null,
@@ -249,7 +250,7 @@
               "courses": [
                 {
                   "code": "SOC 2240",
-                  "name": "SOC 2240"
+                  "name": "Event History Analysis"
                 }
               ],
               "count": null,
@@ -261,7 +262,7 @@
               "courses": [
                 {
                   "code": "SOC 2250",
-                  "name": "SOC 2250"
+                  "name": "Ethnography: Theory and Practice"
                 }
               ],
               "count": null,
@@ -273,7 +274,7 @@
               "courses": [
                 {
                   "code": "SOC 2260T",
-                  "name": "SOC 2260T"
+                  "name": "Cultural Theory and Methods"
                 }
               ],
               "count": null,
@@ -285,7 +286,7 @@
               "courses": [
                 {
                   "code": "SOC 2610",
-                  "name": "SOC 2610"
+                  "name": "Spatial Thinking in Social Science"
                 }
               ],
               "count": null,
@@ -297,7 +298,7 @@
               "courses": [
                 {
                   "code": "SOC 2612",
-                  "name": "SOC 2612"
+                  "name": "Geographic Information Systems and Spatial Analysis for the Social Sciences"
                 }
               ],
               "count": null,
@@ -309,7 +310,7 @@
               "courses": [
                 {
                   "code": "SOC 2960G",
-                  "name": "SOC 2960G"
+                  "name": "Spatial Data Analysis Techniques in the Social Sciences"
                 }
               ],
               "count": null,
@@ -321,7 +322,7 @@
               "courses": [
                 {
                   "code": "SOC 2960Y",
-                  "name": "SOC 2960Y"
+                  "name": "Causal Analysis"
                 }
               ],
               "count": null,
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "SOC 2961A",
-                  "name": "SOC 2961A"
+                  "name": "Advanced Spatial Data Analysis Techniques in the Social Sciences"
                 }
               ],
               "count": null,
@@ -368,182 +369,182 @@
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1100",
-            "name": "SOC 1100"
+            "name": "Introductory Statistics for Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1020",
-            "name": "SOC 1020"
+            "name": "Methods of Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2010",
-            "name": "SOC 2010"
+            "name": "Multivariate Statistical Methods I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1010",
-            "name": "SOC 1010"
+            "name": "Classical Sociological Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1950",
-            "name": "SOC 1950"
+            "name": "Senior Seminar"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1117",
-            "name": "SOC 1117"
+            "name": "Focus Groups for Market and Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1118",
-            "name": "SOC 1118"
+            "name": "Context Research for Innovation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1120",
-            "name": "SOC 1120"
+            "name": "Market and Social Surveys"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1260",
-            "name": "SOC 1260"
+            "name": "Market Research in Public and Private Sectors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1340",
-            "name": "SOC 1340"
+            "name": "Principles and Methods of Geographic Information Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1872N",
-            "name": "SOC 1872N"
+            "name": "Ethnography in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2020",
-            "name": "SOC 2020"
+            "name": "Multivariate Statistical Methods II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2070",
-            "name": "SOC 2070"
+            "name": "Text as Data for Social Science Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2210",
-            "name": "SOC 2210"
+            "name": "Qualitative Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2230",
-            "name": "SOC 2230"
+            "name": "Techniques of Demographic Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2240",
-            "name": "SOC 2240"
+            "name": "Event History Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2250",
-            "name": "SOC 2250"
+            "name": "Ethnography: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2260T",
-            "name": "SOC 2260T"
+            "name": "Cultural Theory and Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2610",
-            "name": "SOC 2610"
+            "name": "Spatial Thinking in Social Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2612",
-            "name": "SOC 2612"
+            "name": "Geographic Information Systems and Spatial Analysis for the Social Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2960G",
-            "name": "SOC 2960G"
+            "name": "Spatial Data Analysis Techniques in the Social Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2960Y",
-            "name": "SOC 2960Y"
+            "name": "Causal Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2961A",
-            "name": "SOC 2961A"
+            "name": "Advanced Spatial Data Analysis Techniques in the Social Sciences"
           }
         },
         {
@@ -571,7 +572,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I"
                 }
               ],
               "count": 1,
@@ -583,7 +584,7 @@
               "courses": [
                 {
                   "code": "SOC 1010",
-                  "name": "SOC 1010"
+                  "name": "Classical Sociological Theory"
                 }
               ],
               "count": 1,
@@ -595,7 +596,7 @@
               "courses": [
                 {
                   "code": "SOC 1020",
-                  "name": "SOC 1020"
+                  "name": "Methods of Social Research"
                 }
               ],
               "count": 1,
@@ -607,7 +608,7 @@
               "courses": [
                 {
                   "code": "SOC 1100",
-                  "name": "SOC 1100"
+                  "name": "Introductory Statistics for Social Research"
                 }
               ],
               "count": 1,
@@ -619,7 +620,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -631,7 +632,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": null,
@@ -643,7 +644,7 @@
               "courses": [
                 {
                   "code": "SOC 1950",
-                  "name": "SOC 1950"
+                  "name": "Senior Seminar"
                 }
               ],
               "count": 1,
@@ -655,7 +656,7 @@
               "courses": [
                 {
                   "code": "SOC 2010",
-                  "name": "SOC 2010"
+                  "name": "Multivariate Statistical Methods I"
                 }
               ],
               "count": 1,
@@ -665,7 +666,7 @@
           "notes": []
         },
         {
-          "name": "Any combination of two (2) courses from below: 2",
+          "name": "Any combination of two (2) courses from below:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -675,7 +676,7 @@
               "courses": [
                 {
                   "code": "SOC 0300",
-                  "name": "SOC 0300"
+                  "name": "Organizations and Society"
                 }
               ],
               "count": null,
@@ -687,7 +688,7 @@
               "courses": [
                 {
                   "code": "SOC 1311",
-                  "name": "SOC 1311"
+                  "name": "Micro-Organizational Theory: Social Behavior in Organizations"
                 }
               ],
               "count": null,
@@ -699,7 +700,7 @@
               "courses": [
                 {
                   "code": "SOC 1315",
-                  "name": "SOC 1315"
+                  "name": "Macro-Organizational Theory: Organizations in Social Context"
                 }
               ],
               "count": null,
@@ -709,7 +710,7 @@
           "notes": []
         },
         {
-          "name": "One (1) Advanced Organizational Studies Elective: 1",
+          "name": "One (1) Advanced Organizational Studies Elective:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -719,7 +720,7 @@
               "courses": [
                 {
                   "code": "SOC 1070",
-                  "name": "SOC 1070"
+                  "name": "Introduction to Economic Sociology"
                 }
               ],
               "count": null,
@@ -731,7 +732,7 @@
               "courses": [
                 {
                   "code": "SOC 1117",
-                  "name": "SOC 1117"
+                  "name": "Focus Groups for Market and Social Research"
                 }
               ],
               "count": null,
@@ -743,7 +744,7 @@
               "courses": [
                 {
                   "code": "SOC 1118",
-                  "name": "SOC 1118"
+                  "name": "Context Research for Innovation"
                 }
               ],
               "count": null,
@@ -755,7 +756,7 @@
               "courses": [
                 {
                   "code": "SOC 1120",
-                  "name": "SOC 1120"
+                  "name": "Market and Social Surveys"
                 }
               ],
               "count": null,
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "SOC 1260",
-                  "name": "SOC 1260"
+                  "name": "Market Research in Public and Private Sectors"
                 }
               ],
               "count": null,
@@ -779,7 +780,7 @@
               "courses": [
                 {
                   "code": "SOC 1311",
-                  "name": "SOC 1311"
+                  "name": "Micro-Organizational Theory: Social Behavior in Organizations"
                 }
               ],
               "count": null,
@@ -791,7 +792,7 @@
               "courses": [
                 {
                   "code": "SOC 1315",
-                  "name": "SOC 1315"
+                  "name": "Macro-Organizational Theory: Organizations in Social Context"
                 }
               ],
               "count": null,
@@ -803,7 +804,7 @@
               "courses": [
                 {
                   "code": "SOC 1871C",
-                  "name": "SOC 1871C"
+                  "name": "Sociology of the Legal Profession"
                 }
               ],
               "count": null,
@@ -813,7 +814,7 @@
           "notes": []
         },
         {
-          "name": "Three (3) of the following Advanced Analysis Courses: 3",
+          "name": "Three (3) of the following Advanced Analysis Courses:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -823,7 +824,7 @@
               "courses": [
                 {
                   "code": "SOC 1117",
-                  "name": "SOC 1117"
+                  "name": "Focus Groups for Market and Social Research"
                 }
               ],
               "count": null,
@@ -835,7 +836,7 @@
               "courses": [
                 {
                   "code": "SOC 1118",
-                  "name": "SOC 1118"
+                  "name": "Context Research for Innovation"
                 }
               ],
               "count": null,
@@ -847,7 +848,7 @@
               "courses": [
                 {
                   "code": "SOC 1120",
-                  "name": "SOC 1120"
+                  "name": "Market and Social Surveys"
                 }
               ],
               "count": null,
@@ -859,7 +860,7 @@
               "courses": [
                 {
                   "code": "SOC 1260",
-                  "name": "SOC 1260"
+                  "name": "Market Research in Public and Private Sectors"
                 }
               ],
               "count": null,
@@ -871,7 +872,7 @@
               "courses": [
                 {
                   "code": "SOC 1340",
-                  "name": "SOC 1340"
+                  "name": "Principles and Methods of Geographic Information Systems"
                 }
               ],
               "count": null,
@@ -883,7 +884,7 @@
               "courses": [
                 {
                   "code": "SOC 1872N",
-                  "name": "SOC 1872N"
+                  "name": "Ethnography in Organizations"
                 }
               ],
               "count": null,
@@ -895,7 +896,7 @@
               "courses": [
                 {
                   "code": "SOC 2020",
-                  "name": "SOC 2020"
+                  "name": "Multivariate Statistical Methods II"
                 }
               ],
               "count": null,
@@ -907,7 +908,7 @@
               "courses": [
                 {
                   "code": "SOC 2070",
-                  "name": "SOC 2070"
+                  "name": "Text as Data for Social Science Research"
                 }
               ],
               "count": null,
@@ -919,7 +920,7 @@
               "courses": [
                 {
                   "code": "SOC 2210",
-                  "name": "SOC 2210"
+                  "name": "Qualitative Methods"
                 }
               ],
               "count": null,
@@ -931,7 +932,7 @@
               "courses": [
                 {
                   "code": "SOC 2230",
-                  "name": "SOC 2230"
+                  "name": "Techniques of Demographic Analysis"
                 }
               ],
               "count": null,
@@ -943,7 +944,7 @@
               "courses": [
                 {
                   "code": "SOC 2240",
-                  "name": "SOC 2240"
+                  "name": "Event History Analysis"
                 }
               ],
               "count": null,
@@ -955,7 +956,7 @@
               "courses": [
                 {
                   "code": "SOC 2250",
-                  "name": "SOC 2250"
+                  "name": "Ethnography: Theory and Practice"
                 }
               ],
               "count": null,
@@ -967,7 +968,7 @@
               "courses": [
                 {
                   "code": "SOC 2260T",
-                  "name": "SOC 2260T"
+                  "name": "Cultural Theory and Methods"
                 }
               ],
               "count": null,
@@ -979,7 +980,7 @@
               "courses": [
                 {
                   "code": "SOC 2610",
-                  "name": "SOC 2610"
+                  "name": "Spatial Thinking in Social Science"
                 }
               ],
               "count": null,
@@ -991,7 +992,7 @@
               "courses": [
                 {
                   "code": "SOC 2612",
-                  "name": "SOC 2612"
+                  "name": "Geographic Information Systems and Spatial Analysis for the Social Sciences"
                 }
               ],
               "count": null,
@@ -1003,7 +1004,7 @@
               "courses": [
                 {
                   "code": "SOC 2960G",
-                  "name": "SOC 2960G"
+                  "name": "Spatial Data Analysis Techniques in the Social Sciences"
                 }
               ],
               "count": null,
@@ -1015,7 +1016,7 @@
               "courses": [
                 {
                   "code": "SOC 2960Y",
-                  "name": "SOC 2960Y"
+                  "name": "Causal Analysis"
                 }
               ],
               "count": null,
@@ -1027,7 +1028,7 @@
               "courses": [
                 {
                   "code": "SOC 2961A",
-                  "name": "SOC 2961A"
+                  "name": "Advanced Spatial Data Analysis Techniques in the Social Sciences"
                 }
               ],
               "count": null,
@@ -1062,259 +1063,259 @@
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1010",
-            "name": "SOC 1010"
+            "name": "Classical Sociological Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1020",
-            "name": "SOC 1020"
+            "name": "Methods of Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1100",
-            "name": "SOC 1100"
+            "name": "Introductory Statistics for Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1950",
-            "name": "SOC 1950"
+            "name": "Senior Seminar"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2010",
-            "name": "SOC 2010"
+            "name": "Multivariate Statistical Methods I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 0300",
-            "name": "SOC 0300"
+            "name": "Organizations and Society"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1311",
-            "name": "SOC 1311"
+            "name": "Micro-Organizational Theory: Social Behavior in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1315",
-            "name": "SOC 1315"
+            "name": "Macro-Organizational Theory: Organizations in Social Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1070",
-            "name": "SOC 1070"
+            "name": "Introduction to Economic Sociology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1117",
-            "name": "SOC 1117"
+            "name": "Focus Groups for Market and Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1118",
-            "name": "SOC 1118"
+            "name": "Context Research for Innovation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1120",
-            "name": "SOC 1120"
+            "name": "Market and Social Surveys"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1260",
-            "name": "SOC 1260"
+            "name": "Market Research in Public and Private Sectors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1311",
-            "name": "SOC 1311"
+            "name": "Micro-Organizational Theory: Social Behavior in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1315",
-            "name": "SOC 1315"
+            "name": "Macro-Organizational Theory: Organizations in Social Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1871C",
-            "name": "SOC 1871C"
+            "name": "Sociology of the Legal Profession"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1117",
-            "name": "SOC 1117"
+            "name": "Focus Groups for Market and Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1118",
-            "name": "SOC 1118"
+            "name": "Context Research for Innovation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1120",
-            "name": "SOC 1120"
+            "name": "Market and Social Surveys"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1260",
-            "name": "SOC 1260"
+            "name": "Market Research in Public and Private Sectors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1340",
-            "name": "SOC 1340"
+            "name": "Principles and Methods of Geographic Information Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1872N",
-            "name": "SOC 1872N"
+            "name": "Ethnography in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2020",
-            "name": "SOC 2020"
+            "name": "Multivariate Statistical Methods II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2070",
-            "name": "SOC 2070"
+            "name": "Text as Data for Social Science Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2210",
-            "name": "SOC 2210"
+            "name": "Qualitative Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2230",
-            "name": "SOC 2230"
+            "name": "Techniques of Demographic Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2240",
-            "name": "SOC 2240"
+            "name": "Event History Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2250",
-            "name": "SOC 2250"
+            "name": "Ethnography: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2260T",
-            "name": "SOC 2260T"
+            "name": "Cultural Theory and Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2610",
-            "name": "SOC 2610"
+            "name": "Spatial Thinking in Social Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2612",
-            "name": "SOC 2612"
+            "name": "Geographic Information Systems and Spatial Analysis for the Social Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2960G",
-            "name": "SOC 2960G"
+            "name": "Spatial Data Analysis Techniques in the Social Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2960Y",
-            "name": "SOC 2960Y"
+            "name": "Causal Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 2961A",
-            "name": "SOC 2961A"
+            "name": "Advanced Spatial Data Analysis Techniques in the Social Sciences"
           }
         },
         {
@@ -1331,107 +1332,107 @@
   "all_courses": [
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I"
     },
     {
       "code": "SOC 1100",
-      "name": "SOC 1100"
+      "name": "Introductory Statistics for Social Research"
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "ECON 1620",
-      "name": "ECON 1620"
+      "name": "Introduction to Econometrics"
     },
     {
       "code": "SOC 1020",
-      "name": "SOC 1020"
+      "name": "Methods of Social Research"
     },
     {
       "code": "SOC 2010",
-      "name": "SOC 2010"
+      "name": "Multivariate Statistical Methods I"
     },
     {
       "code": "SOC 1010",
-      "name": "SOC 1010"
+      "name": "Classical Sociological Theory"
     },
     {
       "code": "SOC 1950",
-      "name": "SOC 1950"
+      "name": "Senior Seminar"
     },
     {
       "code": "SOC 1117",
-      "name": "SOC 1117"
+      "name": "Focus Groups for Market and Social Research"
     },
     {
       "code": "SOC 1118",
-      "name": "SOC 1118"
+      "name": "Context Research for Innovation"
     },
     {
       "code": "SOC 1120",
-      "name": "SOC 1120"
+      "name": "Market and Social Surveys"
     },
     {
       "code": "SOC 1260",
-      "name": "SOC 1260"
+      "name": "Market Research in Public and Private Sectors"
     },
     {
       "code": "SOC 1340",
-      "name": "SOC 1340"
+      "name": "Principles and Methods of Geographic Information Systems"
     },
     {
       "code": "SOC 1872N",
-      "name": "SOC 1872N"
+      "name": "Ethnography in Organizations"
     },
     {
       "code": "SOC 2020",
-      "name": "SOC 2020"
+      "name": "Multivariate Statistical Methods II"
     },
     {
       "code": "SOC 2070",
-      "name": "SOC 2070"
+      "name": "Text as Data for Social Science Research"
     },
     {
       "code": "SOC 2210",
-      "name": "SOC 2210"
+      "name": "Qualitative Methods"
     },
     {
       "code": "SOC 2230",
-      "name": "SOC 2230"
+      "name": "Techniques of Demographic Analysis"
     },
     {
       "code": "SOC 2240",
-      "name": "SOC 2240"
+      "name": "Event History Analysis"
     },
     {
       "code": "SOC 2250",
-      "name": "SOC 2250"
+      "name": "Ethnography: Theory and Practice"
     },
     {
       "code": "SOC 2260T",
-      "name": "SOC 2260T"
+      "name": "Cultural Theory and Methods"
     },
     {
       "code": "SOC 2610",
-      "name": "SOC 2610"
+      "name": "Spatial Thinking in Social Science"
     },
     {
       "code": "SOC 2612",
-      "name": "SOC 2612"
+      "name": "Geographic Information Systems and Spatial Analysis for the Social Sciences"
     },
     {
       "code": "SOC 2960G",
-      "name": "SOC 2960G"
+      "name": "Spatial Data Analysis Techniques in the Social Sciences"
     },
     {
       "code": "SOC 2960Y",
-      "name": "SOC 2960Y"
+      "name": "Causal Analysis"
     },
     {
       "code": "SOC 2961A",
-      "name": "SOC 2961A"
+      "name": "Advanced Spatial Data Analysis Techniques in the Social Sciences"
     },
     {
       "code": "SOC 1970",
@@ -1439,23 +1440,23 @@
     },
     {
       "code": "SOC 0300",
-      "name": "SOC 0300"
+      "name": "Organizations and Society"
     },
     {
       "code": "SOC 1311",
-      "name": "SOC 1311"
+      "name": "Micro-Organizational Theory: Social Behavior in Organizations"
     },
     {
       "code": "SOC 1315",
-      "name": "SOC 1315"
+      "name": "Macro-Organizational Theory: Organizations in Social Context"
     },
     {
       "code": "SOC 1070",
-      "name": "SOC 1070"
+      "name": "Introduction to Economic Sociology"
     },
     {
       "code": "SOC 1871C",
-      "name": "SOC 1871C"
+      "name": "Sociology of the Legal Profession"
     }
   ]
 }

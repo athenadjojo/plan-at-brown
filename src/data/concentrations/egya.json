@@ -2,13 +2,14 @@
   "concentration": "Egyptology and Assyriology",
   "slug": "egya",
   "url": "https://bulletin.brown.edu/the-college/concentrations/egya/",
+  "description": "The concentration in Egyptology and Assyriology offers students a choice of two tracks: Assyriology or Egyptology. The department promotes collaborations with other academic units at Brown devoted to the study of antiquity including Archaeology, Classics, Judaic Studies, and Religious Studies. Egyptology and Assyriology also collaborates with Brown's Joukowsky Institute for Archaeology and the Ancient World. Also known as the Near East or Middle East, Western Asia includes present-day Iraq, Syria, Turkey, and other neighboring states, a broad geographic area that was connected in antiquity with the wider world\u2014the Mediterranean, North Africa, the Arabian Peninsula, Central Asia, and the Asian subcontinent. Students will be exposed to the critical study of the ancient cultures of this region (ca. 3400 B.C.E.\u2013100 C.E.) using the tools of archaeology, epigraphy, and historical inquiry. A variety of interdisciplinary, comparative, and theoretical approaches will be introduced to give students the tools and methods to explore this region\u2019s ancient languages and literatures, political and socio-economic modes of organization, art and architecture, religious traditions and other systems of knowledge, such as early science.",
   "tracks": [
     {
       "id": "assyriology_track",
       "name": "Assyriology Track",
       "groups": [
         {
-          "name": "Language Courses (two courses) 2",
+          "name": "Language Courses (two courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "ASYR 1000",
-                  "name": "ASYR 1000"
+                  "name": "Introduction to Akkadian"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "ASYR 1400",
-                  "name": "ASYR 1400"
+                  "name": "Introduction to Sumerian"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "ASYR 1900",
-                  "name": "ASYR 1900"
+                  "name": "Introduction to Hittite Language and Literature"
                 }
               ],
               "count": null,
@@ -69,7 +70,7 @@
               "courses": [
                 {
                   "code": "ASYR 1010",
-                  "name": "ASYR 1010"
+                  "name": "Intermediate Akkadian"
                 }
               ],
               "count": null,
@@ -81,7 +82,7 @@
               "courses": [
                 {
                   "code": "ASYR 1400",
-                  "name": "ASYR 1400"
+                  "name": "Introduction to Sumerian"
                 }
               ],
               "count": null,
@@ -93,7 +94,7 @@
               "courses": [
                 {
                   "code": "ASYR 1900",
-                  "name": "ASYR 1900"
+                  "name": "Introduction to Hittite Language and Literature"
                 }
               ],
               "count": null,
@@ -105,7 +106,7 @@
               "courses": [
                 {
                   "code": "EGYT 1310",
-                  "name": "EGYT 1310"
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
                 }
               ],
               "count": null,
@@ -117,7 +118,7 @@
               "courses": [
                 {
                   "code": "EGYT 1320",
-                  "name": "EGYT 1320"
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
                 }
               ],
               "count": null,
@@ -127,7 +128,7 @@
           "notes": []
         },
         {
-          "name": "Foundations (Four Courses): One course in each of the following areas: 4",
+          "name": "Foundations (Four Courses): One course in each of the following areas:",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -144,7 +145,7 @@
               "courses": [
                 {
                   "code": "EGYT 0600",
-                  "name": "EGYT 0600"
+                  "name": "Ancient True Crime: Murder, Conspiracy, and Law in the Ancient World"
                 }
               ],
               "count": null,
@@ -156,7 +157,7 @@
               "courses": [
                 {
                   "code": "ASYR 0300",
-                  "name": "ASYR 0300"
+                  "name": "Babylon: Myth and Reality"
                 }
               ],
               "count": null,
@@ -168,7 +169,7 @@
               "courses": [
                 {
                   "code": "ASYR 0800",
-                  "name": "ASYR 0800"
+                  "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
                 }
               ],
               "count": null,
@@ -188,7 +189,7 @@
               "courses": [
                 {
                   "code": "ASYR 0800",
-                  "name": "ASYR 0800"
+                  "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
                 }
               ],
               "count": null,
@@ -200,7 +201,7 @@
               "courses": [
                 {
                   "code": "ARCH 0372",
-                  "name": "ARCH 0372"
+                  "name": "Meeting with Mesopotamia"
                 }
               ],
               "count": null,
@@ -212,7 +213,7 @@
               "courses": [
                 {
                   "code": "ARCH 0760",
-                  "name": "ARCH 0760"
+                  "name": "Palaces: Built to Impress"
                 }
               ],
               "count": null,
@@ -224,7 +225,7 @@
               "courses": [
                 {
                   "code": "ARCH 1475",
-                  "name": "ARCH 1475"
+                  "name": "Petra: Ancient Wonder, Modern Challenge"
                 }
               ],
               "count": null,
@@ -236,7 +237,7 @@
               "courses": [
                 {
                   "code": "ARCH 1635",
-                  "name": "ARCH 1635"
+                  "name": "The Great Heresy: Egypt in the Amarna Period"
                 }
               ],
               "count": null,
@@ -248,7 +249,7 @@
               "courses": [
                 {
                   "code": "ARCH 1879",
-                  "name": "ARCH 1879"
+                  "name": "A World in Color: Seeing and Experiencing Colors in Ancient Times"
                 }
               ],
               "count": null,
@@ -268,7 +269,7 @@
               "courses": [
                 {
                   "code": "EGYT 0300",
-                  "name": "EGYT 0300"
+                  "name": "In the Beginning: Cosmos and Creation in the Ancient World"
                 }
               ],
               "count": null,
@@ -280,7 +281,7 @@
               "courses": [
                 {
                   "code": "ARCH 0255",
-                  "name": "ARCH 0255"
+                  "name": "Monsters and Fantastic Creatures"
                 }
               ],
               "count": null,
@@ -292,7 +293,7 @@
               "courses": [
                 {
                   "code": "ASYR 0310",
-                  "name": "ASYR 0310"
+                  "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
                 }
               ],
               "count": null,
@@ -304,7 +305,7 @@
               "courses": [
                 {
                   "code": "ASYR 1100",
-                  "name": "ASYR 1100"
+                  "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
                 }
               ],
               "count": null,
@@ -316,7 +317,7 @@
               "courses": [
                 {
                   "code": "ASYR 1110",
-                  "name": "ASYR 1110"
+                  "name": "Literature of Ancient Iraq"
                 }
               ],
               "count": null,
@@ -336,7 +337,7 @@
               "courses": [
                 {
                   "code": "ASYR 0320",
-                  "name": "ASYR 0320"
+                  "name": "The Origin(s) of Science"
                 }
               ],
               "count": null,
@@ -348,7 +349,7 @@
               "courses": [
                 {
                   "code": "ASYR 0500",
-                  "name": "ASYR 0500"
+                  "name": "Mathematics in the Ancient World"
                 }
               ],
               "count": null,
@@ -360,7 +361,7 @@
               "courses": [
                 {
                   "code": "ASYR 1160",
-                  "name": "ASYR 1160"
+                  "name": "Color and Culture in the Ancient Near East"
                 }
               ],
               "count": null,
@@ -372,7 +373,7 @@
               "courses": [
                 {
                   "code": "ASYR 1500",
-                  "name": "ASYR 1500"
+                  "name": "Ancient Babylonian Magic and Medicine"
                 }
               ],
               "count": null,
@@ -384,7 +385,7 @@
               "courses": [
                 {
                   "code": "ASYR 1600",
-                  "name": "ASYR 1600"
+                  "name": "Astronomy Before the Telescope"
                 }
               ],
               "count": null,
@@ -396,7 +397,7 @@
               "courses": [
                 {
                   "code": "ASYR 1700",
-                  "name": "ASYR 1700"
+                  "name": "Astronomy, Divination and Politics in the Ancient World"
                 }
               ],
               "count": null,
@@ -408,7 +409,7 @@
               "courses": [
                 {
                   "code": "ASYR 1725",
-                  "name": "ASYR 1725"
+                  "name": "Scientific Thought in Ancient Iraq"
                 }
               ],
               "count": null,
@@ -420,7 +421,7 @@
               "courses": [
                 {
                   "code": "ARCH 1538",
-                  "name": "ARCH 1538"
+                  "name": "Heritage Under Fire: From Conflict to Understanding, Memory, and Reconciliation"
                 }
               ],
               "count": null,
@@ -432,7 +433,7 @@
               "courses": [
                 {
                   "code": "ARCH 1830",
-                  "name": "ARCH 1830"
+                  "name": "Fake! History of the Inauthentic"
                 }
               ],
               "count": null,
@@ -442,7 +443,7 @@
           "notes": []
         },
         {
-          "name": "Depth Requirement (Two Courses) 2",
+          "name": "Depth Requirement (Two Courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -456,7 +457,7 @@
           "notes": []
         },
         {
-          "name": "Breadth Requirement (Two Courses) 2",
+          "name": "Breadth Requirement (Two Courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -475,217 +476,217 @@
           "type": "required",
           "course": {
             "code": "ASYR 1000",
-            "name": "ASYR 1000"
+            "name": "Introduction to Akkadian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1400",
-            "name": "ASYR 1400"
+            "name": "Introduction to Sumerian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1900",
-            "name": "ASYR 1900"
+            "name": "Introduction to Hittite Language and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1010",
-            "name": "ASYR 1010"
+            "name": "Intermediate Akkadian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1400",
-            "name": "ASYR 1400"
+            "name": "Introduction to Sumerian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1900",
-            "name": "ASYR 1900"
+            "name": "Introduction to Hittite Language and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1310",
-            "name": "EGYT 1310"
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1320",
-            "name": "EGYT 1320"
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0600",
-            "name": "EGYT 0600"
+            "name": "Ancient True Crime: Murder, Conspiracy, and Law in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0300",
-            "name": "ASYR 0300"
+            "name": "Babylon: Myth and Reality"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0800",
-            "name": "ASYR 0800"
+            "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0800",
-            "name": "ASYR 0800"
+            "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0372",
-            "name": "ARCH 0372"
+            "name": "Meeting with Mesopotamia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0760",
-            "name": "ARCH 0760"
+            "name": "Palaces: Built to Impress"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1475",
-            "name": "ARCH 1475"
+            "name": "Petra: Ancient Wonder, Modern Challenge"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1635",
-            "name": "ARCH 1635"
+            "name": "The Great Heresy: Egypt in the Amarna Period"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1879",
-            "name": "ARCH 1879"
+            "name": "A World in Color: Seeing and Experiencing Colors in Ancient Times"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0300",
-            "name": "EGYT 0300"
+            "name": "In the Beginning: Cosmos and Creation in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0255",
-            "name": "ARCH 0255"
+            "name": "Monsters and Fantastic Creatures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0310",
-            "name": "ASYR 0310"
+            "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1100",
-            "name": "ASYR 1100"
+            "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1110",
-            "name": "ASYR 1110"
+            "name": "Literature of Ancient Iraq"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0320",
-            "name": "ASYR 0320"
+            "name": "The Origin(s) of Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0500",
-            "name": "ASYR 0500"
+            "name": "Mathematics in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1160",
-            "name": "ASYR 1160"
+            "name": "Color and Culture in the Ancient Near East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1500",
-            "name": "ASYR 1500"
+            "name": "Ancient Babylonian Magic and Medicine"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1600",
-            "name": "ASYR 1600"
+            "name": "Astronomy Before the Telescope"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1700",
-            "name": "ASYR 1700"
+            "name": "Astronomy, Divination and Politics in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1725",
-            "name": "ASYR 1725"
+            "name": "Scientific Thought in Ancient Iraq"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1538",
-            "name": "ARCH 1538"
+            "name": "Heritage Under Fire: From Conflict to Understanding, Memory, and Reconciliation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1830",
-            "name": "ARCH 1830"
+            "name": "Fake! History of the Inauthentic"
           }
         }
       ],
@@ -696,7 +697,7 @@
       "name": "Egyptology Track",
       "groups": [
         {
-          "name": "Language Courses (two courses) 2",
+          "name": "Language Courses (two courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -713,7 +714,7 @@
               "courses": [
                 {
                   "code": "EGYT 1310",
-                  "name": "EGYT 1310"
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
                 }
               ],
               "count": null,
@@ -733,7 +734,7 @@
               "courses": [
                 {
                   "code": "EGYT 1320",
-                  "name": "EGYT 1320"
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
                 }
               ],
               "count": null,
@@ -745,7 +746,7 @@
               "courses": [
                 {
                   "code": "EGYT 2210",
-                  "name": "EGYT 2210"
+                  "name": "Introduction to Coptic"
                 }
               ],
               "count": null,
@@ -757,7 +758,7 @@
               "courses": [
                 {
                   "code": "EGYT 2410",
-                  "name": "EGYT 2410"
+                  "name": "Late Egyptian"
                 }
               ],
               "count": null,
@@ -769,7 +770,7 @@
               "courses": [
                 {
                   "code": "EGYT 2610",
-                  "name": "EGYT 2610"
+                  "name": "Introduction to Demotic"
                 }
               ],
               "count": null,
@@ -781,7 +782,7 @@
               "courses": [
                 {
                   "code": "ASYR 1000",
-                  "name": "ASYR 1000"
+                  "name": "Introduction to Akkadian"
                 }
               ],
               "count": null,
@@ -793,7 +794,7 @@
               "courses": [
                 {
                   "code": "ASYR 1010",
-                  "name": "ASYR 1010"
+                  "name": "Intermediate Akkadian"
                 }
               ],
               "count": null,
@@ -805,7 +806,7 @@
               "courses": [
                 {
                   "code": "ASYR 1400",
-                  "name": "ASYR 1400"
+                  "name": "Introduction to Sumerian"
                 }
               ],
               "count": null,
@@ -817,7 +818,7 @@
               "courses": [
                 {
                   "code": "ASYR 1900",
-                  "name": "ASYR 1900"
+                  "name": "Introduction to Hittite Language and Literature"
                 }
               ],
               "count": null,
@@ -827,7 +828,7 @@
           "notes": []
         },
         {
-          "name": "Foundations (Four Courses): One course in each of the following areas: 4",
+          "name": "Foundations (Four Courses): One course in each of the following areas:",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -844,7 +845,7 @@
               "courses": [
                 {
                   "code": "EGYT 0500",
-                  "name": "EGYT 0500"
+                  "name": "The Pyramids in Context: Archaeology of Life and Religion of Death in Old Kingdom Egypt"
                 }
               ],
               "count": null,
@@ -856,7 +857,7 @@
               "courses": [
                 {
                   "code": "EGYT 0550",
-                  "name": "EGYT 0550"
+                  "name": "Black Pharaohs: Nubian Kings and Queens of Ancient Egypt"
                 }
               ],
               "count": null,
@@ -868,7 +869,7 @@
               "courses": [
                 {
                   "code": "EGYT 0600",
-                  "name": "EGYT 0600"
+                  "name": "Ancient True Crime: Murder, Conspiracy, and Law in the Ancient World"
                 }
               ],
               "count": null,
@@ -880,7 +881,7 @@
               "courses": [
                 {
                   "code": "EGYT 1030",
-                  "name": "EGYT 1030"
+                  "name": "Collapse! Ancient Egypt after the Pyramid Age"
                 }
               ],
               "count": null,
@@ -892,7 +893,7 @@
               "courses": [
                 {
                   "code": "EGYT 1430",
-                  "name": "EGYT 1430"
+                  "name": "History of Egypt I1"
                 }
               ],
               "count": null,
@@ -904,7 +905,7 @@
               "courses": [
                 {
                   "code": "EGYT 1465",
-                  "name": "EGYT 1465"
+                  "name": "Life on the Nile: Ancient Egypt beyond the Pharaohs"
                 }
               ],
               "count": null,
@@ -924,7 +925,7 @@
               "courses": [
                 {
                   "code": "EGYT 1510",
-                  "name": "EGYT 1510"
+                  "name": "Ancient Egyptian Art II"
                 }
               ],
               "count": null,
@@ -936,7 +937,7 @@
               "courses": [
                 {
                   "code": "ARCH 0150",
-                  "name": "ARCH 0150"
+                  "name": "Introduction to Egyptian Archaeology and Art"
                 }
               ],
               "count": null,
@@ -948,7 +949,7 @@
               "courses": [
                 {
                   "code": "ARCH 0760",
-                  "name": "ARCH 0760"
+                  "name": "Palaces: Built to Impress"
                 }
               ],
               "count": null,
@@ -960,7 +961,7 @@
               "courses": [
                 {
                   "code": "ARCH 1630",
-                  "name": "ARCH 1630"
+                  "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
                 }
               ],
               "count": null,
@@ -972,7 +973,7 @@
               "courses": [
                 {
                   "code": "ARCH 1635",
-                  "name": "ARCH 1635"
+                  "name": "The Great Heresy: Egypt in the Amarna Period"
                 }
               ],
               "count": null,
@@ -984,7 +985,7 @@
               "courses": [
                 {
                   "code": "ARCH 1879",
-                  "name": "ARCH 1879"
+                  "name": "A World in Color: Seeing and Experiencing Colors in Ancient Times"
                 }
               ],
               "count": null,
@@ -1004,7 +1005,7 @@
               "courses": [
                 {
                   "code": "EGYT 0300",
-                  "name": "EGYT 0300"
+                  "name": "In the Beginning: Cosmos and Creation in the Ancient World"
                 }
               ],
               "count": null,
@@ -1016,7 +1017,7 @@
               "courses": [
                 {
                   "code": "EGYT 1100",
-                  "name": "EGYT 1100"
+                  "name": "Ancient Voices: The Literature of Ancient Egypt"
                 }
               ],
               "count": null,
@@ -1028,7 +1029,7 @@
               "courses": [
                 {
                   "code": "EGYT 1420",
-                  "name": "EGYT 1420"
+                  "name": "Ancient Egyptian Religion and Magic"
                 }
               ],
               "count": null,
@@ -1040,7 +1041,7 @@
               "courses": [
                 {
                   "code": "ARCH 0255",
-                  "name": "ARCH 0255"
+                  "name": "Monsters and Fantastic Creatures"
                 }
               ],
               "count": null,
@@ -1060,7 +1061,7 @@
               "courses": [
                 {
                   "code": "EGYT 1400",
-                  "name": "EGYT 1400"
+                  "name": "Ethiopia Shall Stretch Forth Her Hands: Black Reception of Ancient Egypt and Nubia"
                 }
               ],
               "count": null,
@@ -1072,7 +1073,7 @@
               "courses": [
                 {
                   "code": "EGYT 1485",
-                  "name": "EGYT 1485"
+                  "name": "Magic, Mummies, and Drugs: Medicine and Physicians in Ancient Egypt"
                 }
               ],
               "count": null,
@@ -1084,7 +1085,7 @@
               "courses": [
                 {
                   "code": "EGYT 1490",
-                  "name": "EGYT 1490"
+                  "name": "Calendars and Chronology in Ancient Egypt and the Ancient World"
                 }
               ],
               "count": null,
@@ -1096,7 +1097,7 @@
               "courses": [
                 {
                   "code": "ASYR 0320",
-                  "name": "ASYR 0320"
+                  "name": "The Origin(s) of Science"
                 }
               ],
               "count": null,
@@ -1108,7 +1109,7 @@
               "courses": [
                 {
                   "code": "ASYR 0500",
-                  "name": "ASYR 0500"
+                  "name": "Mathematics in the Ancient World"
                 }
               ],
               "count": null,
@@ -1120,7 +1121,7 @@
               "courses": [
                 {
                   "code": "ASYR 1160",
-                  "name": "ASYR 1160"
+                  "name": "Color and Culture in the Ancient Near East"
                 }
               ],
               "count": null,
@@ -1132,7 +1133,7 @@
               "courses": [
                 {
                   "code": "ASYR 1600",
-                  "name": "ASYR 1600"
+                  "name": "Astronomy Before the Telescope"
                 }
               ],
               "count": null,
@@ -1144,7 +1145,7 @@
               "courses": [
                 {
                   "code": "ARCH 1538",
-                  "name": "ARCH 1538"
+                  "name": "Heritage Under Fire: From Conflict to Understanding, Memory, and Reconciliation"
                 }
               ],
               "count": null,
@@ -1156,7 +1157,7 @@
               "courses": [
                 {
                   "code": "ARCH 1830",
-                  "name": "ARCH 1830"
+                  "name": "Fake! History of the Inauthentic"
                 }
               ],
               "count": null,
@@ -1166,7 +1167,7 @@
           "notes": []
         },
         {
-          "name": "Depth Requirement (Two Courses) 2",
+          "name": "Depth Requirement (Two Courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -1180,7 +1181,7 @@
           "notes": []
         },
         {
-          "name": "Breadth Requirement (Two Courses) 2",
+          "name": "Breadth Requirement (Two Courses)",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -1199,238 +1200,238 @@
           "type": "required",
           "course": {
             "code": "EGYT 1310",
-            "name": "EGYT 1310"
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1320",
-            "name": "EGYT 1320"
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 2210",
-            "name": "EGYT 2210"
+            "name": "Introduction to Coptic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 2410",
-            "name": "EGYT 2410"
+            "name": "Late Egyptian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 2610",
-            "name": "EGYT 2610"
+            "name": "Introduction to Demotic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1000",
-            "name": "ASYR 1000"
+            "name": "Introduction to Akkadian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1010",
-            "name": "ASYR 1010"
+            "name": "Intermediate Akkadian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1400",
-            "name": "ASYR 1400"
+            "name": "Introduction to Sumerian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1900",
-            "name": "ASYR 1900"
+            "name": "Introduction to Hittite Language and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0500",
-            "name": "EGYT 0500"
+            "name": "The Pyramids in Context: Archaeology of Life and Religion of Death in Old Kingdom Egypt"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0550",
-            "name": "EGYT 0550"
+            "name": "Black Pharaohs: Nubian Kings and Queens of Ancient Egypt"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0600",
-            "name": "EGYT 0600"
+            "name": "Ancient True Crime: Murder, Conspiracy, and Law in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1030",
-            "name": "EGYT 1030"
+            "name": "Collapse! Ancient Egypt after the Pyramid Age"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1430",
-            "name": "EGYT 1430"
+            "name": "History of Egypt I1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1465",
-            "name": "EGYT 1465"
+            "name": "Life on the Nile: Ancient Egypt beyond the Pharaohs"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1510",
-            "name": "EGYT 1510"
+            "name": "Ancient Egyptian Art II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0150",
-            "name": "ARCH 0150"
+            "name": "Introduction to Egyptian Archaeology and Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0760",
-            "name": "ARCH 0760"
+            "name": "Palaces: Built to Impress"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1630",
-            "name": "ARCH 1630"
+            "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1635",
-            "name": "ARCH 1635"
+            "name": "The Great Heresy: Egypt in the Amarna Period"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1879",
-            "name": "ARCH 1879"
+            "name": "A World in Color: Seeing and Experiencing Colors in Ancient Times"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 0300",
-            "name": "EGYT 0300"
+            "name": "In the Beginning: Cosmos and Creation in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1100",
-            "name": "EGYT 1100"
+            "name": "Ancient Voices: The Literature of Ancient Egypt"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1420",
-            "name": "EGYT 1420"
+            "name": "Ancient Egyptian Religion and Magic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0255",
-            "name": "ARCH 0255"
+            "name": "Monsters and Fantastic Creatures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1400",
-            "name": "EGYT 1400"
+            "name": "Ethiopia Shall Stretch Forth Her Hands: Black Reception of Ancient Egypt and Nubia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1485",
-            "name": "EGYT 1485"
+            "name": "Magic, Mummies, and Drugs: Medicine and Physicians in Ancient Egypt"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EGYT 1490",
-            "name": "EGYT 1490"
+            "name": "Calendars and Chronology in Ancient Egypt and the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0320",
-            "name": "ASYR 0320"
+            "name": "The Origin(s) of Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 0500",
-            "name": "ASYR 0500"
+            "name": "Mathematics in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1160",
-            "name": "ASYR 1160"
+            "name": "Color and Culture in the Ancient Near East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ASYR 1600",
-            "name": "ASYR 1600"
+            "name": "Astronomy Before the Telescope"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1538",
-            "name": "ARCH 1538"
+            "name": "Heritage Under Fire: From Conflict to Understanding, Memory, and Reconciliation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1830",
-            "name": "ARCH 1830"
+            "name": "Fake! History of the Inauthentic"
           }
         }
       ],
@@ -1440,179 +1441,179 @@
   "all_courses": [
     {
       "code": "ASYR 1000",
-      "name": "ASYR 1000"
+      "name": "Introduction to Akkadian"
     },
     {
       "code": "ASYR 1400",
-      "name": "ASYR 1400"
+      "name": "Introduction to Sumerian"
     },
     {
       "code": "ASYR 1900",
-      "name": "ASYR 1900"
+      "name": "Introduction to Hittite Language and Literature"
     },
     {
       "code": "ASYR 1010",
-      "name": "ASYR 1010"
+      "name": "Intermediate Akkadian"
     },
     {
       "code": "EGYT 1310",
-      "name": "EGYT 1310"
+      "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
     },
     {
       "code": "EGYT 1320",
-      "name": "EGYT 1320"
+      "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
     },
     {
       "code": "EGYT 0600",
-      "name": "EGYT 0600"
+      "name": "Ancient True Crime: Murder, Conspiracy, and Law in the Ancient World"
     },
     {
       "code": "ASYR 0300",
-      "name": "ASYR 0300"
+      "name": "Babylon: Myth and Reality"
     },
     {
       "code": "ASYR 0800",
-      "name": "ASYR 0800"
+      "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
     },
     {
       "code": "ARCH 0372",
-      "name": "ARCH 0372"
+      "name": "Meeting with Mesopotamia"
     },
     {
       "code": "ARCH 0760",
-      "name": "ARCH 0760"
+      "name": "Palaces: Built to Impress"
     },
     {
       "code": "ARCH 1475",
-      "name": "ARCH 1475"
+      "name": "Petra: Ancient Wonder, Modern Challenge"
     },
     {
       "code": "ARCH 1635",
-      "name": "ARCH 1635"
+      "name": "The Great Heresy: Egypt in the Amarna Period"
     },
     {
       "code": "ARCH 1879",
-      "name": "ARCH 1879"
+      "name": "A World in Color: Seeing and Experiencing Colors in Ancient Times"
     },
     {
       "code": "EGYT 0300",
-      "name": "EGYT 0300"
+      "name": "In the Beginning: Cosmos and Creation in the Ancient World"
     },
     {
       "code": "ARCH 0255",
-      "name": "ARCH 0255"
+      "name": "Monsters and Fantastic Creatures"
     },
     {
       "code": "ASYR 0310",
-      "name": "ASYR 0310"
+      "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
     },
     {
       "code": "ASYR 1100",
-      "name": "ASYR 1100"
+      "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
     },
     {
       "code": "ASYR 1110",
-      "name": "ASYR 1110"
+      "name": "Literature of Ancient Iraq"
     },
     {
       "code": "ASYR 0320",
-      "name": "ASYR 0320"
+      "name": "The Origin(s) of Science"
     },
     {
       "code": "ASYR 0500",
-      "name": "ASYR 0500"
+      "name": "Mathematics in the Ancient World"
     },
     {
       "code": "ASYR 1160",
-      "name": "ASYR 1160"
+      "name": "Color and Culture in the Ancient Near East"
     },
     {
       "code": "ASYR 1500",
-      "name": "ASYR 1500"
+      "name": "Ancient Babylonian Magic and Medicine"
     },
     {
       "code": "ASYR 1600",
-      "name": "ASYR 1600"
+      "name": "Astronomy Before the Telescope"
     },
     {
       "code": "ASYR 1700",
-      "name": "ASYR 1700"
+      "name": "Astronomy, Divination and Politics in the Ancient World"
     },
     {
       "code": "ASYR 1725",
-      "name": "ASYR 1725"
+      "name": "Scientific Thought in Ancient Iraq"
     },
     {
       "code": "ARCH 1538",
-      "name": "ARCH 1538"
+      "name": "Heritage Under Fire: From Conflict to Understanding, Memory, and Reconciliation"
     },
     {
       "code": "ARCH 1830",
-      "name": "ARCH 1830"
+      "name": "Fake! History of the Inauthentic"
     },
     {
       "code": "EGYT 2210",
-      "name": "EGYT 2210"
+      "name": "Introduction to Coptic"
     },
     {
       "code": "EGYT 2410",
-      "name": "EGYT 2410"
+      "name": "Late Egyptian"
     },
     {
       "code": "EGYT 2610",
-      "name": "EGYT 2610"
+      "name": "Introduction to Demotic"
     },
     {
       "code": "EGYT 0500",
-      "name": "EGYT 0500"
+      "name": "The Pyramids in Context: Archaeology of Life and Religion of Death in Old Kingdom Egypt"
     },
     {
       "code": "EGYT 0550",
-      "name": "EGYT 0550"
+      "name": "Black Pharaohs: Nubian Kings and Queens of Ancient Egypt"
     },
     {
       "code": "EGYT 1030",
-      "name": "EGYT 1030"
+      "name": "Collapse! Ancient Egypt after the Pyramid Age"
     },
     {
       "code": "EGYT 1430",
-      "name": "EGYT 1430"
+      "name": "History of Egypt I1"
     },
     {
       "code": "EGYT 1465",
-      "name": "EGYT 1465"
+      "name": "Life on the Nile: Ancient Egypt beyond the Pharaohs"
     },
     {
       "code": "EGYT 1510",
-      "name": "EGYT 1510"
+      "name": "Ancient Egyptian Art II"
     },
     {
       "code": "ARCH 0150",
-      "name": "ARCH 0150"
+      "name": "Introduction to Egyptian Archaeology and Art"
     },
     {
       "code": "ARCH 1630",
-      "name": "ARCH 1630"
+      "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
     },
     {
       "code": "EGYT 1100",
-      "name": "EGYT 1100"
+      "name": "Ancient Voices: The Literature of Ancient Egypt"
     },
     {
       "code": "EGYT 1420",
-      "name": "EGYT 1420"
+      "name": "Ancient Egyptian Religion and Magic"
     },
     {
       "code": "EGYT 1400",
-      "name": "EGYT 1400"
+      "name": "Ethiopia Shall Stretch Forth Her Hands: Black Reception of Ancient Egypt and Nubia"
     },
     {
       "code": "EGYT 1485",
-      "name": "EGYT 1485"
+      "name": "Magic, Mummies, and Drugs: Medicine and Physicians in Ancient Egypt"
     },
     {
       "code": "EGYT 1490",
-      "name": "EGYT 1490"
+      "name": "Calendars and Chronology in Ancient Egypt and the Ancient World"
     }
   ]
 }

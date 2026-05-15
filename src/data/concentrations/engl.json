@@ -2,13 +2,14 @@
   "concentration": "English",
   "slug": "engl",
   "url": "https://bulletin.brown.edu/the-college/concentrations/engl/",
+  "description": "The English Department fosters the study of British, American, and Anglophone literature\u2014old\u00a0 and new\u2014in ways that are both intensive and open.\u00a0 We study how English literature works, how we understand and appreciate it, and how we write about it.\u00a0\u00a0 We offer a wide array of courses in poetry, drama, fiction, creative nonfiction, film, digital media, and theory.\u00a0 All our courses emphasize the development of student skills in writing, textual analysis, and argument.\u00a0 The department\u2019s faculty members are deeply committed to undergraduate teaching and advising.\u00a0 You will find considerable diversity in our critical methods, including cross-disciplinary approaches that relate the study of literature to history, politics, science, as well as to other art forms.\u00a0 We encourage students in our classes likewise to forge their own new ways of understanding literature and culture. In addition to the standard English concentration, we offer an English concentration track in the practice of Nonfiction Writing. The concentration in English and the English/Nonfiction track follow the same core requirements, and students in the English concentration may elect Nonfiction Writing courses as electives. We invite applications from qualified juniors to the honors programs in both English and Nonfiction.",
   "tracks": [
     {
       "id": "about_the_concentration",
       "name": "About the Concentration",
       "groups": [
         {
-          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101): 1",
+          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100A",
-                  "name": "ENGL 0100A"
+                  "name": "How To Read A Poem"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100C",
-                  "name": "ENGL 0100C"
+                  "name": "Altered States"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100D",
-                  "name": "ENGL 0100D"
+                  "name": "Matters of Romance"
                 }
               ],
               "count": null,
@@ -61,7 +62,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100F",
-                  "name": "ENGL 0100F"
+                  "name": "Devils, Demons, Do-Gooders"
                 }
               ],
               "count": null,
@@ -73,7 +74,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100G",
-                  "name": "ENGL 0100G"
+                  "name": "The Literature of Identity"
                 }
               ],
               "count": null,
@@ -85,7 +86,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100J",
-                  "name": "ENGL 0100J"
+                  "name": "Cultures and Countercultures: The American Novel after World War II"
                 }
               ],
               "count": null,
@@ -97,7 +98,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100M",
-                  "name": "ENGL 0100M"
+                  "name": "Writing War"
                 }
               ],
               "count": null,
@@ -109,7 +110,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100N",
-                  "name": "ENGL 0100N"
+                  "name": "City Novels"
                 }
               ],
               "count": null,
@@ -121,7 +122,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100P",
-                  "name": "ENGL 0100P"
+                  "name": "Love Stories"
                 }
               ],
               "count": null,
@@ -133,7 +134,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100Q",
-                  "name": "ENGL 0100Q"
+                  "name": "How Poems See"
                 }
               ],
               "count": null,
@@ -145,7 +146,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100R",
-                  "name": "ENGL 0100R"
+                  "name": "American Histories, American Novels"
                 }
               ],
               "count": null,
@@ -157,7 +158,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100S",
-                  "name": "ENGL 0100S"
+                  "name": "Being Romantic"
                 }
               ],
               "count": null,
@@ -169,7 +170,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100T",
-                  "name": "ENGL 0100T"
+                  "name": "The Simple Art of Murder"
                 }
               ],
               "count": null,
@@ -181,7 +182,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100U",
-                  "name": "ENGL 0100U"
+                  "name": "Serial Fictions"
                 }
               ],
               "count": null,
@@ -193,7 +194,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100V",
-                  "name": "ENGL 0100V"
+                  "name": "Inventing Asian American Literature"
                 }
               ],
               "count": null,
@@ -205,7 +206,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100W",
-                  "name": "ENGL 0100W"
+                  "name": "Literature Reformatted"
                 }
               ],
               "count": null,
@@ -217,7 +218,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100Y",
-                  "name": "ENGL 0100Y"
+                  "name": "Do the Right Thing"
                 }
               ],
               "count": null,
@@ -229,7 +230,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101A",
-                  "name": "ENGL 0101A"
+                  "name": "Independence and Modern Literature"
                 }
               ],
               "count": null,
@@ -241,7 +242,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101B",
-                  "name": "ENGL 0101B"
+                  "name": "Earth Poetics: Literature and Climate Change"
                 }
               ],
               "count": null,
@@ -251,7 +252,7 @@
           "notes": []
         },
         {
-          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700): 1",
+          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -265,7 +266,7 @@
           "notes": []
         },
         {
-          "name": "3. ONE course in Literatures of Modernity (Post-1700): 1",
+          "name": "3. ONE course in Literatures of Modernity (Post-1700):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -279,7 +280,7 @@
           "notes": []
         },
         {
-          "name": "4. ONE course in Literatures of the Color Line: 1",
+          "name": "4. ONE course in Literatures of the Color Line:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -296,7 +297,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100F",
-                  "name": "ENGL 0100F"
+                  "name": "Devils, Demons, Do-Gooders"
                 }
               ],
               "count": null,
@@ -308,7 +309,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100N",
-                  "name": "ENGL 0100N"
+                  "name": "City Novels"
                 }
               ],
               "count": null,
@@ -320,7 +321,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100S",
-                  "name": "ENGL 0100S"
+                  "name": "Being Romantic"
                 }
               ],
               "count": null,
@@ -332,7 +333,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100V",
-                  "name": "ENGL 0100V"
+                  "name": "Inventing Asian American Literature"
                 }
               ],
               "count": null,
@@ -344,7 +345,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101A",
-                  "name": "ENGL 0101A"
+                  "name": "Independence and Modern Literature"
                 }
               ],
               "count": null,
@@ -356,7 +357,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150X",
-                  "name": "ENGL 0150X"
+                  "name": "The Claims of Fiction"
                 }
               ],
               "count": null,
@@ -368,7 +369,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150Y",
-                  "name": "ENGL 0150Y"
+                  "name": "Bront\u00ebs and Bront\u00ebism"
                 }
               ],
               "count": null,
@@ -380,7 +381,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700E",
-                  "name": "ENGL 0700E"
+                  "name": "Postcolonial Literature"
                 }
               ],
               "count": null,
@@ -392,7 +393,7 @@
               "courses": [
                 {
                   "code": "ENGL 0500R",
-                  "name": "ENGL 0500R"
+                  "name": "Slavery and American Literature"
                 }
               ],
               "count": null,
@@ -404,7 +405,7 @@
               "courses": [
                 {
                   "code": "ENGL 0510F",
-                  "name": "ENGL 0510F"
+                  "name": "Literature of the American Renaissance"
                 }
               ],
               "count": null,
@@ -416,7 +417,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700G",
-                  "name": "ENGL 0700G"
+                  "name": "American Fiction and Mass Culture"
                 }
               ],
               "count": null,
@@ -428,7 +429,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700U",
-                  "name": "ENGL 0700U"
+                  "name": "Modernism and Race"
                 }
               ],
               "count": null,
@@ -440,7 +441,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710B",
-                  "name": "ENGL 0710B"
+                  "name": "African American Literature and the Legacies of Slavery"
                 }
               ],
               "count": null,
@@ -452,7 +453,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710Q",
-                  "name": "ENGL 0710Q"
+                  "name": "American Literature in the Era of Segregation"
                 }
               ],
               "count": null,
@@ -464,7 +465,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710V",
-                  "name": "ENGL 0710V"
+                  "name": "Death and Dying in Black Literature"
                 }
               ],
               "count": null,
@@ -476,7 +477,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710W",
-                  "name": "ENGL 0710W"
+                  "name": "Readings in Black and Queer"
                 }
               ],
               "count": null,
@@ -488,7 +489,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710X",
-                  "name": "ENGL 0710X"
+                  "name": "Black Poetics"
                 }
               ],
               "count": null,
@@ -500,7 +501,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710Y",
-                  "name": "ENGL 0710Y"
+                  "name": "Literature of US Inequality, 1945-2020"
                 }
               ],
               "count": null,
@@ -512,7 +513,7 @@
               "courses": [
                 {
                   "code": "ENGL 1310H",
-                  "name": "ENGL 1310H"
+                  "name": "The Origins of American Literature"
                 }
               ],
               "count": null,
@@ -524,7 +525,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511A",
-                  "name": "ENGL 1511A"
+                  "name": "American Literature and the Civil War"
                 }
               ],
               "count": null,
@@ -536,7 +537,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511C",
-                  "name": "ENGL 1511C"
+                  "name": "Lincoln, Whitman, and The Civil War"
                 }
               ],
               "count": null,
@@ -548,7 +549,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511P",
-                  "name": "ENGL 1511P"
+                  "name": "Realism, Modernism, Postmodernism: The American Novel and its Traditions"
                 }
               ],
               "count": null,
@@ -560,7 +561,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710I",
-                  "name": "ENGL 1710I"
+                  "name": "Harlem Renaissance: The Politics of Culture"
                 }
               ],
               "count": null,
@@ -572,7 +573,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710J",
-                  "name": "ENGL 1710J"
+                  "name": "Modern African Literature"
                 }
               ],
               "count": null,
@@ -584,7 +585,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710K",
-                  "name": "ENGL 1710K"
+                  "name": "Literature and the Problem of Poverty"
                 }
               ],
               "count": null,
@@ -596,7 +597,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710M",
-                  "name": "ENGL 1710M"
+                  "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
                 }
               ],
               "count": null,
@@ -608,7 +609,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710P",
-                  "name": "ENGL 1710P"
+                  "name": "The Literature and Culture of Black Power Reconsidered"
                 }
               ],
               "count": null,
@@ -620,7 +621,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711D",
-                  "name": "ENGL 1711D"
+                  "name": "Reading New York"
                 }
               ],
               "count": null,
@@ -632,7 +633,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711H",
-                  "name": "ENGL 1711H"
+                  "name": "Lyric Concepts: The Question of Identity in Modern and Contemporary Poetry"
                 }
               ],
               "count": null,
@@ -644,7 +645,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711J",
-                  "name": "ENGL 1711J"
+                  "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
                 }
               ],
               "count": null,
@@ -656,7 +657,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711K",
-                  "name": "ENGL 1711K"
+                  "name": "The Politics of Perspective: Post-war British Fiction"
                 }
               ],
               "count": null,
@@ -668,7 +669,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711L",
-                  "name": "ENGL 1711L"
+                  "name": "Contemporary Black Women's Literature"
                 }
               ],
               "count": null,
@@ -680,7 +681,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711N",
-                  "name": "ENGL 1711N"
+                  "name": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature"
                 }
               ],
               "count": null,
@@ -692,7 +693,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711O",
-                  "name": "ENGL 1711O"
+                  "name": "Radical Pasts, Radical Futures: Literature and the Left"
                 }
               ],
               "count": null,
@@ -704,7 +705,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711S",
-                  "name": "ENGL 1711S"
+                  "name": "James Baldwin"
                 }
               ],
               "count": null,
@@ -716,7 +717,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760U",
-                  "name": "ENGL 1760U"
+                  "name": "American Modernism and its Aftermaths"
                 }
               ],
               "count": null,
@@ -728,7 +729,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760Y",
-                  "name": "ENGL 1760Y"
+                  "name": "Toni Morrison"
                 }
               ],
               "count": null,
@@ -740,7 +741,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761B",
-                  "name": "ENGL 1761B"
+                  "name": "Narratives of Blackness in Latinx and Latin America"
                 }
               ],
               "count": null,
@@ -752,7 +753,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761E",
-                  "name": "ENGL 1761E"
+                  "name": "Blackness and Being"
                 }
               ],
               "count": null,
@@ -764,7 +765,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761F",
-                  "name": "ENGL 1761F"
+                  "name": "Toni Morrison"
                 }
               ],
               "count": null,
@@ -776,7 +777,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761G",
-                  "name": "ENGL 1761G"
+                  "name": "Translational Echoes of the Korean War"
                 }
               ],
               "count": null,
@@ -788,7 +789,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761V",
-                  "name": "ENGL 1761V"
+                  "name": "The Korean War in Color"
                 }
               ],
               "count": null,
@@ -800,7 +801,7 @@
               "courses": [
                 {
                   "code": "ENGL 1762M",
-                  "name": "ENGL 1762M"
+                  "name": "Caribbean Literature"
                 }
               ],
               "count": null,
@@ -812,7 +813,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900D",
-                  "name": "ENGL 1900D"
+                  "name": "Literature and Politics"
                 }
               ],
               "count": null,
@@ -824,7 +825,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901J",
-                  "name": "ENGL 1901J"
+                  "name": "Fanon and Spillers"
                 }
               ],
               "count": null,
@@ -836,7 +837,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950H",
-                  "name": "ENGL 1950H"
+                  "name": "The Recent Novel and its Cultural Rivals"
                 }
               ],
               "count": null,
@@ -846,7 +847,7 @@
           "notes": []
         },
         {
-          "name": "5. ONE course in Literary Theory and Cultural Critique: 1",
+          "name": "5. ONE course in Literary Theory and Cultural Critique:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -863,7 +864,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150W",
-                  "name": "ENGL 0150W"
+                  "name": "Literature and the Visual Arts"
                 }
               ],
               "count": null,
@@ -875,7 +876,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700E",
-                  "name": "ENGL 0700E"
+                  "name": "Postcolonial Literature"
                 }
               ],
               "count": null,
@@ -887,7 +888,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710L",
-                  "name": "ENGL 0710L"
+                  "name": "Ishiguro, Amongst Others"
                 }
               ],
               "count": null,
@@ -899,7 +900,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710R",
-                  "name": "ENGL 0710R"
+                  "name": "Poetry and Science"
                 }
               ],
               "count": null,
@@ -911,7 +912,7 @@
               "courses": [
                 {
                   "code": "ENGL 0711B",
-                  "name": "ENGL 0711B"
+                  "name": "Trans Cultural Production and Trans Studies"
                 }
               ],
               "count": null,
@@ -923,7 +924,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710W",
-                  "name": "ENGL 0710W"
+                  "name": "Readings in Black and Queer"
                 }
               ],
               "count": null,
@@ -935,7 +936,7 @@
               "courses": [
                 {
                   "code": "ENGL 1140A",
-                  "name": "ENGL 1140A"
+                  "name": "Intellectual Pleasures: Reading/Writing the Literary Text"
                 }
               ],
               "count": null,
@@ -947,7 +948,7 @@
               "courses": [
                 {
                   "code": "ENGL 1190S",
-                  "name": "ENGL 1190S"
+                  "name": "Poetics of Narrative"
                 }
               ],
               "count": null,
@@ -959,7 +960,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511Y",
-                  "name": "ENGL 1511Y"
+                  "name": "Emily Dickinson and the Theory of Lyric Form"
                 }
               ],
               "count": null,
@@ -971,7 +972,7 @@
               "courses": [
                 {
                   "code": "ENGL 1561D",
-                  "name": "ENGL 1561D"
+                  "name": "Writing and the Ruins of Empire"
                 }
               ],
               "count": null,
@@ -983,7 +984,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710M",
-                  "name": "ENGL 1710M"
+                  "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
                 }
               ],
               "count": null,
@@ -995,7 +996,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711K",
-                  "name": "ENGL 1711K"
+                  "name": "The Politics of Perspective: Post-war British Fiction"
                 }
               ],
               "count": null,
@@ -1007,7 +1008,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711J",
-                  "name": "ENGL 1711J"
+                  "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
                 }
               ],
               "count": null,
@@ -1019,7 +1020,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760J",
-                  "name": "ENGL 1760J"
+                  "name": "ReadingGravity's Rainbow"
                 }
               ],
               "count": null,
@@ -1031,7 +1032,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761D",
-                  "name": "ENGL 1761D"
+                  "name": "Hollywood and American Modernism from FDR to JFK"
                 }
               ],
               "count": null,
@@ -1043,7 +1044,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761L",
-                  "name": "ENGL 1761L"
+                  "name": "Reading the Black Masses in Literature and Critical Practice"
                 }
               ],
               "count": null,
@@ -1055,7 +1056,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761Q",
-                  "name": "ENGL 1761Q"
+                  "name": "W. G. Sebald and Some Interlocutors"
                 }
               ],
               "count": null,
@@ -1067,7 +1068,7 @@
               "courses": [
                 {
                   "code": "ENGL 1762D",
-                  "name": "ENGL 1762D"
+                  "name": "Kubrick"
                 }
               ],
               "count": null,
@@ -1079,7 +1080,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900D",
-                  "name": "ENGL 1900D"
+                  "name": "Literature and Politics"
                 }
               ],
               "count": null,
@@ -1091,7 +1092,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900J",
-                  "name": "ENGL 1900J"
+                  "name": "Zoopoetics"
                 }
               ],
               "count": null,
@@ -1103,7 +1104,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900K",
-                  "name": "ENGL 1900K"
+                  "name": "Reading Sex"
                 }
               ],
               "count": null,
@@ -1115,7 +1116,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900P",
-                  "name": "ENGL 1900P"
+                  "name": "History of Criticism from Plato to Postmodernism"
                 }
               ],
               "count": null,
@@ -1127,7 +1128,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Y",
-                  "name": "ENGL 1900Y"
+                  "name": "Medieval Manuscript Studies: Paleography, Codicology, and Interpretation"
                 }
               ],
               "count": null,
@@ -1139,7 +1140,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Z",
-                  "name": "ENGL 1900Z"
+                  "name": "Neuroaesthetics and Reading"
                 }
               ],
               "count": null,
@@ -1151,7 +1152,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901H",
-                  "name": "ENGL 1901H"
+                  "name": "The Late 60s: Film Countercultures"
                 }
               ],
               "count": null,
@@ -1163,7 +1164,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901L",
-                  "name": "ENGL 1901L"
+                  "name": "Cronenberg/Lynch"
                 }
               ],
               "count": null,
@@ -1175,7 +1176,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901J",
-                  "name": "ENGL 1901J"
+                  "name": "Fanon and Spillers"
                 }
               ],
               "count": null,
@@ -1187,7 +1188,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901Q",
-                  "name": "ENGL 1901Q"
+                  "name": "You Better Work: Sexuality, Labor, Blackness"
                 }
               ],
               "count": null,
@@ -1199,7 +1200,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950G",
-                  "name": "ENGL 1950G"
+                  "name": "Reading Narrative Theory"
                 }
               ],
               "count": null,
@@ -1211,7 +1212,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950H",
-                  "name": "ENGL 1950H"
+                  "name": "The Recent Novel and its Cultural Rivals"
                 }
               ],
               "count": null,
@@ -1223,7 +1224,7 @@
               "courses": [
                 {
                   "code": "ENGL 2360Z",
-                  "name": "ENGL 2360Z"
+                  "name": "Shakespeare: a Politics of Love"
                 }
               ],
               "count": null,
@@ -1235,7 +1236,7 @@
               "courses": [
                 {
                   "code": "ENGL 2761C",
-                  "name": "ENGL 2761C"
+                  "name": "Black Internationalism and Its Discontents"
                 }
               ],
               "count": null,
@@ -1247,7 +1248,7 @@
               "courses": [
                 {
                   "code": "ENGL 2561V",
-                  "name": "ENGL 2561V"
+                  "name": "The Pursuit of Happiness: Transatlantic Literary Culture in the Long Eighteenth Century"
                 }
               ],
               "count": null,
@@ -1259,7 +1260,7 @@
               "courses": [
                 {
                   "code": "ENGL 2900N",
-                  "name": "ENGL 2900N"
+                  "name": "Ethical Turns in Psychoanalysis and Literature"
                 }
               ],
               "count": null,
@@ -1271,7 +1272,7 @@
               "courses": [
                 {
                   "code": "ENGL 2900X",
-                  "name": "ENGL 2900X"
+                  "name": "Postcolonial Theory"
                 }
               ],
               "count": null,
@@ -1283,7 +1284,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901D",
-                  "name": "ENGL 2901D"
+                  "name": "War and the Politics of Cultural Memory"
                 }
               ],
               "count": null,
@@ -1295,7 +1296,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901K",
-                  "name": "ENGL 2901K"
+                  "name": "Theory, Technics, Religion"
                 }
               ],
               "count": null,
@@ -1307,7 +1308,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901P",
-                  "name": "ENGL 2901P"
+                  "name": "Black Feminism: Roots, Routes, Futures"
                 }
               ],
               "count": null,
@@ -1317,7 +1318,7 @@
           "notes": []
         },
         {
-          "name": "6. FIVE electives 2 5",
+          "name": "6. FIVE electives",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -1329,721 +1330,721 @@
           "type": "required",
           "course": {
             "code": "ENGL 0100A",
-            "name": "ENGL 0100A"
+            "name": "How To Read A Poem"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100C",
-            "name": "ENGL 0100C"
+            "name": "Altered States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100D",
-            "name": "ENGL 0100D"
+            "name": "Matters of Romance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100F",
-            "name": "ENGL 0100F"
+            "name": "Devils, Demons, Do-Gooders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100G",
-            "name": "ENGL 0100G"
+            "name": "The Literature of Identity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100J",
-            "name": "ENGL 0100J"
+            "name": "Cultures and Countercultures: The American Novel after World War II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100M",
-            "name": "ENGL 0100M"
+            "name": "Writing War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100N",
-            "name": "ENGL 0100N"
+            "name": "City Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100P",
-            "name": "ENGL 0100P"
+            "name": "Love Stories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100Q",
-            "name": "ENGL 0100Q"
+            "name": "How Poems See"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100R",
-            "name": "ENGL 0100R"
+            "name": "American Histories, American Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100S",
-            "name": "ENGL 0100S"
+            "name": "Being Romantic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100T",
-            "name": "ENGL 0100T"
+            "name": "The Simple Art of Murder"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100U",
-            "name": "ENGL 0100U"
+            "name": "Serial Fictions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100V",
-            "name": "ENGL 0100V"
+            "name": "Inventing Asian American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100W",
-            "name": "ENGL 0100W"
+            "name": "Literature Reformatted"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100Y",
-            "name": "ENGL 0100Y"
+            "name": "Do the Right Thing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101A",
-            "name": "ENGL 0101A"
+            "name": "Independence and Modern Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101B",
-            "name": "ENGL 0101B"
+            "name": "Earth Poetics: Literature and Climate Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100F",
-            "name": "ENGL 0100F"
+            "name": "Devils, Demons, Do-Gooders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100N",
-            "name": "ENGL 0100N"
+            "name": "City Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100S",
-            "name": "ENGL 0100S"
+            "name": "Being Romantic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100V",
-            "name": "ENGL 0100V"
+            "name": "Inventing Asian American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101A",
-            "name": "ENGL 0101A"
+            "name": "Independence and Modern Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150X",
-            "name": "ENGL 0150X"
+            "name": "The Claims of Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150Y",
-            "name": "ENGL 0150Y"
+            "name": "Bront\u00ebs and Bront\u00ebism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700E",
-            "name": "ENGL 0700E"
+            "name": "Postcolonial Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0500R",
-            "name": "ENGL 0500R"
+            "name": "Slavery and American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0510F",
-            "name": "ENGL 0510F"
+            "name": "Literature of the American Renaissance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700G",
-            "name": "ENGL 0700G"
+            "name": "American Fiction and Mass Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700U",
-            "name": "ENGL 0700U"
+            "name": "Modernism and Race"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710B",
-            "name": "ENGL 0710B"
+            "name": "African American Literature and the Legacies of Slavery"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710Q",
-            "name": "ENGL 0710Q"
+            "name": "American Literature in the Era of Segregation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710V",
-            "name": "ENGL 0710V"
+            "name": "Death and Dying in Black Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710W",
-            "name": "ENGL 0710W"
+            "name": "Readings in Black and Queer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710X",
-            "name": "ENGL 0710X"
+            "name": "Black Poetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710Y",
-            "name": "ENGL 0710Y"
+            "name": "Literature of US Inequality, 1945-2020"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1310H",
-            "name": "ENGL 1310H"
+            "name": "The Origins of American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511A",
-            "name": "ENGL 1511A"
+            "name": "American Literature and the Civil War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511C",
-            "name": "ENGL 1511C"
+            "name": "Lincoln, Whitman, and The Civil War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511P",
-            "name": "ENGL 1511P"
+            "name": "Realism, Modernism, Postmodernism: The American Novel and its Traditions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710I",
-            "name": "ENGL 1710I"
+            "name": "Harlem Renaissance: The Politics of Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710J",
-            "name": "ENGL 1710J"
+            "name": "Modern African Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710K",
-            "name": "ENGL 1710K"
+            "name": "Literature and the Problem of Poverty"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710M",
-            "name": "ENGL 1710M"
+            "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710P",
-            "name": "ENGL 1710P"
+            "name": "The Literature and Culture of Black Power Reconsidered"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711D",
-            "name": "ENGL 1711D"
+            "name": "Reading New York"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711H",
-            "name": "ENGL 1711H"
+            "name": "Lyric Concepts: The Question of Identity in Modern and Contemporary Poetry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711J",
-            "name": "ENGL 1711J"
+            "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711K",
-            "name": "ENGL 1711K"
+            "name": "The Politics of Perspective: Post-war British Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711L",
-            "name": "ENGL 1711L"
+            "name": "Contemporary Black Women's Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711N",
-            "name": "ENGL 1711N"
+            "name": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711O",
-            "name": "ENGL 1711O"
+            "name": "Radical Pasts, Radical Futures: Literature and the Left"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711S",
-            "name": "ENGL 1711S"
+            "name": "James Baldwin"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760U",
-            "name": "ENGL 1760U"
+            "name": "American Modernism and its Aftermaths"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760Y",
-            "name": "ENGL 1760Y"
+            "name": "Toni Morrison"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761B",
-            "name": "ENGL 1761B"
+            "name": "Narratives of Blackness in Latinx and Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761E",
-            "name": "ENGL 1761E"
+            "name": "Blackness and Being"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761F",
-            "name": "ENGL 1761F"
+            "name": "Toni Morrison"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761G",
-            "name": "ENGL 1761G"
+            "name": "Translational Echoes of the Korean War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761V",
-            "name": "ENGL 1761V"
+            "name": "The Korean War in Color"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1762M",
-            "name": "ENGL 1762M"
+            "name": "Caribbean Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900D",
-            "name": "ENGL 1900D"
+            "name": "Literature and Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901J",
-            "name": "ENGL 1901J"
+            "name": "Fanon and Spillers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950H",
-            "name": "ENGL 1950H"
+            "name": "The Recent Novel and its Cultural Rivals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150W",
-            "name": "ENGL 0150W"
+            "name": "Literature and the Visual Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700E",
-            "name": "ENGL 0700E"
+            "name": "Postcolonial Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710L",
-            "name": "ENGL 0710L"
+            "name": "Ishiguro, Amongst Others"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710R",
-            "name": "ENGL 0710R"
+            "name": "Poetry and Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0711B",
-            "name": "ENGL 0711B"
+            "name": "Trans Cultural Production and Trans Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710W",
-            "name": "ENGL 0710W"
+            "name": "Readings in Black and Queer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1140A",
-            "name": "ENGL 1140A"
+            "name": "Intellectual Pleasures: Reading/Writing the Literary Text"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1190S",
-            "name": "ENGL 1190S"
+            "name": "Poetics of Narrative"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511Y",
-            "name": "ENGL 1511Y"
+            "name": "Emily Dickinson and the Theory of Lyric Form"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1561D",
-            "name": "ENGL 1561D"
+            "name": "Writing and the Ruins of Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710M",
-            "name": "ENGL 1710M"
+            "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711K",
-            "name": "ENGL 1711K"
+            "name": "The Politics of Perspective: Post-war British Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711J",
-            "name": "ENGL 1711J"
+            "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760J",
-            "name": "ENGL 1760J"
+            "name": "ReadingGravity's Rainbow"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761D",
-            "name": "ENGL 1761D"
+            "name": "Hollywood and American Modernism from FDR to JFK"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761L",
-            "name": "ENGL 1761L"
+            "name": "Reading the Black Masses in Literature and Critical Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761Q",
-            "name": "ENGL 1761Q"
+            "name": "W. G. Sebald and Some Interlocutors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1762D",
-            "name": "ENGL 1762D"
+            "name": "Kubrick"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900D",
-            "name": "ENGL 1900D"
+            "name": "Literature and Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900J",
-            "name": "ENGL 1900J"
+            "name": "Zoopoetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900K",
-            "name": "ENGL 1900K"
+            "name": "Reading Sex"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900P",
-            "name": "ENGL 1900P"
+            "name": "History of Criticism from Plato to Postmodernism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Y",
-            "name": "ENGL 1900Y"
+            "name": "Medieval Manuscript Studies: Paleography, Codicology, and Interpretation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Z",
-            "name": "ENGL 1900Z"
+            "name": "Neuroaesthetics and Reading"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901H",
-            "name": "ENGL 1901H"
+            "name": "The Late 60s: Film Countercultures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901L",
-            "name": "ENGL 1901L"
+            "name": "Cronenberg/Lynch"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901J",
-            "name": "ENGL 1901J"
+            "name": "Fanon and Spillers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901Q",
-            "name": "ENGL 1901Q"
+            "name": "You Better Work: Sexuality, Labor, Blackness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950G",
-            "name": "ENGL 1950G"
+            "name": "Reading Narrative Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950H",
-            "name": "ENGL 1950H"
+            "name": "The Recent Novel and its Cultural Rivals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2360Z",
-            "name": "ENGL 2360Z"
+            "name": "Shakespeare: a Politics of Love"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2761C",
-            "name": "ENGL 2761C"
+            "name": "Black Internationalism and Its Discontents"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2561V",
-            "name": "ENGL 2561V"
+            "name": "The Pursuit of Happiness: Transatlantic Literary Culture in the Long Eighteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2900N",
-            "name": "ENGL 2900N"
+            "name": "Ethical Turns in Psychoanalysis and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2900X",
-            "name": "ENGL 2900X"
+            "name": "Postcolonial Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901D",
-            "name": "ENGL 2901D"
+            "name": "War and the Politics of Cultural Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901K",
-            "name": "ENGL 2901K"
+            "name": "Theory, Technics, Religion"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901P",
-            "name": "ENGL 2901P"
+            "name": "Black Feminism: Roots, Routes, Futures"
           }
         }
       ],
@@ -2054,7 +2055,7 @@
       "name": "Concentration Requirements",
       "groups": [
         {
-          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101): 1",
+          "name": "1. ONE course in \"How Literature Matters\" (ENGL0100, 0101):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2071,7 +2072,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100A",
-                  "name": "ENGL 0100A"
+                  "name": "How To Read A Poem"
                 }
               ],
               "count": null,
@@ -2083,7 +2084,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100C",
-                  "name": "ENGL 0100C"
+                  "name": "Altered States"
                 }
               ],
               "count": null,
@@ -2095,7 +2096,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100D",
-                  "name": "ENGL 0100D"
+                  "name": "Matters of Romance"
                 }
               ],
               "count": null,
@@ -2107,7 +2108,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100F",
-                  "name": "ENGL 0100F"
+                  "name": "Devils, Demons, Do-Gooders"
                 }
               ],
               "count": null,
@@ -2119,7 +2120,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100G",
-                  "name": "ENGL 0100G"
+                  "name": "The Literature of Identity"
                 }
               ],
               "count": null,
@@ -2131,7 +2132,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100J",
-                  "name": "ENGL 0100J"
+                  "name": "Cultures and Countercultures: The American Novel after World War II"
                 }
               ],
               "count": null,
@@ -2143,7 +2144,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100M",
-                  "name": "ENGL 0100M"
+                  "name": "Writing War"
                 }
               ],
               "count": null,
@@ -2155,7 +2156,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100N",
-                  "name": "ENGL 0100N"
+                  "name": "City Novels"
                 }
               ],
               "count": null,
@@ -2167,7 +2168,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100P",
-                  "name": "ENGL 0100P"
+                  "name": "Love Stories"
                 }
               ],
               "count": null,
@@ -2179,7 +2180,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100Q",
-                  "name": "ENGL 0100Q"
+                  "name": "How Poems See"
                 }
               ],
               "count": null,
@@ -2191,7 +2192,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100R",
-                  "name": "ENGL 0100R"
+                  "name": "American Histories, American Novels"
                 }
               ],
               "count": null,
@@ -2203,7 +2204,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100S",
-                  "name": "ENGL 0100S"
+                  "name": "Being Romantic"
                 }
               ],
               "count": null,
@@ -2215,7 +2216,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100T",
-                  "name": "ENGL 0100T"
+                  "name": "The Simple Art of Murder"
                 }
               ],
               "count": null,
@@ -2227,7 +2228,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100U",
-                  "name": "ENGL 0100U"
+                  "name": "Serial Fictions"
                 }
               ],
               "count": null,
@@ -2239,7 +2240,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100V",
-                  "name": "ENGL 0100V"
+                  "name": "Inventing Asian American Literature"
                 }
               ],
               "count": null,
@@ -2251,7 +2252,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100W",
-                  "name": "ENGL 0100W"
+                  "name": "Literature Reformatted"
                 }
               ],
               "count": null,
@@ -2263,7 +2264,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100Y",
-                  "name": "ENGL 0100Y"
+                  "name": "Do the Right Thing"
                 }
               ],
               "count": null,
@@ -2275,7 +2276,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101A",
-                  "name": "ENGL 0101A"
+                  "name": "Independence and Modern Literature"
                 }
               ],
               "count": null,
@@ -2287,7 +2288,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101B",
-                  "name": "ENGL 0101B"
+                  "name": "Earth Poetics: Literature and Climate Change"
                 }
               ],
               "count": null,
@@ -2297,7 +2298,7 @@
           "notes": []
         },
         {
-          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700): 1",
+          "name": "2. ONE course in Medieval and Renaissance Literatures (Pre-1700):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2311,7 +2312,7 @@
           "notes": []
         },
         {
-          "name": "3. ONE course in Literatures of Modernity (Post-1700): 1",
+          "name": "3. ONE course in Literatures of Modernity (Post-1700):",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2325,7 +2326,7 @@
           "notes": []
         },
         {
-          "name": "4. ONE course in Literatures of the Color Line: 1",
+          "name": "4. ONE course in Literatures of the Color Line:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2342,7 +2343,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100F",
-                  "name": "ENGL 0100F"
+                  "name": "Devils, Demons, Do-Gooders"
                 }
               ],
               "count": null,
@@ -2354,7 +2355,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100N",
-                  "name": "ENGL 0100N"
+                  "name": "City Novels"
                 }
               ],
               "count": null,
@@ -2366,7 +2367,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100S",
-                  "name": "ENGL 0100S"
+                  "name": "Being Romantic"
                 }
               ],
               "count": null,
@@ -2378,7 +2379,7 @@
               "courses": [
                 {
                   "code": "ENGL 0100V",
-                  "name": "ENGL 0100V"
+                  "name": "Inventing Asian American Literature"
                 }
               ],
               "count": null,
@@ -2390,7 +2391,7 @@
               "courses": [
                 {
                   "code": "ENGL 0101A",
-                  "name": "ENGL 0101A"
+                  "name": "Independence and Modern Literature"
                 }
               ],
               "count": null,
@@ -2402,7 +2403,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150X",
-                  "name": "ENGL 0150X"
+                  "name": "The Claims of Fiction"
                 }
               ],
               "count": null,
@@ -2414,7 +2415,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150Y",
-                  "name": "ENGL 0150Y"
+                  "name": "Bront\u00ebs and Bront\u00ebism"
                 }
               ],
               "count": null,
@@ -2426,7 +2427,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700E",
-                  "name": "ENGL 0700E"
+                  "name": "Postcolonial Literature"
                 }
               ],
               "count": null,
@@ -2438,7 +2439,7 @@
               "courses": [
                 {
                   "code": "ENGL 0500R",
-                  "name": "ENGL 0500R"
+                  "name": "Slavery and American Literature"
                 }
               ],
               "count": null,
@@ -2450,7 +2451,7 @@
               "courses": [
                 {
                   "code": "ENGL 0510F",
-                  "name": "ENGL 0510F"
+                  "name": "Literature of the American Renaissance"
                 }
               ],
               "count": null,
@@ -2462,7 +2463,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700G",
-                  "name": "ENGL 0700G"
+                  "name": "American Fiction and Mass Culture"
                 }
               ],
               "count": null,
@@ -2474,7 +2475,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700U",
-                  "name": "ENGL 0700U"
+                  "name": "Modernism and Race"
                 }
               ],
               "count": null,
@@ -2486,7 +2487,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710B",
-                  "name": "ENGL 0710B"
+                  "name": "African American Literature and the Legacies of Slavery"
                 }
               ],
               "count": null,
@@ -2498,7 +2499,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710Q",
-                  "name": "ENGL 0710Q"
+                  "name": "American Literature in the Era of Segregation"
                 }
               ],
               "count": null,
@@ -2510,7 +2511,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710V",
-                  "name": "ENGL 0710V"
+                  "name": "Death and Dying in Black Literature"
                 }
               ],
               "count": null,
@@ -2522,7 +2523,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710W",
-                  "name": "ENGL 0710W"
+                  "name": "Readings in Black and Queer"
                 }
               ],
               "count": null,
@@ -2534,7 +2535,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710X",
-                  "name": "ENGL 0710X"
+                  "name": "Black Poetics"
                 }
               ],
               "count": null,
@@ -2546,7 +2547,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710Y",
-                  "name": "ENGL 0710Y"
+                  "name": "Literature of US Inequality, 1945-2020"
                 }
               ],
               "count": null,
@@ -2558,7 +2559,7 @@
               "courses": [
                 {
                   "code": "ENGL 1310H",
-                  "name": "ENGL 1310H"
+                  "name": "The Origins of American Literature"
                 }
               ],
               "count": null,
@@ -2570,7 +2571,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511A",
-                  "name": "ENGL 1511A"
+                  "name": "American Literature and the Civil War"
                 }
               ],
               "count": null,
@@ -2582,7 +2583,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511C",
-                  "name": "ENGL 1511C"
+                  "name": "Lincoln, Whitman, and The Civil War"
                 }
               ],
               "count": null,
@@ -2594,7 +2595,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511P",
-                  "name": "ENGL 1511P"
+                  "name": "Realism, Modernism, Postmodernism: The American Novel and its Traditions"
                 }
               ],
               "count": null,
@@ -2606,7 +2607,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710I",
-                  "name": "ENGL 1710I"
+                  "name": "Harlem Renaissance: The Politics of Culture"
                 }
               ],
               "count": null,
@@ -2618,7 +2619,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710J",
-                  "name": "ENGL 1710J"
+                  "name": "Modern African Literature"
                 }
               ],
               "count": null,
@@ -2630,7 +2631,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710K",
-                  "name": "ENGL 1710K"
+                  "name": "Literature and the Problem of Poverty"
                 }
               ],
               "count": null,
@@ -2642,7 +2643,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710M",
-                  "name": "ENGL 1710M"
+                  "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
                 }
               ],
               "count": null,
@@ -2654,7 +2655,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710P",
-                  "name": "ENGL 1710P"
+                  "name": "The Literature and Culture of Black Power Reconsidered"
                 }
               ],
               "count": null,
@@ -2666,7 +2667,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711D",
-                  "name": "ENGL 1711D"
+                  "name": "Reading New York"
                 }
               ],
               "count": null,
@@ -2678,7 +2679,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711H",
-                  "name": "ENGL 1711H"
+                  "name": "Lyric Concepts: The Question of Identity in Modern and Contemporary Poetry"
                 }
               ],
               "count": null,
@@ -2690,7 +2691,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711J",
-                  "name": "ENGL 1711J"
+                  "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
                 }
               ],
               "count": null,
@@ -2702,7 +2703,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711K",
-                  "name": "ENGL 1711K"
+                  "name": "The Politics of Perspective: Post-war British Fiction"
                 }
               ],
               "count": null,
@@ -2714,7 +2715,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711L",
-                  "name": "ENGL 1711L"
+                  "name": "Contemporary Black Women's Literature"
                 }
               ],
               "count": null,
@@ -2726,7 +2727,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711N",
-                  "name": "ENGL 1711N"
+                  "name": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature"
                 }
               ],
               "count": null,
@@ -2738,7 +2739,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711O",
-                  "name": "ENGL 1711O"
+                  "name": "Radical Pasts, Radical Futures: Literature and the Left"
                 }
               ],
               "count": null,
@@ -2750,7 +2751,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711S",
-                  "name": "ENGL 1711S"
+                  "name": "James Baldwin"
                 }
               ],
               "count": null,
@@ -2762,7 +2763,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760U",
-                  "name": "ENGL 1760U"
+                  "name": "American Modernism and its Aftermaths"
                 }
               ],
               "count": null,
@@ -2774,7 +2775,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760Y",
-                  "name": "ENGL 1760Y"
+                  "name": "Toni Morrison"
                 }
               ],
               "count": null,
@@ -2786,7 +2787,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761B",
-                  "name": "ENGL 1761B"
+                  "name": "Narratives of Blackness in Latinx and Latin America"
                 }
               ],
               "count": null,
@@ -2798,7 +2799,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761E",
-                  "name": "ENGL 1761E"
+                  "name": "Blackness and Being"
                 }
               ],
               "count": null,
@@ -2810,7 +2811,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761F",
-                  "name": "ENGL 1761F"
+                  "name": "Toni Morrison"
                 }
               ],
               "count": null,
@@ -2822,7 +2823,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761G",
-                  "name": "ENGL 1761G"
+                  "name": "Translational Echoes of the Korean War"
                 }
               ],
               "count": null,
@@ -2834,7 +2835,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761V",
-                  "name": "ENGL 1761V"
+                  "name": "The Korean War in Color"
                 }
               ],
               "count": null,
@@ -2846,7 +2847,7 @@
               "courses": [
                 {
                   "code": "ENGL 1762M",
-                  "name": "ENGL 1762M"
+                  "name": "Caribbean Literature"
                 }
               ],
               "count": null,
@@ -2858,7 +2859,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900D",
-                  "name": "ENGL 1900D"
+                  "name": "Literature and Politics"
                 }
               ],
               "count": null,
@@ -2870,7 +2871,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901J",
-                  "name": "ENGL 1901J"
+                  "name": "Fanon and Spillers"
                 }
               ],
               "count": null,
@@ -2882,7 +2883,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950H",
-                  "name": "ENGL 1950H"
+                  "name": "The Recent Novel and its Cultural Rivals"
                 }
               ],
               "count": null,
@@ -2892,7 +2893,7 @@
           "notes": []
         },
         {
-          "name": "5. ONE course in Literary Theory and Cultural Critique: 1",
+          "name": "5. ONE course in Literary Theory and Cultural Critique:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2909,7 +2910,7 @@
               "courses": [
                 {
                   "code": "ENGL 0150W",
-                  "name": "ENGL 0150W"
+                  "name": "Literature and the Visual Arts"
                 }
               ],
               "count": null,
@@ -2921,7 +2922,7 @@
               "courses": [
                 {
                   "code": "ENGL 0700E",
-                  "name": "ENGL 0700E"
+                  "name": "Postcolonial Literature"
                 }
               ],
               "count": null,
@@ -2933,7 +2934,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710L",
-                  "name": "ENGL 0710L"
+                  "name": "Ishiguro, Amongst Others"
                 }
               ],
               "count": null,
@@ -2945,7 +2946,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710R",
-                  "name": "ENGL 0710R"
+                  "name": "Poetry and Science"
                 }
               ],
               "count": null,
@@ -2957,7 +2958,7 @@
               "courses": [
                 {
                   "code": "ENGL 0711B",
-                  "name": "ENGL 0711B"
+                  "name": "Trans Cultural Production and Trans Studies"
                 }
               ],
               "count": null,
@@ -2969,7 +2970,7 @@
               "courses": [
                 {
                   "code": "ENGL 0710W",
-                  "name": "ENGL 0710W"
+                  "name": "Readings in Black and Queer"
                 }
               ],
               "count": null,
@@ -2981,7 +2982,7 @@
               "courses": [
                 {
                   "code": "ENGL 1140A",
-                  "name": "ENGL 1140A"
+                  "name": "Intellectual Pleasures: Reading/Writing the Literary Text"
                 }
               ],
               "count": null,
@@ -2993,7 +2994,7 @@
               "courses": [
                 {
                   "code": "ENGL 1190S",
-                  "name": "ENGL 1190S"
+                  "name": "Poetics of Narrative"
                 }
               ],
               "count": null,
@@ -3005,7 +3006,7 @@
               "courses": [
                 {
                   "code": "ENGL 1511Y",
-                  "name": "ENGL 1511Y"
+                  "name": "Emily Dickinson and the Theory of Lyric Form"
                 }
               ],
               "count": null,
@@ -3017,7 +3018,7 @@
               "courses": [
                 {
                   "code": "ENGL 1561D",
-                  "name": "ENGL 1561D"
+                  "name": "Writing and the Ruins of Empire"
                 }
               ],
               "count": null,
@@ -3029,7 +3030,7 @@
               "courses": [
                 {
                   "code": "ENGL 1710M",
-                  "name": "ENGL 1710M"
+                  "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
                 }
               ],
               "count": null,
@@ -3041,7 +3042,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711K",
-                  "name": "ENGL 1711K"
+                  "name": "The Politics of Perspective: Post-war British Fiction"
                 }
               ],
               "count": null,
@@ -3053,7 +3054,7 @@
               "courses": [
                 {
                   "code": "ENGL 1711J",
-                  "name": "ENGL 1711J"
+                  "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
                 }
               ],
               "count": null,
@@ -3065,7 +3066,7 @@
               "courses": [
                 {
                   "code": "ENGL 1760J",
-                  "name": "ENGL 1760J"
+                  "name": "ReadingGravity's Rainbow"
                 }
               ],
               "count": null,
@@ -3077,7 +3078,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761D",
-                  "name": "ENGL 1761D"
+                  "name": "Hollywood and American Modernism from FDR to JFK"
                 }
               ],
               "count": null,
@@ -3089,7 +3090,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761L",
-                  "name": "ENGL 1761L"
+                  "name": "Reading the Black Masses in Literature and Critical Practice"
                 }
               ],
               "count": null,
@@ -3101,7 +3102,7 @@
               "courses": [
                 {
                   "code": "ENGL 1761Q",
-                  "name": "ENGL 1761Q"
+                  "name": "W. G. Sebald and Some Interlocutors"
                 }
               ],
               "count": null,
@@ -3113,7 +3114,7 @@
               "courses": [
                 {
                   "code": "ENGL 1762D",
-                  "name": "ENGL 1762D"
+                  "name": "Kubrick"
                 }
               ],
               "count": null,
@@ -3125,7 +3126,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900D",
-                  "name": "ENGL 1900D"
+                  "name": "Literature and Politics"
                 }
               ],
               "count": null,
@@ -3137,7 +3138,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900J",
-                  "name": "ENGL 1900J"
+                  "name": "Zoopoetics"
                 }
               ],
               "count": null,
@@ -3149,7 +3150,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900K",
-                  "name": "ENGL 1900K"
+                  "name": "Reading Sex"
                 }
               ],
               "count": null,
@@ -3161,7 +3162,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900P",
-                  "name": "ENGL 1900P"
+                  "name": "History of Criticism from Plato to Postmodernism"
                 }
               ],
               "count": null,
@@ -3173,7 +3174,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Y",
-                  "name": "ENGL 1900Y"
+                  "name": "Medieval Manuscript Studies: Paleography, Codicology, and Interpretation"
                 }
               ],
               "count": null,
@@ -3185,7 +3186,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Z",
-                  "name": "ENGL 1900Z"
+                  "name": "Neuroaesthetics and Reading"
                 }
               ],
               "count": null,
@@ -3197,7 +3198,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901H",
-                  "name": "ENGL 1901H"
+                  "name": "The Late 60s: Film Countercultures"
                 }
               ],
               "count": null,
@@ -3209,7 +3210,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901L",
-                  "name": "ENGL 1901L"
+                  "name": "Cronenberg/Lynch"
                 }
               ],
               "count": null,
@@ -3221,7 +3222,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901J",
-                  "name": "ENGL 1901J"
+                  "name": "Fanon and Spillers"
                 }
               ],
               "count": null,
@@ -3233,7 +3234,7 @@
               "courses": [
                 {
                   "code": "ENGL 1901Q",
-                  "name": "ENGL 1901Q"
+                  "name": "You Better Work: Sexuality, Labor, Blackness"
                 }
               ],
               "count": null,
@@ -3245,7 +3246,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950G",
-                  "name": "ENGL 1950G"
+                  "name": "Reading Narrative Theory"
                 }
               ],
               "count": null,
@@ -3257,7 +3258,7 @@
               "courses": [
                 {
                   "code": "ENGL 1950H",
-                  "name": "ENGL 1950H"
+                  "name": "The Recent Novel and its Cultural Rivals"
                 }
               ],
               "count": null,
@@ -3269,7 +3270,7 @@
               "courses": [
                 {
                   "code": "ENGL 2360Z",
-                  "name": "ENGL 2360Z"
+                  "name": "Shakespeare: a Politics of Love"
                 }
               ],
               "count": null,
@@ -3281,7 +3282,7 @@
               "courses": [
                 {
                   "code": "ENGL 2761C",
-                  "name": "ENGL 2761C"
+                  "name": "Black Internationalism and Its Discontents"
                 }
               ],
               "count": null,
@@ -3293,7 +3294,7 @@
               "courses": [
                 {
                   "code": "ENGL 2561V",
-                  "name": "ENGL 2561V"
+                  "name": "The Pursuit of Happiness: Transatlantic Literary Culture in the Long Eighteenth Century"
                 }
               ],
               "count": null,
@@ -3305,7 +3306,7 @@
               "courses": [
                 {
                   "code": "ENGL 2900N",
-                  "name": "ENGL 2900N"
+                  "name": "Ethical Turns in Psychoanalysis and Literature"
                 }
               ],
               "count": null,
@@ -3317,7 +3318,7 @@
               "courses": [
                 {
                   "code": "ENGL 2900X",
-                  "name": "ENGL 2900X"
+                  "name": "Postcolonial Theory"
                 }
               ],
               "count": null,
@@ -3329,7 +3330,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901D",
-                  "name": "ENGL 2901D"
+                  "name": "War and the Politics of Cultural Memory"
                 }
               ],
               "count": null,
@@ -3341,7 +3342,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901K",
-                  "name": "ENGL 2901K"
+                  "name": "Theory, Technics, Religion"
                 }
               ],
               "count": null,
@@ -3353,7 +3354,7 @@
               "courses": [
                 {
                   "code": "ENGL 2901P",
-                  "name": "ENGL 2901P"
+                  "name": "Black Feminism: Roots, Routes, Futures"
                 }
               ],
               "count": null,
@@ -3363,7 +3364,7 @@
           "notes": []
         },
         {
-          "name": "6. FIVE electives 2 5",
+          "name": "6. FIVE electives",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -3375,721 +3376,721 @@
           "type": "required",
           "course": {
             "code": "ENGL 0100A",
-            "name": "ENGL 0100A"
+            "name": "How To Read A Poem"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100C",
-            "name": "ENGL 0100C"
+            "name": "Altered States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100D",
-            "name": "ENGL 0100D"
+            "name": "Matters of Romance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100F",
-            "name": "ENGL 0100F"
+            "name": "Devils, Demons, Do-Gooders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100G",
-            "name": "ENGL 0100G"
+            "name": "The Literature of Identity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100J",
-            "name": "ENGL 0100J"
+            "name": "Cultures and Countercultures: The American Novel after World War II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100M",
-            "name": "ENGL 0100M"
+            "name": "Writing War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100N",
-            "name": "ENGL 0100N"
+            "name": "City Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100P",
-            "name": "ENGL 0100P"
+            "name": "Love Stories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100Q",
-            "name": "ENGL 0100Q"
+            "name": "How Poems See"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100R",
-            "name": "ENGL 0100R"
+            "name": "American Histories, American Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100S",
-            "name": "ENGL 0100S"
+            "name": "Being Romantic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100T",
-            "name": "ENGL 0100T"
+            "name": "The Simple Art of Murder"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100U",
-            "name": "ENGL 0100U"
+            "name": "Serial Fictions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100V",
-            "name": "ENGL 0100V"
+            "name": "Inventing Asian American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100W",
-            "name": "ENGL 0100W"
+            "name": "Literature Reformatted"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100Y",
-            "name": "ENGL 0100Y"
+            "name": "Do the Right Thing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101A",
-            "name": "ENGL 0101A"
+            "name": "Independence and Modern Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101B",
-            "name": "ENGL 0101B"
+            "name": "Earth Poetics: Literature and Climate Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100F",
-            "name": "ENGL 0100F"
+            "name": "Devils, Demons, Do-Gooders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100N",
-            "name": "ENGL 0100N"
+            "name": "City Novels"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100S",
-            "name": "ENGL 0100S"
+            "name": "Being Romantic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0100V",
-            "name": "ENGL 0100V"
+            "name": "Inventing Asian American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0101A",
-            "name": "ENGL 0101A"
+            "name": "Independence and Modern Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150X",
-            "name": "ENGL 0150X"
+            "name": "The Claims of Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150Y",
-            "name": "ENGL 0150Y"
+            "name": "Bront\u00ebs and Bront\u00ebism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700E",
-            "name": "ENGL 0700E"
+            "name": "Postcolonial Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0500R",
-            "name": "ENGL 0500R"
+            "name": "Slavery and American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0510F",
-            "name": "ENGL 0510F"
+            "name": "Literature of the American Renaissance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700G",
-            "name": "ENGL 0700G"
+            "name": "American Fiction and Mass Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700U",
-            "name": "ENGL 0700U"
+            "name": "Modernism and Race"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710B",
-            "name": "ENGL 0710B"
+            "name": "African American Literature and the Legacies of Slavery"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710Q",
-            "name": "ENGL 0710Q"
+            "name": "American Literature in the Era of Segregation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710V",
-            "name": "ENGL 0710V"
+            "name": "Death and Dying in Black Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710W",
-            "name": "ENGL 0710W"
+            "name": "Readings in Black and Queer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710X",
-            "name": "ENGL 0710X"
+            "name": "Black Poetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710Y",
-            "name": "ENGL 0710Y"
+            "name": "Literature of US Inequality, 1945-2020"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1310H",
-            "name": "ENGL 1310H"
+            "name": "The Origins of American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511A",
-            "name": "ENGL 1511A"
+            "name": "American Literature and the Civil War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511C",
-            "name": "ENGL 1511C"
+            "name": "Lincoln, Whitman, and The Civil War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511P",
-            "name": "ENGL 1511P"
+            "name": "Realism, Modernism, Postmodernism: The American Novel and its Traditions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710I",
-            "name": "ENGL 1710I"
+            "name": "Harlem Renaissance: The Politics of Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710J",
-            "name": "ENGL 1710J"
+            "name": "Modern African Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710K",
-            "name": "ENGL 1710K"
+            "name": "Literature and the Problem of Poverty"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710M",
-            "name": "ENGL 1710M"
+            "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710P",
-            "name": "ENGL 1710P"
+            "name": "The Literature and Culture of Black Power Reconsidered"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711D",
-            "name": "ENGL 1711D"
+            "name": "Reading New York"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711H",
-            "name": "ENGL 1711H"
+            "name": "Lyric Concepts: The Question of Identity in Modern and Contemporary Poetry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711J",
-            "name": "ENGL 1711J"
+            "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711K",
-            "name": "ENGL 1711K"
+            "name": "The Politics of Perspective: Post-war British Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711L",
-            "name": "ENGL 1711L"
+            "name": "Contemporary Black Women's Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711N",
-            "name": "ENGL 1711N"
+            "name": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711O",
-            "name": "ENGL 1711O"
+            "name": "Radical Pasts, Radical Futures: Literature and the Left"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711S",
-            "name": "ENGL 1711S"
+            "name": "James Baldwin"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760U",
-            "name": "ENGL 1760U"
+            "name": "American Modernism and its Aftermaths"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760Y",
-            "name": "ENGL 1760Y"
+            "name": "Toni Morrison"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761B",
-            "name": "ENGL 1761B"
+            "name": "Narratives of Blackness in Latinx and Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761E",
-            "name": "ENGL 1761E"
+            "name": "Blackness and Being"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761F",
-            "name": "ENGL 1761F"
+            "name": "Toni Morrison"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761G",
-            "name": "ENGL 1761G"
+            "name": "Translational Echoes of the Korean War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761V",
-            "name": "ENGL 1761V"
+            "name": "The Korean War in Color"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1762M",
-            "name": "ENGL 1762M"
+            "name": "Caribbean Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900D",
-            "name": "ENGL 1900D"
+            "name": "Literature and Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901J",
-            "name": "ENGL 1901J"
+            "name": "Fanon and Spillers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950H",
-            "name": "ENGL 1950H"
+            "name": "The Recent Novel and its Cultural Rivals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0150W",
-            "name": "ENGL 0150W"
+            "name": "Literature and the Visual Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0700E",
-            "name": "ENGL 0700E"
+            "name": "Postcolonial Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710L",
-            "name": "ENGL 0710L"
+            "name": "Ishiguro, Amongst Others"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710R",
-            "name": "ENGL 0710R"
+            "name": "Poetry and Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0711B",
-            "name": "ENGL 0711B"
+            "name": "Trans Cultural Production and Trans Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 0710W",
-            "name": "ENGL 0710W"
+            "name": "Readings in Black and Queer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1140A",
-            "name": "ENGL 1140A"
+            "name": "Intellectual Pleasures: Reading/Writing the Literary Text"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1190S",
-            "name": "ENGL 1190S"
+            "name": "Poetics of Narrative"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1511Y",
-            "name": "ENGL 1511Y"
+            "name": "Emily Dickinson and the Theory of Lyric Form"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1561D",
-            "name": "ENGL 1561D"
+            "name": "Writing and the Ruins of Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1710M",
-            "name": "ENGL 1710M"
+            "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711K",
-            "name": "ENGL 1711K"
+            "name": "The Politics of Perspective: Post-war British Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1711J",
-            "name": "ENGL 1711J"
+            "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1760J",
-            "name": "ENGL 1760J"
+            "name": "ReadingGravity's Rainbow"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761D",
-            "name": "ENGL 1761D"
+            "name": "Hollywood and American Modernism from FDR to JFK"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761L",
-            "name": "ENGL 1761L"
+            "name": "Reading the Black Masses in Literature and Critical Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1761Q",
-            "name": "ENGL 1761Q"
+            "name": "W. G. Sebald and Some Interlocutors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1762D",
-            "name": "ENGL 1762D"
+            "name": "Kubrick"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900D",
-            "name": "ENGL 1900D"
+            "name": "Literature and Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900J",
-            "name": "ENGL 1900J"
+            "name": "Zoopoetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900K",
-            "name": "ENGL 1900K"
+            "name": "Reading Sex"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900P",
-            "name": "ENGL 1900P"
+            "name": "History of Criticism from Plato to Postmodernism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Y",
-            "name": "ENGL 1900Y"
+            "name": "Medieval Manuscript Studies: Paleography, Codicology, and Interpretation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Z",
-            "name": "ENGL 1900Z"
+            "name": "Neuroaesthetics and Reading"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901H",
-            "name": "ENGL 1901H"
+            "name": "The Late 60s: Film Countercultures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901L",
-            "name": "ENGL 1901L"
+            "name": "Cronenberg/Lynch"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901J",
-            "name": "ENGL 1901J"
+            "name": "Fanon and Spillers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1901Q",
-            "name": "ENGL 1901Q"
+            "name": "You Better Work: Sexuality, Labor, Blackness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950G",
-            "name": "ENGL 1950G"
+            "name": "Reading Narrative Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1950H",
-            "name": "ENGL 1950H"
+            "name": "The Recent Novel and its Cultural Rivals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2360Z",
-            "name": "ENGL 2360Z"
+            "name": "Shakespeare: a Politics of Love"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2761C",
-            "name": "ENGL 2761C"
+            "name": "Black Internationalism and Its Discontents"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2561V",
-            "name": "ENGL 2561V"
+            "name": "The Pursuit of Happiness: Transatlantic Literary Culture in the Long Eighteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2900N",
-            "name": "ENGL 2900N"
+            "name": "Ethical Turns in Psychoanalysis and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2900X",
-            "name": "ENGL 2900X"
+            "name": "Postcolonial Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901D",
-            "name": "ENGL 2901D"
+            "name": "War and the Politics of Cultural Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901K",
-            "name": "ENGL 2901K"
+            "name": "Theory, Technics, Religion"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 2901P",
-            "name": "ENGL 2901P"
+            "name": "Black Feminism: Roots, Routes, Futures"
           }
         }
       ],
@@ -4099,363 +4100,363 @@
   "all_courses": [
     {
       "code": "ENGL 0100A",
-      "name": "ENGL 0100A"
+      "name": "How To Read A Poem"
     },
     {
       "code": "ENGL 0100C",
-      "name": "ENGL 0100C"
+      "name": "Altered States"
     },
     {
       "code": "ENGL 0100D",
-      "name": "ENGL 0100D"
+      "name": "Matters of Romance"
     },
     {
       "code": "ENGL 0100F",
-      "name": "ENGL 0100F"
+      "name": "Devils, Demons, Do-Gooders"
     },
     {
       "code": "ENGL 0100G",
-      "name": "ENGL 0100G"
+      "name": "The Literature of Identity"
     },
     {
       "code": "ENGL 0100J",
-      "name": "ENGL 0100J"
+      "name": "Cultures and Countercultures: The American Novel after World War II"
     },
     {
       "code": "ENGL 0100M",
-      "name": "ENGL 0100M"
+      "name": "Writing War"
     },
     {
       "code": "ENGL 0100N",
-      "name": "ENGL 0100N"
+      "name": "City Novels"
     },
     {
       "code": "ENGL 0100P",
-      "name": "ENGL 0100P"
+      "name": "Love Stories"
     },
     {
       "code": "ENGL 0100Q",
-      "name": "ENGL 0100Q"
+      "name": "How Poems See"
     },
     {
       "code": "ENGL 0100R",
-      "name": "ENGL 0100R"
+      "name": "American Histories, American Novels"
     },
     {
       "code": "ENGL 0100S",
-      "name": "ENGL 0100S"
+      "name": "Being Romantic"
     },
     {
       "code": "ENGL 0100T",
-      "name": "ENGL 0100T"
+      "name": "The Simple Art of Murder"
     },
     {
       "code": "ENGL 0100U",
-      "name": "ENGL 0100U"
+      "name": "Serial Fictions"
     },
     {
       "code": "ENGL 0100V",
-      "name": "ENGL 0100V"
+      "name": "Inventing Asian American Literature"
     },
     {
       "code": "ENGL 0100W",
-      "name": "ENGL 0100W"
+      "name": "Literature Reformatted"
     },
     {
       "code": "ENGL 0100Y",
-      "name": "ENGL 0100Y"
+      "name": "Do the Right Thing"
     },
     {
       "code": "ENGL 0101A",
-      "name": "ENGL 0101A"
+      "name": "Independence and Modern Literature"
     },
     {
       "code": "ENGL 0101B",
-      "name": "ENGL 0101B"
+      "name": "Earth Poetics: Literature and Climate Change"
     },
     {
       "code": "ENGL 0150X",
-      "name": "ENGL 0150X"
+      "name": "The Claims of Fiction"
     },
     {
       "code": "ENGL 0150Y",
-      "name": "ENGL 0150Y"
+      "name": "Bront\u00ebs and Bront\u00ebism"
     },
     {
       "code": "ENGL 0700E",
-      "name": "ENGL 0700E"
+      "name": "Postcolonial Literature"
     },
     {
       "code": "ENGL 0500R",
-      "name": "ENGL 0500R"
+      "name": "Slavery and American Literature"
     },
     {
       "code": "ENGL 0510F",
-      "name": "ENGL 0510F"
+      "name": "Literature of the American Renaissance"
     },
     {
       "code": "ENGL 0700G",
-      "name": "ENGL 0700G"
+      "name": "American Fiction and Mass Culture"
     },
     {
       "code": "ENGL 0700U",
-      "name": "ENGL 0700U"
+      "name": "Modernism and Race"
     },
     {
       "code": "ENGL 0710B",
-      "name": "ENGL 0710B"
+      "name": "African American Literature and the Legacies of Slavery"
     },
     {
       "code": "ENGL 0710Q",
-      "name": "ENGL 0710Q"
+      "name": "American Literature in the Era of Segregation"
     },
     {
       "code": "ENGL 0710V",
-      "name": "ENGL 0710V"
+      "name": "Death and Dying in Black Literature"
     },
     {
       "code": "ENGL 0710W",
-      "name": "ENGL 0710W"
+      "name": "Readings in Black and Queer"
     },
     {
       "code": "ENGL 0710X",
-      "name": "ENGL 0710X"
+      "name": "Black Poetics"
     },
     {
       "code": "ENGL 0710Y",
-      "name": "ENGL 0710Y"
+      "name": "Literature of US Inequality, 1945-2020"
     },
     {
       "code": "ENGL 1310H",
-      "name": "ENGL 1310H"
+      "name": "The Origins of American Literature"
     },
     {
       "code": "ENGL 1511A",
-      "name": "ENGL 1511A"
+      "name": "American Literature and the Civil War"
     },
     {
       "code": "ENGL 1511C",
-      "name": "ENGL 1511C"
+      "name": "Lincoln, Whitman, and The Civil War"
     },
     {
       "code": "ENGL 1511P",
-      "name": "ENGL 1511P"
+      "name": "Realism, Modernism, Postmodernism: The American Novel and its Traditions"
     },
     {
       "code": "ENGL 1710I",
-      "name": "ENGL 1710I"
+      "name": "Harlem Renaissance: The Politics of Culture"
     },
     {
       "code": "ENGL 1710J",
-      "name": "ENGL 1710J"
+      "name": "Modern African Literature"
     },
     {
       "code": "ENGL 1710K",
-      "name": "ENGL 1710K"
+      "name": "Literature and the Problem of Poverty"
     },
     {
       "code": "ENGL 1710M",
-      "name": "ENGL 1710M"
+      "name": "Nationalizing Narratives: Race, Nationalism, and the American Novel"
     },
     {
       "code": "ENGL 1710P",
-      "name": "ENGL 1710P"
+      "name": "The Literature and Culture of Black Power Reconsidered"
     },
     {
       "code": "ENGL 1711D",
-      "name": "ENGL 1711D"
+      "name": "Reading New York"
     },
     {
       "code": "ENGL 1711H",
-      "name": "ENGL 1711H"
+      "name": "Lyric Concepts: The Question of Identity in Modern and Contemporary Poetry"
     },
     {
       "code": "ENGL 1711J",
-      "name": "ENGL 1711J"
+      "name": "Art for an Undivided Earth / Transnational Approaches to Indigenous Art and Activism"
     },
     {
       "code": "ENGL 1711K",
-      "name": "ENGL 1711K"
+      "name": "The Politics of Perspective: Post-war British Fiction"
     },
     {
       "code": "ENGL 1711L",
-      "name": "ENGL 1711L"
+      "name": "Contemporary Black Women's Literature"
     },
     {
       "code": "ENGL 1711N",
-      "name": "ENGL 1711N"
+      "name": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature"
     },
     {
       "code": "ENGL 1711O",
-      "name": "ENGL 1711O"
+      "name": "Radical Pasts, Radical Futures: Literature and the Left"
     },
     {
       "code": "ENGL 1711S",
-      "name": "ENGL 1711S"
+      "name": "James Baldwin"
     },
     {
       "code": "ENGL 1760U",
-      "name": "ENGL 1760U"
+      "name": "American Modernism and its Aftermaths"
     },
     {
       "code": "ENGL 1760Y",
-      "name": "ENGL 1760Y"
+      "name": "Toni Morrison"
     },
     {
       "code": "ENGL 1761B",
-      "name": "ENGL 1761B"
+      "name": "Narratives of Blackness in Latinx and Latin America"
     },
     {
       "code": "ENGL 1761E",
-      "name": "ENGL 1761E"
+      "name": "Blackness and Being"
     },
     {
       "code": "ENGL 1761F",
-      "name": "ENGL 1761F"
+      "name": "Toni Morrison"
     },
     {
       "code": "ENGL 1761G",
-      "name": "ENGL 1761G"
+      "name": "Translational Echoes of the Korean War"
     },
     {
       "code": "ENGL 1761V",
-      "name": "ENGL 1761V"
+      "name": "The Korean War in Color"
     },
     {
       "code": "ENGL 1762M",
-      "name": "ENGL 1762M"
+      "name": "Caribbean Literature"
     },
     {
       "code": "ENGL 1900D",
-      "name": "ENGL 1900D"
+      "name": "Literature and Politics"
     },
     {
       "code": "ENGL 1901J",
-      "name": "ENGL 1901J"
+      "name": "Fanon and Spillers"
     },
     {
       "code": "ENGL 1950H",
-      "name": "ENGL 1950H"
+      "name": "The Recent Novel and its Cultural Rivals"
     },
     {
       "code": "ENGL 0150W",
-      "name": "ENGL 0150W"
+      "name": "Literature and the Visual Arts"
     },
     {
       "code": "ENGL 0710L",
-      "name": "ENGL 0710L"
+      "name": "Ishiguro, Amongst Others"
     },
     {
       "code": "ENGL 0710R",
-      "name": "ENGL 0710R"
+      "name": "Poetry and Science"
     },
     {
       "code": "ENGL 0711B",
-      "name": "ENGL 0711B"
+      "name": "Trans Cultural Production and Trans Studies"
     },
     {
       "code": "ENGL 1140A",
-      "name": "ENGL 1140A"
+      "name": "Intellectual Pleasures: Reading/Writing the Literary Text"
     },
     {
       "code": "ENGL 1190S",
-      "name": "ENGL 1190S"
+      "name": "Poetics of Narrative"
     },
     {
       "code": "ENGL 1511Y",
-      "name": "ENGL 1511Y"
+      "name": "Emily Dickinson and the Theory of Lyric Form"
     },
     {
       "code": "ENGL 1561D",
-      "name": "ENGL 1561D"
+      "name": "Writing and the Ruins of Empire"
     },
     {
       "code": "ENGL 1760J",
-      "name": "ENGL 1760J"
+      "name": "ReadingGravity's Rainbow"
     },
     {
       "code": "ENGL 1761D",
-      "name": "ENGL 1761D"
+      "name": "Hollywood and American Modernism from FDR to JFK"
     },
     {
       "code": "ENGL 1761L",
-      "name": "ENGL 1761L"
+      "name": "Reading the Black Masses in Literature and Critical Practice"
     },
     {
       "code": "ENGL 1761Q",
-      "name": "ENGL 1761Q"
+      "name": "W. G. Sebald and Some Interlocutors"
     },
     {
       "code": "ENGL 1762D",
-      "name": "ENGL 1762D"
+      "name": "Kubrick"
     },
     {
       "code": "ENGL 1900J",
-      "name": "ENGL 1900J"
+      "name": "Zoopoetics"
     },
     {
       "code": "ENGL 1900K",
-      "name": "ENGL 1900K"
+      "name": "Reading Sex"
     },
     {
       "code": "ENGL 1900P",
-      "name": "ENGL 1900P"
+      "name": "History of Criticism from Plato to Postmodernism"
     },
     {
       "code": "ENGL 1900Y",
-      "name": "ENGL 1900Y"
+      "name": "Medieval Manuscript Studies: Paleography, Codicology, and Interpretation"
     },
     {
       "code": "ENGL 1900Z",
-      "name": "ENGL 1900Z"
+      "name": "Neuroaesthetics and Reading"
     },
     {
       "code": "ENGL 1901H",
-      "name": "ENGL 1901H"
+      "name": "The Late 60s: Film Countercultures"
     },
     {
       "code": "ENGL 1901L",
-      "name": "ENGL 1901L"
+      "name": "Cronenberg/Lynch"
     },
     {
       "code": "ENGL 1901Q",
-      "name": "ENGL 1901Q"
+      "name": "You Better Work: Sexuality, Labor, Blackness"
     },
     {
       "code": "ENGL 1950G",
-      "name": "ENGL 1950G"
+      "name": "Reading Narrative Theory"
     },
     {
       "code": "ENGL 2360Z",
-      "name": "ENGL 2360Z"
+      "name": "Shakespeare: a Politics of Love"
     },
     {
       "code": "ENGL 2761C",
-      "name": "ENGL 2761C"
+      "name": "Black Internationalism and Its Discontents"
     },
     {
       "code": "ENGL 2561V",
-      "name": "ENGL 2561V"
+      "name": "The Pursuit of Happiness: Transatlantic Literary Culture in the Long Eighteenth Century"
     },
     {
       "code": "ENGL 2900N",
-      "name": "ENGL 2900N"
+      "name": "Ethical Turns in Psychoanalysis and Literature"
     },
     {
       "code": "ENGL 2900X",
-      "name": "ENGL 2900X"
+      "name": "Postcolonial Theory"
     },
     {
       "code": "ENGL 2901D",
-      "name": "ENGL 2901D"
+      "name": "War and the Politics of Cultural Memory"
     },
     {
       "code": "ENGL 2901K",
-      "name": "ENGL 2901K"
+      "name": "Theory, Technics, Religion"
     },
     {
       "code": "ENGL 2901P",
-      "name": "ENGL 2901P"
+      "name": "Black Feminism: Roots, Routes, Futures"
     },
     {
       "code": "ENGL 1991",

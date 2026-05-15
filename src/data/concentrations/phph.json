@@ -2,6 +2,7 @@
   "concentration": "Physics and Philosophy",
   "slug": "phph",
   "url": "https://bulletin.brown.edu/the-college/concentrations/phph/",
+  "description": "The Physics and Philosophy concentration is for students with a deep interest in physics who do not need to acquire the laboratory and computational skills of a professional physicist. The concentration allows students to grapple with computational problems and deepen their investigation of conceptual and epistemological issues. By the end of the program, concentrators possess an excellent conceptual understanding of the most philosophically interesting physics, relativity and quantum mechanics. This concentration should prepare a student either for graduate study, especially in a history and philosophy of science (HPS) program, or for employment in science education or journalism. Other professions such as law and medicine will look favorably on such concentrators for having versatile interests and being able to master difficult material. The concentration may serve as an excellent preparation for a law school since physics and philosophy both exercise a rigorous approach to problems of immediate relevance to life but at the same time assume two complimentary and sometimes competing viewpoints.",
   "tracks": [
     {
       "id": "advising",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following  introductory courses in Modern Physics: 1",
+          "name": "Select one of the following  introductory courses in Modern Physics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -47,7 +48,7 @@
           "notes": []
         },
         {
-          "name": "One course in Special Relativity and Classical Field Theory: 1",
+          "name": "One course in Special Relativity and Classical Field Theory:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -57,7 +58,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -67,7 +68,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following in Methods of Experimental and Theoretical physics: 1",
+          "name": "Select one of the following in Methods of Experimental and Theoretical physics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -77,7 +78,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -89,7 +90,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -99,7 +100,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following in Quantum Mechanics and its applications 1",
+          "name": "Select one of the following in Quantum Mechanics and its applications",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -109,7 +110,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -121,7 +122,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -131,7 +132,7 @@
           "notes": []
         },
         {
-          "name": "One more 1000-level Physics course 1",
+          "name": "One more 1000-level Physics course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -145,7 +146,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following gateway courses: 1",
+          "name": "Select one of the following gateway courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -155,7 +156,7 @@
               "courses": [
                 {
                   "code": "PHIL 0210",
-                  "name": "PHIL 0210"
+                  "name": "Early Modern Philosophy"
                 }
               ],
               "count": null,
@@ -167,7 +168,7 @@
               "courses": [
                 {
                   "code": "PHIL 0060",
-                  "name": "PHIL 0060"
+                  "name": "Modern Science and Human Values"
                 }
               ],
               "count": null,
@@ -179,7 +180,7 @@
               "courses": [
                 {
                   "code": "PHIL 0640",
-                  "name": "PHIL 0640"
+                  "name": "Logic"
                 }
               ],
               "count": null,
@@ -189,7 +190,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following courses in Early Modern Philosophy: 1",
+          "name": "Select one of the following courses in Early Modern Philosophy:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -199,7 +200,7 @@
               "courses": [
                 {
                   "code": "PHIL 0210",
-                  "name": "PHIL 0210"
+                  "name": "Early Modern Philosophy"
                 }
               ],
               "count": null,
@@ -211,7 +212,7 @@
               "courses": [
                 {
                   "code": "PHIL 1210",
-                  "name": "PHIL 1210"
+                  "name": "Locke, Berkeley, Hume and Others"
                 }
               ],
               "count": null,
@@ -223,7 +224,7 @@
               "courses": [
                 {
                   "code": "PHIL 1220",
-                  "name": "PHIL 1220"
+                  "name": "17th Century Continental Rationalism"
                 }
               ],
               "count": null,
@@ -235,7 +236,7 @@
               "courses": [
                 {
                   "code": "PHIL 1230",
-                  "name": "PHIL 1230"
+                  "name": "Kant: The Critique of Pure Reason"
                 }
               ],
               "count": null,
@@ -245,7 +246,7 @@
           "notes": []
         },
         {
-          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science: 2",
+          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -255,7 +256,7 @@
               "courses": [
                 {
                   "code": "PHIL 1705",
-                  "name": "PHIL 1705"
+                  "name": "Epistemology"
                 }
               ],
               "count": null,
@@ -267,7 +268,7 @@
               "courses": [
                 {
                   "code": "PHIL 1735",
-                  "name": "PHIL 1735"
+                  "name": "Metaphysics"
                 }
               ],
               "count": null,
@@ -279,7 +280,7 @@
               "courses": [
                 {
                   "code": "PHIL 1755",
-                  "name": "PHIL 1755"
+                  "name": "Philosophy of Science"
                 }
               ],
               "count": null,
@@ -291,7 +292,7 @@
               "courses": [
                 {
                   "code": "PHIL 1775",
-                  "name": "PHIL 1775"
+                  "name": "Philosophy of Quantum Mechanics"
                 }
               ],
               "count": null,
@@ -303,7 +304,7 @@
               "courses": [
                 {
                   "code": "PHIL 1780",
-                  "name": "PHIL 1780"
+                  "name": "Time"
                 }
               ],
               "count": null,
@@ -320,7 +321,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following courses in History of Science: 1 1",
+          "name": "Select one of the following courses in History of Science:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "HIST 0522N",
-                  "name": "HIST 0522N"
+                  "name": "Reason, Revolution and Reaction in Europe"
                 }
               ],
               "count": null,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "HIST 1825M",
-                  "name": "HIST 1825M"
+                  "name": "Science at the Crossroads"
                 }
               ],
               "count": null,
@@ -354,7 +355,7 @@
               "courses": [
                 {
                   "code": "HIST 1976I",
-                  "name": "HIST 1976I"
+                  "name": "Imperialism and Environmental Change"
                 }
               ],
               "count": null,
@@ -371,7 +372,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following: 1",
+          "name": "Select one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -381,7 +382,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -393,7 +394,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -405,7 +406,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -422,7 +423,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following: 1",
+          "name": "Select one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -432,7 +433,7 @@
               "courses": [
                 {
                   "code": "PHIL 1990",
-                  "name": "PHIL 1990"
+                  "name": "Independent Studies"
                 }
               ],
               "count": null,
@@ -444,7 +445,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": null,
@@ -473,189 +474,189 @@
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0210",
-            "name": "PHIL 0210"
+            "name": "Early Modern Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0060",
-            "name": "PHIL 0060"
+            "name": "Modern Science and Human Values"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0640",
-            "name": "PHIL 0640"
+            "name": "Logic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0210",
-            "name": "PHIL 0210"
+            "name": "Early Modern Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1210",
-            "name": "PHIL 1210"
+            "name": "Locke, Berkeley, Hume and Others"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1220",
-            "name": "PHIL 1220"
+            "name": "17th Century Continental Rationalism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1230",
-            "name": "PHIL 1230"
+            "name": "Kant: The Critique of Pure Reason"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1705",
-            "name": "PHIL 1705"
+            "name": "Epistemology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1735",
-            "name": "PHIL 1735"
+            "name": "Metaphysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1755",
-            "name": "PHIL 1755"
+            "name": "Philosophy of Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1775",
-            "name": "PHIL 1775"
+            "name": "Philosophy of Quantum Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1780",
-            "name": "PHIL 1780"
+            "name": "Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0522N",
-            "name": "HIST 0522N"
+            "name": "Reason, Revolution and Reaction in Europe"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1825M",
-            "name": "HIST 1825M"
+            "name": "Science at the Crossroads"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1976I",
-            "name": "HIST 1976I"
+            "name": "Imperialism and Environmental Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1990",
-            "name": "PHIL 1990"
+            "name": "Independent Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         }
       ],
@@ -673,7 +674,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following  introductory courses in Modern Physics: 1",
+          "name": "Select one of the following  introductory courses in Modern Physics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -683,7 +684,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -695,7 +696,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -705,7 +706,7 @@
           "notes": []
         },
         {
-          "name": "One course in Special Relativity and Classical Field Theory: 1",
+          "name": "One course in Special Relativity and Classical Field Theory:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -715,7 +716,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -725,7 +726,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following in Methods of Experimental and Theoretical physics: 1",
+          "name": "Select one of the following in Methods of Experimental and Theoretical physics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -735,7 +736,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -747,7 +748,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -757,7 +758,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following in Quantum Mechanics and its applications 1",
+          "name": "Select one of the following in Quantum Mechanics and its applications",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -779,7 +780,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -789,7 +790,7 @@
           "notes": []
         },
         {
-          "name": "One more 1000-level Physics course 1",
+          "name": "One more 1000-level Physics course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -803,7 +804,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following gateway courses: 1",
+          "name": "Select one of the following gateway courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -813,7 +814,7 @@
               "courses": [
                 {
                   "code": "PHIL 0210",
-                  "name": "PHIL 0210"
+                  "name": "Early Modern Philosophy"
                 }
               ],
               "count": null,
@@ -825,7 +826,7 @@
               "courses": [
                 {
                   "code": "PHIL 0060",
-                  "name": "PHIL 0060"
+                  "name": "Modern Science and Human Values"
                 }
               ],
               "count": null,
@@ -837,7 +838,7 @@
               "courses": [
                 {
                   "code": "PHIL 0640",
-                  "name": "PHIL 0640"
+                  "name": "Logic"
                 }
               ],
               "count": null,
@@ -847,7 +848,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following courses in Early Modern Philosophy: 1",
+          "name": "Select one of the following courses in Early Modern Philosophy:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -857,7 +858,7 @@
               "courses": [
                 {
                   "code": "PHIL 0210",
-                  "name": "PHIL 0210"
+                  "name": "Early Modern Philosophy"
                 }
               ],
               "count": null,
@@ -869,7 +870,7 @@
               "courses": [
                 {
                   "code": "PHIL 1210",
-                  "name": "PHIL 1210"
+                  "name": "Locke, Berkeley, Hume and Others"
                 }
               ],
               "count": null,
@@ -881,7 +882,7 @@
               "courses": [
                 {
                   "code": "PHIL 1220",
-                  "name": "PHIL 1220"
+                  "name": "17th Century Continental Rationalism"
                 }
               ],
               "count": null,
@@ -893,7 +894,7 @@
               "courses": [
                 {
                   "code": "PHIL 1230",
-                  "name": "PHIL 1230"
+                  "name": "Kant: The Critique of Pure Reason"
                 }
               ],
               "count": null,
@@ -903,7 +904,7 @@
           "notes": []
         },
         {
-          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science: 2",
+          "name": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -913,7 +914,7 @@
               "courses": [
                 {
                   "code": "PHIL 1705",
-                  "name": "PHIL 1705"
+                  "name": "Epistemology"
                 }
               ],
               "count": null,
@@ -925,7 +926,7 @@
               "courses": [
                 {
                   "code": "PHIL 1735",
-                  "name": "PHIL 1735"
+                  "name": "Metaphysics"
                 }
               ],
               "count": null,
@@ -937,7 +938,7 @@
               "courses": [
                 {
                   "code": "PHIL 1755",
-                  "name": "PHIL 1755"
+                  "name": "Philosophy of Science"
                 }
               ],
               "count": null,
@@ -949,7 +950,7 @@
               "courses": [
                 {
                   "code": "PHIL 1775",
-                  "name": "PHIL 1775"
+                  "name": "Philosophy of Quantum Mechanics"
                 }
               ],
               "count": null,
@@ -961,7 +962,7 @@
               "courses": [
                 {
                   "code": "PHIL 1780",
-                  "name": "PHIL 1780"
+                  "name": "Time"
                 }
               ],
               "count": null,
@@ -978,7 +979,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following courses in History of Science: 1 1",
+          "name": "Select one of the following courses in History of Science:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -988,7 +989,7 @@
               "courses": [
                 {
                   "code": "HIST 0522N",
-                  "name": "HIST 0522N"
+                  "name": "Reason, Revolution and Reaction in Europe"
                 }
               ],
               "count": null,
@@ -1000,7 +1001,7 @@
               "courses": [
                 {
                   "code": "HIST 1825M",
-                  "name": "HIST 1825M"
+                  "name": "Science at the Crossroads"
                 }
               ],
               "count": null,
@@ -1012,7 +1013,7 @@
               "courses": [
                 {
                   "code": "HIST 1976I",
-                  "name": "HIST 1976I"
+                  "name": "Imperialism and Environmental Change"
                 }
               ],
               "count": null,
@@ -1029,7 +1030,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following: 1",
+          "name": "Select one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1039,7 +1040,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1051,7 +1052,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -1063,7 +1064,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1080,7 +1081,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following: 1",
+          "name": "Select one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1090,7 +1091,7 @@
               "courses": [
                 {
                   "code": "PHIL 1990",
-                  "name": "PHIL 1990"
+                  "name": "Independent Studies"
                 }
               ],
               "count": null,
@@ -1102,7 +1103,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": null,
@@ -1131,189 +1132,189 @@
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0210",
-            "name": "PHIL 0210"
+            "name": "Early Modern Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0060",
-            "name": "PHIL 0060"
+            "name": "Modern Science and Human Values"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0640",
-            "name": "PHIL 0640"
+            "name": "Logic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0210",
-            "name": "PHIL 0210"
+            "name": "Early Modern Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1210",
-            "name": "PHIL 1210"
+            "name": "Locke, Berkeley, Hume and Others"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1220",
-            "name": "PHIL 1220"
+            "name": "17th Century Continental Rationalism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1230",
-            "name": "PHIL 1230"
+            "name": "Kant: The Critique of Pure Reason"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1705",
-            "name": "PHIL 1705"
+            "name": "Epistemology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1735",
-            "name": "PHIL 1735"
+            "name": "Metaphysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1755",
-            "name": "PHIL 1755"
+            "name": "Philosophy of Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1775",
-            "name": "PHIL 1775"
+            "name": "Philosophy of Quantum Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1780",
-            "name": "PHIL 1780"
+            "name": "Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0522N",
-            "name": "HIST 0522N"
+            "name": "Reason, Revolution and Reaction in Europe"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1825M",
-            "name": "HIST 1825M"
+            "name": "Science at the Crossroads"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1976I",
-            "name": "HIST 1976I"
+            "name": "Imperialism and Environmental Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1990",
-            "name": "PHIL 1990"
+            "name": "Independent Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         }
       ],
@@ -1359,91 +1360,91 @@
     },
     {
       "code": "PHYS 0500",
-      "name": "PHYS 0500"
+      "name": "Advanced Classical Mechanics"
     },
     {
       "code": "PHYS 0560",
-      "name": "PHYS 0560"
+      "name": "Experiments in Modern Physics"
     },
     {
       "code": "PHYS 1410",
-      "name": "PHYS 1410"
+      "name": "Quantum Mechanics A"
     },
     {
       "code": "PHYS 1530",
-      "name": "PHYS 1530"
+      "name": "Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "PHIL 0060",
-      "name": "PHIL 0060"
+      "name": "Modern Science and Human Values"
     },
     {
       "code": "PHIL 0640",
-      "name": "PHIL 0640"
+      "name": "Logic"
     },
     {
       "code": "PHIL 1210",
-      "name": "PHIL 1210"
+      "name": "Locke, Berkeley, Hume and Others"
     },
     {
       "code": "PHIL 1220",
-      "name": "PHIL 1220"
+      "name": "17th Century Continental Rationalism"
     },
     {
       "code": "PHIL 1230",
-      "name": "PHIL 1230"
+      "name": "Kant: The Critique of Pure Reason"
     },
     {
       "code": "PHIL 1705",
-      "name": "PHIL 1705"
+      "name": "Epistemology"
     },
     {
       "code": "PHIL 1735",
-      "name": "PHIL 1735"
+      "name": "Metaphysics"
     },
     {
       "code": "PHIL 1755",
-      "name": "PHIL 1755"
+      "name": "Philosophy of Science"
     },
     {
       "code": "PHIL 1775",
-      "name": "PHIL 1775"
+      "name": "Philosophy of Quantum Mechanics"
     },
     {
       "code": "PHIL 1780",
-      "name": "PHIL 1780"
+      "name": "Time"
     },
     {
       "code": "HIST 0522N",
-      "name": "HIST 0522N"
+      "name": "Reason, Revolution and Reaction in Europe"
     },
     {
       "code": "HIST 1825M",
-      "name": "HIST 1825M"
+      "name": "Science at the Crossroads"
     },
     {
       "code": "HIST 1976I",
-      "name": "HIST 1976I"
+      "name": "Imperialism and Environmental Change"
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculus"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theory"
     },
     {
       "code": "PHIL 1990",
-      "name": "PHIL 1990"
+      "name": "Independent Studies"
     },
     {
       "code": "PHYS 1990",
-      "name": "PHYS 1990"
+      "name": "Senior Conference Course"
     }
   ]
 }

@@ -2,407 +2,2455 @@
   "concentration": "Middle East Studies",
   "slug": "mide",
   "url": "https://bulletin.brown.edu/the-college/concentrations/mide/",
-  "tracks": [],
+  "description": "The concentration in Middle East Studies (MES) seeks to build a strong, interdisciplinary understanding of historical and contemporary issues within the Middle East, broadly defined. Requirements are intentionally flexible to accommodate the focused interests of students in understanding the diverse dynamics, histories, and societies of this region. A variety of courses from departments across the University, addressing subjects from antiquity to the present day, expose students to methods and materials of different disciplines and help them build a framework for understanding the Middle East in historical and contemporary context. Concentration requirements are structured around four major cornerstones: language, foundational knowledge and methods, multidisciplinary area studies, and research. For concentrators graduating before 2023, courses designated \u201cFoundational Courses\u201d under previous concentration requirements may be used to fulfill this requirement. Please meet with the MES Director of Undergraduate Studies (DUS) to discuss any such arrangements.",
+  "tracks": [
+    {
+      "id": "requirements_0",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "Foundational Course: All MES concentrators are expected to take the following foundational course.  The foundational course requirement cannot be fulfilled via independent study, study abroad, or transfer credits.",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1968A",
+                  "name": "Approaches to the Middle East"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Electives: Students must take at least five elective courses chosen in consultation with the Director of Undergraduate Studies (DUS) from among the courses listed by MES as approved electives on its website (https://watson.brown.edu/cmes/academics/undergraduate-concentration/course-listing/all-courses). Students may apply up to two Middle Eastern language credits (beyond those that fulfill the language requirement: see below) to the MES electives requirement. To allow for exposure of different disciplinary approaches to the Middle East, students must take at least one course in the humanities (offered within the departments of Archaeology and the Ancient World, Classics, Comparative Literature, History of Art and Architecture, Modern Culture and Media, Philosophy, or Religious Studies) and at least one course in the social sciences (offered within the departments of Anthropology, History, International Relations, Political Science, Sociology, or Urban Studies). Some examples of recent courses that would fulfill these requirements include:",
+          "type": "label",
+          "courses": [],
+          "count": 5,
+          "notes": []
+        },
+        {
+          "name": "Humanities",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0150",
+                  "name": "Introduction to Egyptian Archaeology and Art"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 0230",
+                  "name": "Myriad Mediterraneans: Archaeology, Representation and Decolonization"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1630",
+                  "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0300",
+                  "name": "Babylon: Myth and Reality"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0310",
+                  "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0320",
+                  "name": "The Origin(s) of Science"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 0800",
+                  "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1100",
+                  "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1300",
+                  "name": "The Age of Empires: The Ancient Near East in the First Millennium BC"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ASYR 1600",
+                  "name": "Astronomy Before the Telescope"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BHBR 0100",
+                  "name": "Introduction to Biblical Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BHBR 0200",
+                  "name": "Readings in Biblical Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 0660",
+                  "name": "The World of Byzantium"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CLAS 1230",
+                  "name": "The Persian Empire and Achaemenid Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 0510K",
+                  "name": "The 1001 Nights"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 0610Q",
+                  "name": "Before Wikipedia"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 0711L",
+                  "name": "The Quran and its Readers"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 1310E",
+                  "name": "A Classical Islamic Education: Readings in Arabic Literature"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1030",
+                  "name": "Collapse! Ancient Egypt after the Pyramid Age"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1310",
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1320",
+                  "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EGYT 1430",
+                  "name": "History of Egypt I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1070L",
+                  "name": "Islam, Immigration et Identit\u00e9 nationale dans le roman fran\u00e7ais contemporain"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1410R",
+                  "name": "Images d\u2019une guerre sans nom: The Algerian War in Literature and Film"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1710J",
+                  "name": "Geopolitics and Identity Divides in the Middle East"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1710K",
+                  "name": "Frantz Fanon: Critical Theory and Decolonizing Practices between the Caribbean and (North) Africa"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0042",
+                  "name": "Islamic Art and Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 0050H",
+                  "name": "Israel's Wars"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 0050P",
+                  "name": "Sacred Spaces: Synagogues, Churches, Mosques"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 0608",
+                  "name": "The Parting of the Ways?: Questioning Jewish/Christian Difference"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 1630",
+                  "name": "The Talmud"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 1711",
+                  "name": "History of the State of Israel: 1948 to the Present"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 1504R",
+                  "name": "Iranian Cinema"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MCM 1505Z",
+                  "name": "Kiarostami: Questions of Cinema + Reality"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 1200",
+                  "name": "Iranian Cinema: Before and After the Islamic Revolution"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0720",
+                  "name": "Modern Iran: Literature, Media & Pop Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0014",
+                  "name": "Jesus"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0021",
+                  "name": "Inequality in the Ancient World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0088",
+                  "name": "Judaism, Christianity, and Islam"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0090M",
+                  "name": "Islam, Violence and Media"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0095A",
+                  "name": "Islam from the Ground Up"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0096",
+                  "name": "The Imaginary Lives of Muslims"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0290D",
+                  "name": "Islamic Sexualities"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0290H",
+                  "name": "Defense Against the Dark Arts in the Ancient World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0320",
+                  "name": "Israelite Religion"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 0410",
+                  "name": "Ancient Christianity: Jesus to Muhammad"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1315",
+                  "name": "Religious Authority in an Age of Empire"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1500",
+                  "name": "From Moses to Muhammad: Prophets of the Ancient World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1530B",
+                  "name": "Heresy and Orthodoxy in Islamic Thought"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RELS 1530H",
+                  "name": "Problems in Islamic Studies: Shaking up the Study of  the Islamic World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0720A",
+                  "name": "Understanding Modern Turkey Through Film and Literature"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0720B",
+                  "name": "Istanbul, Global Metropolis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Social Sciences:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1150",
+                  "name": "Middle East in Anthropological Perspective"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0244",
+                  "name": "Understanding the Middle East: A Modern History"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0150D",
+                  "name": "Refugees: A Twentieth-Century History"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0246",
+                  "name": "The Ottoman Empire and Modern Middle East"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1202",
+                  "name": "Formation of the Classical Heritage: Greeks, Romans, Jews, Christians, and Muslims"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1457",
+                  "name": "Understanding the Palestinians"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1960S",
+                  "name": "North African History: 1800 to Present"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1964L",
+                  "name": "Slavery in the Early Modern World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1968V",
+                  "name": "America and the Middle East: Histories of Connection and Exchange"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1969D",
+                  "name": "Palestine versus the Palestinians"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1804A",
+                  "name": "Iran and the Islamic Revolution"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1822I",
+                  "name": "Geopolitics of Oil and Energy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Language Semesters: Middle East Studies concentrators are expected to reach a level of language proficiency consistent with completion of four semesters of Brown language coursework in at least one of the modern Middle Eastern languages, such as Arabic, Persian, Hebrew, or Turkish, or the equivalent through transfer or study abroad credits. Courses at Brown that can be used to fulfill this requirement include:",
+          "type": "section",
+          "count": 4,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0100",
+                  "name": "First-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0200",
+                  "name": "First-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0300",
+                  "name": "Second-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0400",
+                  "name": "Second-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0500",
+                  "name": "Third-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0600",
+                  "name": "Third-Year Arabic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0700",
+                  "name": "Advanced Arabic:  Tales of the City"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0800",
+                  "name": "Advanced Arabic: Language & Culture through Cinema"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0850",
+                  "name": "Advanced reading and composition in Arabic: Kalila wa-Dimna"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARAB 0950",
+                  "name": "Advanced Reading and Composition: Arabic Fiction in the West"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0100",
+                  "name": "Elementary Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0200",
+                  "name": "Elementary Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0300",
+                  "name": "Intermediate Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0400",
+                  "name": "Intermediate Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0500",
+                  "name": "Writing and Speaking Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HEBR 0600",
+                  "name": "Issues in Contemporary Israeli Society, Politics, and Culture in Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0100",
+                  "name": "Basic Persian"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0105",
+                  "name": "Accelerated Persian"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0200",
+                  "name": "Basic Persian"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0300",
+                  "name": "Intermediate Persian Language and Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0400",
+                  "name": "Intermediate Persian Language and Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0500",
+                  "name": "Advanced Persian Language and Culture I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 0600",
+                  "name": "Advanced Persian Language and Culture II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 1100",
+                  "name": "Reading Persian for Research"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PRSN 2980",
+                  "name": "Reading and Research"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0100",
+                  "name": "Introduction to Turkish Language and Culture I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0110",
+                  "name": "Intensive Elementary Turkish Language and Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0200",
+                  "name": "Introduction to Turkish"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0300",
+                  "name": "Intermediate Turkish"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0400",
+                  "name": "Intermediate Turkish II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0500",
+                  "name": "Advanced Turkish I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "TKSH 0600",
+                  "name": "Advanced Turkish II Online"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "\u2022      Through advanced reading and writing courses in that language. Recent examples include:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 1310J",
+                  "name": "The Arab Renaissance"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 1431B",
+                  "name": "Modern Arabic Poetry"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 1810",
+                  "name": "Israeli Literature in Hebrew"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "\u2022      Through taking courses in a second Middle Eastern language.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "\u2022      Or through courses in a non\u2013Middle Eastern language to be used in a senior capstone project (for example, Spanish for the study of Andaluc\u00eda or French for the study of North Africa).",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Capstone/Honors Project:  MES requires all concentrators to conduct a capstone project within their senior year (i.e., in their last two semesters before graduation). The purpose of the capstone is to synthesize and apply the skills and knowledge that MES concentrators have acquired through the MES curriculum\u2014including disciplinary perspectives, methodological and theoretical approaches, background in the historical and contemporary dynamics of the region, and language competency\u2014to particular interests developed through the concentration. Capstones offer students the opportunity to integrate and build upon their experiences within the concentration, while demonstrating intellectual creativity, research skills, and effective communication, and should serve in some sense as a culmination of or reflection on what one has gained in the concentration. All students are expected to present their capstone research in the final semester before graduation. Presentations of honors theses will be approximately twenty minutes long, and those of non-honors capstone projects will be approximately ten minutes long, both followed by a question-and-answer session. Capstone projects must fulfill the following requirements:",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        },
+        {
+          "name": "\u2022      Must be taken in the final two semesters before graduation (excluding summer and winter sessions)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "\u2022      Must incorporate research in a Middle Eastern language.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "\u2022      Must be approved or overseen by a MES or MES-affiliated faculty member.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "\u2022      Must be presented in the final semester before graduation.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "Capstones can take one of three forms:",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "a. A Middle East\u2013focused research paper of at least 20 pages for an existing concentration-eligible (MES-coded or X-Listed) course, undertaken with the permission and supervision of the instructor.",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MES 1970",
+                  "name": "MES 1970"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "c. A two-semester honors thesis, completed under the supervision of a primary reader (who is an MES or MES-affiliated faculty member) and a secondary reader (who can be from other Brown departments and programs), and in coordination with the DUS.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1968A",
+            "name": "Approaches to the Middle East"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0150",
+            "name": "Introduction to Egyptian Archaeology and Art"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 0230",
+            "name": "Myriad Mediterraneans: Archaeology, Representation and Decolonization"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1630",
+            "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0300",
+            "name": "Babylon: Myth and Reality"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0310",
+            "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0320",
+            "name": "The Origin(s) of Science"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 0800",
+            "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1100",
+            "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1300",
+            "name": "The Age of Empires: The Ancient Near East in the First Millennium BC"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ASYR 1600",
+            "name": "Astronomy Before the Telescope"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BHBR 0100",
+            "name": "Introduction to Biblical Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BHBR 0200",
+            "name": "Readings in Biblical Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 0660",
+            "name": "The World of Byzantium"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CLAS 1230",
+            "name": "The Persian Empire and Achaemenid Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 0510K",
+            "name": "The 1001 Nights"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 0610Q",
+            "name": "Before Wikipedia"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 0711L",
+            "name": "The Quran and its Readers"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1310E",
+            "name": "A Classical Islamic Education: Readings in Arabic Literature"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1030",
+            "name": "Collapse! Ancient Egypt after the Pyramid Age"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1310",
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1320",
+            "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EGYT 1430",
+            "name": "History of Egypt I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1070L",
+            "name": "Islam, Immigration et Identit\u00e9 nationale dans le roman fran\u00e7ais contemporain"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1410R",
+            "name": "Images d\u2019une guerre sans nom: The Algerian War in Literature and Film"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1710J",
+            "name": "Geopolitics and Identity Divides in the Middle East"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1710K",
+            "name": "Frantz Fanon: Critical Theory and Decolonizing Practices between the Caribbean and (North) Africa"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0042",
+            "name": "Islamic Art and Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 0050H",
+            "name": "Israel's Wars"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 0050P",
+            "name": "Sacred Spaces: Synagogues, Churches, Mosques"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 0608",
+            "name": "The Parting of the Ways?: Questioning Jewish/Christian Difference"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 1630",
+            "name": "The Talmud"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 1711",
+            "name": "History of the State of Israel: 1948 to the Present"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 1504R",
+            "name": "Iranian Cinema"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MCM 1505Z",
+            "name": "Kiarostami: Questions of Cinema + Reality"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 1200",
+            "name": "Iranian Cinema: Before and After the Islamic Revolution"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0720",
+            "name": "Modern Iran: Literature, Media & Pop Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0014",
+            "name": "Jesus"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0021",
+            "name": "Inequality in the Ancient World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0088",
+            "name": "Judaism, Christianity, and Islam"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0090M",
+            "name": "Islam, Violence and Media"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0095A",
+            "name": "Islam from the Ground Up"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0096",
+            "name": "The Imaginary Lives of Muslims"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0290D",
+            "name": "Islamic Sexualities"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0290H",
+            "name": "Defense Against the Dark Arts in the Ancient World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0320",
+            "name": "Israelite Religion"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 0410",
+            "name": "Ancient Christianity: Jesus to Muhammad"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1315",
+            "name": "Religious Authority in an Age of Empire"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1500",
+            "name": "From Moses to Muhammad: Prophets of the Ancient World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1530B",
+            "name": "Heresy and Orthodoxy in Islamic Thought"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RELS 1530H",
+            "name": "Problems in Islamic Studies: Shaking up the Study of  the Islamic World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0720A",
+            "name": "Understanding Modern Turkey Through Film and Literature"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0720B",
+            "name": "Istanbul, Global Metropolis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1150",
+            "name": "Middle East in Anthropological Perspective"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0244",
+            "name": "Understanding the Middle East: A Modern History"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0150D",
+            "name": "Refugees: A Twentieth-Century History"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0246",
+            "name": "The Ottoman Empire and Modern Middle East"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1202",
+            "name": "Formation of the Classical Heritage: Greeks, Romans, Jews, Christians, and Muslims"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1457",
+            "name": "Understanding the Palestinians"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1960S",
+            "name": "North African History: 1800 to Present"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1964L",
+            "name": "Slavery in the Early Modern World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1968V",
+            "name": "America and the Middle East: Histories of Connection and Exchange"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1969D",
+            "name": "Palestine versus the Palestinians"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1804A",
+            "name": "Iran and the Islamic Revolution"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1822I",
+            "name": "Geopolitics of Oil and Energy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0100",
+            "name": "First-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0200",
+            "name": "First-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0300",
+            "name": "Second-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0400",
+            "name": "Second-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0500",
+            "name": "Third-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0600",
+            "name": "Third-Year Arabic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0700",
+            "name": "Advanced Arabic:  Tales of the City"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0800",
+            "name": "Advanced Arabic: Language & Culture through Cinema"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0850",
+            "name": "Advanced reading and composition in Arabic: Kalila wa-Dimna"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARAB 0950",
+            "name": "Advanced Reading and Composition: Arabic Fiction in the West"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0100",
+            "name": "Elementary Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0200",
+            "name": "Elementary Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0300",
+            "name": "Intermediate Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0400",
+            "name": "Intermediate Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0500",
+            "name": "Writing and Speaking Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HEBR 0600",
+            "name": "Issues in Contemporary Israeli Society, Politics, and Culture in Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0100",
+            "name": "Basic Persian"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0105",
+            "name": "Accelerated Persian"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0200",
+            "name": "Basic Persian"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0300",
+            "name": "Intermediate Persian Language and Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0400",
+            "name": "Intermediate Persian Language and Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0500",
+            "name": "Advanced Persian Language and Culture I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 0600",
+            "name": "Advanced Persian Language and Culture II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 1100",
+            "name": "Reading Persian for Research"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PRSN 2980",
+            "name": "Reading and Research"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0100",
+            "name": "Introduction to Turkish Language and Culture I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0110",
+            "name": "Intensive Elementary Turkish Language and Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0200",
+            "name": "Introduction to Turkish"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0300",
+            "name": "Intermediate Turkish"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0400",
+            "name": "Intermediate Turkish II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0500",
+            "name": "Advanced Turkish I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "TKSH 0600",
+            "name": "Advanced Turkish II Online"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1310J",
+            "name": "The Arab Renaissance"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1431B",
+            "name": "Modern Arabic Poetry"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 1810",
+            "name": "Israeli Literature in Hebrew"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MES 1970",
+            "name": "MES 1970"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
   "all_courses": [
     {
       "code": "HIST 1968A",
-      "name": "HIST 1968A"
+      "name": "Approaches to the Middle East"
     },
     {
       "code": "ARCH 0150",
-      "name": "ARCH 0150"
+      "name": "Introduction to Egyptian Archaeology and Art"
     },
     {
       "code": "ARCH 0230",
-      "name": "ARCH 0230"
+      "name": "Myriad Mediterraneans: Archaeology, Representation and Decolonization"
     },
     {
       "code": "ARCH 1630",
-      "name": "ARCH 1630"
+      "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
     },
     {
       "code": "ASYR 0300",
-      "name": "ASYR 0300"
+      "name": "Babylon: Myth and Reality"
     },
     {
       "code": "ASYR 0310",
-      "name": "ASYR 0310"
+      "name": "Thunder-gods and Dragon-slayers: Mythology + Cultural Contact - Ancient Mediterranean and Near East"
     },
     {
       "code": "ASYR 0320",
-      "name": "ASYR 0320"
+      "name": "The Origin(s) of Science"
     },
     {
       "code": "ASYR 0800",
-      "name": "ASYR 0800"
+      "name": "The Cradle of Civilization? An Introduction to the Ancient Near East"
     },
     {
       "code": "ASYR 1100",
-      "name": "ASYR 1100"
+      "name": "Imagining the Gods: Myths and Myth-making in Ancient Mesopotamia"
     },
     {
       "code": "ASYR 1300",
-      "name": "ASYR 1300"
+      "name": "The Age of Empires: The Ancient Near East in the First Millennium BC"
     },
     {
       "code": "ASYR 1600",
-      "name": "ASYR 1600"
+      "name": "Astronomy Before the Telescope"
     },
     {
       "code": "BHBR 0100",
-      "name": "BHBR 0100"
+      "name": "Introduction to Biblical Hebrew"
     },
     {
       "code": "BHBR 0200",
-      "name": "BHBR 0200"
+      "name": "Readings in Biblical Hebrew"
     },
     {
       "code": "CLAS 0660",
-      "name": "CLAS 0660"
+      "name": "The World of Byzantium"
     },
     {
       "code": "CLAS 1230",
-      "name": "CLAS 1230"
+      "name": "The Persian Empire and Achaemenid Culture"
     },
     {
       "code": "COLT 0510K",
-      "name": "COLT 0510K"
+      "name": "The 1001 Nights"
     },
     {
       "code": "COLT 0610Q",
-      "name": "COLT 0610Q"
+      "name": "Before Wikipedia"
     },
     {
       "code": "COLT 0711L",
-      "name": "COLT 0711L"
+      "name": "The Quran and its Readers"
     },
     {
       "code": "COLT 1310E",
-      "name": "COLT 1310E"
+      "name": "A Classical Islamic Education: Readings in Arabic Literature"
     },
     {
       "code": "EGYT 1030",
-      "name": "EGYT 1030"
+      "name": "Collapse! Ancient Egypt after the Pyramid Age"
     },
     {
       "code": "EGYT 1310",
-      "name": "EGYT 1310"
+      "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)"
     },
     {
       "code": "EGYT 1320",
-      "name": "EGYT 1320"
+      "name": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian II)"
     },
     {
       "code": "EGYT 1430",
-      "name": "EGYT 1430"
+      "name": "History of Egypt I"
     },
     {
       "code": "FREN 1070L",
-      "name": "FREN 1070L"
+      "name": "Islam, Immigration et Identit\u00e9 nationale dans le roman fran\u00e7ais contemporain"
     },
     {
       "code": "FREN 1410R",
-      "name": "FREN 1410R"
+      "name": "Images d\u2019une guerre sans nom: The Algerian War in Literature and Film"
     },
     {
       "code": "FREN 1710J",
-      "name": "FREN 1710J"
+      "name": "Geopolitics and Identity Divides in the Middle East"
     },
     {
       "code": "FREN 1710K",
-      "name": "FREN 1710K"
+      "name": "Frantz Fanon: Critical Theory and Decolonizing Practices between the Caribbean and (North) Africa"
     },
     {
       "code": "HIAA 0042",
-      "name": "HIAA 0042"
+      "name": "Islamic Art and Architecture"
     },
     {
       "code": "JUDS 0050H",
-      "name": "JUDS 0050H"
+      "name": "Israel's Wars"
     },
     {
       "code": "JUDS 0050P",
-      "name": "JUDS 0050P"
+      "name": "Sacred Spaces: Synagogues, Churches, Mosques"
     },
     {
       "code": "JUDS 0608",
-      "name": "JUDS 0608"
+      "name": "The Parting of the Ways?: Questioning Jewish/Christian Difference"
     },
     {
       "code": "JUDS 1630",
-      "name": "JUDS 1630"
+      "name": "The Talmud"
     },
     {
       "code": "JUDS 1711",
-      "name": "JUDS 1711"
+      "name": "History of the State of Israel: 1948 to the Present"
     },
     {
       "code": "MCM 1504R",
-      "name": "MCM 1504R"
+      "name": "Iranian Cinema"
     },
     {
       "code": "MCM 1505Z",
-      "name": "MCM 1505Z"
+      "name": "Kiarostami: Questions of Cinema + Reality"
     },
     {
       "code": "PRSN 1200",
-      "name": "PRSN 1200"
+      "name": "Iranian Cinema: Before and After the Islamic Revolution"
     },
     {
       "code": "PRSN 0720",
-      "name": "PRSN 0720"
+      "name": "Modern Iran: Literature, Media & Pop Culture"
     },
     {
       "code": "RELS 0014",
-      "name": "RELS 0014"
+      "name": "Jesus"
     },
     {
       "code": "RELS 0021",
-      "name": "RELS 0021"
+      "name": "Inequality in the Ancient World"
     },
     {
       "code": "RELS 0088",
-      "name": "RELS 0088"
+      "name": "Judaism, Christianity, and Islam"
     },
     {
       "code": "RELS 0090M",
-      "name": "RELS 0090M"
+      "name": "Islam, Violence and Media"
     },
     {
       "code": "RELS 0095A",
-      "name": "RELS 0095A"
+      "name": "Islam from the Ground Up"
     },
     {
       "code": "RELS 0096",
-      "name": "RELS 0096"
+      "name": "The Imaginary Lives of Muslims"
     },
     {
       "code": "RELS 0290D",
-      "name": "RELS 0290D"
+      "name": "Islamic Sexualities"
     },
     {
       "code": "RELS 0290H",
-      "name": "RELS 0290H"
+      "name": "Defense Against the Dark Arts in the Ancient World"
     },
     {
       "code": "RELS 0320",
-      "name": "RELS 0320"
+      "name": "Israelite Religion"
     },
     {
       "code": "RELS 0410",
-      "name": "RELS 0410"
+      "name": "Ancient Christianity: Jesus to Muhammad"
     },
     {
       "code": "RELS 1315",
-      "name": "RELS 1315"
+      "name": "Religious Authority in an Age of Empire"
     },
     {
       "code": "RELS 1500",
-      "name": "RELS 1500"
+      "name": "From Moses to Muhammad: Prophets of the Ancient World"
     },
     {
       "code": "RELS 1530B",
-      "name": "RELS 1530B"
+      "name": "Heresy and Orthodoxy in Islamic Thought"
     },
     {
       "code": "RELS 1530H",
-      "name": "RELS 1530H"
+      "name": "Problems in Islamic Studies: Shaking up the Study of  the Islamic World"
     },
     {
       "code": "TKSH 0720A",
-      "name": "TKSH 0720A"
+      "name": "Understanding Modern Turkey Through Film and Literature"
     },
     {
       "code": "TKSH 0720B",
-      "name": "TKSH 0720B"
+      "name": "Istanbul, Global Metropolis"
     },
     {
       "code": "ANTH 1150",
-      "name": "ANTH 1150"
+      "name": "Middle East in Anthropological Perspective"
     },
     {
       "code": "HIST 0244",
-      "name": "HIST 0244"
+      "name": "Understanding the Middle East: A Modern History"
     },
     {
       "code": "HIST 0150D",
-      "name": "HIST 0150D"
+      "name": "Refugees: A Twentieth-Century History"
     },
     {
       "code": "HIST 0246",
-      "name": "HIST 0246"
+      "name": "The Ottoman Empire and Modern Middle East"
     },
     {
       "code": "HIST 1202",
-      "name": "HIST 1202"
+      "name": "Formation of the Classical Heritage: Greeks, Romans, Jews, Christians, and Muslims"
     },
     {
       "code": "HIST 1457",
-      "name": "HIST 1457"
+      "name": "Understanding the Palestinians"
     },
     {
       "code": "HIST 1960S",
-      "name": "HIST 1960S"
+      "name": "North African History: 1800 to Present"
     },
     {
       "code": "HIST 1964L",
-      "name": "HIST 1964L"
+      "name": "Slavery in the Early Modern World"
     },
     {
       "code": "HIST 1968V",
-      "name": "HIST 1968V"
+      "name": "America and the Middle East: Histories of Connection and Exchange"
     },
     {
       "code": "HIST 1969D",
-      "name": "HIST 1969D"
+      "name": "Palestine versus the Palestinians"
     },
     {
       "code": "IAPA 1804A",
-      "name": "IAPA 1804A"
+      "name": "Iran and the Islamic Revolution"
     },
     {
       "code": "POLS 1822I",
-      "name": "POLS 1822I"
+      "name": "Geopolitics of Oil and Energy"
     },
     {
       "code": "ARAB 0100",
-      "name": "ARAB 0100"
+      "name": "First-Year Arabic"
     },
     {
       "code": "ARAB 0200",
-      "name": "ARAB 0200"
+      "name": "First-Year Arabic"
     },
     {
       "code": "ARAB 0300",
-      "name": "ARAB 0300"
+      "name": "Second-Year Arabic"
     },
     {
       "code": "ARAB 0400",
-      "name": "ARAB 0400"
+      "name": "Second-Year Arabic"
     },
     {
       "code": "ARAB 0500",
-      "name": "ARAB 0500"
+      "name": "Third-Year Arabic"
     },
     {
       "code": "ARAB 0600",
-      "name": "ARAB 0600"
+      "name": "Third-Year Arabic"
     },
     {
       "code": "ARAB 0700",
-      "name": "ARAB 0700"
+      "name": "Advanced Arabic:  Tales of the City"
     },
     {
       "code": "ARAB 0800",
-      "name": "ARAB 0800"
+      "name": "Advanced Arabic: Language & Culture through Cinema"
     },
     {
       "code": "ARAB 0850",
-      "name": "ARAB 0850"
+      "name": "Advanced reading and composition in Arabic: Kalila wa-Dimna"
     },
     {
       "code": "ARAB 0950",
-      "name": "ARAB 0950"
+      "name": "Advanced Reading and Composition: Arabic Fiction in the West"
     },
     {
       "code": "HEBR 0100",
-      "name": "HEBR 0100"
+      "name": "Elementary Hebrew"
     },
     {
       "code": "HEBR 0200",
-      "name": "HEBR 0200"
+      "name": "Elementary Hebrew"
     },
     {
       "code": "HEBR 0300",
-      "name": "HEBR 0300"
+      "name": "Intermediate Hebrew"
     },
     {
       "code": "HEBR 0400",
-      "name": "HEBR 0400"
+      "name": "Intermediate Hebrew"
     },
     {
       "code": "HEBR 0500",
-      "name": "HEBR 0500"
+      "name": "Writing and Speaking Hebrew"
     },
     {
       "code": "HEBR 0600",
-      "name": "HEBR 0600"
+      "name": "Issues in Contemporary Israeli Society, Politics, and Culture in Hebrew"
     },
     {
       "code": "PRSN 0100",
-      "name": "PRSN 0100"
+      "name": "Basic Persian"
     },
     {
       "code": "PRSN 0105",
-      "name": "PRSN 0105"
+      "name": "Accelerated Persian"
     },
     {
       "code": "PRSN 0200",
-      "name": "PRSN 0200"
+      "name": "Basic Persian"
     },
     {
       "code": "PRSN 0300",
-      "name": "PRSN 0300"
+      "name": "Intermediate Persian Language and Culture"
     },
     {
       "code": "PRSN 0400",
-      "name": "PRSN 0400"
+      "name": "Intermediate Persian Language and Culture"
     },
     {
       "code": "PRSN 0500",
-      "name": "PRSN 0500"
+      "name": "Advanced Persian Language and Culture I"
     },
     {
       "code": "PRSN 0600",
-      "name": "PRSN 0600"
+      "name": "Advanced Persian Language and Culture II"
     },
     {
       "code": "PRSN 1100",
-      "name": "PRSN 1100"
+      "name": "Reading Persian for Research"
     },
     {
       "code": "PRSN 2980",
-      "name": "PRSN 2980"
+      "name": "Reading and Research"
     },
     {
       "code": "TKSH 0100",
-      "name": "TKSH 0100"
+      "name": "Introduction to Turkish Language and Culture I"
     },
     {
       "code": "TKSH 0110",
-      "name": "TKSH 0110"
+      "name": "Intensive Elementary Turkish Language and Culture"
     },
     {
       "code": "TKSH 0200",
-      "name": "TKSH 0200"
+      "name": "Introduction to Turkish"
     },
     {
       "code": "TKSH 0300",
-      "name": "TKSH 0300"
+      "name": "Intermediate Turkish"
     },
     {
       "code": "TKSH 0400",
-      "name": "TKSH 0400"
+      "name": "Intermediate Turkish II"
     },
     {
       "code": "TKSH 0500",
-      "name": "TKSH 0500"
+      "name": "Advanced Turkish I"
     },
     {
       "code": "TKSH 0600",
-      "name": "TKSH 0600"
+      "name": "Advanced Turkish II Online"
     },
     {
       "code": "COLT 1310J",
-      "name": "COLT 1310J"
+      "name": "The Arab Renaissance"
     },
     {
       "code": "COLT 1431B",
-      "name": "COLT 1431B"
+      "name": "Modern Arabic Poetry"
     },
     {
       "code": "JUDS 1810",
-      "name": "JUDS 1810"
+      "name": "Israeli Literature in Hebrew"
     },
     {
       "code": "MES 1970",

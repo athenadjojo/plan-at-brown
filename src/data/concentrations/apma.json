@@ -2,6 +2,7 @@
   "concentration": "Applied Mathematics",
   "slug": "apma",
   "url": "https://bulletin.brown.edu/the-college/concentrations/apma/",
+  "description": "Applied Mathematics has a profound impact on our daily lives. Whether it is search engines, climate modeling, weather forecasts, artificial intelligence, secure online shopping, brain imaging, or movie recommendations, none of these would work the way they do without algorithms and tools from the mathematical sciences. More generally, Applied Mathematics is an inherently interdisciplinary subject, covering problems arising in all areas of science, technology, and engineering. Our courses provide a broad qualitative and quantitative background for use in these fields. Applied Mathematics appeals to people with a variety of different interests, ranging from those with a desire to obtain a good quantitative background for use in some future career, to those who wish to have a better understanding of the basic mathematical aspects of other fields, or to those who are interested in the fundamental mathematical techniques and approaches in themselves. The program stresses but is not limited to scientific computing, differential equations, probability, and statistics, which are areas of mathematics that are used most often in applications in science, society, and industry. Our curriculum is flexible enough to meet the goals and interests of a very wide range of students.",
   "tracks": [
     {
       "id": "standard_program_for_the_a_b__degree_",
@@ -40,7 +41,7 @@
           "notes": []
         },
         {
-          "name": "Requirements - 10 courses 1",
+          "name": "Requirements - 10 courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus2"
                 }
               ],
               "count": 1,
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -74,7 +75,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra2"
                 }
               ],
               "count": 1,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory3"
                 }
               ],
               "count": 1,
@@ -122,7 +123,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory4"
                 }
               ],
               "count": 1,
@@ -132,28 +133,28 @@
           "notes": []
         },
         {
-          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor. 5 1",
+          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Three 1000-level or higher APMA courses. 6 3",
+          "name": "Three 1000-level or higher APMA courses.",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "One 1000-level or higher APMA or MATH course. 6 1",
+          "name": "One 1000-level or higher APMA or MATH course.",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One pre-approved 1000-level STEM course, or an alternative approved by the concentration advisor. 7 1",
+          "name": "One pre-approved 1000-level STEM course, or an alternative approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -186,49 +187,49 @@
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory4"
           }
         }
       ],
@@ -271,7 +272,7 @@
           "notes": []
         },
         {
-          "name": "Requirements - 16 courses 1",
+          "name": "Requirements - 16 courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -281,7 +282,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus2"
                 }
               ],
               "count": 1,
@@ -293,7 +294,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -305,7 +306,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -317,7 +318,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra2"
                 }
               ],
               "count": 1,
@@ -329,7 +330,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -341,7 +342,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory3"
                 }
               ],
               "count": 1,
@@ -353,7 +354,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory4"
                 }
               ],
               "count": 1,
@@ -363,35 +364,35 @@
           "notes": []
         },
         {
-          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor. 5 1",
+          "name": "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Four 1000-level or higher APMA courses. 6 4",
+          "name": "Four 1000-level or higher APMA courses.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Two 1000-level or higher APMA or MATH courses. 6 2",
+          "name": "Two 1000-level or higher APMA or MATH courses.",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Four pre-approved 1000-level STEM courses, or alternatives approved by the concentration advisor. 7 4",
+          "name": "Four pre-approved 1000-level STEM courses, or alternatives approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor. 8 1",
+          "name": "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -424,49 +425,49 @@
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory4"
           }
         }
       ],
@@ -492,31 +493,31 @@
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculus2"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theory"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra2"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "APMA 0355",
-      "name": "APMA 0355"
+      "name": "Applied Ordinary Differential Equations with Theory3"
     },
     {
       "code": "APMA 0365",
-      "name": "APMA 0365"
+      "name": "Applied Partial Differential Equations I with Theory4"
     },
     {
       "code": "APMA 0260",

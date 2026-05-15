@@ -57,7 +57,7 @@
     "name": "Astronomy",
     "slug": "astr",
     "total_courses": 32,
-    "tracks": 0
+    "tracks": 1
   },
   "bds": {
     "name": "Behavioral Decision Sciences",
@@ -87,7 +87,7 @@
     "name": "Biophysics",
     "slug": "biop",
     "total_courses": 17,
-    "tracks": 0
+    "tracks": 1
   },
   "cheg": {
     "name": "Chemical Engineering",
@@ -189,7 +189,7 @@
     "name": "Early Modern World",
     "slug": "emow",
     "total_courses": 45,
-    "tracks": 0
+    "tracks": 1
   },
   "eps": {
     "name": "Earth and Planetary Science",
@@ -243,7 +243,7 @@
     "name": "Engineering and Physics",
     "slug": "enph",
     "total_courses": 43,
-    "tracks": 0
+    "tracks": 1
   },
   "engl": {
     "name": "English",
@@ -387,7 +387,7 @@
     "name": "Mathematics-Economics",
     "slug": "mtec",
     "total_courses": 53,
-    "tracks": 0
+    "tracks": 1
   },
   "mceg": {
     "name": "Mechanical Engineering",
@@ -405,7 +405,7 @@
     "name": "Middle East Studies",
     "slug": "mide",
     "total_courses": 102,
-    "tracks": 0
+    "tracks": 1
   },
   "mcmd": {
     "name": "Modern Culture and Media",
@@ -465,7 +465,7 @@
     "name": "Public Health",
     "slug": "pubh",
     "total_courses": 54,
-    "tracks": 0
+    "tracks": 1
   },
   "rels": {
     "name": "Religious Studies",
@@ -519,7 +519,7 @@
     "name": "Urban Studies",
     "slug": "urbn",
     "total_courses": 100,
-    "tracks": 0
+    "tracks": 1
   },
   "visa": {
     "name": "Visual Art",

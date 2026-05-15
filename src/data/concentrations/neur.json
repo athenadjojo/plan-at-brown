@@ -2,6 +2,7 @@
   "concentration": "Neuroscience",
   "slug": "neur",
   "url": "https://bulletin.brown.edu/the-college/concentrations/neur/",
+  "description": "Neuroscience is an interdisciplinary field that seeks to understand the functions and diseases of the nervous system. It draws on knowledge from neurobiology as well as elements of psychology and cognitive science, and mathematical and physical principles involved in modeling neural systems. Through the Neuroscience concentration, students develop foundational knowledge through courses in biology, chemistry, and mathematics as well as three core courses in neuroscience. They are also required to develop facility with research methodologies (through courses in statistics and laboratory methods) before moving into specific topics in the field (e.g., visual physiology, neurochemistry and behavior, and synaptic transmission and plasticity). Members of the Neuroscience faculty are affiliated with the Carney Institute for Brain Science, a multidisciplinary program that promotes collaborative research about the brain. Prospective concentrators should contact neuroundergrad@brown.edu in order to have a faculty advisor assigned to them. The concentration combines a general science background with a number of specific courses devoted to the cellular, molecular, and integrative functions of the nervous system. The concentration allows considerable flexibility for students to tailor a program to their individual interests. Elective courses focus on a variety of areas including molecular mechanisms, cellular function, sensory and motor systems, neuropharmacology, learning and memory, animal behavior, cognitive function, bioengineering, theoretical neuroscience and computer modeling.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I ((only needed as a prerequisite for MATH 10))"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II ((or equivalent))"
                 }
               ],
               "count": 1,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "PHYS 0030",
-                  "name": "PHYS 0030"
+                  "name": "Basic Physics A (Mechanics *see NOTE)"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "PHYS 0040",
-                  "name": "PHYS 0040"
+                  "name": "Basic Physics B ( Electromagnetism)"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems ((or placement test))"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -134,7 +135,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": 1,
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": 1,
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "NEUR 1030",
-                  "name": "NEUR 1030"
+                  "name": "Neural Systems"
                 }
               ],
               "count": 1,
@@ -168,7 +169,7 @@
           "notes": []
         },
         {
-          "name": "One critical reading course 1",
+          "name": "One critical reading course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -178,7 +179,7 @@
               "courses": [
                 {
                   "code": "NEUR 1440",
-                  "name": "NEUR 1440"
+                  "name": "Mechanisms and Meaning of Neural Dynamics"
                 }
               ],
               "count": null,
@@ -190,7 +191,7 @@
               "courses": [
                 {
                   "code": "NEUR 1510",
-                  "name": "NEUR 1510"
+                  "name": "Neurotechnology: Molecular Tools and Methods for Neurobiology"
                 }
               ],
               "count": null,
@@ -202,7 +203,7 @@
               "courses": [
                 {
                   "code": "NEUR 1530",
-                  "name": "NEUR 1530"
+                  "name": "Communication In the Brain: What We Know and How We Know It"
                 }
               ],
               "count": null,
@@ -214,7 +215,7 @@
               "courses": [
                 {
                   "code": "NEUR 1560",
-                  "name": "NEUR 1560"
+                  "name": "Developmental Neurobiology"
                 }
               ],
               "count": null,
@@ -226,7 +227,7 @@
               "courses": [
                 {
                   "code": "NEUR 1660",
-                  "name": "NEUR 1660"
+                  "name": "Neural Computation in Learning and Decision-Making"
                 }
               ],
               "count": null,
@@ -238,7 +239,7 @@
               "courses": [
                 {
                   "code": "NEUR 1970",
-                  "name": "NEUR 1970"
+                  "name": "Independent Study (*Two Semesters)"
                 }
               ],
               "count": null,
@@ -250,7 +251,7 @@
               "courses": [
                 {
                   "code": "BIOL 1100",
-                  "name": "BIOL 1100"
+                  "name": "Cell Physiology and Biophysics"
                 }
               ],
               "count": null,
@@ -262,7 +263,7 @@
               "courses": [
                 {
                   "code": "BIOL 1180",
-                  "name": "BIOL 1180"
+                  "name": "Comparative Animal Physiology"
                 }
               ],
               "count": null,
@@ -274,7 +275,7 @@
               "courses": [
                 {
                   "code": "BIOL 1190",
-                  "name": "BIOL 1190"
+                  "name": "Synaptic Transmission and Plasticity"
                 }
               ],
               "count": null,
@@ -286,7 +287,7 @@
               "courses": [
                 {
                   "code": "CPSY 1400",
-                  "name": "CPSY 1400"
+                  "name": "The Neural Bases of Cognition"
                 }
               ],
               "count": null,
@@ -298,7 +299,7 @@
               "courses": [
                 {
                   "code": "CPSY 1760",
-                  "name": "CPSY 1760"
+                  "name": "The Moral Brain"
                 }
               ],
               "count": null,
@@ -310,7 +311,7 @@
               "courses": [
                 {
                   "code": "BSS 1890",
-                  "name": "BSS 1890"
+                  "name": "The Craving Mind"
                 }
               ],
               "count": null,
@@ -334,7 +335,7 @@
           "notes": []
         },
         {
-          "name": "One statistics course 1",
+          "name": "One statistics course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -344,7 +345,7 @@
               "courses": [
                 {
                   "code": "STAT 1501",
-                  "name": "STAT 1501"
+                  "name": "Essentials of Data Analysis"
                 }
               ],
               "count": null,
@@ -356,7 +357,7 @@
               "courses": [
                 {
                   "code": "STAT 1510",
-                  "name": "STAT 1510"
+                  "name": "Principles of Biostatistics and Data Analysis"
                 }
               ],
               "count": null,
@@ -368,7 +369,7 @@
               "courses": [
                 {
                   "code": "STAT 2510",
-                  "name": "STAT 2510"
+                  "name": "Principles of Biostatistics and Data Analysis"
                 }
               ],
               "count": null,
@@ -380,7 +381,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -392,7 +393,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -404,7 +405,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -416,7 +417,7 @@
               "courses": [
                 {
                   "code": "SOC 1100",
-                  "name": "SOC 1100"
+                  "name": "Introductory Statistics for Social Research"
                 }
               ],
               "count": null,
@@ -428,7 +429,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -440,7 +441,7 @@
               "courses": [
                 {
                   "code": "EDUC 1230",
-                  "name": "EDUC 1230"
+                  "name": "Applied Statistics for Ed Research and Policy Analysis"
                 }
               ],
               "count": null,
@@ -450,7 +451,7 @@
           "notes": []
         },
         {
-          "name": "One lab methods course 1",
+          "name": "One lab methods course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -460,7 +461,7 @@
               "courses": [
                 {
                   "code": "NEUR 0680",
-                  "name": "NEUR 0680"
+                  "name": "Introduction to Computational Neuroscience"
                 }
               ],
               "count": null,
@@ -472,7 +473,7 @@
               "courses": [
                 {
                   "code": "NEUR 1440",
-                  "name": "NEUR 1440"
+                  "name": "Mechanisms and Meaning of Neural Dynamics"
                 }
               ],
               "count": null,
@@ -484,7 +485,7 @@
               "courses": [
                 {
                   "code": "NEUR 1600",
-                  "name": "NEUR 1600"
+                  "name": "Experimental Neurobiology"
                 }
               ],
               "count": null,
@@ -496,7 +497,7 @@
               "courses": [
                 {
                   "code": "NEUR 1630",
-                  "name": "NEUR 1630"
+                  "name": "Big Data Neuroscience Ideas Lab"
                 }
               ],
               "count": null,
@@ -508,7 +509,7 @@
               "courses": [
                 {
                   "code": "NEUR 1640",
-                  "name": "NEUR 1640"
+                  "name": "Behavioral Neurogenetics Laboratory"
                 }
               ],
               "count": null,
@@ -520,7 +521,7 @@
               "courses": [
                 {
                   "code": "NEUR 1650",
-                  "name": "NEUR 1650"
+                  "name": "Structure of the Nervous System"
                 }
               ],
               "count": null,
@@ -532,7 +533,7 @@
               "courses": [
                 {
                   "code": "NEUR 1660",
-                  "name": "NEUR 1660"
+                  "name": "Neural Computation in Learning and Decision-Making"
                 }
               ],
               "count": null,
@@ -544,7 +545,7 @@
               "courses": [
                 {
                   "code": "NEUR 1670",
-                  "name": "NEUR 1670"
+                  "name": "Neuropharmacology and Synaptic Transmission"
                 }
               ],
               "count": null,
@@ -556,7 +557,7 @@
               "courses": [
                 {
                   "code": "NEUR 1680",
-                  "name": "NEUR 1680"
+                  "name": "Computational Neuroscience"
                 }
               ],
               "count": null,
@@ -568,7 +569,7 @@
               "courses": [
                 {
                   "code": "NEUR 1970",
-                  "name": "NEUR 1970"
+                  "name": "Independent Study"
                 }
               ],
               "count": null,
@@ -588,7 +589,7 @@
               "courses": [
                 {
                   "code": "CPSY 1190",
-                  "name": "CPSY 1190"
+                  "name": "Techniques in Physiological Psychology"
                 }
               ],
               "count": null,
@@ -600,7 +601,7 @@
               "courses": [
                 {
                   "code": "CPSY 1194",
-                  "name": "CPSY 1194"
+                  "name": "Sleep and Chronobiology Research"
                 }
               ],
               "count": null,
@@ -612,7 +613,7 @@
               "courses": [
                 {
                   "code": "CPSY 1490",
-                  "name": "CPSY 1490"
+                  "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
                 }
               ],
               "count": null,
@@ -624,7 +625,7 @@
               "courses": [
                 {
                   "code": "CPSY 1491",
-                  "name": "CPSY 1491"
+                  "name": "Neural Modeling Laboratory"
                 }
               ],
               "count": null,
@@ -636,7 +637,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -648,7 +649,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -660,7 +661,7 @@
               "courses": [
                 {
                   "code": "BIOL 1880",
-                  "name": "BIOL 1880"
+                  "name": "Comparative Biology of the Vertebrates"
                 }
               ],
               "count": null,
@@ -670,7 +671,7 @@
           "notes": []
         },
         {
-          "name": "Four electives related to neuroscience 1 4",
+          "name": "Four electives related to neuroscience",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -687,7 +688,7 @@
               "courses": [
                 {
                   "code": "NEUR 0680",
-                  "name": "NEUR 0680"
+                  "name": "Introduction to Computational Neuroscience"
                 }
               ],
               "count": null,
@@ -699,7 +700,7 @@
               "courses": [
                 {
                   "code": "NEUR 1040",
-                  "name": "NEUR 1040"
+                  "name": "Introduction to Neurogenetics"
                 }
               ],
               "count": null,
@@ -711,7 +712,7 @@
               "courses": [
                 {
                   "code": "NEUR 1440",
-                  "name": "NEUR 1440"
+                  "name": "Mechanisms and Meaning of Neural Dynamics"
                 }
               ],
               "count": null,
@@ -723,7 +724,7 @@
               "courses": [
                 {
                   "code": "NEUR 1510",
-                  "name": "NEUR 1510"
+                  "name": "Neurotechnology: Molecular Tools and Methods for Neurobiology"
                 }
               ],
               "count": null,
@@ -735,7 +736,7 @@
               "courses": [
                 {
                   "code": "NEUR 1530",
-                  "name": "NEUR 1530"
+                  "name": "Communication In the Brain: What We Know and How We Know It"
                 }
               ],
               "count": null,
@@ -747,7 +748,7 @@
               "courses": [
                 {
                   "code": "NEUR 1540",
-                  "name": "NEUR 1540"
+                  "name": "Neurobiology of Learning and Memory"
                 }
               ],
               "count": null,
@@ -759,7 +760,7 @@
               "courses": [
                 {
                   "code": "NEUR 1560",
-                  "name": "NEUR 1560"
+                  "name": "Developmental Neurobiology"
                 }
               ],
               "count": null,
@@ -771,7 +772,7 @@
               "courses": [
                 {
                   "code": "NEUR 1570",
-                  "name": "NEUR 1570"
+                  "name": "The Non-Neuronal Brain"
                 }
               ],
               "count": null,
@@ -783,7 +784,7 @@
               "courses": [
                 {
                   "code": "NEUR 1600",
-                  "name": "NEUR 1600"
+                  "name": "Experimental Neurobiology"
                 }
               ],
               "count": null,
@@ -795,7 +796,7 @@
               "courses": [
                 {
                   "code": "NEUR 1630",
-                  "name": "NEUR 1630"
+                  "name": "Big Data Neuroscience Ideas Lab"
                 }
               ],
               "count": null,
@@ -807,7 +808,7 @@
               "courses": [
                 {
                   "code": "NEUR 1640",
-                  "name": "NEUR 1640"
+                  "name": "Behavioral Neurogenetics Laboratory"
                 }
               ],
               "count": null,
@@ -819,7 +820,7 @@
               "courses": [
                 {
                   "code": "NEUR 1650",
-                  "name": "NEUR 1650"
+                  "name": "Structure of the Nervous System"
                 }
               ],
               "count": null,
@@ -831,7 +832,7 @@
               "courses": [
                 {
                   "code": "NEUR 1660",
-                  "name": "NEUR 1660"
+                  "name": "Neural Computation in Learning and Decision-Making"
                 }
               ],
               "count": null,
@@ -843,7 +844,7 @@
               "courses": [
                 {
                   "code": "NEUR 1740",
-                  "name": "NEUR 1740"
+                  "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
                 }
               ],
               "count": null,
@@ -855,7 +856,7 @@
               "courses": [
                 {
                   "code": "NEUR 1970",
-                  "name": "NEUR 1970"
+                  "name": "Independent Study"
                 }
               ],
               "count": null,
@@ -875,7 +876,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -895,7 +896,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -907,7 +908,7 @@
               "courses": [
                 {
                   "code": "CPSY 1196",
-                  "name": "CPSY 1196"
+                  "name": "Sleep, Circadian Rhythms, and Behavioral Health"
                 }
               ],
               "count": null,
@@ -919,7 +920,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -931,7 +932,7 @@
               "courses": [
                 {
                   "code": "CPSY 1420",
-                  "name": "CPSY 1420"
+                  "name": "Cognitive Neuropsychology"
                 }
               ],
               "count": null,
@@ -943,7 +944,7 @@
               "courses": [
                 {
                   "code": "CPSY 1480H",
-                  "name": "CPSY 1480H"
+                  "name": "Disorders of Memory"
                 }
               ],
               "count": null,
@@ -955,7 +956,7 @@
               "courses": [
                 {
                   "code": "CPSY 1480I",
-                  "name": "CPSY 1480I"
+                  "name": "Memory, Space, and the Hippocampus"
                 }
               ],
               "count": null,
@@ -967,7 +968,7 @@
               "courses": [
                 {
                   "code": "CPSY 1490",
-                  "name": "CPSY 1490"
+                  "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
                 }
               ],
               "count": null,
@@ -979,7 +980,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -991,7 +992,7 @@
               "courses": [
                 {
                   "code": "CPSY 1540",
-                  "name": "CPSY 1540"
+                  "name": "Perceiving and Acting in 3D"
                 }
               ],
               "count": null,
@@ -1003,7 +1004,7 @@
               "courses": [
                 {
                   "code": "CPSY 1560",
-                  "name": "CPSY 1560"
+                  "name": "Visually-Guided Action and Cognitive Processes"
                 }
               ],
               "count": null,
@@ -1015,7 +1016,7 @@
               "courses": [
                 {
                   "code": "CPSY 1570",
-                  "name": "CPSY 1570"
+                  "name": "Perceptual Learning"
                 }
               ],
               "count": null,
@@ -1027,7 +1028,7 @@
               "courses": [
                 {
                   "code": "CPSY 1591",
-                  "name": "CPSY 1591"
+                  "name": "3D Vision Laboratory"
                 }
               ],
               "count": null,
@@ -1039,7 +1040,7 @@
               "courses": [
                 {
                   "code": "CPSY 1760",
-                  "name": "CPSY 1760"
+                  "name": "The Moral Brain"
                 }
               ],
               "count": null,
@@ -1051,7 +1052,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -1063,7 +1064,7 @@
               "courses": [
                 {
                   "code": "BIOL 1100",
-                  "name": "BIOL 1100"
+                  "name": "Cell Physiology and Biophysics"
                 }
               ],
               "count": null,
@@ -1075,7 +1076,7 @@
               "courses": [
                 {
                   "code": "BIOL 1110",
-                  "name": "BIOL 1110"
+                  "name": "Topics in Signal Transduction"
                 }
               ],
               "count": null,
@@ -1087,7 +1088,7 @@
               "courses": [
                 {
                   "code": "BIOL 1155",
-                  "name": "BIOL 1155"
+                  "name": "Hormones and Behavior"
                 }
               ],
               "count": null,
@@ -1099,7 +1100,7 @@
               "courses": [
                 {
                   "code": "BIOL 1260",
-                  "name": "BIOL 1260"
+                  "name": "Physiological Pharmacology"
                 }
               ],
               "count": null,
@@ -1111,7 +1112,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -1123,7 +1124,7 @@
               "courses": [
                 {
                   "code": "BSS 1890",
-                  "name": "BSS 1890"
+                  "name": "The Craving Mind"
                 }
               ],
               "count": null,
@@ -1135,7 +1136,7 @@
               "courses": [
                 {
                   "code": "COST 1020",
-                  "name": "COST 1020"
+                  "name": "Cognitive Neuroscience of Meditation"
                 }
               ],
               "count": null,
@@ -1155,7 +1156,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -1167,7 +1168,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -1179,7 +1180,7 @@
               "courses": [
                 {
                   "code": "BIOL 1050",
-                  "name": "BIOL 1050"
+                  "name": "Biology of the Eukaryotic Cell"
                 }
               ],
               "count": null,
@@ -1191,7 +1192,7 @@
               "courses": [
                 {
                   "code": "BIOL 1540",
-                  "name": "BIOL 1540"
+                  "name": "Molecular Genetics"
                 }
               ],
               "count": null,
@@ -1203,7 +1204,7 @@
               "courses": [
                 {
                   "code": "BIOL 1810",
-                  "name": "BIOL 1810"
+                  "name": "21st Century Applications in Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -1215,7 +1216,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -1227,7 +1228,7 @@
               "courses": [
                 {
                   "code": "CPSY 1195",
-                  "name": "CPSY 1195"
+                  "name": "Life Under Water in the Anthropocene"
                 }
               ],
               "count": null,
@@ -1239,7 +1240,7 @@
               "courses": [
                 {
                   "code": "CPSY 1500",
-                  "name": "CPSY 1500"
+                  "name": "Perception and Action"
                 }
               ],
               "count": null,
@@ -1251,7 +1252,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -1263,7 +1264,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Z",
-                  "name": "ENGL 1900Z"
+                  "name": "Neuroaesthetics and Reading"
                 }
               ],
               "count": null,
@@ -1275,7 +1276,7 @@
               "courses": [
                 {
                   "code": "PHIL 1770",
-                  "name": "PHIL 1770"
+                  "name": "Philosophy of Mind"
                 }
               ],
               "count": null,
@@ -1287,7 +1288,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281Z",
-                  "name": "TAPS 1281Z"
+                  "name": "Arts and Health: Practice"
                 }
               ],
               "count": null,
@@ -1322,49 +1323,49 @@
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I ((only needed as a prerequisite for MATH 10))"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II ((or equivalent))"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0030",
-            "name": "PHYS 0030"
+            "name": "Basic Physics A (Mechanics *see NOTE)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0040",
-            "name": "PHYS 0040"
+            "name": "Basic Physics B ( Electromagnetism)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems ((or placement test))"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
@@ -1392,630 +1393,630 @@
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1030",
-            "name": "NEUR 1030"
+            "name": "Neural Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1440",
-            "name": "NEUR 1440"
+            "name": "Mechanisms and Meaning of Neural Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1510",
-            "name": "NEUR 1510"
+            "name": "Neurotechnology: Molecular Tools and Methods for Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1530",
-            "name": "NEUR 1530"
+            "name": "Communication In the Brain: What We Know and How We Know It"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1560",
-            "name": "NEUR 1560"
+            "name": "Developmental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1660",
-            "name": "NEUR 1660"
+            "name": "Neural Computation in Learning and Decision-Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1970",
-            "name": "NEUR 1970"
+            "name": "Independent Study (*Two Semesters)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1100",
-            "name": "BIOL 1100"
+            "name": "Cell Physiology and Biophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1180",
-            "name": "BIOL 1180"
+            "name": "Comparative Animal Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1190",
-            "name": "BIOL 1190"
+            "name": "Synaptic Transmission and Plasticity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1400",
-            "name": "CPSY 1400"
+            "name": "The Neural Bases of Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1760",
-            "name": "CPSY 1760"
+            "name": "The Moral Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BSS 1890",
-            "name": "BSS 1890"
+            "name": "The Craving Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1501",
-            "name": "STAT 1501"
+            "name": "Essentials of Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1510",
-            "name": "STAT 1510"
+            "name": "Principles of Biostatistics and Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2510",
-            "name": "STAT 2510"
+            "name": "Principles of Biostatistics and Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1100",
-            "name": "SOC 1100"
+            "name": "Introductory Statistics for Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1230",
-            "name": "EDUC 1230"
+            "name": "Applied Statistics for Ed Research and Policy Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0680",
-            "name": "NEUR 0680"
+            "name": "Introduction to Computational Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1440",
-            "name": "NEUR 1440"
+            "name": "Mechanisms and Meaning of Neural Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1600",
-            "name": "NEUR 1600"
+            "name": "Experimental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1630",
-            "name": "NEUR 1630"
+            "name": "Big Data Neuroscience Ideas Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1640",
-            "name": "NEUR 1640"
+            "name": "Behavioral Neurogenetics Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1650",
-            "name": "NEUR 1650"
+            "name": "Structure of the Nervous System"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1660",
-            "name": "NEUR 1660"
+            "name": "Neural Computation in Learning and Decision-Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1670",
-            "name": "NEUR 1670"
+            "name": "Neuropharmacology and Synaptic Transmission"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1680",
-            "name": "NEUR 1680"
+            "name": "Computational Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1970",
-            "name": "NEUR 1970"
+            "name": "Independent Study"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1190",
-            "name": "CPSY 1190"
+            "name": "Techniques in Physiological Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1194",
-            "name": "CPSY 1194"
+            "name": "Sleep and Chronobiology Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1490",
-            "name": "CPSY 1490"
+            "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1491",
-            "name": "CPSY 1491"
+            "name": "Neural Modeling Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1880",
-            "name": "BIOL 1880"
+            "name": "Comparative Biology of the Vertebrates"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0680",
-            "name": "NEUR 0680"
+            "name": "Introduction to Computational Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1040",
-            "name": "NEUR 1040"
+            "name": "Introduction to Neurogenetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1440",
-            "name": "NEUR 1440"
+            "name": "Mechanisms and Meaning of Neural Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1510",
-            "name": "NEUR 1510"
+            "name": "Neurotechnology: Molecular Tools and Methods for Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1530",
-            "name": "NEUR 1530"
+            "name": "Communication In the Brain: What We Know and How We Know It"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1540",
-            "name": "NEUR 1540"
+            "name": "Neurobiology of Learning and Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1560",
-            "name": "NEUR 1560"
+            "name": "Developmental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1570",
-            "name": "NEUR 1570"
+            "name": "The Non-Neuronal Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1600",
-            "name": "NEUR 1600"
+            "name": "Experimental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1630",
-            "name": "NEUR 1630"
+            "name": "Big Data Neuroscience Ideas Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1640",
-            "name": "NEUR 1640"
+            "name": "Behavioral Neurogenetics Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1650",
-            "name": "NEUR 1650"
+            "name": "Structure of the Nervous System"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1660",
-            "name": "NEUR 1660"
+            "name": "Neural Computation in Learning and Decision-Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1740",
-            "name": "NEUR 1740"
+            "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1970",
-            "name": "NEUR 1970"
+            "name": "Independent Study"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1196",
-            "name": "CPSY 1196"
+            "name": "Sleep, Circadian Rhythms, and Behavioral Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1420",
-            "name": "CPSY 1420"
+            "name": "Cognitive Neuropsychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1480H",
-            "name": "CPSY 1480H"
+            "name": "Disorders of Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1480I",
-            "name": "CPSY 1480I"
+            "name": "Memory, Space, and the Hippocampus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1490",
-            "name": "CPSY 1490"
+            "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1540",
-            "name": "CPSY 1540"
+            "name": "Perceiving and Acting in 3D"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1560",
-            "name": "CPSY 1560"
+            "name": "Visually-Guided Action and Cognitive Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1570",
-            "name": "CPSY 1570"
+            "name": "Perceptual Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1591",
-            "name": "CPSY 1591"
+            "name": "3D Vision Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1760",
-            "name": "CPSY 1760"
+            "name": "The Moral Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1100",
-            "name": "BIOL 1100"
+            "name": "Cell Physiology and Biophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1110",
-            "name": "BIOL 1110"
+            "name": "Topics in Signal Transduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1155",
-            "name": "BIOL 1155"
+            "name": "Hormones and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1260",
-            "name": "BIOL 1260"
+            "name": "Physiological Pharmacology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BSS 1890",
-            "name": "BSS 1890"
+            "name": "The Craving Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1020",
-            "name": "COST 1020"
+            "name": "Cognitive Neuroscience of Meditation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1050",
-            "name": "BIOL 1050"
+            "name": "Biology of the Eukaryotic Cell"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1540",
-            "name": "BIOL 1540"
+            "name": "Molecular Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1810",
-            "name": "BIOL 1810"
+            "name": "21st Century Applications in Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1195",
-            "name": "CPSY 1195"
+            "name": "Life Under Water in the Anthropocene"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1500",
-            "name": "CPSY 1500"
+            "name": "Perception and Action"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Z",
-            "name": "ENGL 1900Z"
+            "name": "Neuroaesthetics and Reading"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1770",
-            "name": "PHIL 1770"
+            "name": "Philosophy of Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281Z",
-            "name": "TAPS 1281Z"
+            "name": "Arts and Health: Practice"
           }
         },
         {
@@ -2042,31 +2043,31 @@
   "all_courses": [
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I ((only needed as a prerequisite for MATH 10))"
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II ((or equivalent))"
     },
     {
       "code": "PHYS 0030",
-      "name": "PHYS 0030"
+      "name": "Basic Physics A (Mechanics *see NOTE)"
     },
     {
       "code": "PHYS 0040",
-      "name": "PHYS 0040"
+      "name": "Basic Physics B ( Electromagnetism)"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems ((or placement test))"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "ENGN 0030",
@@ -2078,283 +2079,283 @@
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "NEUR 1030",
-      "name": "NEUR 1030"
+      "name": "Neural Systems"
     },
     {
       "code": "NEUR 1440",
-      "name": "NEUR 1440"
+      "name": "Mechanisms and Meaning of Neural Dynamics"
     },
     {
       "code": "NEUR 1510",
-      "name": "NEUR 1510"
+      "name": "Neurotechnology: Molecular Tools and Methods for Neurobiology"
     },
     {
       "code": "NEUR 1530",
-      "name": "NEUR 1530"
+      "name": "Communication In the Brain: What We Know and How We Know It"
     },
     {
       "code": "NEUR 1560",
-      "name": "NEUR 1560"
+      "name": "Developmental Neurobiology"
     },
     {
       "code": "NEUR 1660",
-      "name": "NEUR 1660"
+      "name": "Neural Computation in Learning and Decision-Making"
     },
     {
       "code": "NEUR 1970",
-      "name": "NEUR 1970"
+      "name": "Independent Study (*Two Semesters)"
     },
     {
       "code": "BIOL 1100",
-      "name": "BIOL 1100"
+      "name": "Cell Physiology and Biophysics"
     },
     {
       "code": "BIOL 1180",
-      "name": "BIOL 1180"
+      "name": "Comparative Animal Physiology"
     },
     {
       "code": "BIOL 1190",
-      "name": "BIOL 1190"
+      "name": "Synaptic Transmission and Plasticity"
     },
     {
       "code": "CPSY 1400",
-      "name": "CPSY 1400"
+      "name": "The Neural Bases of Cognition"
     },
     {
       "code": "CPSY 1760",
-      "name": "CPSY 1760"
+      "name": "The Moral Brain"
     },
     {
       "code": "BSS 1890",
-      "name": "BSS 1890"
+      "name": "The Craving Mind"
     },
     {
       "code": "STAT 1501",
-      "name": "STAT 1501"
+      "name": "Essentials of Data Analysis"
     },
     {
       "code": "STAT 1510",
-      "name": "STAT 1510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "STAT 2510",
-      "name": "STAT 2510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "SOC 1100",
-      "name": "SOC 1100"
+      "name": "Introductory Statistics for Social Research"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "EDUC 1230",
-      "name": "EDUC 1230"
+      "name": "Applied Statistics for Ed Research and Policy Analysis"
     },
     {
       "code": "NEUR 0680",
-      "name": "NEUR 0680"
+      "name": "Introduction to Computational Neuroscience"
     },
     {
       "code": "NEUR 1600",
-      "name": "NEUR 1600"
+      "name": "Experimental Neurobiology"
     },
     {
       "code": "NEUR 1630",
-      "name": "NEUR 1630"
+      "name": "Big Data Neuroscience Ideas Lab"
     },
     {
       "code": "NEUR 1640",
-      "name": "NEUR 1640"
+      "name": "Behavioral Neurogenetics Laboratory"
     },
     {
       "code": "NEUR 1650",
-      "name": "NEUR 1650"
+      "name": "Structure of the Nervous System"
     },
     {
       "code": "NEUR 1670",
-      "name": "NEUR 1670"
+      "name": "Neuropharmacology and Synaptic Transmission"
     },
     {
       "code": "NEUR 1680",
-      "name": "NEUR 1680"
+      "name": "Computational Neuroscience"
     },
     {
       "code": "CPSY 1190",
-      "name": "CPSY 1190"
+      "name": "Techniques in Physiological Psychology"
     },
     {
       "code": "CPSY 1194",
-      "name": "CPSY 1194"
+      "name": "Sleep and Chronobiology Research"
     },
     {
       "code": "CPSY 1490",
-      "name": "CPSY 1490"
+      "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
     },
     {
       "code": "CPSY 1491",
-      "name": "CPSY 1491"
+      "name": "Neural Modeling Laboratory"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "BIOL 1880",
-      "name": "BIOL 1880"
+      "name": "Comparative Biology of the Vertebrates"
     },
     {
       "code": "NEUR 1040",
-      "name": "NEUR 1040"
+      "name": "Introduction to Neurogenetics"
     },
     {
       "code": "NEUR 1540",
-      "name": "NEUR 1540"
+      "name": "Neurobiology of Learning and Memory"
     },
     {
       "code": "NEUR 1570",
-      "name": "NEUR 1570"
+      "name": "The Non-Neuronal Brain"
     },
     {
       "code": "NEUR 1740",
-      "name": "NEUR 1740"
+      "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
     },
     {
       "code": "NEUR 2110",
-      "name": "NEUR 2110"
+      "name": "Statistical Neuroscience"
     },
     {
       "code": "CPSY 0400",
-      "name": "CPSY 0400"
+      "name": "Cognitive Neuroscience"
     },
     {
       "code": "CPSY 1196",
-      "name": "CPSY 1196"
+      "name": "Sleep, Circadian Rhythms, and Behavioral Health"
     },
     {
       "code": "CPSY 1291",
-      "name": "CPSY 1291"
+      "name": "Computational Methods for Mind, Brain and Behavior"
     },
     {
       "code": "CPSY 1420",
-      "name": "CPSY 1420"
+      "name": "Cognitive Neuropsychology"
     },
     {
       "code": "CPSY 1480H",
-      "name": "CPSY 1480H"
+      "name": "Disorders of Memory"
     },
     {
       "code": "CPSY 1480I",
-      "name": "CPSY 1480I"
+      "name": "Memory, Space, and the Hippocampus"
     },
     {
       "code": "CPSY 1540",
-      "name": "CPSY 1540"
+      "name": "Perceiving and Acting in 3D"
     },
     {
       "code": "CPSY 1560",
-      "name": "CPSY 1560"
+      "name": "Visually-Guided Action and Cognitive Processes"
     },
     {
       "code": "CPSY 1570",
-      "name": "CPSY 1570"
+      "name": "Perceptual Learning"
     },
     {
       "code": "CPSY 1591",
-      "name": "CPSY 1591"
+      "name": "3D Vision Laboratory"
     },
     {
       "code": "CPSY 1950",
-      "name": "CPSY 1950"
+      "name": "Deep Learning in Brains, Minds and Machines"
     },
     {
       "code": "BIOL 1110",
-      "name": "BIOL 1110"
+      "name": "Topics in Signal Transduction"
     },
     {
       "code": "BIOL 1155",
-      "name": "BIOL 1155"
+      "name": "Hormones and Behavior"
     },
     {
       "code": "BIOL 1260",
-      "name": "BIOL 1260"
+      "name": "Physiological Pharmacology"
     },
     {
       "code": "ENGN 1220",
-      "name": "ENGN 1220"
+      "name": "Neuroengineering"
     },
     {
       "code": "COST 1020",
-      "name": "COST 1020"
+      "name": "Cognitive Neuroscience of Meditation"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 1050",
-      "name": "BIOL 1050"
+      "name": "Biology of the Eukaryotic Cell"
     },
     {
       "code": "BIOL 1540",
-      "name": "BIOL 1540"
+      "name": "Molecular Genetics"
     },
     {
       "code": "BIOL 1810",
-      "name": "BIOL 1810"
+      "name": "21st Century Applications in Cell and Molecular Biology"
     },
     {
       "code": "CPSY 0950",
-      "name": "CPSY 0950"
+      "name": "Introduction to programming"
     },
     {
       "code": "CPSY 1195",
-      "name": "CPSY 1195"
+      "name": "Life Under Water in the Anthropocene"
     },
     {
       "code": "CPSY 1500",
-      "name": "CPSY 1500"
+      "name": "Perception and Action"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "ENGL 1900Z",
-      "name": "ENGL 1900Z"
+      "name": "Neuroaesthetics and Reading"
     },
     {
       "code": "PHIL 1770",
-      "name": "PHIL 1770"
+      "name": "Philosophy of Mind"
     },
     {
       "code": "TAPS 1281Z",
-      "name": "TAPS 1281Z"
+      "name": "Arts and Health: Practice"
     }
   ]
 }

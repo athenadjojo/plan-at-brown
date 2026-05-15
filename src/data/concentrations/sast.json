@@ -2,6 +2,7 @@
   "concentration": "South Asian Studies",
   "slug": "sast",
   "url": "https://bulletin.brown.edu/the-college/concentrations/sast/",
+  "description": "South Asian Studies is an interdisciplinary concentration in which students work across the humanities and social sciences, geographical locations, and time periods.\u00a0 The concentration emphasizes both the diversity of South Asia as a region, as well as the long-term historical connections among people and places in Pakistan, Nepal, Bhutan, India, Bangladesh, and Sri Lanka.\u00a0 The concentration takes a comparative approach, bringing attention to history, politics, and culture within the region, as well as in the equally vital global South Asian diaspora. All South Asian Studies concentrators must take and pass 10 courses as approved by their concentration advisor.\u00a0 Students who wish to earn honors must take 12 courses total (see Senior-Year Project below).",
   "tracks": [
     {
       "id": "course_requirements",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "SAST 0700",
-              "name": "SAST 0700"
+              "name": "Introduction to Modern South Asia"
             }
           ],
           "count": 1,
@@ -25,14 +26,14 @@
           "courses": [
             {
               "code": "HIST 1620",
-              "name": "HIST 1620"
+              "name": "Resisting Empire: Gandhi and the Making of Modern South Asia"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two courses in the Humanities with a majority focus in South Asia, such as: 2",
+          "name": "Two courses in the Humanities with a majority focus in South Asia, such as:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "CLAS 0995",
-                  "name": "CLAS 0995"
+                  "name": "India\u2019s Classical Performing Arts"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "CLAS 1140",
-                  "name": "CLAS 1140"
+                  "name": "Classical Philosophy of India"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "COST 0030",
-                  "name": "COST 0030"
+                  "name": "Sound, Song and Salvation in South Asia"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "COST 0034",
-                  "name": "COST 0034"
+                  "name": "Dharma: A History of Classical Indian Civilization"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "COST 0035",
-                  "name": "COST 0035"
+                  "name": "Saints and Mystics of India"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "COST 0036",
-                  "name": "COST 0036"
+                  "name": "Love and War in India"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "COST 0037",
-                  "name": "COST 0037"
+                  "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "COST 0140",
-                  "name": "COST 0140"
+                  "name": "Food, Religion and Politics in South Asia"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "COST 0145",
-                  "name": "COST 0145"
+                  "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "COST 0525",
-                  "name": "COST 0525"
+                  "name": "The History and Practice of Yoga in India and Beyond"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "COST 0526",
-                  "name": "COST 0526"
+                  "name": "This Whole World is OM: Mantras in Indian Religions"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "HIAA 0013",
-                  "name": "HIAA 0013"
+                  "name": "Introduction to Indian Art"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "HIAA 0023",
-                  "name": "HIAA 0023"
+                  "name": "South Asian Art and Architecture"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "LITR 1231K",
-                  "name": "LITR 1231K"
+                  "name": "Innovations in Indian Literature"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "RELS 0096",
-                  "name": "RELS 0096"
+                  "name": "The Imaginary Lives of Muslims"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "RELS 1510",
-                  "name": "RELS 1510"
+                  "name": "Islamic Imaginaries from South Asia"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "RELS 0036",
-                  "name": "RELS 0036"
+                  "name": "Love and War in India"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "RELS 0037",
-                  "name": "RELS 0037"
+                  "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "RELS 0526",
-                  "name": "RELS 0526"
+                  "name": "This Whole World is OM: Mantras in Indian Religions"
                 }
               ],
               "count": null,
@@ -268,7 +269,7 @@
           "notes": []
         },
         {
-          "name": "Two courses in the Social Sciences with a majority focus on South Asia, such as: 2",
+          "name": "Two courses in the Social Sciences with a majority focus on South Asia, such as:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -278,7 +279,7 @@
               "courses": [
                 {
                   "code": "HIST 1979D",
-                  "name": "HIST 1979D"
+                  "name": "Ruined History: Visual and Material Culture in South Asia"
                 }
               ],
               "count": null,
@@ -290,7 +291,7 @@
               "courses": [
                 {
                   "code": "POLS 1280",
-                  "name": "POLS 1280"
+                  "name": "The Rise of India: History, Politics, Economics and Society"
                 }
               ],
               "count": null,
@@ -302,7 +303,7 @@
               "courses": [
                 {
                   "code": "POLS 1821O",
-                  "name": "POLS 1821O"
+                  "name": "Politics of Economic Development in Asia"
                 }
               ],
               "count": null,
@@ -314,7 +315,7 @@
               "courses": [
                 {
                   "code": "POLS 2320",
-                  "name": "POLS 2320"
+                  "name": "Ethnic Conflict"
                 }
               ],
               "count": null,
@@ -326,7 +327,7 @@
               "courses": [
                 {
                   "code": "POLS 2330",
-                  "name": "POLS 2330"
+                  "name": "Politics in India"
                 }
               ],
               "count": null,
@@ -338,7 +339,7 @@
               "courses": [
                 {
                   "code": "SAST 0750",
-                  "name": "SAST 0750"
+                  "name": "Understanding the Indian Economy"
                 }
               ],
               "count": null,
@@ -350,7 +351,7 @@
               "courses": [
                 {
                   "code": "SAST 0725",
-                  "name": "SAST 0725"
+                  "name": "Political Ecology in South Asia"
                 }
               ],
               "count": null,
@@ -362,7 +363,7 @@
               "courses": [
                 {
                   "code": "SAST 0526",
-                  "name": "SAST 0526"
+                  "name": "This Whole World is OM: Mantras in Indian Religions"
                 }
               ],
               "count": null,
@@ -374,7 +375,7 @@
               "courses": [
                 {
                   "code": "SAST 0525",
-                  "name": "SAST 0525"
+                  "name": "The History and Practice of Yoga in India and Beyond"
                 }
               ],
               "count": null,
@@ -386,7 +387,7 @@
               "courses": [
                 {
                   "code": "SAST 0140",
-                  "name": "SAST 0140"
+                  "name": "Food, Religion and Politics in South Asia"
                 }
               ],
               "count": null,
@@ -398,7 +399,7 @@
               "courses": [
                 {
                   "code": "SAST 0037",
-                  "name": "SAST 0037"
+                  "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
                 }
               ],
               "count": null,
@@ -410,7 +411,7 @@
               "courses": [
                 {
                   "code": "SAST 0034",
-                  "name": "SAST 0034"
+                  "name": "Dharma: A History of Classical Indian Civilization"
                 }
               ],
               "count": null,
@@ -420,7 +421,7 @@
           "notes": []
         },
         {
-          "name": "At least five additional elective courses.  Students can take additional courses in the humanities or social sciences with a focus on South Asia, such as: 5",
+          "name": "At least five additional elective courses.  Students can take additional courses in the humanities or social sciences with a focus on South Asia, such as:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -444,7 +445,7 @@
               "courses": [
                 {
                   "code": "ANTH 0100",
-                  "name": "ANTH 0100"
+                  "name": "Introduction to Cultural Anthropology"
                 }
               ],
               "count": null,
@@ -456,7 +457,7 @@
               "courses": [
                 {
                   "code": "ANTH 2320",
-                  "name": "ANTH 2320"
+                  "name": "Anthropology and Development: Critical Ethnographic Perspectives"
                 }
               ],
               "count": null,
@@ -468,7 +469,7 @@
               "courses": [
                 {
                   "code": "COST 0032",
-                  "name": "COST 0032"
+                  "name": "Music and Meditation"
                 }
               ],
               "count": null,
@@ -480,7 +481,7 @@
               "courses": [
                 {
                   "code": "COST 0100",
-                  "name": "COST 0100"
+                  "name": "Introduction to Contemplative Studies"
                 }
               ],
               "count": null,
@@ -492,7 +493,7 @@
               "courses": [
                 {
                   "code": "ECON 0510",
-                  "name": "ECON 0510"
+                  "name": "Development and the International Economy"
                 }
               ],
               "count": null,
@@ -504,7 +505,7 @@
               "courses": [
                 {
                   "code": "ECON 1530",
-                  "name": "ECON 1530"
+                  "name": "Health, Hunger and the Household in Developing Countries"
                 }
               ],
               "count": null,
@@ -516,7 +517,7 @@
               "courses": [
                 {
                   "code": "ECON 2510",
-                  "name": "ECON 2510"
+                  "name": "Economic Development I"
                 }
               ],
               "count": null,
@@ -528,7 +529,7 @@
               "courses": [
                 {
                   "code": "HIAA 0081",
-                  "name": "HIAA 0081"
+                  "name": "Architecture of the House Through Space and Time"
                 }
               ],
               "count": null,
@@ -540,7 +541,7 @@
               "courses": [
                 {
                   "code": "HIST 0150D",
-                  "name": "HIST 0150D"
+                  "name": "Refugees: A Twentieth-Century History"
                 }
               ],
               "count": null,
@@ -552,7 +553,7 @@
               "courses": [
                 {
                   "code": "HIST 1440",
-                  "name": "HIST 1440"
+                  "name": "The Ottomans: Faith, Law, Empire"
                 }
               ],
               "count": null,
@@ -564,7 +565,7 @@
               "courses": [
                 {
                   "code": "HNDI 0200",
-                  "name": "HNDI 0200"
+                  "name": "Beginning Hindi or Urdu"
                 }
               ],
               "count": null,
@@ -576,7 +577,7 @@
               "courses": [
                 {
                   "code": "HNDI 0400",
-                  "name": "HNDI 0400"
+                  "name": "Intermediate Hindi-Urdu"
                 }
               ],
               "count": null,
@@ -588,7 +589,7 @@
               "courses": [
                 {
                   "code": "HNDI 1080",
-                  "name": "HNDI 1080"
+                  "name": "Advanced Hindi-Urdu"
                 }
               ],
               "count": null,
@@ -600,7 +601,7 @@
               "courses": [
                 {
                   "code": "MCM 1505O",
-                  "name": "MCM 1505O"
+                  "name": "Does Utopia Still Exist? Media, politics and the hope of something else"
                 }
               ],
               "count": null,
@@ -612,7 +613,7 @@
               "courses": [
                 {
                   "code": "POLS 0200",
-                  "name": "POLS 0200"
+                  "name": "Introduction to Comparative Politics"
                 }
               ],
               "count": null,
@@ -624,7 +625,7 @@
               "courses": [
                 {
                   "code": "POLS 1380",
-                  "name": "POLS 1380"
+                  "name": "Ethnic Politics and Conflict"
                 }
               ],
               "count": null,
@@ -636,7 +637,7 @@
               "courses": [
                 {
                   "code": "RELS 0100",
-                  "name": "RELS 0100"
+                  "name": "Buddhist Thought, Practice, and Society"
                 }
               ],
               "count": null,
@@ -648,7 +649,7 @@
               "courses": [
                 {
                   "code": "SAST 1970",
-                  "name": "SAST 1970"
+                  "name": "Independent Study"
                 }
               ],
               "count": null,
@@ -660,7 +661,7 @@
               "courses": [
                 {
                   "code": "SANS 0200",
-                  "name": "SANS 0200"
+                  "name": "Elementary Sanskrit II"
                 }
               ],
               "count": null,
@@ -672,7 +673,7 @@
               "courses": [
                 {
                   "code": "SANS 0400",
-                  "name": "SANS 0400"
+                  "name": "Classical Sanskrit Story Literature"
                 }
               ],
               "count": null,
@@ -684,7 +685,7 @@
               "courses": [
                 {
                   "code": "SANS 1030",
-                  "name": "SANS 1030"
+                  "name": "The Bh\u0101gavata Pur\u0101\u1e47a: Text and Reception"
                 }
               ],
               "count": null,
@@ -696,7 +697,7 @@
               "courses": [
                 {
                   "code": "SANS 1100",
-                  "name": "SANS 1100"
+                  "name": "Vedic Sanskrit"
                 }
               ],
               "count": null,
@@ -711,385 +712,385 @@
           "type": "required",
           "course": {
             "code": "SAST 0700",
-            "name": "SAST 0700"
+            "name": "Introduction to Modern South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1620",
-            "name": "HIST 1620"
+            "name": "Resisting Empire: Gandhi and the Making of Modern South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0995",
-            "name": "CLAS 0995"
+            "name": "India\u2019s Classical Performing Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1140",
-            "name": "CLAS 1140"
+            "name": "Classical Philosophy of India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0030",
-            "name": "COST 0030"
+            "name": "Sound, Song and Salvation in South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0034",
-            "name": "COST 0034"
+            "name": "Dharma: A History of Classical Indian Civilization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0035",
-            "name": "COST 0035"
+            "name": "Saints and Mystics of India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0036",
-            "name": "COST 0036"
+            "name": "Love and War in India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0037",
-            "name": "COST 0037"
+            "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0140",
-            "name": "COST 0140"
+            "name": "Food, Religion and Politics in South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0145",
-            "name": "COST 0145"
+            "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0525",
-            "name": "COST 0525"
+            "name": "The History and Practice of Yoga in India and Beyond"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0526",
-            "name": "COST 0526"
+            "name": "This Whole World is OM: Mantras in Indian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0013",
-            "name": "HIAA 0013"
+            "name": "Introduction to Indian Art"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0023",
-            "name": "HIAA 0023"
+            "name": "South Asian Art and Architecture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LITR 1231K",
-            "name": "LITR 1231K"
+            "name": "Innovations in Indian Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0096",
-            "name": "RELS 0096"
+            "name": "The Imaginary Lives of Muslims"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1510",
-            "name": "RELS 1510"
+            "name": "Islamic Imaginaries from South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0036",
-            "name": "RELS 0036"
+            "name": "Love and War in India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0037",
-            "name": "RELS 0037"
+            "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0526",
-            "name": "RELS 0526"
+            "name": "This Whole World is OM: Mantras in Indian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1979D",
-            "name": "HIST 1979D"
+            "name": "Ruined History: Visual and Material Culture in South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1280",
-            "name": "POLS 1280"
+            "name": "The Rise of India: History, Politics, Economics and Society"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1821O",
-            "name": "POLS 1821O"
+            "name": "Politics of Economic Development in Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 2320",
-            "name": "POLS 2320"
+            "name": "Ethnic Conflict"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 2330",
-            "name": "POLS 2330"
+            "name": "Politics in India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0750",
-            "name": "SAST 0750"
+            "name": "Understanding the Indian Economy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0725",
-            "name": "SAST 0725"
+            "name": "Political Ecology in South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0526",
-            "name": "SAST 0526"
+            "name": "This Whole World is OM: Mantras in Indian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0525",
-            "name": "SAST 0525"
+            "name": "The History and Practice of Yoga in India and Beyond"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0140",
-            "name": "SAST 0140"
+            "name": "Food, Religion and Politics in South Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0037",
-            "name": "SAST 0037"
+            "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 0034",
-            "name": "SAST 0034"
+            "name": "Dharma: A History of Classical Indian Civilization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 0100",
-            "name": "ANTH 0100"
+            "name": "Introduction to Cultural Anthropology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 2320",
-            "name": "ANTH 2320"
+            "name": "Anthropology and Development: Critical Ethnographic Perspectives"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0032",
-            "name": "COST 0032"
+            "name": "Music and Meditation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0100",
-            "name": "COST 0100"
+            "name": "Introduction to Contemplative Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0510",
-            "name": "ECON 0510"
+            "name": "Development and the International Economy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1530",
-            "name": "ECON 1530"
+            "name": "Health, Hunger and the Household in Developing Countries"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 2510",
-            "name": "ECON 2510"
+            "name": "Economic Development I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0081",
-            "name": "HIAA 0081"
+            "name": "Architecture of the House Through Space and Time"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0150D",
-            "name": "HIST 0150D"
+            "name": "Refugees: A Twentieth-Century History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1440",
-            "name": "HIST 1440"
+            "name": "The Ottomans: Faith, Law, Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HNDI 0200",
-            "name": "HNDI 0200"
+            "name": "Beginning Hindi or Urdu"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HNDI 0400",
-            "name": "HNDI 0400"
+            "name": "Intermediate Hindi-Urdu"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HNDI 1080",
-            "name": "HNDI 1080"
+            "name": "Advanced Hindi-Urdu"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MCM 1505O",
-            "name": "MCM 1505O"
+            "name": "Does Utopia Still Exist? Media, politics and the hope of something else"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0200",
-            "name": "POLS 0200"
+            "name": "Introduction to Comparative Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1380",
-            "name": "POLS 1380"
+            "name": "Ethnic Politics and Conflict"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0100",
-            "name": "RELS 0100"
+            "name": "Buddhist Thought, Practice, and Society"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SAST 1970",
-            "name": "SAST 1970"
+            "name": "Independent Study"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SANS 0200",
-            "name": "SANS 0200"
+            "name": "Elementary Sanskrit II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SANS 0400",
-            "name": "SANS 0400"
+            "name": "Classical Sanskrit Story Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SANS 1030",
-            "name": "SANS 1030"
+            "name": "The Bh\u0101gavata Pur\u0101\u1e47a: Text and Reception"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SANS 1100",
-            "name": "SANS 1100"
+            "name": "Vedic Sanskrit"
           }
         }
       ],
@@ -1099,223 +1100,223 @@
   "all_courses": [
     {
       "code": "SAST 0700",
-      "name": "SAST 0700"
+      "name": "Introduction to Modern South Asia"
     },
     {
       "code": "HIST 1620",
-      "name": "HIST 1620"
+      "name": "Resisting Empire: Gandhi and the Making of Modern South Asia"
     },
     {
       "code": "CLAS 0995",
-      "name": "CLAS 0995"
+      "name": "India\u2019s Classical Performing Arts"
     },
     {
       "code": "CLAS 1140",
-      "name": "CLAS 1140"
+      "name": "Classical Philosophy of India"
     },
     {
       "code": "COST 0030",
-      "name": "COST 0030"
+      "name": "Sound, Song and Salvation in South Asia"
     },
     {
       "code": "COST 0034",
-      "name": "COST 0034"
+      "name": "Dharma: A History of Classical Indian Civilization"
     },
     {
       "code": "COST 0035",
-      "name": "COST 0035"
+      "name": "Saints and Mystics of India"
     },
     {
       "code": "COST 0036",
-      "name": "COST 0036"
+      "name": "Love and War in India"
     },
     {
       "code": "COST 0037",
-      "name": "COST 0037"
+      "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
     },
     {
       "code": "COST 0140",
-      "name": "COST 0140"
+      "name": "Food, Religion and Politics in South Asia"
     },
     {
       "code": "COST 0145",
-      "name": "COST 0145"
+      "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
     },
     {
       "code": "COST 0525",
-      "name": "COST 0525"
+      "name": "The History and Practice of Yoga in India and Beyond"
     },
     {
       "code": "COST 0526",
-      "name": "COST 0526"
+      "name": "This Whole World is OM: Mantras in Indian Religions"
     },
     {
       "code": "HIAA 0013",
-      "name": "HIAA 0013"
+      "name": "Introduction to Indian Art"
     },
     {
       "code": "HIAA 0023",
-      "name": "HIAA 0023"
+      "name": "South Asian Art and Architecture"
     },
     {
       "code": "LITR 1231K",
-      "name": "LITR 1231K"
+      "name": "Innovations in Indian Literature"
     },
     {
       "code": "RELS 0096",
-      "name": "RELS 0096"
+      "name": "The Imaginary Lives of Muslims"
     },
     {
       "code": "RELS 1510",
-      "name": "RELS 1510"
+      "name": "Islamic Imaginaries from South Asia"
     },
     {
       "code": "RELS 0036",
-      "name": "RELS 0036"
+      "name": "Love and War in India"
     },
     {
       "code": "RELS 0037",
-      "name": "RELS 0037"
+      "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
     },
     {
       "code": "RELS 0526",
-      "name": "RELS 0526"
+      "name": "This Whole World is OM: Mantras in Indian Religions"
     },
     {
       "code": "HIST 1979D",
-      "name": "HIST 1979D"
+      "name": "Ruined History: Visual and Material Culture in South Asia"
     },
     {
       "code": "POLS 1280",
-      "name": "POLS 1280"
+      "name": "The Rise of India: History, Politics, Economics and Society"
     },
     {
       "code": "POLS 1821O",
-      "name": "POLS 1821O"
+      "name": "Politics of Economic Development in Asia"
     },
     {
       "code": "POLS 2320",
-      "name": "POLS 2320"
+      "name": "Ethnic Conflict"
     },
     {
       "code": "POLS 2330",
-      "name": "POLS 2330"
+      "name": "Politics in India"
     },
     {
       "code": "SAST 0750",
-      "name": "SAST 0750"
+      "name": "Understanding the Indian Economy"
     },
     {
       "code": "SAST 0725",
-      "name": "SAST 0725"
+      "name": "Political Ecology in South Asia"
     },
     {
       "code": "SAST 0526",
-      "name": "SAST 0526"
+      "name": "This Whole World is OM: Mantras in Indian Religions"
     },
     {
       "code": "SAST 0525",
-      "name": "SAST 0525"
+      "name": "The History and Practice of Yoga in India and Beyond"
     },
     {
       "code": "SAST 0140",
-      "name": "SAST 0140"
+      "name": "Food, Religion and Politics in South Asia"
     },
     {
       "code": "SAST 0037",
-      "name": "SAST 0037"
+      "name": "Sensing the Sacred: Sensory Culture in South Asian Religions"
     },
     {
       "code": "SAST 0034",
-      "name": "SAST 0034"
+      "name": "Dharma: A History of Classical Indian Civilization"
     },
     {
       "code": "ANTH 0100",
-      "name": "ANTH 0100"
+      "name": "Introduction to Cultural Anthropology"
     },
     {
       "code": "ANTH 2320",
-      "name": "ANTH 2320"
+      "name": "Anthropology and Development: Critical Ethnographic Perspectives"
     },
     {
       "code": "COST 0032",
-      "name": "COST 0032"
+      "name": "Music and Meditation"
     },
     {
       "code": "COST 0100",
-      "name": "COST 0100"
+      "name": "Introduction to Contemplative Studies"
     },
     {
       "code": "ECON 0510",
-      "name": "ECON 0510"
+      "name": "Development and the International Economy"
     },
     {
       "code": "ECON 1530",
-      "name": "ECON 1530"
+      "name": "Health, Hunger and the Household in Developing Countries"
     },
     {
       "code": "ECON 2510",
-      "name": "ECON 2510"
+      "name": "Economic Development I"
     },
     {
       "code": "HIAA 0081",
-      "name": "HIAA 0081"
+      "name": "Architecture of the House Through Space and Time"
     },
     {
       "code": "HIST 0150D",
-      "name": "HIST 0150D"
+      "name": "Refugees: A Twentieth-Century History"
     },
     {
       "code": "HIST 1440",
-      "name": "HIST 1440"
+      "name": "The Ottomans: Faith, Law, Empire"
     },
     {
       "code": "HNDI 0200",
-      "name": "HNDI 0200"
+      "name": "Beginning Hindi or Urdu"
     },
     {
       "code": "HNDI 0400",
-      "name": "HNDI 0400"
+      "name": "Intermediate Hindi-Urdu"
     },
     {
       "code": "HNDI 1080",
-      "name": "HNDI 1080"
+      "name": "Advanced Hindi-Urdu"
     },
     {
       "code": "MCM 1505O",
-      "name": "MCM 1505O"
+      "name": "Does Utopia Still Exist? Media, politics and the hope of something else"
     },
     {
       "code": "POLS 0200",
-      "name": "POLS 0200"
+      "name": "Introduction to Comparative Politics"
     },
     {
       "code": "POLS 1380",
-      "name": "POLS 1380"
+      "name": "Ethnic Politics and Conflict"
     },
     {
       "code": "RELS 0100",
-      "name": "RELS 0100"
+      "name": "Buddhist Thought, Practice, and Society"
     },
     {
       "code": "SAST 1970",
-      "name": "SAST 1970"
+      "name": "Independent Study"
     },
     {
       "code": "SANS 0200",
-      "name": "SANS 0200"
+      "name": "Elementary Sanskrit II"
     },
     {
       "code": "SANS 0400",
-      "name": "SANS 0400"
+      "name": "Classical Sanskrit Story Literature"
     },
     {
       "code": "SANS 1030",
-      "name": "SANS 1030"
+      "name": "The Bh\u0101gavata Pur\u0101\u1e47a: Text and Reception"
     },
     {
       "code": "SANS 1100",
-      "name": "SANS 1100"
+      "name": "Vedic Sanskrit"
     }
   ]
 }

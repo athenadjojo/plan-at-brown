@@ -2,6 +2,7 @@
   "concentration": "Chemical Physics",
   "slug": "chph",
   "url": "https://bulletin.brown.edu/the-college/concentrations/chph/",
+  "description": "Chemical Physics is an interdisciplinary field at the crossroads of chemistry and physics and is administered jointly by the two departments. The concentration provides students with a broad-based understanding in fundamental molecular sciences, as well as a background for graduate studies in physical chemistry, chemical physics, or molecular engineering. Concentrators are required to take twenty courses in chemistry, physics, and mathematics, although approved courses in applied mathematics, biology, computer science, geological sciences, or engineering may be substitutes. Chemical Physics concentrators are also advised to take at least six courses in the humanities and social sciences. Chemical Physics concentrators at all levels (first-year through seniors) are actively involved in research with faculty members in both departments. Twenty-one semester courses1in chemistry, physics, and mathematics, with a minimum of four semester courses in mathematics. \u00a0The expectation is that courses required for a\u00a0concentration in Chemical Physics will be taken for a letter grade. \u00a0 Core courses are:",
   "tracks": [
     {
       "id": "the_chemical_physics_concentration_has_been_closed",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -49,7 +50,7 @@
           "courses": [
             {
               "code": "CHEM 1140",
-              "name": "CHEM 1140"
+              "name": "Physical Chemistry: Quantum Chemistry"
             }
           ],
           "count": 1,
@@ -61,7 +62,7 @@
           "courses": [
             {
               "code": "PHYS 0070",
-              "name": "PHYS 0070"
+              "name": "Analytical Mechanics"
             }
           ],
           "count": 1,
@@ -73,7 +74,7 @@
           "courses": [
             {
               "code": "PHYS 0160",
-              "name": "PHYS 0160"
+              "name": "Introduction to Relativity, Waves and Quantum Physics"
             }
           ],
           "count": 1,
@@ -85,14 +86,14 @@
           "courses": [
             {
               "code": "PHYS 0470",
-              "name": "PHYS 0470"
+              "name": "Electricity and Magnetism"
             }
           ],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Select one of the following laboratory courses: 1",
+          "name": "Select one of the following laboratory courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "CHEM 1160",
-                  "name": "CHEM 1160"
+                  "name": "Physical Chemistry Laboratory"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory"
                 }
               ],
               "count": null,
@@ -136,7 +137,7 @@
           "notes": []
         },
         {
-          "name": "Select one course in statistical mechanics: 1",
+          "name": "Select one course in statistical mechanics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -194,7 +195,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": 1,
@@ -204,14 +205,14 @@
           "notes": []
         },
         {
-          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics. 7",
+          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics.",
           "type": "label",
           "courses": [],
           "count": 7,
           "notes": []
         },
         {
-          "name": "Select two semesters of independent study: 2",
+          "name": "Select two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -221,7 +222,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": null,
@@ -233,7 +234,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research"
                 }
               ],
               "count": null,
@@ -248,119 +249,119 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research"
           }
         }
       ],
@@ -376,7 +377,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -388,7 +389,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -400,7 +401,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -412,7 +413,7 @@
           "courses": [
             {
               "code": "CHEM 1140",
-              "name": "CHEM 1140"
+              "name": "Physical Chemistry: Quantum Chemistry"
             }
           ],
           "count": 1,
@@ -424,7 +425,7 @@
           "courses": [
             {
               "code": "PHYS 0070",
-              "name": "PHYS 0070"
+              "name": "Analytical Mechanics"
             }
           ],
           "count": 1,
@@ -436,7 +437,7 @@
           "courses": [
             {
               "code": "PHYS 0160",
-              "name": "PHYS 0160"
+              "name": "Introduction to Relativity, Waves and Quantum Physics"
             }
           ],
           "count": 1,
@@ -448,14 +449,14 @@
           "courses": [
             {
               "code": "PHYS 0470",
-              "name": "PHYS 0470"
+              "name": "Electricity and Magnetism"
             }
           ],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Select one of the following laboratory courses: 1",
+          "name": "Select one of the following laboratory courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -465,7 +466,7 @@
               "courses": [
                 {
                   "code": "CHEM 1160",
-                  "name": "CHEM 1160"
+                  "name": "Physical Chemistry Laboratory"
                 }
               ],
               "count": null,
@@ -477,7 +478,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -489,7 +490,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory"
                 }
               ],
               "count": null,
@@ -499,7 +500,7 @@
           "notes": []
         },
         {
-          "name": "Select one course in statistical mechanics: 1",
+          "name": "Select one course in statistical mechanics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -521,7 +522,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -533,7 +534,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -545,7 +546,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -557,7 +558,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": 1,
@@ -567,14 +568,14 @@
           "notes": []
         },
         {
-          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics. 7",
+          "name": "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics.",
           "type": "label",
           "courses": [],
           "count": 7,
           "notes": []
         },
         {
-          "name": "Select two semesters of independent study: 2",
+          "name": "Select two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -584,7 +585,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": null,
@@ -596,7 +597,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research"
                 }
               ],
               "count": null,
@@ -611,119 +612,119 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research"
           }
         }
       ],
@@ -733,71 +734,71 @@
   "all_courses": [
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0500",
-      "name": "CHEM 0500"
+      "name": "Inorganic Chemistry"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry"
     },
     {
       "code": "PHYS 0070",
-      "name": "PHYS 0070"
+      "name": "Analytical Mechanics"
     },
     {
       "code": "PHYS 0160",
-      "name": "PHYS 0160"
+      "name": "Introduction to Relativity, Waves and Quantum Physics"
     },
     {
       "code": "PHYS 0470",
-      "name": "PHYS 0470"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "CHEM 1160",
-      "name": "CHEM 1160"
+      "name": "Physical Chemistry Laboratory"
     },
     {
       "code": "PHYS 0560",
-      "name": "PHYS 0560"
+      "name": "Experiments in Modern Physics"
     },
     {
       "code": "PHYS 1560",
-      "name": "PHYS 1560"
+      "name": "Modern Physics Laboratory"
     },
     {
       "code": "CHEM 1150",
-      "name": "CHEM 1150"
+      "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "PHYS 1530",
-      "name": "PHYS 1530"
+      "name": "Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "PHYS 1990",
-      "name": "PHYS 1990"
+      "name": "Senior Conference Course"
     },
     {
       "code": "CHEM 0980",
-      "name": "CHEM 0980"
+      "name": "Undergraduate Research"
     }
   ]
 }

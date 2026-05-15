@@ -2,6 +2,7 @@
   "concentration": "Biochemistry and Molecular Biology",
   "slug": "bchm",
   "url": "https://bulletin.brown.edu/the-college/concentrations/bchm/",
+  "description": "How does life work at the molecular level? This question is at the core of the concentration program Biochemistry and Molecular Biology. In earlier years of this discipline, the focus was on structure and function of proteins, nucleic acids, lipids, carbohydrates and small molecules such as vitamins. Today the logical approach and tools of biochemical science are being expanded to new areas in neuroscience, developmental biology, immunology, pharmacology and synthetic biology (the design of analogs of biological systems). Training in biochemistry begins with a foundation in mathematics, physics, chemistry and biology. Some courses offered in other departments, including engineering, geology and computer science, are also useful. A key component of this program is the year of hands-on research carried out in collaboration with a faculty member here at Brown. Faculty sponsors are drawn from both the Chemistry Department and the Division of Biology and Medicine, and include basic science and clinical faculty. Students must take twenty courses in biology, chemistry, mathematics, and physics, including the following core requirements, some of these may be fulfilled with AP credits.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -32,7 +33,7 @@
           "notes": []
         },
         {
-          "name": "Options for statistics courses include: 1",
+          "name": "Options for statistics courses include:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory3"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "STAT 1501",
-                  "name": "STAT 1501"
+                  "name": "Essentials of Data Analysis"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "STAT 1510",
-                  "name": "STAT 1510"
+                  "name": "Principles of Biostatistics and Data Analysis"
                 }
               ],
               "count": null,
@@ -124,7 +125,7 @@
           "notes": []
         },
         {
-          "name": "Two courses in physics, typically: 1 2",
+          "name": "Two courses in physics, typically:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -134,7 +135,7 @@
               "courses": [
                 {
                   "code": "PHYS 0030",
-                  "name": "PHYS 0030"
+                  "name": "Basic Physics A"
                 }
               ],
               "count": null,
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": null,
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "PHYS 0040",
-                  "name": "PHYS 0040"
+                  "name": "Basic Physics B"
                 }
               ],
               "count": null,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -192,7 +193,7 @@
           "notes": []
         },
         {
-          "name": "Four courses in physical and organic chemistry: 4",
+          "name": "Four courses in physical and organic chemistry:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -202,7 +203,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": null,
@@ -214,7 +215,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -226,7 +227,7 @@
               "courses": [
                 {
                   "code": "CHEM 0370",
-                  "name": "CHEM 0370"
+                  "name": "Organic Chemistry Laboratory"
                 }
               ],
               "count": null,
@@ -238,7 +239,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": null,
@@ -248,7 +249,7 @@
           "notes": []
         },
         {
-          "name": "One course in biophysical chemistry: 1",
+          "name": "One course in biophysical chemistry:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -268,7 +269,7 @@
           "notes": []
         },
         {
-          "name": "Three courses in biochemistry: 3",
+          "name": "Three courses in biochemistry:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -278,7 +279,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry"
                 }
               ],
               "count": null,
@@ -298,7 +299,7 @@
               "courses": [
                 {
                   "code": "BIOL 1270",
-                  "name": "BIOL 1270"
+                  "name": "Advanced Biochemistry"
                 }
               ],
               "count": null,
@@ -310,7 +311,7 @@
               "courses": [
                 {
                   "code": "CHEM 1230",
-                  "name": "CHEM 1230"
+                  "name": "Chemical Biology"
                 }
               ],
               "count": null,
@@ -322,7 +323,7 @@
               "courses": [
                 {
                   "code": "CHEM 1240",
-                  "name": "CHEM 1240"
+                  "name": "Biochemical Reactions and Mechanisms"
                 }
               ],
               "count": null,
@@ -332,7 +333,7 @@
           "notes": []
         },
         {
-          "name": "The two semester research requirement may be satisfied by any two of the following.  Students should discuss alternative arrangements or special situations directly with their concentration advisor to obtain prior approval. 2",
+          "name": "The two semester research requirement may be satisfied by any two of the following.  Students should discuss alternative arrangements or special situations directly with their concentration advisor to obtain prior approval.",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -349,7 +350,7 @@
               "courses": [
                 {
                   "code": "BIOL 1950",
-                  "name": "BIOL 1950"
+                  "name": "Directed Research/Independent Study"
                 }
               ],
               "count": null,
@@ -361,7 +362,7 @@
               "courses": [
                 {
                   "code": "BIOL 1960",
-                  "name": "BIOL 1960"
+                  "name": "Directed Research/Independent Study"
                 }
               ],
               "count": null,
@@ -373,7 +374,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research"
                 }
               ],
               "count": null,
@@ -385,7 +386,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980S",
-                  "name": "CHEM 0980S"
+                  "name": "Undergraduate Research - Writing Designated and Mandatory S/NC"
                 }
               ],
               "count": null,
@@ -397,7 +398,7 @@
               "courses": [
                 {
                   "code": "CHEM 0981",
-                  "name": "CHEM 0981"
+                  "name": "Undergraduate Research - Writing Designated"
                 }
               ],
               "count": null,
@@ -444,7 +445,7 @@
               "courses": [
                 {
                   "code": "APMA 0330",
-                  "name": "APMA 0330"
+                  "name": "Methods of Applied Mathematics I"
                 }
               ],
               "count": null,
@@ -456,7 +457,7 @@
               "courses": [
                 {
                   "code": "APMA 0410",
-                  "name": "APMA 0410"
+                  "name": "Mathematical Methods in the Brain Sciences"
                 }
               ],
               "count": null,
@@ -468,7 +469,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -488,7 +489,7 @@
               "courses": [
                 {
                   "code": "BIOL 0030",
-                  "name": "BIOL 0030"
+                  "name": "Principles of Nutrition"
                 }
               ],
               "count": null,
@@ -500,7 +501,7 @@
               "courses": [
                 {
                   "code": "BIOL 0150D",
-                  "name": "BIOL 0150D"
+                  "name": "Techniques in Regenerative Medicine: Cells, Scaffolds and Staining"
                 }
               ],
               "count": null,
@@ -512,7 +513,7 @@
               "courses": [
                 {
                   "code": "BIOL 0170",
-                  "name": "BIOL 0170"
+                  "name": "Biotechnology in Medicine"
                 }
               ],
               "count": null,
@@ -524,7 +525,7 @@
               "courses": [
                 {
                   "code": "BIOL 0190R",
-                  "name": "BIOL 0190R"
+                  "name": "Phage Hunters"
                 }
               ],
               "count": null,
@@ -536,7 +537,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": null,
@@ -548,7 +549,7 @@
               "courses": [
                 {
                   "code": "BIOL 0285",
-                  "name": "BIOL 0285"
+                  "name": "Inquiry in Biochemistry: From Gene to Protein Function"
                 }
               ],
               "count": null,
@@ -560,7 +561,7 @@
               "courses": [
                 {
                   "code": "BIOL 0380",
-                  "name": "BIOL 0380"
+                  "name": "The Ecology and Evolution of Infectious Disease"
                 }
               ],
               "count": null,
@@ -572,7 +573,7 @@
               "courses": [
                 {
                   "code": "BIOL 0415",
-                  "name": "BIOL 0415"
+                  "name": "Microbes in the Environment"
                 }
               ],
               "count": null,
@@ -584,7 +585,7 @@
               "courses": [
                 {
                   "code": "BIOL 0440",
-                  "name": "BIOL 0440"
+                  "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
                 }
               ],
               "count": null,
@@ -596,7 +597,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -608,7 +609,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -620,7 +621,7 @@
               "courses": [
                 {
                   "code": "BIOL 0510",
-                  "name": "BIOL 0510"
+                  "name": "Introductory Microbiology"
                 }
               ],
               "count": null,
@@ -632,7 +633,7 @@
               "courses": [
                 {
                   "code": "BIOL 0530",
-                  "name": "BIOL 0530"
+                  "name": "Principles of Immunology"
                 }
               ],
               "count": null,
@@ -644,7 +645,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -656,7 +657,7 @@
               "courses": [
                 {
                   "code": "BIOL 1050",
-                  "name": "BIOL 1050"
+                  "name": "Biology of the Eukaryotic Cell"
                 }
               ],
               "count": null,
@@ -668,7 +669,7 @@
               "courses": [
                 {
                   "code": "BIOL 1090",
-                  "name": "BIOL 1090"
+                  "name": "Polymer Science for Biomaterials"
                 }
               ],
               "count": null,
@@ -680,7 +681,7 @@
               "courses": [
                 {
                   "code": "BIOL 1100",
-                  "name": "BIOL 1100"
+                  "name": "Cell Physiology and Biophysics"
                 }
               ],
               "count": null,
@@ -692,7 +693,7 @@
               "courses": [
                 {
                   "code": "BIOL 1110",
-                  "name": "BIOL 1110"
+                  "name": "Topics in Signal Transduction"
                 }
               ],
               "count": null,
@@ -704,7 +705,7 @@
               "courses": [
                 {
                   "code": "BIOL 1120",
-                  "name": "BIOL 1120"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -716,7 +717,7 @@
               "courses": [
                 {
                   "code": "BIOL 1150",
-                  "name": "BIOL 1150"
+                  "name": "Stem Cell Engineering"
                 }
               ],
               "count": null,
@@ -728,7 +729,7 @@
               "courses": [
                 {
                   "code": "BIOL 1200",
-                  "name": "BIOL 1200"
+                  "name": "Protein Biophysics and Structure"
                 }
               ],
               "count": null,
@@ -740,7 +741,7 @@
               "courses": [
                 {
                   "code": "BIOL 1210",
-                  "name": "BIOL 1210"
+                  "name": "Synthetic Biological Systems"
                 }
               ],
               "count": null,
@@ -752,7 +753,7 @@
               "courses": [
                 {
                   "code": "BIOL 1222A",
-                  "name": "BIOL 1222A"
+                  "name": "Current Topics in Functional Genomics"
                 }
               ],
               "count": null,
@@ -764,7 +765,7 @@
               "courses": [
                 {
                   "code": "BIOL 1260",
-                  "name": "BIOL 1260"
+                  "name": "Physiological Pharmacology"
                 }
               ],
               "count": null,
@@ -776,7 +777,7 @@
               "courses": [
                 {
                   "code": "BIOL 1290",
-                  "name": "BIOL 1290"
+                  "name": "Cancer Biology"
                 }
               ],
               "count": null,
@@ -788,7 +789,7 @@
               "courses": [
                 {
                   "code": "BIOL 1300",
-                  "name": "BIOL 1300"
+                  "name": "Biomolecular Interactions: Health, Disease and Drug Design"
                 }
               ],
               "count": null,
@@ -800,7 +801,7 @@
               "courses": [
                 {
                   "code": "BIOL 1310",
-                  "name": "BIOL 1310"
+                  "name": "Developmental Biology"
                 }
               ],
               "count": null,
@@ -812,7 +813,7 @@
               "courses": [
                 {
                   "code": "BIOL 1330",
-                  "name": "BIOL 1330"
+                  "name": "Biology of Reproduction"
                 }
               ],
               "count": null,
@@ -824,7 +825,7 @@
               "courses": [
                 {
                   "code": "BIOL 1520",
-                  "name": "BIOL 1520"
+                  "name": "Innate Immunity"
                 }
               ],
               "count": null,
@@ -836,7 +837,7 @@
               "courses": [
                 {
                   "code": "BIOL 1540",
-                  "name": "BIOL 1540"
+                  "name": "Molecular Genetics"
                 }
               ],
               "count": null,
@@ -848,7 +849,7 @@
               "courses": [
                 {
                   "code": "BIOL 1560",
-                  "name": "BIOL 1560"
+                  "name": "Virology"
                 }
               ],
               "count": null,
@@ -860,7 +861,7 @@
               "courses": [
                 {
                   "code": "BIOL 1600",
-                  "name": "BIOL 1600"
+                  "name": "Development of Vaccines to Infectious Diseases"
                 }
               ],
               "count": null,
@@ -872,7 +873,7 @@
               "courses": [
                 {
                   "code": "BIOL 2110",
-                  "name": "BIOL 2110"
+                  "name": "Drug and Gene Delivery"
                 }
               ],
               "count": null,
@@ -884,7 +885,7 @@
               "courses": [
                 {
                   "code": "BIOL 2350",
-                  "name": "BIOL 2350"
+                  "name": "The Biology of Aging"
                 }
               ],
               "count": null,
@@ -904,7 +905,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -916,7 +917,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -928,7 +929,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -940,7 +941,7 @@
               "courses": [
                 {
                   "code": "CHEM 1220",
-                  "name": "CHEM 1220"
+                  "name": "Computational Tools in Biochemistry and Chemical Biology"
                 }
               ],
               "count": null,
@@ -952,7 +953,7 @@
               "courses": [
                 {
                   "code": "CHEM 1230",
-                  "name": "CHEM 1230"
+                  "name": "Chemical Biology"
                 }
               ],
               "count": null,
@@ -964,7 +965,7 @@
               "courses": [
                 {
                   "code": "CHEM 1240",
-                  "name": "CHEM 1240"
+                  "name": "Biochemical Reactions and Mechanisms"
                 }
               ],
               "count": null,
@@ -976,7 +977,7 @@
               "courses": [
                 {
                   "code": "CHEM 1450",
-                  "name": "CHEM 1450"
+                  "name": "Advanced Organic Chemistry"
                 }
               ],
               "count": null,
@@ -988,7 +989,7 @@
               "courses": [
                 {
                   "code": "CHEM 1560H",
-                  "name": "CHEM 1560H"
+                  "name": "Chemical Glycobiology"
                 }
               ],
               "count": null,
@@ -1000,7 +1001,7 @@
               "courses": [
                 {
                   "code": "CHEM 1560N",
-                  "name": "CHEM 1560N"
+                  "name": "Organometallic Chemistry"
                 }
               ],
               "count": null,
@@ -1012,7 +1013,7 @@
               "courses": [
                 {
                   "code": "CHEM 2410",
-                  "name": "CHEM 2410"
+                  "name": "Organic Mechanisms"
                 }
               ],
               "count": null,
@@ -1024,7 +1025,7 @@
               "courses": [
                 {
                   "code": "CHEM 2420",
-                  "name": "CHEM 2420"
+                  "name": "Organic Reactions"
                 }
               ],
               "count": null,
@@ -1044,7 +1045,7 @@
               "courses": [
                 {
                   "code": "CSCI 0080",
-                  "name": "CSCI 0080"
+                  "name": "A First Byte of Computer Science"
                 }
               ],
               "count": null,
@@ -1056,7 +1057,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -1068,7 +1069,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -1080,7 +1081,7 @@
               "courses": [
                 {
                   "code": "CSCI 0160",
-                  "name": "CSCI 0160"
+                  "name": "Introduction to Algorithms and Data Structures"
                 }
               ],
               "count": null,
@@ -1092,7 +1093,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1104,7 +1105,7 @@
               "courses": [
                 {
                   "code": "CSCI 0180",
-                  "name": "CSCI 0180"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1116,7 +1117,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1128,7 +1129,7 @@
               "courses": [
                 {
                   "code": "CSCI 1810",
-                  "name": "CSCI 1810"
+                  "name": "Computational Molecular Biology"
                 }
               ],
               "count": null,
@@ -1148,7 +1149,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": null,
@@ -1158,7 +1159,7 @@
           "notes": []
         },
         {
-          "name": "Neuroscience Electives: 2",
+          "name": "Neuroscience Electives:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1168,7 +1169,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -1180,7 +1181,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": null,
@@ -1192,7 +1193,7 @@
               "courses": [
                 {
                   "code": "NEUR 1030",
-                  "name": "NEUR 1030"
+                  "name": "Neural Systems"
                 }
               ],
               "count": null,
@@ -1204,7 +1205,7 @@
               "courses": [
                 {
                   "code": "NEUR 1040",
-                  "name": "NEUR 1040"
+                  "name": "Introduction to Neurogenetics"
                 }
               ],
               "count": null,
@@ -1216,7 +1217,7 @@
               "courses": [
                 {
                   "code": "NEUR 1670",
-                  "name": "NEUR 1670"
+                  "name": "Neuropharmacology and Synaptic Transmission"
                 }
               ],
               "count": null,
@@ -1228,7 +1229,7 @@
               "courses": [
                 {
                   "code": "NEUR 1740",
-                  "name": "NEUR 1740"
+                  "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
                 }
               ],
               "count": null,
@@ -1248,7 +1249,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -1268,7 +1269,7 @@
               "courses": [
                 {
                   "code": "STAT 1501",
-                  "name": "STAT 1501"
+                  "name": "Essentials of Data Analysis"
                 }
               ],
               "count": null,
@@ -1304,182 +1305,182 @@
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1501",
-            "name": "STAT 1501"
+            "name": "Essentials of Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1510",
-            "name": "STAT 1510"
+            "name": "Principles of Biostatistics and Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0030",
-            "name": "PHYS 0030"
+            "name": "Basic Physics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0040",
-            "name": "PHYS 0040"
+            "name": "Basic Physics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0370",
-            "name": "CHEM 0370"
+            "name": "Organic Chemistry Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1270",
-            "name": "BIOL 1270"
+            "name": "Advanced Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1230",
-            "name": "CHEM 1230"
+            "name": "Chemical Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1240",
-            "name": "CHEM 1240"
+            "name": "Biochemical Reactions and Mechanisms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1950",
-            "name": "BIOL 1950"
+            "name": "Directed Research/Independent Study"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1960",
-            "name": "BIOL 1960"
+            "name": "Directed Research/Independent Study"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980S",
-            "name": "CHEM 0980S"
+            "name": "Undergraduate Research - Writing Designated and Mandatory S/NC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0981",
-            "name": "CHEM 0981"
+            "name": "Undergraduate Research - Writing Designated"
           }
         },
         {
@@ -1493,455 +1494,455 @@
           "type": "required",
           "course": {
             "code": "APMA 0330",
-            "name": "APMA 0330"
+            "name": "Methods of Applied Mathematics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0410",
-            "name": "APMA 0410"
+            "name": "Mathematical Methods in the Brain Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0030",
-            "name": "BIOL 0030"
+            "name": "Principles of Nutrition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0150D",
-            "name": "BIOL 0150D"
+            "name": "Techniques in Regenerative Medicine: Cells, Scaffolds and Staining"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0170",
-            "name": "BIOL 0170"
+            "name": "Biotechnology in Medicine"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0190R",
-            "name": "BIOL 0190R"
+            "name": "Phage Hunters"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0285",
-            "name": "BIOL 0285"
+            "name": "Inquiry in Biochemistry: From Gene to Protein Function"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0380",
-            "name": "BIOL 0380"
+            "name": "The Ecology and Evolution of Infectious Disease"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0415",
-            "name": "BIOL 0415"
+            "name": "Microbes in the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0440",
-            "name": "BIOL 0440"
+            "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0510",
-            "name": "BIOL 0510"
+            "name": "Introductory Microbiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0530",
-            "name": "BIOL 0530"
+            "name": "Principles of Immunology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1050",
-            "name": "BIOL 1050"
+            "name": "Biology of the Eukaryotic Cell"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1090",
-            "name": "BIOL 1090"
+            "name": "Polymer Science for Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1100",
-            "name": "BIOL 1100"
+            "name": "Cell Physiology and Biophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1110",
-            "name": "BIOL 1110"
+            "name": "Topics in Signal Transduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1120",
-            "name": "BIOL 1120"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1150",
-            "name": "BIOL 1150"
+            "name": "Stem Cell Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1200",
-            "name": "BIOL 1200"
+            "name": "Protein Biophysics and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1210",
-            "name": "BIOL 1210"
+            "name": "Synthetic Biological Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1222A",
-            "name": "BIOL 1222A"
+            "name": "Current Topics in Functional Genomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1260",
-            "name": "BIOL 1260"
+            "name": "Physiological Pharmacology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1290",
-            "name": "BIOL 1290"
+            "name": "Cancer Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1300",
-            "name": "BIOL 1300"
+            "name": "Biomolecular Interactions: Health, Disease and Drug Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1310",
-            "name": "BIOL 1310"
+            "name": "Developmental Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1330",
-            "name": "BIOL 1330"
+            "name": "Biology of Reproduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1520",
-            "name": "BIOL 1520"
+            "name": "Innate Immunity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1540",
-            "name": "BIOL 1540"
+            "name": "Molecular Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1560",
-            "name": "BIOL 1560"
+            "name": "Virology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1600",
-            "name": "BIOL 1600"
+            "name": "Development of Vaccines to Infectious Diseases"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 2110",
-            "name": "BIOL 2110"
+            "name": "Drug and Gene Delivery"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 2350",
-            "name": "BIOL 2350"
+            "name": "The Biology of Aging"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1220",
-            "name": "CHEM 1220"
+            "name": "Computational Tools in Biochemistry and Chemical Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1230",
-            "name": "CHEM 1230"
+            "name": "Chemical Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1240",
-            "name": "CHEM 1240"
+            "name": "Biochemical Reactions and Mechanisms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1450",
-            "name": "CHEM 1450"
+            "name": "Advanced Organic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1560H",
-            "name": "CHEM 1560H"
+            "name": "Chemical Glycobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1560N",
-            "name": "CHEM 1560N"
+            "name": "Organometallic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 2410",
-            "name": "CHEM 2410"
+            "name": "Organic Mechanisms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 2420",
-            "name": "CHEM 2420"
+            "name": "Organic Reactions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0080",
-            "name": "CSCI 0080"
+            "name": "A First Byte of Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0160",
-            "name": "CSCI 0160"
+            "name": "Introduction to Algorithms and Data Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0180",
-            "name": "CSCI 0180"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1810",
-            "name": "CSCI 1810"
+            "name": "Computational Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1030",
-            "name": "NEUR 1030"
+            "name": "Neural Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1040",
-            "name": "NEUR 1040"
+            "name": "Introduction to Neurogenetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1670",
-            "name": "NEUR 1670"
+            "name": "Neuropharmacology and Synaptic Transmission"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1740",
-            "name": "NEUR 1740"
+            "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1501",
-            "name": "STAT 1501"
+            "name": "Essentials of Data Analysis"
           }
         }
       ],
@@ -1967,107 +1968,107 @@
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory3"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "STAT 1501",
-      "name": "STAT 1501"
+      "name": "Essentials of Data Analysis"
     },
     {
       "code": "STAT 1510",
-      "name": "STAT 1510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "PHYS 0030",
-      "name": "PHYS 0030"
+      "name": "Basic Physics A"
     },
     {
       "code": "PHYS 0050",
-      "name": "PHYS 0050"
+      "name": "Foundations of Mechanics"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "PHYS 0040",
-      "name": "PHYS 0040"
+      "name": "Basic Physics B"
     },
     {
       "code": "PHYS 0060",
-      "name": "PHYS 0060"
+      "name": "Foundations of Electromagnetism and Modern Physics"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0370",
-      "name": "CHEM 0370"
+      "name": "Organic Chemistry Laboratory"
     },
     {
       "code": "CHEM 0360",
-      "name": "CHEM 0360"
+      "name": "Organic Chemistry II"
     },
     {
       "code": "CHEM 0400",
-      "name": "CHEM 0400"
+      "name": "Biophysical and Bioinorganic Chemistry"
     },
     {
       "code": "BIOL 0280",
-      "name": "BIOL 0280"
+      "name": "Biochemistry"
     },
     {
       "code": "BIOL 1270",
-      "name": "BIOL 1270"
+      "name": "Advanced Biochemistry"
     },
     {
       "code": "CHEM 1230",
-      "name": "CHEM 1230"
+      "name": "Chemical Biology"
     },
     {
       "code": "CHEM 1240",
-      "name": "CHEM 1240"
+      "name": "Biochemical Reactions and Mechanisms"
     },
     {
       "code": "BIOL 1950",
-      "name": "BIOL 1950"
+      "name": "Directed Research/Independent Study"
     },
     {
       "code": "BIOL 1960",
-      "name": "BIOL 1960"
+      "name": "Directed Research/Independent Study"
     },
     {
       "code": "CHEM 0980",
-      "name": "CHEM 0980"
+      "name": "Undergraduate Research"
     },
     {
       "code": "CHEM 0980S",
-      "name": "CHEM 0980S"
+      "name": "Undergraduate Research - Writing Designated and Mandatory S/NC"
     },
     {
       "code": "CHEM 0981",
-      "name": "CHEM 0981"
+      "name": "Undergraduate Research - Writing Designated"
     },
     {
       "code": "BIOL 0285",
@@ -2075,243 +2076,243 @@
     },
     {
       "code": "APMA 0330",
-      "name": "APMA 0330"
+      "name": "Methods of Applied Mathematics I"
     },
     {
       "code": "APMA 0410",
-      "name": "APMA 0410"
+      "name": "Mathematical Methods in the Brain Sciences"
     },
     {
       "code": "BIOL 0030",
-      "name": "BIOL 0030"
+      "name": "Principles of Nutrition"
     },
     {
       "code": "BIOL 0150D",
-      "name": "BIOL 0150D"
+      "name": "Techniques in Regenerative Medicine: Cells, Scaffolds and Staining"
     },
     {
       "code": "BIOL 0170",
-      "name": "BIOL 0170"
+      "name": "Biotechnology in Medicine"
     },
     {
       "code": "BIOL 0190R",
-      "name": "BIOL 0190R"
+      "name": "Phage Hunters"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "BIOL 0380",
-      "name": "BIOL 0380"
+      "name": "The Ecology and Evolution of Infectious Disease"
     },
     {
       "code": "BIOL 0415",
-      "name": "BIOL 0415"
+      "name": "Microbes in the Environment"
     },
     {
       "code": "BIOL 0440",
-      "name": "BIOL 0440"
+      "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0510",
-      "name": "BIOL 0510"
+      "name": "Introductory Microbiology"
     },
     {
       "code": "BIOL 0530",
-      "name": "BIOL 0530"
+      "name": "Principles of Immunology"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "BIOL 1050",
-      "name": "BIOL 1050"
+      "name": "Biology of the Eukaryotic Cell"
     },
     {
       "code": "BIOL 1090",
-      "name": "BIOL 1090"
+      "name": "Polymer Science for Biomaterials"
     },
     {
       "code": "BIOL 1100",
-      "name": "BIOL 1100"
+      "name": "Cell Physiology and Biophysics"
     },
     {
       "code": "BIOL 1110",
-      "name": "BIOL 1110"
+      "name": "Topics in Signal Transduction"
     },
     {
       "code": "BIOL 1120",
-      "name": "BIOL 1120"
+      "name": "Biomaterials"
     },
     {
       "code": "BIOL 1150",
-      "name": "BIOL 1150"
+      "name": "Stem Cell Engineering"
     },
     {
       "code": "BIOL 1200",
-      "name": "BIOL 1200"
+      "name": "Protein Biophysics and Structure"
     },
     {
       "code": "BIOL 1210",
-      "name": "BIOL 1210"
+      "name": "Synthetic Biological Systems"
     },
     {
       "code": "BIOL 1222A",
-      "name": "BIOL 1222A"
+      "name": "Current Topics in Functional Genomics"
     },
     {
       "code": "BIOL 1260",
-      "name": "BIOL 1260"
+      "name": "Physiological Pharmacology"
     },
     {
       "code": "BIOL 1290",
-      "name": "BIOL 1290"
+      "name": "Cancer Biology"
     },
     {
       "code": "BIOL 1300",
-      "name": "BIOL 1300"
+      "name": "Biomolecular Interactions: Health, Disease and Drug Design"
     },
     {
       "code": "BIOL 1310",
-      "name": "BIOL 1310"
+      "name": "Developmental Biology"
     },
     {
       "code": "BIOL 1330",
-      "name": "BIOL 1330"
+      "name": "Biology of Reproduction"
     },
     {
       "code": "BIOL 1520",
-      "name": "BIOL 1520"
+      "name": "Innate Immunity"
     },
     {
       "code": "BIOL 1540",
-      "name": "BIOL 1540"
+      "name": "Molecular Genetics"
     },
     {
       "code": "BIOL 1560",
-      "name": "BIOL 1560"
+      "name": "Virology"
     },
     {
       "code": "BIOL 1600",
-      "name": "BIOL 1600"
+      "name": "Development of Vaccines to Infectious Diseases"
     },
     {
       "code": "BIOL 2110",
-      "name": "BIOL 2110"
+      "name": "Drug and Gene Delivery"
     },
     {
       "code": "BIOL 2350",
-      "name": "BIOL 2350"
+      "name": "The Biology of Aging"
     },
     {
       "code": "CHEM 0500",
-      "name": "CHEM 0500"
+      "name": "Inorganic Chemistry"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry"
     },
     {
       "code": "CHEM 1150",
-      "name": "CHEM 1150"
+      "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "CHEM 1220",
-      "name": "CHEM 1220"
+      "name": "Computational Tools in Biochemistry and Chemical Biology"
     },
     {
       "code": "CHEM 1450",
-      "name": "CHEM 1450"
+      "name": "Advanced Organic Chemistry"
     },
     {
       "code": "CHEM 1560H",
-      "name": "CHEM 1560H"
+      "name": "Chemical Glycobiology"
     },
     {
       "code": "CHEM 1560N",
-      "name": "CHEM 1560N"
+      "name": "Organometallic Chemistry"
     },
     {
       "code": "CHEM 2410",
-      "name": "CHEM 2410"
+      "name": "Organic Mechanisms"
     },
     {
       "code": "CHEM 2420",
-      "name": "CHEM 2420"
+      "name": "Organic Reactions"
     },
     {
       "code": "CSCI 0080",
-      "name": "CSCI 0080"
+      "name": "A First Byte of Computer Science"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0160",
-      "name": "CSCI 0160"
+      "name": "Introduction to Algorithms and Data Structures"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0180",
-      "name": "CSCI 0180"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "CSCI 1810",
-      "name": "CSCI 1810"
+      "name": "Computational Molecular Biology"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "NEUR 1030",
-      "name": "NEUR 1030"
+      "name": "Neural Systems"
     },
     {
       "code": "NEUR 1040",
-      "name": "NEUR 1040"
+      "name": "Introduction to Neurogenetics"
     },
     {
       "code": "NEUR 1670",
-      "name": "NEUR 1670"
+      "name": "Neuropharmacology and Synaptic Transmission"
     },
     {
       "code": "NEUR 1740",
-      "name": "NEUR 1740"
+      "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
     },
     {
       "code": "PHYS 0160",
-      "name": "PHYS 0160"
+      "name": "Introduction to Relativity, Waves and Quantum Physics"
     }
   ]
 }

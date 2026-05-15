@@ -2,6 +2,7 @@
   "concentration": "Visual Art",
   "slug": "visa",
   "url": "https://bulletin.brown.edu/the-college/concentrations/visa/",
+  "description": "The Visual Art concentration engages in artistic practice across a wide range of media: painting, sculpture, printmaking, drawing, photography, digital imaging, book arts, and film. Courses in art history combine with these to frame the direction of the concentrator's work and to develop their critical thinking skills. Students are encouraged to cultivate an informed and thoughtful individual perspective. Students in the Department of Visual Art enjoy cutting-edge facilities and a knowledgeable faculty. These two resources inspire creativity and pleasure in our concentrators while they explore the discipline. Students acquire the intellectual and practical tools to make art as well as to interpret and critique the world of images. Students also have the opportunity to take courses at the neighboring Rhode Island School of Design (RISD). All Visual Art (VISA) courses are gradedS/NC. The project is a two-semester enterprise and counts as two courses taken for graduation creditVISA\u00a01800C(Sem I) andVISA\u00a01990(Sem II). VISA 1800C will count as one of the eleven courses needed for the visual art concentration as an upper-level studio. VISA1990 will not count towards the concentration requirements. As a result, students pursuing honors will require at least 12 course credits.\u00a0Students that are planning to complete their degree requirements in December must apply for honors by December 5 of the previous year.",
   "tracks": [
     {
       "id": "concentration_program_requirements",
@@ -22,7 +23,7 @@
           "notes": []
         },
         {
-          "name": "Category I: Analog 2D (choose one from the following:) 1",
+          "name": "Category I: Analog 2D (choose one from the following:)",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -32,7 +33,7 @@
               "courses": [
                 {
                   "code": "VISA 0100",
-                  "name": "VISA 0100"
+                  "name": "Studio Foundation"
                 }
               ],
               "count": null,
@@ -44,7 +45,7 @@
               "courses": [
                 {
                   "code": "VISA 0160",
-                  "name": "VISA 0160"
+                  "name": "Foundation Painting"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
           "notes": []
         },
         {
-          "name": "Category II: Digital & 4D (choose one from the following) 1",
+          "name": "Category II: Digital & 4D (choose one from the following)",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -64,7 +65,7 @@
               "courses": [
                 {
                   "code": "VISA 0120",
-                  "name": "VISA 0120"
+                  "name": "Sound and Video Foundation"
                 }
               ],
               "count": null,
@@ -76,7 +77,7 @@
               "courses": [
                 {
                   "code": "VISA 0140",
-                  "name": "VISA 0140"
+                  "name": "Photography Foundation"
                 }
               ],
               "count": null,
@@ -88,7 +89,7 @@
               "courses": [
                 {
                   "code": "VISA 0150",
-                  "name": "VISA 0150"
+                  "name": "Digital 2D Foundation"
                 }
               ],
               "count": null,
@@ -98,7 +99,7 @@
           "notes": []
         },
         {
-          "name": "Category III: Spatial & 3D (choose one from the following): 1",
+          "name": "Category III: Spatial & 3D (choose one from the following):",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -108,7 +109,7 @@
               "courses": [
                 {
                   "code": "VISA 0130",
-                  "name": "VISA 0130"
+                  "name": "Sculpture Foundation"
                 }
               ],
               "count": null,
@@ -125,14 +126,14 @@
           "notes": []
         },
         {
-          "name": "Five additional upper level studio courses are required. A minimum of three of these upper level studio courses must be taken within the Brown Visual Art Department. Only one ISP or GISP can be counted towards the concentration. When combined with the three Foundation courses, a total of six studio courses are required to be taken within the department. 5",
+          "name": "Five additional upper level studio courses are required. A minimum of three of these upper level studio courses must be taken within the Brown Visual Art Department. Only one ISP or GISP can be counted towards the concentration. When combined with the three Foundation courses, a total of six studio courses are required to be taken within the department.",
           "type": "label",
           "courses": [],
           "count": 5,
           "notes": []
         },
         {
-          "name": "3 HIAA courses are required. (3 credits total) 3",
+          "name": "3 HIAA courses are required. (3 credits total)",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -158,42 +159,42 @@
           "type": "required",
           "course": {
             "code": "VISA 0100",
-            "name": "VISA 0100"
+            "name": "Studio Foundation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "VISA 0160",
-            "name": "VISA 0160"
+            "name": "Foundation Painting"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "VISA 0120",
-            "name": "VISA 0120"
+            "name": "Sound and Video Foundation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "VISA 0140",
-            "name": "VISA 0140"
+            "name": "Photography Foundation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "VISA 0150",
-            "name": "VISA 0150"
+            "name": "Digital 2D Foundation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "VISA 0130",
-            "name": "VISA 0130"
+            "name": "Sculpture Foundation"
           }
         }
       ],
@@ -203,27 +204,27 @@
   "all_courses": [
     {
       "code": "VISA 0100",
-      "name": "VISA 0100"
+      "name": "Studio Foundation"
     },
     {
       "code": "VISA 0160",
-      "name": "VISA 0160"
+      "name": "Foundation Painting"
     },
     {
       "code": "VISA 0120",
-      "name": "VISA 0120"
+      "name": "Sound and Video Foundation"
     },
     {
       "code": "VISA 0140",
-      "name": "VISA 0140"
+      "name": "Photography Foundation"
     },
     {
       "code": "VISA 0150",
-      "name": "VISA 0150"
+      "name": "Digital 2D Foundation"
     },
     {
       "code": "VISA 0130",
-      "name": "VISA 0130"
+      "name": "Sculpture Foundation"
     },
     {
       "code": "VISA 1800C",

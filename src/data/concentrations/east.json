@@ -2,6 +2,7 @@
   "concentration": "East Asian Studies",
   "slug": "east",
   "url": "https://bulletin.brown.edu/the-college/concentrations/east/",
+  "description": "East Asian Studies is a multidisciplinary concentration designed for students wishing to attain reasonable fluency in Chinese,\u00a0 Japanese, or Korean with specialized exposure to selected East Asian subjects. It serves students with two types of interests: those who aim to pursue active professional careers related to the East Asian region; and those who want to pursue graduate study in the humanities or social sciences with particular emphasis on China, Japan or Korea. Students in East Asian Studies will gain language proficiency and familiarity with East Asia through advanced courses in a variety of disciplines. Concentrators are strongly encouraged, but not required, to study in East Asia for one or two semesters. The concentration requires students to demonstrate a basic proficiency in Chinese, Japanese, or Korean. The concentration requires students to demonstrate a basic proficiency in Chinese, Japanese,\u00a0or Korean. For the purposes of the concentration, proficiency is determined to be consistent\u00a0with successful completion of the Department\u2019s third-year course sequence in Chinese,\u00a0Japanese, or Korean (0500-0600), or its equivalent. Native speakers of these languages may,\u00a0for example,\u00a0 demonstrate competency such that language courses may be unnecessary.\u00a0\u00a0Department language instructors may also determine that course work completed at one of\u00a0the language-intensive\u00a0 study abroad programs attended by our undergraduates is comparable\u00a0to courses offered at Brown. Up to three upper level (700-999) language courses may count\u00a0as electives for the Focus concentration credit. (Lower-level language courses do not count as\u00a0concentration electives).",
   "tracks": [
     {
       "id": "the_language_requirement",
@@ -25,11 +26,11 @@
               "courses": [
                 {
                   "code": "CHIN 0100",
-                  "name": "CHIN 0100"
+                  "name": "Basic Chineseand Basic Chinese"
                 },
                 {
                   "code": "CHIN 0200",
-                  "name": "CHIN 0200"
+                  "name": "Basic Chineseand Basic Chinese"
                 }
               ],
               "count": null,
@@ -41,11 +42,11 @@
               "courses": [
                 {
                   "code": "CHIN 0300",
-                  "name": "CHIN 0300"
+                  "name": "Intermediate Chineseand Intermediate Chinese"
                 },
                 {
                   "code": "CHIN 0400",
-                  "name": "CHIN 0400"
+                  "name": "Intermediate Chineseand Intermediate Chinese"
                 }
               ],
               "count": null,
@@ -57,11 +58,11 @@
               "courses": [
                 {
                   "code": "CHIN 0350",
-                  "name": "CHIN 0350"
+                  "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
                 },
                 {
                   "code": "CHIN 0450",
-                  "name": "CHIN 0450"
+                  "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
                 }
               ],
               "count": null,
@@ -73,11 +74,11 @@
               "courses": [
                 {
                   "code": "CHIN 0500",
-                  "name": "CHIN 0500"
+                  "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
                 },
                 {
                   "code": "CHIN 0600",
-                  "name": "CHIN 0600"
+                  "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
                 }
               ],
               "count": null,
@@ -97,11 +98,11 @@
               "courses": [
                 {
                   "code": "JAPN 0100",
-                  "name": "JAPN 0100"
+                  "name": "Basic Japaneseand Basic Japanese"
                 },
                 {
                   "code": "JAPN 0200",
-                  "name": "JAPN 0200"
+                  "name": "Basic Japaneseand Basic Japanese"
                 }
               ],
               "count": null,
@@ -113,11 +114,11 @@
               "courses": [
                 {
                   "code": "JAPN 0300",
-                  "name": "JAPN 0300"
+                  "name": "Intermediate Japaneseand Intermediate Japanese"
                 },
                 {
                   "code": "JAPN 0400",
-                  "name": "JAPN 0400"
+                  "name": "Intermediate Japaneseand Intermediate Japanese"
                 }
               ],
               "count": null,
@@ -129,11 +130,11 @@
               "courses": [
                 {
                   "code": "JAPN 0500",
-                  "name": "JAPN 0500"
+                  "name": "Advanced Japanese Iand Advanced Japanese I"
                 },
                 {
                   "code": "JAPN 0600",
-                  "name": "JAPN 0600"
+                  "name": "Advanced Japanese Iand Advanced Japanese I"
                 }
               ],
               "count": null,
@@ -153,11 +154,11 @@
               "courses": [
                 {
                   "code": "KREA 0100",
-                  "name": "KREA 0100"
+                  "name": "Koreanand Korean"
                 },
                 {
                   "code": "KREA 0200",
-                  "name": "KREA 0200"
+                  "name": "Koreanand Korean"
                 }
               ],
               "count": null,
@@ -169,11 +170,11 @@
               "courses": [
                 {
                   "code": "KREA 0300",
-                  "name": "KREA 0300"
+                  "name": "Intermediate Koreanand Intermediate Korean"
                 },
                 {
                   "code": "KREA 0400",
-                  "name": "KREA 0400"
+                  "name": "Intermediate Koreanand Intermediate Korean"
                 }
               ],
               "count": null,
@@ -185,11 +186,11 @@
               "courses": [
                 {
                   "code": "KREA 0500",
-                  "name": "KREA 0500"
+                  "name": "Advanced Koreanand Advanced Korean"
                 },
                 {
                   "code": "KREA 0600",
-                  "name": "KREA 0600"
+                  "name": "Advanced Koreanand Advanced Korean"
                 }
               ],
               "count": null,
@@ -216,11 +217,11 @@
               "courses": [
                 {
                   "code": "CHIN 0700",
-                  "name": "CHIN 0700"
+                  "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
                 },
                 {
                   "code": "CHIN 0800",
-                  "name": "CHIN 0800"
+                  "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
                 }
               ],
               "count": null,
@@ -232,7 +233,7 @@
               "courses": [
                 {
                   "code": "CHIN 0911",
-                  "name": "CHIN 0911"
+                  "name": "Business Chinese"
                 }
               ],
               "count": null,
@@ -244,7 +245,7 @@
               "courses": [
                 {
                   "code": "CHIN 0912",
-                  "name": "CHIN 0912"
+                  "name": "Chinese Language and Culture"
                 }
               ],
               "count": null,
@@ -256,7 +257,7 @@
               "courses": [
                 {
                   "code": "CHIN 1040",
-                  "name": "CHIN 1040"
+                  "name": "Modern Chinese Literature"
                 }
               ],
               "count": null,
@@ -276,11 +277,11 @@
               "courses": [
                 {
                   "code": "JAPN 0700",
-                  "name": "JAPN 0700"
+                  "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
                 },
                 {
                   "code": "JAPN 0800",
-                  "name": "JAPN 0800"
+                  "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
                 }
               ],
               "count": null,
@@ -292,7 +293,7 @@
               "courses": [
                 {
                   "code": "JAPN 0800",
-                  "name": "JAPN 0800"
+                  "name": "Advanced Japanese II"
                 }
               ],
               "count": null,
@@ -304,7 +305,7 @@
               "courses": [
                 {
                   "code": "JAPN 0810",
-                  "name": "JAPN 0810"
+                  "name": "Classical Japanese"
                 }
               ],
               "count": null,
@@ -316,7 +317,7 @@
               "courses": [
                 {
                   "code": "JAPN 0911",
-                  "name": "JAPN 0911"
+                  "name": "Business Japanese"
                 }
               ],
               "count": null,
@@ -328,7 +329,7 @@
               "courses": [
                 {
                   "code": "JAPN 1010",
-                  "name": "JAPN 1010"
+                  "name": "Readings in Contemporary Japanese Fiction"
                 }
               ],
               "count": null,
@@ -340,7 +341,7 @@
               "courses": [
                 {
                   "code": "KREA 0912",
-                  "name": "KREA 0912"
+                  "name": "Business Korean"
                 }
               ],
               "count": null,
@@ -356,11 +357,11 @@
           "options": [
             {
               "code": "CHIN 0100",
-              "name": "CHIN 0100"
+              "name": "Basic Chineseand Basic Chinese"
             },
             {
               "code": "CHIN 0200",
-              "name": "CHIN 0200"
+              "name": "Basic Chineseand Basic Chinese"
             }
           ]
         },
@@ -369,11 +370,11 @@
           "options": [
             {
               "code": "CHIN 0300",
-              "name": "CHIN 0300"
+              "name": "Intermediate Chineseand Intermediate Chinese"
             },
             {
               "code": "CHIN 0400",
-              "name": "CHIN 0400"
+              "name": "Intermediate Chineseand Intermediate Chinese"
             }
           ]
         },
@@ -382,11 +383,11 @@
           "options": [
             {
               "code": "CHIN 0350",
-              "name": "CHIN 0350"
+              "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
             },
             {
               "code": "CHIN 0450",
-              "name": "CHIN 0450"
+              "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
             }
           ]
         },
@@ -395,11 +396,11 @@
           "options": [
             {
               "code": "CHIN 0500",
-              "name": "CHIN 0500"
+              "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
             },
             {
               "code": "CHIN 0600",
-              "name": "CHIN 0600"
+              "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
             }
           ]
         },
@@ -408,11 +409,11 @@
           "options": [
             {
               "code": "JAPN 0100",
-              "name": "JAPN 0100"
+              "name": "Basic Japaneseand Basic Japanese"
             },
             {
               "code": "JAPN 0200",
-              "name": "JAPN 0200"
+              "name": "Basic Japaneseand Basic Japanese"
             }
           ]
         },
@@ -421,11 +422,11 @@
           "options": [
             {
               "code": "JAPN 0300",
-              "name": "JAPN 0300"
+              "name": "Intermediate Japaneseand Intermediate Japanese"
             },
             {
               "code": "JAPN 0400",
-              "name": "JAPN 0400"
+              "name": "Intermediate Japaneseand Intermediate Japanese"
             }
           ]
         },
@@ -434,11 +435,11 @@
           "options": [
             {
               "code": "JAPN 0500",
-              "name": "JAPN 0500"
+              "name": "Advanced Japanese Iand Advanced Japanese I"
             },
             {
               "code": "JAPN 0600",
-              "name": "JAPN 0600"
+              "name": "Advanced Japanese Iand Advanced Japanese I"
             }
           ]
         },
@@ -447,11 +448,11 @@
           "options": [
             {
               "code": "KREA 0100",
-              "name": "KREA 0100"
+              "name": "Koreanand Korean"
             },
             {
               "code": "KREA 0200",
-              "name": "KREA 0200"
+              "name": "Koreanand Korean"
             }
           ]
         },
@@ -460,11 +461,11 @@
           "options": [
             {
               "code": "KREA 0300",
-              "name": "KREA 0300"
+              "name": "Intermediate Koreanand Intermediate Korean"
             },
             {
               "code": "KREA 0400",
-              "name": "KREA 0400"
+              "name": "Intermediate Koreanand Intermediate Korean"
             }
           ]
         },
@@ -473,11 +474,11 @@
           "options": [
             {
               "code": "KREA 0500",
-              "name": "KREA 0500"
+              "name": "Advanced Koreanand Advanced Korean"
             },
             {
               "code": "KREA 0600",
-              "name": "KREA 0600"
+              "name": "Advanced Koreanand Advanced Korean"
             }
           ]
         },
@@ -486,11 +487,11 @@
           "options": [
             {
               "code": "CHIN 0700",
-              "name": "CHIN 0700"
+              "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
             },
             {
               "code": "CHIN 0800",
-              "name": "CHIN 0800"
+              "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
             }
           ]
         },
@@ -498,21 +499,21 @@
           "type": "required",
           "course": {
             "code": "CHIN 0911",
-            "name": "CHIN 0911"
+            "name": "Business Chinese"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHIN 0912",
-            "name": "CHIN 0912"
+            "name": "Chinese Language and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHIN 1040",
-            "name": "CHIN 1040"
+            "name": "Modern Chinese Literature"
           }
         },
         {
@@ -520,11 +521,11 @@
           "options": [
             {
               "code": "JAPN 0700",
-              "name": "JAPN 0700"
+              "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
             },
             {
               "code": "JAPN 0800",
-              "name": "JAPN 0800"
+              "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
             }
           ]
         },
@@ -532,35 +533,35 @@
           "type": "required",
           "course": {
             "code": "JAPN 0800",
-            "name": "JAPN 0800"
+            "name": "Advanced Japanese II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "JAPN 0810",
-            "name": "JAPN 0810"
+            "name": "Classical Japanese"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "JAPN 0911",
-            "name": "JAPN 0911"
+            "name": "Business Japanese"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "JAPN 1010",
-            "name": "JAPN 1010"
+            "name": "Readings in Contemporary Japanese Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "KREA 0912",
-            "name": "KREA 0912"
+            "name": "Business Korean"
           }
         }
       ],
@@ -581,7 +582,7 @@
               "courses": [
                 {
                   "code": "EAST 0140",
-                  "name": "EAST 0140"
+                  "name": "Childhood and Culture in Japan"
                 }
               ],
               "count": null,
@@ -593,7 +594,7 @@
               "courses": [
                 {
                   "code": "EAST 0152",
-                  "name": "EAST 0152"
+                  "name": "Worlds of Korean Cinema"
                 }
               ],
               "count": null,
@@ -605,7 +606,7 @@
               "courses": [
                 {
                   "code": "EAST 0304",
-                  "name": "EAST 0304"
+                  "name": "Words on Things: Literature and Material Culture in Early Modern China"
                 }
               ],
               "count": null,
@@ -617,7 +618,7 @@
               "courses": [
                 {
                   "code": "EAST 0307",
-                  "name": "EAST 0307"
+                  "name": "China Through the Lens: History, Cinema, and Critical Discourse"
                 }
               ],
               "count": null,
@@ -629,7 +630,7 @@
               "courses": [
                 {
                   "code": "EAST 0406",
-                  "name": "EAST 0406"
+                  "name": "Foreign Bodies in Japan, 600\u20131600"
                 }
               ],
               "count": null,
@@ -651,35 +652,35 @@
           "type": "required",
           "course": {
             "code": "EAST 0140",
-            "name": "EAST 0140"
+            "name": "Childhood and Culture in Japan"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 0152",
-            "name": "EAST 0152"
+            "name": "Worlds of Korean Cinema"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 0304",
-            "name": "EAST 0304"
+            "name": "Words on Things: Literature and Material Culture in Early Modern China"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 0307",
-            "name": "EAST 0307"
+            "name": "China Through the Lens: History, Cinema, and Critical Discourse"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 0406",
-            "name": "EAST 0406"
+            "name": "Foreign Bodies in Japan, 600\u20131600"
           }
         }
       ],
@@ -700,7 +701,7 @@
               "courses": [
                 {
                   "code": "EAST 1931",
-                  "name": "EAST 1931"
+                  "name": "Market Economy, Popular Culture, and Mass Media in Contemporary China"
                 }
               ],
               "count": null,
@@ -712,7 +713,7 @@
               "courses": [
                 {
                   "code": "EAST 1941",
-                  "name": "EAST 1941"
+                  "name": "Translating Japanese: Short Fiction, Poetry, Film and Manga"
                 }
               ],
               "count": null,
@@ -727,14 +728,14 @@
           "type": "required",
           "course": {
             "code": "EAST 1931",
-            "name": "EAST 1931"
+            "name": "Market Economy, Popular Culture, and Mass Media in Contemporary China"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 1941",
-            "name": "EAST 1941"
+            "name": "Translating Japanese: Short Fiction, Poetry, Film and Manga"
           }
         }
       ],
@@ -744,155 +745,155 @@
   "all_courses": [
     {
       "code": "CHIN 0100",
-      "name": "CHIN 0100"
+      "name": "Basic Chineseand Basic Chinese"
     },
     {
       "code": "CHIN 0200",
-      "name": "CHIN 0200"
+      "name": "Basic Chineseand Basic Chinese"
     },
     {
       "code": "CHIN 0300",
-      "name": "CHIN 0300"
+      "name": "Intermediate Chineseand Intermediate Chinese"
     },
     {
       "code": "CHIN 0400",
-      "name": "CHIN 0400"
+      "name": "Intermediate Chineseand Intermediate Chinese"
     },
     {
       "code": "CHIN 0350",
-      "name": "CHIN 0350"
+      "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
     },
     {
       "code": "CHIN 0450",
-      "name": "CHIN 0450"
+      "name": "Elementary to Intermediate Chinese for Advanced Beginnersand Advanced Chinese for Heritage Learners"
     },
     {
       "code": "CHIN 0500",
-      "name": "CHIN 0500"
+      "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
     },
     {
       "code": "CHIN 0600",
-      "name": "CHIN 0600"
+      "name": "Advanced Modern Chinese Iand Advanced Modern Chinese I"
     },
     {
       "code": "JAPN 0100",
-      "name": "JAPN 0100"
+      "name": "Basic Japaneseand Basic Japanese"
     },
     {
       "code": "JAPN 0200",
-      "name": "JAPN 0200"
+      "name": "Basic Japaneseand Basic Japanese"
     },
     {
       "code": "JAPN 0300",
-      "name": "JAPN 0300"
+      "name": "Intermediate Japaneseand Intermediate Japanese"
     },
     {
       "code": "JAPN 0400",
-      "name": "JAPN 0400"
+      "name": "Intermediate Japaneseand Intermediate Japanese"
     },
     {
       "code": "JAPN 0500",
-      "name": "JAPN 0500"
+      "name": "Advanced Japanese Iand Advanced Japanese I"
     },
     {
       "code": "JAPN 0600",
-      "name": "JAPN 0600"
+      "name": "Advanced Japanese Iand Advanced Japanese I"
     },
     {
       "code": "KREA 0100",
-      "name": "KREA 0100"
+      "name": "Koreanand Korean"
     },
     {
       "code": "KREA 0200",
-      "name": "KREA 0200"
+      "name": "Koreanand Korean"
     },
     {
       "code": "KREA 0300",
-      "name": "KREA 0300"
+      "name": "Intermediate Koreanand Intermediate Korean"
     },
     {
       "code": "KREA 0400",
-      "name": "KREA 0400"
+      "name": "Intermediate Koreanand Intermediate Korean"
     },
     {
       "code": "KREA 0500",
-      "name": "KREA 0500"
+      "name": "Advanced Koreanand Advanced Korean"
     },
     {
       "code": "KREA 0600",
-      "name": "KREA 0600"
+      "name": "Advanced Koreanand Advanced Korean"
     },
     {
       "code": "CHIN 0700",
-      "name": "CHIN 0700"
+      "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
     },
     {
       "code": "CHIN 0800",
-      "name": "CHIN 0800"
+      "name": "Advanced Modern Chinese IIand Advanced Modern Chinese II(either course may be taken for one semester)"
     },
     {
       "code": "CHIN 0911",
-      "name": "CHIN 0911"
+      "name": "Business Chinese"
     },
     {
       "code": "CHIN 0912",
-      "name": "CHIN 0912"
+      "name": "Chinese Language and Culture"
     },
     {
       "code": "CHIN 1040",
-      "name": "CHIN 1040"
+      "name": "Modern Chinese Literature"
     },
     {
       "code": "JAPN 0700",
-      "name": "JAPN 0700"
+      "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
     },
     {
       "code": "JAPN 0800",
-      "name": "JAPN 0800"
+      "name": "Advanced Japanese IIand Advanced Japanese II(either course may be taken for one semester)"
     },
     {
       "code": "JAPN 0810",
-      "name": "JAPN 0810"
+      "name": "Classical Japanese"
     },
     {
       "code": "JAPN 0911",
-      "name": "JAPN 0911"
+      "name": "Business Japanese"
     },
     {
       "code": "JAPN 1010",
-      "name": "JAPN 1010"
+      "name": "Readings in Contemporary Japanese Fiction"
     },
     {
       "code": "KREA 0912",
-      "name": "KREA 0912"
+      "name": "Business Korean"
     },
     {
       "code": "EAST 0140",
-      "name": "EAST 0140"
+      "name": "Childhood and Culture in Japan"
     },
     {
       "code": "EAST 0152",
-      "name": "EAST 0152"
+      "name": "Worlds of Korean Cinema"
     },
     {
       "code": "EAST 0304",
-      "name": "EAST 0304"
+      "name": "Words on Things: Literature and Material Culture in Early Modern China"
     },
     {
       "code": "EAST 0307",
-      "name": "EAST 0307"
+      "name": "China Through the Lens: History, Cinema, and Critical Discourse"
     },
     {
       "code": "EAST 0406",
-      "name": "EAST 0406"
+      "name": "Foreign Bodies in Japan, 600\u20131600"
     },
     {
       "code": "EAST 1931",
-      "name": "EAST 1931"
+      "name": "Market Economy, Popular Culture, and Mass Media in Contemporary China"
     },
     {
       "code": "EAST 1941",
-      "name": "EAST 1941"
+      "name": "Translating Japanese: Short Fiction, Poetry, Film and Manga"
     },
     {
       "code": "EAST 1980",

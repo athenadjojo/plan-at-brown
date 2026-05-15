@@ -2,6 +2,7 @@
   "concentration": "French and Francophone Studies",
   "slug": "ffs",
   "url": "https://bulletin.brown.edu/the-college/concentrations/ffs/",
+  "description": "The concentration in French and Francophone Studies is committed to the pursuit of an interdisciplinary, linguistically rigorous, and textually informed understanding of French and Francophone literatures and cultures. Concentrators engage actively through their coursework with a wide range of texts and critical perspectives, pertaining to multiple literary genres, media, and contexts. They have opportunities to study different periods of French history as well as Francophone cultures beyond France. A minimum of ten courses is required for the concentration in French and Francophone Studies. Concentrators must observe the following guidelines when planning their concentration. It is recommended that course choices for each semester be discussed with the department\u2019s concentration advisor.",
   "tracks": [
     {
       "id": "concentration_requirements",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "FREN 0950A",
-                  "name": "FREN 0950A"
+                  "name": "Advanced Written and Oral French: Traduction"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "FREN 0960A",
-                  "name": "FREN 0960A"
+                  "name": "Ateliers d'\u00e9criture"
                 }
               ],
               "count": 1,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "FREN 1070M",
-                  "name": "FREN 1070M"
+                  "name": "La question animale"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "FREN 1110F",
-                  "name": "FREN 1110F"
+                  "name": "Le Roman contemporain"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "FREN 1120F",
-                  "name": "FREN 1120F"
+                  "name": "L'enfer, c'est les autres"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "FREN 1130G",
-                  "name": "FREN 1130G"
+                  "name": "Modernismes po\u00e9tiques"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "FREN 1210F",
-                  "name": "FREN 1210F"
+                  "name": "L\u2019\u0153uvre romanesque de Marguerite Duras"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "FREN 1310N",
-                  "name": "FREN 1310N"
+                  "name": "La Pornographie"
                 }
               ],
               "count": 1,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "FREN 1310P",
-                  "name": "FREN 1310P"
+                  "name": "La th\u00e9orie f\u00e9ministe en France"
                 }
               ],
               "count": 1,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "FREN 1410X",
-                  "name": "FREN 1410X"
+                  "name": "D\u00e9s/Accords franco-am\u00e9ricains"
                 }
               ],
               "count": 1,
@@ -141,70 +142,70 @@
           "type": "required",
           "course": {
             "code": "FREN 0950A",
-            "name": "FREN 0950A"
+            "name": "Advanced Written and Oral French: Traduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 0960A",
-            "name": "FREN 0960A"
+            "name": "Ateliers d'\u00e9criture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1070M",
-            "name": "FREN 1070M"
+            "name": "La question animale"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1110F",
-            "name": "FREN 1110F"
+            "name": "Le Roman contemporain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1120F",
-            "name": "FREN 1120F"
+            "name": "L'enfer, c'est les autres"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1130G",
-            "name": "FREN 1130G"
+            "name": "Modernismes po\u00e9tiques"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1210F",
-            "name": "FREN 1210F"
+            "name": "L\u2019\u0153uvre romanesque de Marguerite Duras"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1310N",
-            "name": "FREN 1310N"
+            "name": "La Pornographie"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1310P",
-            "name": "FREN 1310P"
+            "name": "La th\u00e9orie f\u00e9ministe en France"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "FREN 1410X",
-            "name": "FREN 1410X"
+            "name": "D\u00e9s/Accords franco-am\u00e9ricains"
           }
         }
       ],
@@ -214,71 +215,71 @@
   "all_courses": [
     {
       "code": "FREN 0950A",
-      "name": "FREN 0950A"
+      "name": "Advanced Written and Oral French: Traduction"
     },
     {
       "code": "FREN 0960A",
-      "name": "FREN 0960A"
+      "name": "Ateliers d'\u00e9criture"
     },
     {
       "code": "FREN 1070M",
-      "name": "FREN 1070M"
+      "name": "La question animale"
     },
     {
       "code": "FREN 1110F",
-      "name": "FREN 1110F"
+      "name": "Le Roman contemporain"
     },
     {
       "code": "FREN 1120F",
-      "name": "FREN 1120F"
+      "name": "L'enfer, c'est les autres"
     },
     {
       "code": "FREN 1130G",
-      "name": "FREN 1130G"
+      "name": "Modernismes po\u00e9tiques"
     },
     {
       "code": "FREN 1210F",
-      "name": "FREN 1210F"
+      "name": "L\u2019\u0153uvre romanesque de Marguerite Duras"
     },
     {
       "code": "FREN 1310N",
-      "name": "FREN 1310N"
+      "name": "La Pornographie"
     },
     {
       "code": "FREN 1310P",
-      "name": "FREN 1310P"
+      "name": "La th\u00e9orie f\u00e9ministe en France"
     },
     {
       "code": "FREN 1410X",
-      "name": "FREN 1410X"
+      "name": "D\u00e9s/Accords franco-am\u00e9ricains"
     },
     {
       "code": "FREN 1000B",
-      "name": "FREN 1000B"
+      "name": "Litt\u00e9rature et culture: Chevaliers, sorci\u00e8res, philosophes, et po\u00e8tes"
     },
     {
       "code": "FREN 1040B",
-      "name": "FREN 1040B"
+      "name": "Pouvoirs de la sc\u00e8ne: le th\u00e9\u00e2tre du XVIIe si\u00e8cle"
     },
     {
       "code": "FREN 1040C",
-      "name": "FREN 1040C"
+      "name": "Le Grand Si\u00e8cle \u00e0 l'\u00e9cran"
     },
     {
       "code": "FREN 1040D",
-      "name": "FREN 1040D"
+      "name": "Moli\u00e8re et son monde"
     },
     {
       "code": "FREN 1410I",
-      "name": "FREN 1410I"
+      "name": "Sorcellerie et Renaissance: le sort de la sorci\u00e8re"
     },
     {
       "code": "FREN 1410R",
-      "name": "FREN 1410R"
+      "name": "Images d\u2019une guerre sans nom: The Algerian War in Literature and Film"
     },
     {
       "code": "FREN 1410T",
-      "name": "FREN 1410T"
+      "name": "L'experience des refugies: deplacements, migrations"
     },
     {
       "code": "FREN 0600",
@@ -294,23 +295,23 @@
     },
     {
       "code": "FREN 1140A",
-      "name": "FREN 1140A"
+      "name": "French Theory"
     },
     {
       "code": "FREN 1150G",
-      "name": "FREN 1150G"
+      "name": "New Wave Cinema from Paris to Hollywood"
     },
     {
       "code": "FREN 1330A",
-      "name": "FREN 1330A"
+      "name": "Fairy Tales and Culture"
     },
     {
       "code": "HIST 1272D",
-      "name": "HIST 1272D"
+      "name": "The French Revolution"
     },
     {
       "code": "MUSC 1677",
-      "name": "MUSC 1677"
+      "name": "Music and Culture in Third Republic France"
     }
   ]
 }

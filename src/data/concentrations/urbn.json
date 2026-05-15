@@ -2,407 +2,2405 @@
   "concentration": "Urban Studies",
   "slug": "urbn",
   "url": "https://bulletin.brown.edu/the-college/concentrations/urbn/",
-  "tracks": [],
+  "description": "The Urban Studies Program equips students to analyze the city and urban life in the United States and around the planet through a variety of disciplinary lenses drawn from the humanities and social sciences, applying both qualitative and quantitative methods for scholarly research and community engagement.\u00a0Cities are sites of problems and promise, inequality and solidarity, conflict and community. Processes of urbanization shape the challenges and possibilities of the 21st century.\u00a0Urban Studies students explore the history of cities, urban and suburban growth and transformation, the organization and design of built, social, and natural environments, urban politics and policy, and the role of cities and urbanization in art, culture, and public life.\u00a0The undergraduate program emphasizes global and local perspectives to understand how diverse communities have shaped cities through time, investigates the spatial dimensions of social relations and cultural meaning, and challenges students to work towards inclusive, equitable, and sustainable places. Through experiences both inside and outside the classroom, Urban Studies concentrators learn to analyze urban life and the built environment through a variety of disciplinary lenses, to think creatively and critically about both the problems and potential of cities, and to use evidence-based approaches to address real-world issues.\u00a0Above all, our students are dedicated to understanding, envisioning and creating cities that are inclusive and sustainable.\u00a0An Urban Studies degree prepares students for a wide range ofcareers, with ourgraduatesgoing on to work in government, the\u00a0non-profit\u00a0sector, business, law, education, planning and design, public health and medicine, academia, media and technology, and the arts.",
+  "tracks": [
+    {
+      "id": "requirements_0",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "Introduction (choose one):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0210",
+                  "name": "The City: An Introduction to Urban Studies"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0230",
+                  "name": "Urban Life in Providence: An Introduction"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Research Methods (choose one):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1940",
+                  "name": "Ethnographic Research Methods"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 0650",
+                  "name": "Introduction to Probability and Statistics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "Introduction to Probability and Statistics with Calculus"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1655",
+                  "name": "Introduction to Probability and Statistics with Theory"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1660",
+                  "name": "Statistical Inference II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "CPSY 0900",
+                  "name": "Statistical Methods"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1620",
+                  "name": "Introduction to Econometrics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1230",
+                  "name": "Applied Statistics for Ed Research and Policy Analysis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1600",
+                  "name": "Political Research Methods"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1020",
+                  "name": "Methods of Social Research"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1100",
+                  "name": "Introductory Statistics for Social Research1"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1100",
+                  "name": "Investigating the City: Hands-on Research Methods for Urban Analysis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Core Courses (3 courses required, in at least 3 disciplines, such as American studies, anthropology, economics, education, English, history, history of art and architecture, political science, and sociology, as well as urban planning when staffing allows)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1201",
+                  "name": "Introduction to Geographic Information Systems and Spatial Analysis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1236",
+                  "name": "Urban Life: Anthropology in and of the City"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ANTH 1255",
+                  "name": "Anthropology of Disasters"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1410",
+                  "name": "Urban Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EEPS 1320",
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100N",
+                  "name": "City Novels"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0700R",
+                  "name": "Modernist Cities"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1711D",
+                  "name": "Reading New York"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1107",
+                  "name": "Cartography and Geovisualization"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1247",
+                  "name": "Clearing the Air: Environmental Studies of Pollution"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1400",
+                  "name": "Sustainable Design in the Built Environment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1580",
+                  "name": "Environmental Stewardship and Resilience in Urban Systems"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0074",
+                  "name": "Nineteenth-Century Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0081",
+                  "name": "Architecture of the House Through Space and Time"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0100",
+                  "name": "Introduction to Architectural Design Studio"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0710",
+                  "name": "The Other History of Modern Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0770",
+                  "name": "Architecture and Urbanism of Africa"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0850",
+                  "name": "Modern Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0860",
+                  "name": "Contemporary Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0861",
+                  "name": "City and Cinema"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1171",
+                  "name": "Cities, Landscapes, and Design in the Age of Pandemics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1533",
+                  "name": "Cities and Inequality Since 1920: The United States"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 0220",
+                  "name": "City Politics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1310",
+                  "name": "African American Politics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1340",
+                  "name": "Principles and Methods of Geographic Information Systems"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0074",
+                  "name": "Nineteenth-Century Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0214",
+                  "name": "The U.S. Metropolis: Cities and Suburbs in American History"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0215",
+                  "name": "Urban Life in the Global South"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1000",
+                  "name": "Fieldwork in the Urban Community"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1140",
+                  "name": "Urban Theory and Practice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1200",
+                  "name": "The United States Metropolis, 1945-2000"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1250",
+                  "name": "The Political Foundations of the City"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1260",
+                  "name": "Housing in America"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1270",
+                  "name": "Urban Politics and Urban Public Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1290",
+                  "name": "Race, Racism, and the Urban Environment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Seminar courses (choose three)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1250",
+                  "name": "Policy Implementation in Education"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1620",
+                  "name": "Urban Schools in Historical Perspective"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ETHN 1751F",
+                  "name": "Race in U.S. Cities and Suburbs"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1875",
+                  "name": "The Nature of Cities"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1926",
+                  "name": "Wasted: Rethinking Chemical Environments"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1850H",
+                  "name": "Berlin: Architecture, Politics and Memory"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1910A",
+                  "name": "Providence Architecture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "IAPA 1701F",
+                  "name": "Wealth and Poverty in the New Metropolis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1821V",
+                  "name": "Democracy and Inequality in American Cities"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1822S",
+                  "name": "The Politics of Urban Transformation"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 0310",
+                  "name": "Community-Engaged Scholarship: Theory and Practice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1871W",
+                  "name": "Geographical Analysis of Society"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1871X",
+                  "name": "Comparative Urban Political Economy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1873G",
+                  "name": "The Geography of Urban Inequality"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 0820A",
+                  "name": "Urban Ecologies: Forms, Flows and Futures"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870A",
+                  "name": "American Culture and the City"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870D",
+                  "name": "Downtown Development"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870G",
+                  "name": "Ancient Cities: From the Origins Through Late Antiquity"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870J",
+                  "name": "The Politics of Community Organizing"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870K",
+                  "name": "Jerusalem Divided: Politics and Cultural Heritage"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870M",
+                  "name": "Urban Regimes in the American Republic"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870N",
+                  "name": "The Cultural and Social Life of the Built Environment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870Q",
+                  "name": "Cities in Mind: Modern Urban Thought and Theory"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870T",
+                  "name": "Transportation: An Urban Planning Perspective"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870X",
+                  "name": "The Political Economy of Cities: American and Comparative Perspectives"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1870Z",
+                  "name": "Housing Justice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1871A",
+                  "name": "Heritage in the Metropolis: Remembering and Preserving the Urban Past"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1871B",
+                  "name": "Berlin: Global Metropolis (1945-2020)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1871E",
+                  "name": "Urban Development and Governance in the Global South"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1871F",
+                  "name": "Urban Ecologies: Forms, Flows and Futures"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1871G",
+                  "name": "Urban Asia: Beyond Tradition, Modernity, and Crisis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1872",
+                  "name": "The Right to the City: Focus on Indonesia"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1932",
+                  "name": "The Just City: Installment I, Comparative Perspectives on Juvenile Justice Reform"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "URBN 1943",
+                  "name": "The Real Estate Development Process: An Entrepreneurial Lens"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Complementary Curriculum (Total of 2 courses required):",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "1. Any course from the Introductory or Core Curriculum options above not used to fulfill another requirement",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "2. OR Any of the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "AFRI 0600",
+                  "name": "Race, Gender, and Urban Politics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "AFRI 1075",
+                  "name": "Providence Housing Ecosystem, Development, Displacement and Gentrification"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "AMST 1611A",
+                  "name": "Making America: Twentieth-Century U.S. Immigrant/Ethnic Literature"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ARCH 1900",
+                  "name": "The Archaeology of College Hill"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1370",
+                  "name": "Race and Inequality in the United States"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1240",
+                  "name": "Qualitative Methods"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EDUC 1330",
+                  "name": "Social Psychology of Race, Class, and Gender"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1050S",
+                  "name": "Writing the City"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1710I",
+                  "name": "Harlem Renaissance: The Politics of Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 0705",
+                  "name": "Equity and the Environment: Movements, Scholarship, Solutions"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENVS 1555",
+                  "name": "Local Food Systems and Urban Agriculture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1307",
+                  "name": "Politics and Spectacle in the Arts of Ancient Rome"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1961D",
+                  "name": "Heaven Above, Suzhou and Hangzhou Below: Urban Culture in Early Modern China"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1821V",
+                  "name": "Democracy and Inequality in American Cities"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1824D",
+                  "name": "Power and Prosperity in Urban America"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POLS 1826A",
+                  "name": "Space, Time and Society"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "RUSS 1440",
+                  "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "SOC 1270",
+                  "name": "Race, Class, and Ethnicity in the Modern World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "3. RISD courses approved by the Urban Studies Program each semester as applicable to the Urban Studies concentration.",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        },
+        {
+          "name": "4. Any course taken at another university in the US or abroad and approved by the Urban Studies Program each semester (2 maximum)",
+          "type": "label",
+          "courses": [],
+          "count": null,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0210",
+            "name": "The City: An Introduction to Urban Studies"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0230",
+            "name": "Urban Life in Providence: An Introduction"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1940",
+            "name": "Ethnographic Research Methods"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 0650",
+            "name": "Introduction to Probability and Statistics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "Introduction to Probability and Statistics with Calculus"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1655",
+            "name": "Introduction to Probability and Statistics with Theory"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1660",
+            "name": "Statistical Inference II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "CPSY 0900",
+            "name": "Statistical Methods"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1620",
+            "name": "Introduction to Econometrics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1230",
+            "name": "Applied Statistics for Ed Research and Policy Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1600",
+            "name": "Political Research Methods"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1020",
+            "name": "Methods of Social Research"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1100",
+            "name": "Introductory Statistics for Social Research1"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1100",
+            "name": "Investigating the City: Hands-on Research Methods for Urban Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1201",
+            "name": "Introduction to Geographic Information Systems and Spatial Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1236",
+            "name": "Urban Life: Anthropology in and of the City"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ANTH 1255",
+            "name": "Anthropology of Disasters"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1410",
+            "name": "Urban Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EEPS 1320",
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100N",
+            "name": "City Novels"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0700R",
+            "name": "Modernist Cities"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1711D",
+            "name": "Reading New York"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1107",
+            "name": "Cartography and Geovisualization"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1247",
+            "name": "Clearing the Air: Environmental Studies of Pollution"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1400",
+            "name": "Sustainable Design in the Built Environment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1580",
+            "name": "Environmental Stewardship and Resilience in Urban Systems"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0074",
+            "name": "Nineteenth-Century Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0081",
+            "name": "Architecture of the House Through Space and Time"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0100",
+            "name": "Introduction to Architectural Design Studio"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0710",
+            "name": "The Other History of Modern Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0770",
+            "name": "Architecture and Urbanism of Africa"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0850",
+            "name": "Modern Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0860",
+            "name": "Contemporary Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0861",
+            "name": "City and Cinema"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1171",
+            "name": "Cities, Landscapes, and Design in the Age of Pandemics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1533",
+            "name": "Cities and Inequality Since 1920: The United States"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 0220",
+            "name": "City Politics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1310",
+            "name": "African American Politics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1340",
+            "name": "Principles and Methods of Geographic Information Systems"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0074",
+            "name": "Nineteenth-Century Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0214",
+            "name": "The U.S. Metropolis: Cities and Suburbs in American History"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0215",
+            "name": "Urban Life in the Global South"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1000",
+            "name": "Fieldwork in the Urban Community"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1140",
+            "name": "Urban Theory and Practice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1200",
+            "name": "The United States Metropolis, 1945-2000"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1250",
+            "name": "The Political Foundations of the City"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1260",
+            "name": "Housing in America"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1270",
+            "name": "Urban Politics and Urban Public Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1290",
+            "name": "Race, Racism, and the Urban Environment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1250",
+            "name": "Policy Implementation in Education"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1620",
+            "name": "Urban Schools in Historical Perspective"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ETHN 1751F",
+            "name": "Race in U.S. Cities and Suburbs"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1875",
+            "name": "The Nature of Cities"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1926",
+            "name": "Wasted: Rethinking Chemical Environments"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1850H",
+            "name": "Berlin: Architecture, Politics and Memory"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1910A",
+            "name": "Providence Architecture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "IAPA 1701F",
+            "name": "Wealth and Poverty in the New Metropolis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1821V",
+            "name": "Democracy and Inequality in American Cities"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1822S",
+            "name": "The Politics of Urban Transformation"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 0310",
+            "name": "Community-Engaged Scholarship: Theory and Practice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1871W",
+            "name": "Geographical Analysis of Society"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1871X",
+            "name": "Comparative Urban Political Economy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1873G",
+            "name": "The Geography of Urban Inequality"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 0820A",
+            "name": "Urban Ecologies: Forms, Flows and Futures"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870A",
+            "name": "American Culture and the City"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870D",
+            "name": "Downtown Development"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870G",
+            "name": "Ancient Cities: From the Origins Through Late Antiquity"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870J",
+            "name": "The Politics of Community Organizing"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870K",
+            "name": "Jerusalem Divided: Politics and Cultural Heritage"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870M",
+            "name": "Urban Regimes in the American Republic"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870N",
+            "name": "The Cultural and Social Life of the Built Environment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870Q",
+            "name": "Cities in Mind: Modern Urban Thought and Theory"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870T",
+            "name": "Transportation: An Urban Planning Perspective"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870X",
+            "name": "The Political Economy of Cities: American and Comparative Perspectives"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1870Z",
+            "name": "Housing Justice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1871A",
+            "name": "Heritage in the Metropolis: Remembering and Preserving the Urban Past"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1871B",
+            "name": "Berlin: Global Metropolis (1945-2020)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1871E",
+            "name": "Urban Development and Governance in the Global South"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1871F",
+            "name": "Urban Ecologies: Forms, Flows and Futures"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1871G",
+            "name": "Urban Asia: Beyond Tradition, Modernity, and Crisis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1872",
+            "name": "The Right to the City: Focus on Indonesia"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1932",
+            "name": "The Just City: Installment I, Comparative Perspectives on Juvenile Justice Reform"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "URBN 1943",
+            "name": "The Real Estate Development Process: An Entrepreneurial Lens"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "AFRI 0600",
+            "name": "Race, Gender, and Urban Politics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "AFRI 1075",
+            "name": "Providence Housing Ecosystem, Development, Displacement and Gentrification"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "AMST 1611A",
+            "name": "Making America: Twentieth-Century U.S. Immigrant/Ethnic Literature"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ARCH 1900",
+            "name": "The Archaeology of College Hill"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1370",
+            "name": "Race and Inequality in the United States"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1240",
+            "name": "Qualitative Methods"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EDUC 1330",
+            "name": "Social Psychology of Race, Class, and Gender"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1050S",
+            "name": "Writing the City"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1710I",
+            "name": "Harlem Renaissance: The Politics of Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 0705",
+            "name": "Equity and the Environment: Movements, Scholarship, Solutions"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENVS 1555",
+            "name": "Local Food Systems and Urban Agriculture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1307",
+            "name": "Politics and Spectacle in the Arts of Ancient Rome"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1961D",
+            "name": "Heaven Above, Suzhou and Hangzhou Below: Urban Culture in Early Modern China"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1821V",
+            "name": "Democracy and Inequality in American Cities"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1824D",
+            "name": "Power and Prosperity in Urban America"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POLS 1826A",
+            "name": "Space, Time and Society"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "RUSS 1440",
+            "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "SOC 1270",
+            "name": "Race, Class, and Ethnicity in the Modern World"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
   "all_courses": [
     {
       "code": "URBN 0210",
-      "name": "URBN 0210"
+      "name": "The City: An Introduction to Urban Studies"
     },
     {
       "code": "URBN 0230",
-      "name": "URBN 0230"
+      "name": "Urban Life in Providence: An Introduction"
     },
     {
       "code": "ANTH 1940",
-      "name": "ANTH 1940"
+      "name": "Ethnographic Research Methods"
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "APMA 1660",
-      "name": "APMA 1660"
+      "name": "Statistical Inference II"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "ECON 1620",
-      "name": "ECON 1620"
+      "name": "Introduction to Econometrics"
     },
     {
       "code": "EDUC 1230",
-      "name": "EDUC 1230"
+      "name": "Applied Statistics for Ed Research and Policy Analysis"
     },
     {
       "code": "POLS 1600",
-      "name": "POLS 1600"
+      "name": "Political Research Methods"
     },
     {
       "code": "SOC 1020",
-      "name": "SOC 1020"
+      "name": "Methods of Social Research"
     },
     {
       "code": "SOC 1100",
-      "name": "SOC 1100"
+      "name": "Introductory Statistics for Social Research1"
     },
     {
       "code": "URBN 1100",
-      "name": "URBN 1100"
+      "name": "Investigating the City: Hands-on Research Methods for Urban Analysis"
     },
     {
       "code": "ANTH 1201",
-      "name": "ANTH 1201"
+      "name": "Introduction to Geographic Information Systems and Spatial Analysis"
     },
     {
       "code": "ANTH 1236",
-      "name": "ANTH 1236"
+      "name": "Urban Life: Anthropology in and of the City"
     },
     {
       "code": "ANTH 1255",
-      "name": "ANTH 1255"
+      "name": "Anthropology of Disasters"
     },
     {
       "code": "ECON 1410",
-      "name": "ECON 1410"
+      "name": "Urban Economics"
     },
     {
       "code": "EEPS 1320",
-      "name": "EEPS 1320"
+      "name": "Introduction to Geographic Information Systems for Environmental Applications"
     },
     {
       "code": "ENGL 0100N",
-      "name": "ENGL 0100N"
+      "name": "City Novels"
     },
     {
       "code": "ENGL 0700R",
-      "name": "ENGL 0700R"
+      "name": "Modernist Cities"
     },
     {
       "code": "ENGL 1711D",
-      "name": "ENGL 1711D"
+      "name": "Reading New York"
     },
     {
       "code": "ENVS 1107",
-      "name": "ENVS 1107"
+      "name": "Cartography and Geovisualization"
     },
     {
       "code": "ENVS 1247",
-      "name": "ENVS 1247"
+      "name": "Clearing the Air: Environmental Studies of Pollution"
     },
     {
       "code": "ENVS 1400",
-      "name": "ENVS 1400"
+      "name": "Sustainable Design in the Built Environment"
     },
     {
       "code": "ENVS 1580",
-      "name": "ENVS 1580"
+      "name": "Environmental Stewardship and Resilience in Urban Systems"
     },
     {
       "code": "HIAA 0074",
-      "name": "HIAA 0074"
+      "name": "Nineteenth-Century Architecture"
     },
     {
       "code": "HIAA 0081",
-      "name": "HIAA 0081"
+      "name": "Architecture of the House Through Space and Time"
     },
     {
       "code": "HIAA 0100",
-      "name": "HIAA 0100"
+      "name": "Introduction to Architectural Design Studio"
     },
     {
       "code": "HIAA 0710",
-      "name": "HIAA 0710"
+      "name": "The Other History of Modern Architecture"
     },
     {
       "code": "HIAA 0770",
-      "name": "HIAA 0770"
+      "name": "Architecture and Urbanism of Africa"
     },
     {
       "code": "HIAA 0850",
-      "name": "HIAA 0850"
+      "name": "Modern Architecture"
     },
     {
       "code": "HIAA 0860",
-      "name": "HIAA 0860"
+      "name": "Contemporary Architecture"
     },
     {
       "code": "HIAA 0861",
-      "name": "HIAA 0861"
+      "name": "City and Cinema"
     },
     {
       "code": "HIAA 1171",
-      "name": "HIAA 1171"
+      "name": "Cities, Landscapes, and Design in the Age of Pandemics"
     },
     {
       "code": "HIST 1533",
-      "name": "HIST 1533"
+      "name": "Cities and Inequality Since 1920: The United States"
     },
     {
       "code": "POLS 0220",
-      "name": "POLS 0220"
+      "name": "City Politics"
     },
     {
       "code": "POLS 1310",
-      "name": "POLS 1310"
+      "name": "African American Politics"
     },
     {
       "code": "SOC 1340",
-      "name": "SOC 1340"
+      "name": "Principles and Methods of Geographic Information Systems"
     },
     {
       "code": "URBN 0074",
-      "name": "URBN 0074"
+      "name": "Nineteenth-Century Architecture"
     },
     {
       "code": "URBN 0214",
-      "name": "URBN 0214"
+      "name": "The U.S. Metropolis: Cities and Suburbs in American History"
     },
     {
       "code": "URBN 0215",
-      "name": "URBN 0215"
+      "name": "Urban Life in the Global South"
     },
     {
       "code": "URBN 1000",
-      "name": "URBN 1000"
+      "name": "Fieldwork in the Urban Community"
     },
     {
       "code": "URBN 1140",
-      "name": "URBN 1140"
+      "name": "Urban Theory and Practice"
     },
     {
       "code": "URBN 1200",
-      "name": "URBN 1200"
+      "name": "The United States Metropolis, 1945-2000"
     },
     {
       "code": "URBN 1250",
-      "name": "URBN 1250"
+      "name": "The Political Foundations of the City"
     },
     {
       "code": "URBN 1260",
-      "name": "URBN 1260"
+      "name": "Housing in America"
     },
     {
       "code": "URBN 1270",
-      "name": "URBN 1270"
+      "name": "Urban Politics and Urban Public Policy"
     },
     {
       "code": "URBN 1290",
-      "name": "URBN 1290"
+      "name": "Race, Racism, and the Urban Environment"
     },
     {
       "code": "EDUC 1250",
-      "name": "EDUC 1250"
+      "name": "Policy Implementation in Education"
     },
     {
       "code": "EDUC 1620",
-      "name": "EDUC 1620"
+      "name": "Urban Schools in Historical Perspective"
     },
     {
       "code": "ETHN 1751F",
-      "name": "ETHN 1751F"
+      "name": "Race in U.S. Cities and Suburbs"
     },
     {
       "code": "ENVS 1875",
-      "name": "ENVS 1875"
+      "name": "The Nature of Cities"
     },
     {
       "code": "ENVS 1926",
-      "name": "ENVS 1926"
+      "name": "Wasted: Rethinking Chemical Environments"
     },
     {
       "code": "HIAA 1850H",
-      "name": "HIAA 1850H"
+      "name": "Berlin: Architecture, Politics and Memory"
     },
     {
       "code": "HIAA 1910A",
-      "name": "HIAA 1910A"
+      "name": "Providence Architecture"
     },
     {
       "code": "IAPA 1701F",
-      "name": "IAPA 1701F"
+      "name": "Wealth and Poverty in the New Metropolis"
     },
     {
       "code": "POLS 1821V",
-      "name": "POLS 1821V"
+      "name": "Democracy and Inequality in American Cities"
     },
     {
       "code": "POLS 1822S",
-      "name": "POLS 1822S"
+      "name": "The Politics of Urban Transformation"
     },
     {
       "code": "SOC 0310",
-      "name": "SOC 0310"
+      "name": "Community-Engaged Scholarship: Theory and Practice"
     },
     {
       "code": "SOC 1871W",
-      "name": "SOC 1871W"
+      "name": "Geographical Analysis of Society"
     },
     {
       "code": "SOC 1871X",
-      "name": "SOC 1871X"
+      "name": "Comparative Urban Political Economy"
     },
     {
       "code": "SOC 1873G",
-      "name": "SOC 1873G"
+      "name": "The Geography of Urban Inequality"
     },
     {
       "code": "URBN 0820A",
-      "name": "URBN 0820A"
+      "name": "Urban Ecologies: Forms, Flows and Futures"
     },
     {
       "code": "URBN 1870A",
-      "name": "URBN 1870A"
+      "name": "American Culture and the City"
     },
     {
       "code": "URBN 1870D",
-      "name": "URBN 1870D"
+      "name": "Downtown Development"
     },
     {
       "code": "URBN 1870G",
-      "name": "URBN 1870G"
+      "name": "Ancient Cities: From the Origins Through Late Antiquity"
     },
     {
       "code": "URBN 1870J",
-      "name": "URBN 1870J"
+      "name": "The Politics of Community Organizing"
     },
     {
       "code": "URBN 1870K",
-      "name": "URBN 1870K"
+      "name": "Jerusalem Divided: Politics and Cultural Heritage"
     },
     {
       "code": "URBN 1870M",
-      "name": "URBN 1870M"
+      "name": "Urban Regimes in the American Republic"
     },
     {
       "code": "URBN 1870N",
-      "name": "URBN 1870N"
+      "name": "The Cultural and Social Life of the Built Environment"
     },
     {
       "code": "URBN 1870Q",
-      "name": "URBN 1870Q"
+      "name": "Cities in Mind: Modern Urban Thought and Theory"
     },
     {
       "code": "URBN 1870T",
-      "name": "URBN 1870T"
+      "name": "Transportation: An Urban Planning Perspective"
     },
     {
       "code": "URBN 1870X",
-      "name": "URBN 1870X"
+      "name": "The Political Economy of Cities: American and Comparative Perspectives"
     },
     {
       "code": "URBN 1870Z",
-      "name": "URBN 1870Z"
+      "name": "Housing Justice"
     },
     {
       "code": "URBN 1871A",
-      "name": "URBN 1871A"
+      "name": "Heritage in the Metropolis: Remembering and Preserving the Urban Past"
     },
     {
       "code": "URBN 1871B",
-      "name": "URBN 1871B"
+      "name": "Berlin: Global Metropolis (1945-2020)"
     },
     {
       "code": "URBN 1871E",
-      "name": "URBN 1871E"
+      "name": "Urban Development and Governance in the Global South"
     },
     {
       "code": "URBN 1871F",
-      "name": "URBN 1871F"
+      "name": "Urban Ecologies: Forms, Flows and Futures"
     },
     {
       "code": "URBN 1871G",
-      "name": "URBN 1871G"
+      "name": "Urban Asia: Beyond Tradition, Modernity, and Crisis"
     },
     {
       "code": "URBN 1872",
-      "name": "URBN 1872"
+      "name": "The Right to the City: Focus on Indonesia"
     },
     {
       "code": "URBN 1932",
-      "name": "URBN 1932"
+      "name": "The Just City: Installment I, Comparative Perspectives on Juvenile Justice Reform"
     },
     {
       "code": "URBN 1943",
-      "name": "URBN 1943"
+      "name": "The Real Estate Development Process: An Entrepreneurial Lens"
     },
     {
       "code": "AFRI 0600",
-      "name": "AFRI 0600"
+      "name": "Race, Gender, and Urban Politics"
     },
     {
       "code": "AFRI 1075",
-      "name": "AFRI 1075"
+      "name": "Providence Housing Ecosystem, Development, Displacement and Gentrification"
     },
     {
       "code": "AMST 1611A",
-      "name": "AMST 1611A"
+      "name": "Making America: Twentieth-Century U.S. Immigrant/Ethnic Literature"
     },
     {
       "code": "ARCH 1900",
-      "name": "ARCH 1900"
+      "name": "The Archaeology of College Hill"
     },
     {
       "code": "ECON 1370",
-      "name": "ECON 1370"
+      "name": "Race and Inequality in the United States"
     },
     {
       "code": "EDUC 1240",
-      "name": "EDUC 1240"
+      "name": "Qualitative Methods"
     },
     {
       "code": "EDUC 1330",
-      "name": "EDUC 1330"
+      "name": "Social Psychology of Race, Class, and Gender"
     },
     {
       "code": "ENGL 1050S",
-      "name": "ENGL 1050S"
+      "name": "Writing the City"
     },
     {
       "code": "ENGL 1710I",
-      "name": "ENGL 1710I"
+      "name": "Harlem Renaissance: The Politics of Culture"
     },
     {
       "code": "ENVS 0705",
-      "name": "ENVS 0705"
+      "name": "Equity and the Environment: Movements, Scholarship, Solutions"
     },
     {
       "code": "ENVS 1555",
-      "name": "ENVS 1555"
+      "name": "Local Food Systems and Urban Agriculture"
     },
     {
       "code": "HIAA 1307",
-      "name": "HIAA 1307"
+      "name": "Politics and Spectacle in the Arts of Ancient Rome"
     },
     {
       "code": "HIST 1961D",
-      "name": "HIST 1961D"
+      "name": "Heaven Above, Suzhou and Hangzhou Below: Urban Culture in Early Modern China"
     },
     {
       "code": "POLS 1824D",
-      "name": "POLS 1824D"
+      "name": "Power and Prosperity in Urban America"
     },
     {
       "code": "POLS 1826A",
-      "name": "POLS 1826A"
+      "name": "Space, Time and Society"
     },
     {
       "code": "RUSS 1440",
-      "name": "RUSS 1440"
+      "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
     },
     {
       "code": "SOC 1270",
-      "name": "SOC 1270"
+      "name": "Race, Class, and Ethnicity in the Modern World"
     }
   ]
 }

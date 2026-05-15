@@ -2,6 +2,7 @@
   "concentration": "Latin American and Caribbean Studies",
   "slug": "lacs",
   "url": "https://bulletin.brown.edu/the-college/concentrations/lacs/",
+  "description": "The concentration in Latin American and Caribbean Studies (LACA) leads to a strong, interdisciplinary understanding of culture, history, and contemporary issues in Latin America, the Caribbean, and the Latinx diaspora. Requirements are intentionally broad and flexible to accommodate the focused interests of students in understanding the diverse reality of this region. Concentration requirements include four themes: language, area studies, research, and internship or service work. A wide selection of courses from departments across the University expose students to the methods and materials of different disciplines and provide a background in the contemporary and historical contours of Latin American, Caribbean, and Latinx societies. For more information, contact the Director of Undergraduate Studies, Professor Daniel Rodriguez.",
   "tracks": [
     {
       "id": "concentration_requirements",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "LACA 0500",
-              "name": "LACA 0500"
+              "name": "Around Latin America in 80 Days: An Historical and Cultural Journey"
             }
           ],
           "count": null,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "LACA 1504G",
-              "name": "LACA 1504G"
+              "name": "Arts of the Environment in the Americas"
             }
           ],
           "count": null,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "LACA 1510I",
-              "name": "LACA 1510I"
+              "name": "Urban Latin America"
             }
           ],
           "count": null,
@@ -49,7 +50,7 @@
           "courses": [
             {
               "code": "LACA 1630",
-              "name": "LACA 1630"
+              "name": "Engaged Humanities: Storytelling in the Americas"
             }
           ],
           "count": null,
@@ -61,7 +62,7 @@
           "courses": [
             {
               "code": "HISP 0730",
-              "name": "HISP 0730"
+              "name": "Encounters: Latin America in Its Literature and Culture"
             }
           ],
           "count": null,
@@ -73,7 +74,7 @@
           "courses": [
             {
               "code": "HISP 1330Z",
-              "name": "HISP 1330Z"
+              "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
             }
           ],
           "count": null,
@@ -85,7 +86,7 @@
           "courses": [
             {
               "code": "HIST 0234",
-              "name": "HIST 0234"
+              "name": "Modern Latin America"
             }
           ],
           "count": null,
@@ -97,7 +98,7 @@
           "courses": [
             {
               "code": "HIST 1966Q",
-              "name": "HIST 1966Q"
+              "name": "Colonial Encounters and the Creation of Latin America"
             }
           ],
           "count": null,
@@ -109,7 +110,7 @@
           "courses": [
             {
               "code": "POLS 1210",
-              "name": "POLS 1210"
+              "name": "Latin American Politics"
             }
           ],
           "count": null,
@@ -121,7 +122,7 @@
           "courses": [
             {
               "code": "POBS 0280",
-              "name": "POBS 0280"
+              "name": "Mapping Food, Eating Meaning, Making Community: A Welcome to the Lusophone world"
             }
           ],
           "count": null,
@@ -133,70 +134,70 @@
           "type": "required",
           "course": {
             "code": "LACA 0500",
-            "name": "LACA 0500"
+            "name": "Around Latin America in 80 Days: An Historical and Cultural Journey"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 1504G",
-            "name": "LACA 1504G"
+            "name": "Arts of the Environment in the Americas"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 1510I",
-            "name": "LACA 1510I"
+            "name": "Urban Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 1630",
-            "name": "LACA 1630"
+            "name": "Engaged Humanities: Storytelling in the Americas"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0730",
-            "name": "HISP 0730"
+            "name": "Encounters: Latin America in Its Literature and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1330Z",
-            "name": "HISP 1330Z"
+            "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0234",
-            "name": "HIST 0234"
+            "name": "Modern Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1966Q",
-            "name": "HIST 1966Q"
+            "name": "Colonial Encounters and the Creation of Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1210",
-            "name": "POLS 1210"
+            "name": "Latin American Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POBS 0280",
-            "name": "POBS 0280"
+            "name": "Mapping Food, Eating Meaning, Making Community: A Welcome to the Lusophone world"
           }
         }
       ],
@@ -212,7 +213,7 @@
           "courses": [
             {
               "code": "LACA 1900",
-              "name": "LACA 1900"
+              "name": "Research and Methodologies in Latin American and Caribbean Studies"
             }
           ],
           "count": null,
@@ -224,7 +225,7 @@
           "courses": [
             {
               "code": "ETHN 1200D",
-              "name": "ETHN 1200D"
+              "name": "Latinx Literature"
             }
           ],
           "count": null,
@@ -236,7 +237,7 @@
           "courses": [
             {
               "code": "LACA 0500",
-              "name": "LACA 0500"
+              "name": "Around Latin America in 80 Days: An Historical and Cultural Journey"
             }
           ],
           "count": null,
@@ -248,7 +249,7 @@
           "courses": [
             {
               "code": "LACA 1504G",
-              "name": "LACA 1504G"
+              "name": "Arts of the Environment in the Americas"
             }
           ],
           "count": null,
@@ -260,7 +261,7 @@
           "courses": [
             {
               "code": "LACA 1630",
-              "name": "LACA 1630"
+              "name": "Engaged Humanities: Storytelling in the Americas"
             }
           ],
           "count": null,
@@ -272,7 +273,7 @@
           "courses": [
             {
               "code": "COLT 0710I",
-              "name": "COLT 0710I"
+              "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
             }
           ],
           "count": null,
@@ -284,7 +285,7 @@
           "courses": [
             {
               "code": "HISP 0730",
-              "name": "HISP 0730"
+              "name": "Encounters: Latin America in Its Literature and Culture"
             }
           ],
           "count": null,
@@ -296,7 +297,7 @@
           "courses": [
             {
               "code": "HIST 0233",
-              "name": "HIST 0233"
+              "name": "Colonial Latin America"
             }
           ],
           "count": null,
@@ -308,7 +309,7 @@
           "courses": [
             {
               "code": "HIST 1977I",
-              "name": "HIST 1977I"
+              "name": "Gender, Race, and Medicine in the Americas"
             }
           ],
           "count": null,
@@ -320,63 +321,63 @@
           "type": "required",
           "course": {
             "code": "LACA 1900",
-            "name": "LACA 1900"
+            "name": "Research and Methodologies in Latin American and Caribbean Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ETHN 1200D",
-            "name": "ETHN 1200D"
+            "name": "Latinx Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 0500",
-            "name": "LACA 0500"
+            "name": "Around Latin America in 80 Days: An Historical and Cultural Journey"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 1504G",
-            "name": "LACA 1504G"
+            "name": "Arts of the Environment in the Americas"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LACA 1630",
-            "name": "LACA 1630"
+            "name": "Engaged Humanities: Storytelling in the Americas"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COLT 0710I",
-            "name": "COLT 0710I"
+            "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0730",
-            "name": "HISP 0730"
+            "name": "Encounters: Latin America in Its Literature and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0233",
-            "name": "HIST 0233"
+            "name": "Colonial Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1977I",
-            "name": "HIST 1977I"
+            "name": "Gender, Race, and Medicine in the Americas"
           }
         }
       ],
@@ -386,43 +387,43 @@
   "all_courses": [
     {
       "code": "LACA 0500",
-      "name": "LACA 0500"
+      "name": "Around Latin America in 80 Days: An Historical and Cultural Journey"
     },
     {
       "code": "LACA 1504G",
-      "name": "LACA 1504G"
+      "name": "Arts of the Environment in the Americas"
     },
     {
       "code": "LACA 1510I",
-      "name": "LACA 1510I"
+      "name": "Urban Latin America"
     },
     {
       "code": "LACA 1630",
-      "name": "LACA 1630"
+      "name": "Engaged Humanities: Storytelling in the Americas"
     },
     {
       "code": "HISP 0730",
-      "name": "HISP 0730"
+      "name": "Encounters: Latin America in Its Literature and Culture"
     },
     {
       "code": "HISP 1330Z",
-      "name": "HISP 1330Z"
+      "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
     },
     {
       "code": "HIST 0234",
-      "name": "HIST 0234"
+      "name": "Modern Latin America"
     },
     {
       "code": "HIST 1966Q",
-      "name": "HIST 1966Q"
+      "name": "Colonial Encounters and the Creation of Latin America"
     },
     {
       "code": "POLS 1210",
-      "name": "POLS 1210"
+      "name": "Latin American Politics"
     },
     {
       "code": "POBS 0280",
-      "name": "POBS 0280"
+      "name": "Mapping Food, Eating Meaning, Making Community: A Welcome to the Lusophone world"
     },
     {
       "code": "LACA 1900",
@@ -438,19 +439,19 @@
     },
     {
       "code": "ETHN 1200D",
-      "name": "ETHN 1200D"
+      "name": "Latinx Literature"
     },
     {
       "code": "COLT 0710I",
-      "name": "COLT 0710I"
+      "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
     },
     {
       "code": "HIST 0233",
-      "name": "HIST 0233"
+      "name": "Colonial Latin America"
     },
     {
       "code": "HIST 1977I",
-      "name": "HIST 1977I"
+      "name": "Gender, Race, and Medicine in the Americas"
     }
   ]
 }

@@ -2,6 +2,7 @@
   "concentration": "German Studies",
   "slug": "gmst",
   "url": "https://bulletin.brown.edu/the-college/concentrations/gmst/",
+  "description": "German Studies exposes students to the language, literature, and culture of the German speaking areas of Central Europe.\u00a0 Concentrators combine intensive study of the German language with interdisciplinary studies by complementing courses from the German Studies core program with courses from other departments that deal with topics from the German cultural tradition. The quest for national identity that dominated German history in the nineteenth and twentieth centuries has been augmented by contemporary Germany's efforts to come to terms with its past and create new ways of dealing with diversity. Our curriculum therefore looks back at the German literary, cultural, and historical tradition, examining figures from Goethe or Christa Wolf to Marx, Freud, Nietzsche, and Heidegger, alongside the \u201ctexts\u201d of contemporary German media, including television, film, and music.\u00a0 Most concentrators study abroad for one or two semesters. Many students elect to complete a double concentration, combining German Studies with one of the above areas, or with fields such as International Relations or Economics, Comparative Literature or History of Art and Architecture.",
   "tracks": [
     {
       "id": "standard_program_for_the_a_b__degree",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "GRMN 0500F",
-              "name": "GRMN 0500F"
+              "name": "Twentieth-Century German Culture"
             }
           ],
           "count": null,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "GRMN 0600C",
-              "name": "GRMN 0600C"
+              "name": "From Faust to Freud: Germany\u2019s Long 19th Century"
             }
           ],
           "count": null,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "GRMN 0750B",
-              "name": "GRMN 0750B"
+              "name": "Tales of Vampirism and the Uncanny"
             }
           ],
           "count": null,
@@ -49,7 +50,7 @@
           "courses": [
             {
               "code": "GRMN 0750D",
-              "name": "GRMN 0750D"
+              "name": "The Poetics of Murder: Crime Fiction from Poe to the Present"
             }
           ],
           "count": null,
@@ -61,7 +62,7 @@
           "courses": [
             {
               "code": "GRMN 0750F",
-              "name": "GRMN 0750F"
+              "name": "Historical Crime Fiction"
             }
           ],
           "count": null,
@@ -73,7 +74,7 @@
           "courses": [
             {
               "code": "GRMN 1200C",
-              "name": "GRMN 1200C"
+              "name": "Nietzsche - The Good European"
             }
           ],
           "count": null,
@@ -85,7 +86,7 @@
           "courses": [
             {
               "code": "GRMN 1200D",
-              "name": "GRMN 1200D"
+              "name": "Repetition: Kierkegaard, Nietzsche and Freud"
             }
           ],
           "count": null,
@@ -97,7 +98,7 @@
           "courses": [
             {
               "code": "GRMN 1320A",
-              "name": "GRMN 1320A"
+              "name": "German Aesthetics from Lessing to Heidegger"
             }
           ],
           "count": null,
@@ -109,7 +110,7 @@
           "courses": [
             {
               "code": "GRMN 1320D",
-              "name": "GRMN 1320D"
+              "name": "Goethe"
             }
           ],
           "count": null,
@@ -121,7 +122,7 @@
           "courses": [
             {
               "code": "GRMN 1320E",
-              "name": "GRMN 1320E"
+              "name": "Classical German Literature:  Goethe und die Klassik"
             }
           ],
           "count": null,
@@ -133,7 +134,7 @@
           "courses": [
             {
               "code": "GRMN 1320F",
-              "name": "GRMN 1320F"
+              "name": "Eighteenth-Century German Aesthetics"
             }
           ],
           "count": null,
@@ -145,7 +146,7 @@
           "courses": [
             {
               "code": "GRMN 1320G",
-              "name": "GRMN 1320G"
+              "name": "Drama and Religion"
             }
           ],
           "count": null,
@@ -157,7 +158,7 @@
           "courses": [
             {
               "code": "GRMN 1320I",
-              "name": "GRMN 1320I"
+              "name": "What is an Image? German Aesthetics and Art from Lessing to Heidegger"
             }
           ],
           "count": null,
@@ -169,7 +170,7 @@
           "courses": [
             {
               "code": "GRMN 1320O",
-              "name": "GRMN 1320O"
+              "name": "Freudian Inspirations: Psychoanalysis and the Arts"
             }
           ],
           "count": null,
@@ -181,7 +182,7 @@
           "courses": [
             {
               "code": "GRMN 1320S",
-              "name": "GRMN 1320S"
+              "name": "Reading Friedrich H\u00f6lderlin; An Introduction"
             }
           ],
           "count": null,
@@ -193,7 +194,7 @@
           "courses": [
             {
               "code": "GRMN 1330A",
-              "name": "GRMN 1330A"
+              "name": "The Individual in the Age of Industry"
             }
           ],
           "count": null,
@@ -205,7 +206,7 @@
           "courses": [
             {
               "code": "GRMN 1340A",
-              "name": "GRMN 1340A"
+              "name": "Crime and Punishment- Introduction to German Mystery Texts and Films"
             }
           ],
           "count": null,
@@ -217,7 +218,7 @@
           "courses": [
             {
               "code": "GRMN 1340B",
-              "name": "GRMN 1340B"
+              "name": "Guilt Management: Postwar German Culture"
             }
           ],
           "count": null,
@@ -229,7 +230,7 @@
           "courses": [
             {
               "code": "GRMN 1340C",
-              "name": "GRMN 1340C"
+              "name": "Jahrhundertwende 1900"
             }
           ],
           "count": null,
@@ -241,7 +242,7 @@
           "courses": [
             {
               "code": "GRMN 1340D",
-              "name": "GRMN 1340D"
+              "name": "Modern German Prose, 1978-1998"
             }
           ],
           "count": null,
@@ -253,7 +254,7 @@
           "courses": [
             {
               "code": "GRMN 1340I",
-              "name": "GRMN 1340I"
+              "name": "Turn of the Century"
             }
           ],
           "count": null,
@@ -265,7 +266,7 @@
           "courses": [
             {
               "code": "GRMN 1340J",
-              "name": "GRMN 1340J"
+              "name": "The Works of Franz Kafka"
             }
           ],
           "count": null,
@@ -277,7 +278,7 @@
           "courses": [
             {
               "code": "GRMN 1340K",
-              "name": "GRMN 1340K"
+              "name": "Unmittelbar nach 1945: Literatur und Film in Deutschland"
             }
           ],
           "count": null,
@@ -289,7 +290,7 @@
           "courses": [
             {
               "code": "GRMN 1340L",
-              "name": "GRMN 1340L"
+              "name": "The Modern Period"
             }
           ],
           "count": null,
@@ -301,7 +302,7 @@
           "courses": [
             {
               "code": "GRMN 1340M",
-              "name": "GRMN 1340M"
+              "name": "Kafka's Writing"
             }
           ],
           "count": null,
@@ -313,7 +314,7 @@
           "courses": [
             {
               "code": "GRMN 1340Q",
-              "name": "GRMN 1340Q"
+              "name": "Vergangenheitsbew\u00e4ltigung: German Literature of Memory"
             }
           ],
           "count": null,
@@ -325,7 +326,7 @@
           "courses": [
             {
               "code": "GRMN 1440A",
-              "name": "GRMN 1440A"
+              "name": "Dada-Performance and Digital-Interactivity"
             }
           ],
           "count": null,
@@ -337,7 +338,7 @@
           "courses": [
             {
               "code": "GRMN 1440C",
-              "name": "GRMN 1440C"
+              "name": "Poetry and the Sublime"
             }
           ],
           "count": null,
@@ -349,7 +350,7 @@
           "courses": [
             {
               "code": "GRMN 1440D",
-              "name": "GRMN 1440D"
+              "name": "Modernity and Its Discontents: The German Novella"
             }
           ],
           "count": null,
@@ -361,7 +362,7 @@
           "courses": [
             {
               "code": "GRMN 1440E",
-              "name": "GRMN 1440E"
+              "name": "M\u00e4rchen"
             }
           ],
           "count": null,
@@ -373,7 +374,7 @@
           "courses": [
             {
               "code": "GRMN 1440F",
-              "name": "GRMN 1440F"
+              "name": "Lyric Poetry From the Middle Ages to the Present"
             }
           ],
           "count": null,
@@ -385,7 +386,7 @@
           "courses": [
             {
               "code": "GRMN 1440H",
-              "name": "GRMN 1440H"
+              "name": "Projections of America"
             }
           ],
           "count": null,
@@ -397,7 +398,7 @@
           "courses": [
             {
               "code": "GRMN 1440L",
-              "name": "GRMN 1440L"
+              "name": "German Lyric Poetry: From Goethe to Heine"
             }
           ],
           "count": null,
@@ -409,7 +410,7 @@
           "courses": [
             {
               "code": "GRMN 1440N",
-              "name": "GRMN 1440N"
+              "name": "Kunstmaerchen: the Literary Fairytale in the Nineteenth Century"
             }
           ],
           "count": null,
@@ -421,7 +422,7 @@
           "courses": [
             {
               "code": "GRMN 1440O",
-              "name": "GRMN 1440O"
+              "name": "Modern German Drama"
             }
           ],
           "count": null,
@@ -433,7 +434,7 @@
           "courses": [
             {
               "code": "GRMN 1440P",
-              "name": "GRMN 1440P"
+              "name": "Heroes, Failures and Other Peculiar Characters-The German Novel from Goethe to Kafka"
             }
           ],
           "count": null,
@@ -445,7 +446,7 @@
           "courses": [
             {
               "code": "GRMN 1440S",
-              "name": "GRMN 1440S"
+              "name": "Grimms' Fairy Tales"
             }
           ],
           "count": null,
@@ -457,7 +458,7 @@
           "courses": [
             {
               "code": "GRMN 1440X",
-              "name": "GRMN 1440X"
+              "name": "\"Stranger Things: The German Novella\""
             }
           ],
           "count": null,
@@ -469,7 +470,7 @@
           "courses": [
             {
               "code": "GRMN 1440Y",
-              "name": "GRMN 1440Y"
+              "name": "Return to Sender: Love, Letters, and Literature"
             }
           ],
           "count": null,
@@ -481,7 +482,7 @@
           "courses": [
             {
               "code": "GRMN 1441C",
-              "name": "GRMN 1441C"
+              "name": "Introduction to German Romantic Poetry"
             }
           ],
           "count": null,
@@ -493,7 +494,7 @@
           "courses": [
             {
               "code": "GRMN 1450A",
-              "name": "GRMN 1450A"
+              "name": "German-Jewish Literature"
             }
           ],
           "count": null,
@@ -505,7 +506,7 @@
           "courses": [
             {
               "code": "GRMN 1450B",
-              "name": "GRMN 1450B"
+              "name": "Die Berliner Republik und die Vergangenheit"
             }
           ],
           "count": null,
@@ -517,7 +518,7 @@
           "courses": [
             {
               "code": "GRMN 1450C",
-              "name": "GRMN 1450C"
+              "name": "National Socialism and the Shoah in Recent German Prose"
             }
           ],
           "count": null,
@@ -529,7 +530,7 @@
           "courses": [
             {
               "code": "GRMN 1450F",
-              "name": "GRMN 1450F"
+              "name": "20 Years After: The End of GDR and German Reunification"
             }
           ],
           "count": null,
@@ -541,7 +542,7 @@
           "courses": [
             {
               "code": "GRMN 1450G",
-              "name": "GRMN 1450G"
+              "name": "Love and Death"
             }
           ],
           "count": null,
@@ -553,7 +554,7 @@
           "courses": [
             {
               "code": "GRMN 1450H",
-              "name": "GRMN 1450H"
+              "name": "Images of America in German Literature"
             }
           ],
           "count": null,
@@ -565,7 +566,7 @@
           "courses": [
             {
               "code": "GRMN 1640C",
-              "name": "GRMN 1640C"
+              "name": "German National Cinema from 1917 to 1989, and Cold War Germanys in Film"
             }
           ],
           "count": null,
@@ -577,7 +578,7 @@
           "courses": [
             {
               "code": "GRMN 1660B",
-              "name": "GRMN 1660B"
+              "name": "Berlin: A City Strives to Reinvent Itself"
             }
           ],
           "count": null,
@@ -589,7 +590,7 @@
           "courses": [
             {
               "code": "GRMN 1660C",
-              "name": "GRMN 1660C"
+              "name": "German Culture in the Nazi Era"
             }
           ],
           "count": null,
@@ -601,7 +602,7 @@
           "courses": [
             {
               "code": "GRMN 1660F",
-              "name": "GRMN 1660F"
+              "name": "After Hitler: German Culture and Politics, 1945 to Present"
             }
           ],
           "count": null,
@@ -613,7 +614,7 @@
           "courses": [
             {
               "code": "GRMN 1660G",
-              "name": "GRMN 1660G"
+              "name": "Kafka"
             }
           ],
           "count": null,
@@ -625,7 +626,7 @@
           "courses": [
             {
               "code": "GRMN 1660H",
-              "name": "GRMN 1660H"
+              "name": "Literary Discourse of Minority Cultures in Germany"
             }
           ],
           "count": null,
@@ -637,7 +638,7 @@
           "courses": [
             {
               "code": "GRMN 1660I",
-              "name": "GRMN 1660I"
+              "name": "Literature and Other Media"
             }
           ],
           "count": null,
@@ -649,7 +650,7 @@
           "courses": [
             {
               "code": "GRMN 1660K",
-              "name": "GRMN 1660K"
+              "name": "Thinking After Philosophy"
             }
           ],
           "count": null,
@@ -661,7 +662,7 @@
           "courses": [
             {
               "code": "GRMN 1660L",
-              "name": "GRMN 1660L"
+              "name": "German Jews and Capitalist Markets in the Long Nineteenth Century"
             }
           ],
           "count": null,
@@ -673,7 +674,7 @@
           "courses": [
             {
               "code": "GRMN 1660P",
-              "name": "GRMN 1660P"
+              "name": "Having Beethoven Over in 1970"
             }
           ],
           "count": null,
@@ -685,7 +686,7 @@
           "courses": [
             {
               "code": "GRMN 1660Q",
-              "name": "GRMN 1660Q"
+              "name": "Film and the Third Reich"
             }
           ],
           "count": null,
@@ -697,7 +698,7 @@
           "courses": [
             {
               "code": "GRMN 1660R",
-              "name": "GRMN 1660R"
+              "name": "Freud"
             }
           ],
           "count": null,
@@ -709,7 +710,7 @@
           "courses": [
             {
               "code": "GRMN 1660S",
-              "name": "GRMN 1660S"
+              "name": "Mord und Medien. Krimis im intermedialen Vergleich"
             }
           ],
           "count": null,
@@ -721,7 +722,7 @@
           "courses": [
             {
               "code": "GRMN 1660T",
-              "name": "GRMN 1660T"
+              "name": "Germans/Jews, Deutsche (und) Juden"
             }
           ],
           "count": null,
@@ -733,7 +734,7 @@
           "courses": [
             {
               "code": "GRMN 1660U",
-              "name": "GRMN 1660U"
+              "name": "What was Socialism?  From Marx to \"Goodbye Lenin\""
             }
           ],
           "count": null,
@@ -745,7 +746,7 @@
           "courses": [
             {
               "code": "GRMN 1660V",
-              "name": "GRMN 1660V"
+              "name": "Nietzsche"
             }
           ],
           "count": null,
@@ -757,7 +758,7 @@
           "courses": [
             {
               "code": "GRMN 1660W",
-              "name": "GRMN 1660W"
+              "name": "Early German Film and Film Theory"
             }
           ],
           "count": null,
@@ -769,7 +770,7 @@
           "courses": [
             {
               "code": "GRMN 1661A",
-              "name": "GRMN 1661A"
+              "name": "Race and Classical German Thought"
             }
           ],
           "count": null,
@@ -781,7 +782,7 @@
           "courses": [
             {
               "code": "GRMN 1661E",
-              "name": "GRMN 1661E"
+              "name": "Germany, Alcohol, and the Global Nineteenth Century"
             }
           ],
           "count": null,
@@ -793,7 +794,7 @@
           "courses": [
             {
               "code": "GRMN 1900A",
-              "name": "GRMN 1900A"
+              "name": "The Weimar Republic (1918-1933)"
             }
           ],
           "count": null,
@@ -805,7 +806,7 @@
           "courses": [
             {
               "code": "GRMN 1900B",
-              "name": "GRMN 1900B"
+              "name": "Sites of Memory"
             }
           ],
           "count": null,
@@ -817,7 +818,7 @@
           "courses": [
             {
               "code": "GRMN 1900C",
-              "name": "GRMN 1900C"
+              "name": "Cultural Industry and the Aesthetics of the Spectacle"
             }
           ],
           "count": null,
@@ -829,7 +830,7 @@
           "courses": [
             {
               "code": "GRMN 1900D",
-              "name": "GRMN 1900D"
+              "name": "Fleeing the Nazis: German Culture in Exile, 1933-1945"
             }
           ],
           "count": null,
@@ -841,7 +842,7 @@
           "courses": [
             {
               "code": "GRMN 1900E",
-              "name": "GRMN 1900E"
+              "name": "Made in Germany - A Cultural History of Science, Technology, and Engineering"
             }
           ],
           "count": null,
@@ -853,7 +854,7 @@
           "courses": [
             {
               "code": "GRMN 2320B",
-              "name": "GRMN 2320B"
+              "name": "The Works of Heinrich Kleist"
             }
           ],
           "count": null,
@@ -865,7 +866,7 @@
           "courses": [
             {
               "code": "GRMN 2320C",
-              "name": "GRMN 2320C"
+              "name": "Enlightened Laughter"
             }
           ],
           "count": null,
@@ -877,7 +878,7 @@
           "courses": [
             {
               "code": "GRMN 2320D",
-              "name": "GRMN 2320D"
+              "name": "Kafka in English"
             }
           ],
           "count": null,
@@ -889,7 +890,7 @@
           "courses": [
             {
               "code": "GRMN 2320E",
-              "name": "GRMN 2320E"
+              "name": "Political Romanticism"
             }
           ],
           "count": null,
@@ -901,7 +902,7 @@
           "courses": [
             {
               "code": "GRMN 2330A",
-              "name": "GRMN 2330A"
+              "name": "Vision and Narration in the 19th Century"
             }
           ],
           "count": null,
@@ -913,7 +914,7 @@
           "courses": [
             {
               "code": "GRMN 2340A",
-              "name": "GRMN 2340A"
+              "name": "German Literature 1968-1989"
             }
           ],
           "count": null,
@@ -925,7 +926,7 @@
           "courses": [
             {
               "code": "GRMN 2340B",
-              "name": "GRMN 2340B"
+              "name": "Poetik der AutorInnen"
             }
           ],
           "count": null,
@@ -937,7 +938,7 @@
           "courses": [
             {
               "code": "GRMN 2340C",
-              "name": "GRMN 2340C"
+              "name": "German Modernism"
             }
           ],
           "count": null,
@@ -949,7 +950,7 @@
           "courses": [
             {
               "code": "GRMN 2460A",
-              "name": "GRMN 2460A"
+              "name": "German Literature 1945-1967"
             }
           ],
           "count": null,
@@ -961,7 +962,7 @@
           "courses": [
             {
               "code": "GRMN 2460C",
-              "name": "GRMN 2460C"
+              "name": "Literature of the German Democratic Republic"
             }
           ],
           "count": null,
@@ -973,7 +974,7 @@
           "courses": [
             {
               "code": "GRMN 2460D",
-              "name": "GRMN 2460D"
+              "name": "Thomas Mann: Die Romane"
             }
           ],
           "count": null,
@@ -985,7 +986,7 @@
           "courses": [
             {
               "code": "GRMN 2660A",
-              "name": "GRMN 2660A"
+              "name": "On the Sublime"
             }
           ],
           "count": null,
@@ -997,7 +998,7 @@
           "courses": [
             {
               "code": "GRMN 2660C",
-              "name": "GRMN 2660C"
+              "name": "Socialism and the Intellectuals"
             }
           ],
           "count": null,
@@ -1009,7 +1010,7 @@
           "courses": [
             {
               "code": "GRMN 2660G",
-              "name": "GRMN 2660G"
+              "name": "Reading (in) German Literature"
             }
           ],
           "count": null,
@@ -1021,7 +1022,7 @@
           "courses": [
             {
               "code": "GRMN 2660H",
-              "name": "GRMN 2660H"
+              "name": "Historicism, Photography, Film"
             }
           ],
           "count": null,
@@ -1033,7 +1034,7 @@
           "courses": [
             {
               "code": "GRMN 2660I",
-              "name": "GRMN 2660I"
+              "name": "Torture in European Literature and Aesthetic Theory"
             }
           ],
           "count": null,
@@ -1045,7 +1046,7 @@
           "courses": [
             {
               "code": "GRMN 2660O",
-              "name": "GRMN 2660O"
+              "name": "From Hegel to Nietzsche:  Literature as/and Philosophy"
             }
           ],
           "count": null,
@@ -1057,7 +1058,7 @@
           "courses": [
             {
               "code": "GRMN 2660P",
-              "name": "GRMN 2660P"
+              "name": "The Essay:  Theory and Praxis"
             }
           ],
           "count": null,
@@ -1069,7 +1070,7 @@
           "courses": [
             {
               "code": "GRMN 2661A",
-              "name": "GRMN 2661A"
+              "name": "\u201cOther Worlds\u201d"
             }
           ],
           "count": null,
@@ -1081,7 +1082,7 @@
           "courses": [
             {
               "code": "GRMN 2661F",
-              "name": "GRMN 2661F"
+              "name": "Textual Border Crossings: Translational Literature"
             }
           ],
           "count": null,
@@ -1093,7 +1094,7 @@
           "courses": [
             {
               "code": "GRMN 2661J",
-              "name": "GRMN 2661J"
+              "name": "Art, Philosophy, and Truth: A Close Reading of Benjamin's Essay on Goethe's Elective Affinities"
             }
           ],
           "count": null,
@@ -1105,7 +1106,7 @@
           "courses": [
             {
               "code": "GRMN 2661Q",
-              "name": "GRMN 2661Q"
+              "name": "Goethe\u2019s Faust"
             }
           ],
           "count": null,
@@ -1117,7 +1118,7 @@
           "courses": [
             {
               "code": "GRMN 2662A",
-              "name": "GRMN 2662A"
+              "name": "Theories of Poetry and the Poetic"
             }
           ],
           "count": null,
@@ -1129,651 +1130,651 @@
           "type": "required",
           "course": {
             "code": "GRMN 0500F",
-            "name": "GRMN 0500F"
+            "name": "Twentieth-Century German Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0600C",
-            "name": "GRMN 0600C"
+            "name": "From Faust to Freud: Germany\u2019s Long 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750B",
-            "name": "GRMN 0750B"
+            "name": "Tales of Vampirism and the Uncanny"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750D",
-            "name": "GRMN 0750D"
+            "name": "The Poetics of Murder: Crime Fiction from Poe to the Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750F",
-            "name": "GRMN 0750F"
+            "name": "Historical Crime Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1200C",
-            "name": "GRMN 1200C"
+            "name": "Nietzsche - The Good European"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1200D",
-            "name": "GRMN 1200D"
+            "name": "Repetition: Kierkegaard, Nietzsche and Freud"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320A",
-            "name": "GRMN 1320A"
+            "name": "German Aesthetics from Lessing to Heidegger"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320D",
-            "name": "GRMN 1320D"
+            "name": "Goethe"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320E",
-            "name": "GRMN 1320E"
+            "name": "Classical German Literature:  Goethe und die Klassik"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320F",
-            "name": "GRMN 1320F"
+            "name": "Eighteenth-Century German Aesthetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320G",
-            "name": "GRMN 1320G"
+            "name": "Drama and Religion"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320I",
-            "name": "GRMN 1320I"
+            "name": "What is an Image? German Aesthetics and Art from Lessing to Heidegger"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320O",
-            "name": "GRMN 1320O"
+            "name": "Freudian Inspirations: Psychoanalysis and the Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320S",
-            "name": "GRMN 1320S"
+            "name": "Reading Friedrich H\u00f6lderlin; An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1330A",
-            "name": "GRMN 1330A"
+            "name": "The Individual in the Age of Industry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340A",
-            "name": "GRMN 1340A"
+            "name": "Crime and Punishment- Introduction to German Mystery Texts and Films"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340B",
-            "name": "GRMN 1340B"
+            "name": "Guilt Management: Postwar German Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340C",
-            "name": "GRMN 1340C"
+            "name": "Jahrhundertwende 1900"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340D",
-            "name": "GRMN 1340D"
+            "name": "Modern German Prose, 1978-1998"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340I",
-            "name": "GRMN 1340I"
+            "name": "Turn of the Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340J",
-            "name": "GRMN 1340J"
+            "name": "The Works of Franz Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340K",
-            "name": "GRMN 1340K"
+            "name": "Unmittelbar nach 1945: Literatur und Film in Deutschland"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340L",
-            "name": "GRMN 1340L"
+            "name": "The Modern Period"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340M",
-            "name": "GRMN 1340M"
+            "name": "Kafka's Writing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340Q",
-            "name": "GRMN 1340Q"
+            "name": "Vergangenheitsbew\u00e4ltigung: German Literature of Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440A",
-            "name": "GRMN 1440A"
+            "name": "Dada-Performance and Digital-Interactivity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440C",
-            "name": "GRMN 1440C"
+            "name": "Poetry and the Sublime"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440D",
-            "name": "GRMN 1440D"
+            "name": "Modernity and Its Discontents: The German Novella"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440E",
-            "name": "GRMN 1440E"
+            "name": "M\u00e4rchen"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440F",
-            "name": "GRMN 1440F"
+            "name": "Lyric Poetry From the Middle Ages to the Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440H",
-            "name": "GRMN 1440H"
+            "name": "Projections of America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440L",
-            "name": "GRMN 1440L"
+            "name": "German Lyric Poetry: From Goethe to Heine"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440N",
-            "name": "GRMN 1440N"
+            "name": "Kunstmaerchen: the Literary Fairytale in the Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440O",
-            "name": "GRMN 1440O"
+            "name": "Modern German Drama"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440P",
-            "name": "GRMN 1440P"
+            "name": "Heroes, Failures and Other Peculiar Characters-The German Novel from Goethe to Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440S",
-            "name": "GRMN 1440S"
+            "name": "Grimms' Fairy Tales"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440X",
-            "name": "GRMN 1440X"
+            "name": "\"Stranger Things: The German Novella\""
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440Y",
-            "name": "GRMN 1440Y"
+            "name": "Return to Sender: Love, Letters, and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1441C",
-            "name": "GRMN 1441C"
+            "name": "Introduction to German Romantic Poetry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450A",
-            "name": "GRMN 1450A"
+            "name": "German-Jewish Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450B",
-            "name": "GRMN 1450B"
+            "name": "Die Berliner Republik und die Vergangenheit"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450C",
-            "name": "GRMN 1450C"
+            "name": "National Socialism and the Shoah in Recent German Prose"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450F",
-            "name": "GRMN 1450F"
+            "name": "20 Years After: The End of GDR and German Reunification"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450G",
-            "name": "GRMN 1450G"
+            "name": "Love and Death"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450H",
-            "name": "GRMN 1450H"
+            "name": "Images of America in German Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1640C",
-            "name": "GRMN 1640C"
+            "name": "German National Cinema from 1917 to 1989, and Cold War Germanys in Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660B",
-            "name": "GRMN 1660B"
+            "name": "Berlin: A City Strives to Reinvent Itself"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660C",
-            "name": "GRMN 1660C"
+            "name": "German Culture in the Nazi Era"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660F",
-            "name": "GRMN 1660F"
+            "name": "After Hitler: German Culture and Politics, 1945 to Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660G",
-            "name": "GRMN 1660G"
+            "name": "Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660H",
-            "name": "GRMN 1660H"
+            "name": "Literary Discourse of Minority Cultures in Germany"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660I",
-            "name": "GRMN 1660I"
+            "name": "Literature and Other Media"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660K",
-            "name": "GRMN 1660K"
+            "name": "Thinking After Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660L",
-            "name": "GRMN 1660L"
+            "name": "German Jews and Capitalist Markets in the Long Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660P",
-            "name": "GRMN 1660P"
+            "name": "Having Beethoven Over in 1970"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660Q",
-            "name": "GRMN 1660Q"
+            "name": "Film and the Third Reich"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660R",
-            "name": "GRMN 1660R"
+            "name": "Freud"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660S",
-            "name": "GRMN 1660S"
+            "name": "Mord und Medien. Krimis im intermedialen Vergleich"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660T",
-            "name": "GRMN 1660T"
+            "name": "Germans/Jews, Deutsche (und) Juden"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660U",
-            "name": "GRMN 1660U"
+            "name": "What was Socialism?  From Marx to \"Goodbye Lenin\""
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660V",
-            "name": "GRMN 1660V"
+            "name": "Nietzsche"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660W",
-            "name": "GRMN 1660W"
+            "name": "Early German Film and Film Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1661A",
-            "name": "GRMN 1661A"
+            "name": "Race and Classical German Thought"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1661E",
-            "name": "GRMN 1661E"
+            "name": "Germany, Alcohol, and the Global Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900A",
-            "name": "GRMN 1900A"
+            "name": "The Weimar Republic (1918-1933)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900B",
-            "name": "GRMN 1900B"
+            "name": "Sites of Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900C",
-            "name": "GRMN 1900C"
+            "name": "Cultural Industry and the Aesthetics of the Spectacle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900D",
-            "name": "GRMN 1900D"
+            "name": "Fleeing the Nazis: German Culture in Exile, 1933-1945"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900E",
-            "name": "GRMN 1900E"
+            "name": "Made in Germany - A Cultural History of Science, Technology, and Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320B",
-            "name": "GRMN 2320B"
+            "name": "The Works of Heinrich Kleist"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320C",
-            "name": "GRMN 2320C"
+            "name": "Enlightened Laughter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320D",
-            "name": "GRMN 2320D"
+            "name": "Kafka in English"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320E",
-            "name": "GRMN 2320E"
+            "name": "Political Romanticism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2330A",
-            "name": "GRMN 2330A"
+            "name": "Vision and Narration in the 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340A",
-            "name": "GRMN 2340A"
+            "name": "German Literature 1968-1989"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340B",
-            "name": "GRMN 2340B"
+            "name": "Poetik der AutorInnen"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340C",
-            "name": "GRMN 2340C"
+            "name": "German Modernism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460A",
-            "name": "GRMN 2460A"
+            "name": "German Literature 1945-1967"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460C",
-            "name": "GRMN 2460C"
+            "name": "Literature of the German Democratic Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460D",
-            "name": "GRMN 2460D"
+            "name": "Thomas Mann: Die Romane"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660A",
-            "name": "GRMN 2660A"
+            "name": "On the Sublime"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660C",
-            "name": "GRMN 2660C"
+            "name": "Socialism and the Intellectuals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660G",
-            "name": "GRMN 2660G"
+            "name": "Reading (in) German Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660H",
-            "name": "GRMN 2660H"
+            "name": "Historicism, Photography, Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660I",
-            "name": "GRMN 2660I"
+            "name": "Torture in European Literature and Aesthetic Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660O",
-            "name": "GRMN 2660O"
+            "name": "From Hegel to Nietzsche:  Literature as/and Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660P",
-            "name": "GRMN 2660P"
+            "name": "The Essay:  Theory and Praxis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661A",
-            "name": "GRMN 2661A"
+            "name": "\u201cOther Worlds\u201d"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661F",
-            "name": "GRMN 2661F"
+            "name": "Textual Border Crossings: Translational Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661J",
-            "name": "GRMN 2661J"
+            "name": "Art, Philosophy, and Truth: A Close Reading of Benjamin's Essay on Goethe's Elective Affinities"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661Q",
-            "name": "GRMN 2661Q"
+            "name": "Goethe\u2019s Faust"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2662A",
-            "name": "GRMN 2662A"
+            "name": "Theories of Poetry and the Poetic"
           }
         }
       ],
@@ -1789,7 +1790,7 @@
           "courses": [
             {
               "code": "GRMN 0500F",
-              "name": "GRMN 0500F"
+              "name": "Twentieth-Century German Culture"
             }
           ],
           "count": null,
@@ -1801,7 +1802,7 @@
           "courses": [
             {
               "code": "GRMN 0600C",
-              "name": "GRMN 0600C"
+              "name": "From Faust to Freud: Germany\u2019s Long 19th Century"
             }
           ],
           "count": null,
@@ -1813,7 +1814,7 @@
           "courses": [
             {
               "code": "GRMN 0750B",
-              "name": "GRMN 0750B"
+              "name": "Tales of Vampirism and the Uncanny"
             }
           ],
           "count": null,
@@ -1825,7 +1826,7 @@
           "courses": [
             {
               "code": "GRMN 0750D",
-              "name": "GRMN 0750D"
+              "name": "The Poetics of Murder: Crime Fiction from Poe to the Present"
             }
           ],
           "count": null,
@@ -1837,7 +1838,7 @@
           "courses": [
             {
               "code": "GRMN 0750F",
-              "name": "GRMN 0750F"
+              "name": "Historical Crime Fiction"
             }
           ],
           "count": null,
@@ -1849,7 +1850,7 @@
           "courses": [
             {
               "code": "GRMN 1200C",
-              "name": "GRMN 1200C"
+              "name": "Nietzsche - The Good European"
             }
           ],
           "count": null,
@@ -1861,7 +1862,7 @@
           "courses": [
             {
               "code": "GRMN 1200D",
-              "name": "GRMN 1200D"
+              "name": "Repetition: Kierkegaard, Nietzsche and Freud"
             }
           ],
           "count": null,
@@ -1873,7 +1874,7 @@
           "courses": [
             {
               "code": "GRMN 1320A",
-              "name": "GRMN 1320A"
+              "name": "German Aesthetics from Lessing to Heidegger"
             }
           ],
           "count": null,
@@ -1885,7 +1886,7 @@
           "courses": [
             {
               "code": "GRMN 1320D",
-              "name": "GRMN 1320D"
+              "name": "Goethe"
             }
           ],
           "count": null,
@@ -1897,7 +1898,7 @@
           "courses": [
             {
               "code": "GRMN 1320E",
-              "name": "GRMN 1320E"
+              "name": "Classical German Literature:  Goethe und die Klassik"
             }
           ],
           "count": null,
@@ -1909,7 +1910,7 @@
           "courses": [
             {
               "code": "GRMN 1320F",
-              "name": "GRMN 1320F"
+              "name": "Eighteenth-Century German Aesthetics"
             }
           ],
           "count": null,
@@ -1921,7 +1922,7 @@
           "courses": [
             {
               "code": "GRMN 1320G",
-              "name": "GRMN 1320G"
+              "name": "Drama and Religion"
             }
           ],
           "count": null,
@@ -1933,7 +1934,7 @@
           "courses": [
             {
               "code": "GRMN 1320I",
-              "name": "GRMN 1320I"
+              "name": "What is an Image? German Aesthetics and Art from Lessing to Heidegger"
             }
           ],
           "count": null,
@@ -1945,7 +1946,7 @@
           "courses": [
             {
               "code": "GRMN 1320O",
-              "name": "GRMN 1320O"
+              "name": "Freudian Inspirations: Psychoanalysis and the Arts"
             }
           ],
           "count": null,
@@ -1957,7 +1958,7 @@
           "courses": [
             {
               "code": "GRMN 1320S",
-              "name": "GRMN 1320S"
+              "name": "Reading Friedrich H\u00f6lderlin; An Introduction"
             }
           ],
           "count": null,
@@ -1969,7 +1970,7 @@
           "courses": [
             {
               "code": "GRMN 1330A",
-              "name": "GRMN 1330A"
+              "name": "The Individual in the Age of Industry"
             }
           ],
           "count": null,
@@ -1981,7 +1982,7 @@
           "courses": [
             {
               "code": "GRMN 1340A",
-              "name": "GRMN 1340A"
+              "name": "Crime and Punishment- Introduction to German Mystery Texts and Films"
             }
           ],
           "count": null,
@@ -1993,7 +1994,7 @@
           "courses": [
             {
               "code": "GRMN 1340B",
-              "name": "GRMN 1340B"
+              "name": "Guilt Management: Postwar German Culture"
             }
           ],
           "count": null,
@@ -2005,7 +2006,7 @@
           "courses": [
             {
               "code": "GRMN 1340C",
-              "name": "GRMN 1340C"
+              "name": "Jahrhundertwende 1900"
             }
           ],
           "count": null,
@@ -2017,7 +2018,7 @@
           "courses": [
             {
               "code": "GRMN 1340D",
-              "name": "GRMN 1340D"
+              "name": "Modern German Prose, 1978-1998"
             }
           ],
           "count": null,
@@ -2029,7 +2030,7 @@
           "courses": [
             {
               "code": "GRMN 1340I",
-              "name": "GRMN 1340I"
+              "name": "Turn of the Century"
             }
           ],
           "count": null,
@@ -2041,7 +2042,7 @@
           "courses": [
             {
               "code": "GRMN 1340J",
-              "name": "GRMN 1340J"
+              "name": "The Works of Franz Kafka"
             }
           ],
           "count": null,
@@ -2053,7 +2054,7 @@
           "courses": [
             {
               "code": "GRMN 1340K",
-              "name": "GRMN 1340K"
+              "name": "Unmittelbar nach 1945: Literatur und Film in Deutschland"
             }
           ],
           "count": null,
@@ -2065,7 +2066,7 @@
           "courses": [
             {
               "code": "GRMN 1340L",
-              "name": "GRMN 1340L"
+              "name": "The Modern Period"
             }
           ],
           "count": null,
@@ -2077,7 +2078,7 @@
           "courses": [
             {
               "code": "GRMN 1340M",
-              "name": "GRMN 1340M"
+              "name": "Kafka's Writing"
             }
           ],
           "count": null,
@@ -2089,7 +2090,7 @@
           "courses": [
             {
               "code": "GRMN 1340Q",
-              "name": "GRMN 1340Q"
+              "name": "Vergangenheitsbew\u00e4ltigung: German Literature of Memory"
             }
           ],
           "count": null,
@@ -2101,7 +2102,7 @@
           "courses": [
             {
               "code": "GRMN 1440A",
-              "name": "GRMN 1440A"
+              "name": "Dada-Performance and Digital-Interactivity"
             }
           ],
           "count": null,
@@ -2113,7 +2114,7 @@
           "courses": [
             {
               "code": "GRMN 1440C",
-              "name": "GRMN 1440C"
+              "name": "Poetry and the Sublime"
             }
           ],
           "count": null,
@@ -2125,7 +2126,7 @@
           "courses": [
             {
               "code": "GRMN 1440D",
-              "name": "GRMN 1440D"
+              "name": "Modernity and Its Discontents: The German Novella"
             }
           ],
           "count": null,
@@ -2137,7 +2138,7 @@
           "courses": [
             {
               "code": "GRMN 1440E",
-              "name": "GRMN 1440E"
+              "name": "M\u00e4rchen"
             }
           ],
           "count": null,
@@ -2149,7 +2150,7 @@
           "courses": [
             {
               "code": "GRMN 1440F",
-              "name": "GRMN 1440F"
+              "name": "Lyric Poetry From the Middle Ages to the Present"
             }
           ],
           "count": null,
@@ -2161,7 +2162,7 @@
           "courses": [
             {
               "code": "GRMN 1440H",
-              "name": "GRMN 1440H"
+              "name": "Projections of America"
             }
           ],
           "count": null,
@@ -2173,7 +2174,7 @@
           "courses": [
             {
               "code": "GRMN 1440L",
-              "name": "GRMN 1440L"
+              "name": "German Lyric Poetry: From Goethe to Heine"
             }
           ],
           "count": null,
@@ -2185,7 +2186,7 @@
           "courses": [
             {
               "code": "GRMN 1440N",
-              "name": "GRMN 1440N"
+              "name": "Kunstmaerchen: the Literary Fairytale in the Nineteenth Century"
             }
           ],
           "count": null,
@@ -2197,7 +2198,7 @@
           "courses": [
             {
               "code": "GRMN 1440O",
-              "name": "GRMN 1440O"
+              "name": "Modern German Drama"
             }
           ],
           "count": null,
@@ -2209,7 +2210,7 @@
           "courses": [
             {
               "code": "GRMN 1440P",
-              "name": "GRMN 1440P"
+              "name": "Heroes, Failures and Other Peculiar Characters-The German Novel from Goethe to Kafka"
             }
           ],
           "count": null,
@@ -2221,7 +2222,7 @@
           "courses": [
             {
               "code": "GRMN 1440S",
-              "name": "GRMN 1440S"
+              "name": "Grimms' Fairy Tales"
             }
           ],
           "count": null,
@@ -2233,7 +2234,7 @@
           "courses": [
             {
               "code": "GRMN 1440X",
-              "name": "GRMN 1440X"
+              "name": "\"Stranger Things: The German Novella\""
             }
           ],
           "count": null,
@@ -2245,7 +2246,7 @@
           "courses": [
             {
               "code": "GRMN 1440Y",
-              "name": "GRMN 1440Y"
+              "name": "Return to Sender: Love, Letters, and Literature"
             }
           ],
           "count": null,
@@ -2257,7 +2258,7 @@
           "courses": [
             {
               "code": "GRMN 1441C",
-              "name": "GRMN 1441C"
+              "name": "Introduction to German Romantic Poetry"
             }
           ],
           "count": null,
@@ -2269,7 +2270,7 @@
           "courses": [
             {
               "code": "GRMN 1450A",
-              "name": "GRMN 1450A"
+              "name": "German-Jewish Literature"
             }
           ],
           "count": null,
@@ -2281,7 +2282,7 @@
           "courses": [
             {
               "code": "GRMN 1450B",
-              "name": "GRMN 1450B"
+              "name": "Die Berliner Republik und die Vergangenheit"
             }
           ],
           "count": null,
@@ -2293,7 +2294,7 @@
           "courses": [
             {
               "code": "GRMN 1450C",
-              "name": "GRMN 1450C"
+              "name": "National Socialism and the Shoah in Recent German Prose"
             }
           ],
           "count": null,
@@ -2305,7 +2306,7 @@
           "courses": [
             {
               "code": "GRMN 1450F",
-              "name": "GRMN 1450F"
+              "name": "20 Years After: The End of GDR and German Reunification"
             }
           ],
           "count": null,
@@ -2317,7 +2318,7 @@
           "courses": [
             {
               "code": "GRMN 1450G",
-              "name": "GRMN 1450G"
+              "name": "Love and Death"
             }
           ],
           "count": null,
@@ -2329,7 +2330,7 @@
           "courses": [
             {
               "code": "GRMN 1450H",
-              "name": "GRMN 1450H"
+              "name": "Images of America in German Literature"
             }
           ],
           "count": null,
@@ -2341,7 +2342,7 @@
           "courses": [
             {
               "code": "GRMN 1640C",
-              "name": "GRMN 1640C"
+              "name": "German National Cinema from 1917 to 1989, and Cold War Germanys in Film"
             }
           ],
           "count": null,
@@ -2353,7 +2354,7 @@
           "courses": [
             {
               "code": "GRMN 1660B",
-              "name": "GRMN 1660B"
+              "name": "Berlin: A City Strives to Reinvent Itself"
             }
           ],
           "count": null,
@@ -2365,7 +2366,7 @@
           "courses": [
             {
               "code": "GRMN 1660C",
-              "name": "GRMN 1660C"
+              "name": "German Culture in the Nazi Era"
             }
           ],
           "count": null,
@@ -2377,7 +2378,7 @@
           "courses": [
             {
               "code": "GRMN 1660F",
-              "name": "GRMN 1660F"
+              "name": "After Hitler: German Culture and Politics, 1945 to Present"
             }
           ],
           "count": null,
@@ -2389,7 +2390,7 @@
           "courses": [
             {
               "code": "GRMN 1660G",
-              "name": "GRMN 1660G"
+              "name": "Kafka"
             }
           ],
           "count": null,
@@ -2401,7 +2402,7 @@
           "courses": [
             {
               "code": "GRMN 1660H",
-              "name": "GRMN 1660H"
+              "name": "Literary Discourse of Minority Cultures in Germany"
             }
           ],
           "count": null,
@@ -2413,7 +2414,7 @@
           "courses": [
             {
               "code": "GRMN 1660I",
-              "name": "GRMN 1660I"
+              "name": "Literature and Other Media"
             }
           ],
           "count": null,
@@ -2425,7 +2426,7 @@
           "courses": [
             {
               "code": "GRMN 1660K",
-              "name": "GRMN 1660K"
+              "name": "Thinking After Philosophy"
             }
           ],
           "count": null,
@@ -2437,7 +2438,7 @@
           "courses": [
             {
               "code": "GRMN 1660L",
-              "name": "GRMN 1660L"
+              "name": "German Jews and Capitalist Markets in the Long Nineteenth Century"
             }
           ],
           "count": null,
@@ -2449,7 +2450,7 @@
           "courses": [
             {
               "code": "GRMN 1660P",
-              "name": "GRMN 1660P"
+              "name": "Having Beethoven Over in 1970"
             }
           ],
           "count": null,
@@ -2461,7 +2462,7 @@
           "courses": [
             {
               "code": "GRMN 1660Q",
-              "name": "GRMN 1660Q"
+              "name": "Film and the Third Reich"
             }
           ],
           "count": null,
@@ -2473,7 +2474,7 @@
           "courses": [
             {
               "code": "GRMN 1660R",
-              "name": "GRMN 1660R"
+              "name": "Freud"
             }
           ],
           "count": null,
@@ -2485,7 +2486,7 @@
           "courses": [
             {
               "code": "GRMN 1660S",
-              "name": "GRMN 1660S"
+              "name": "Mord und Medien. Krimis im intermedialen Vergleich"
             }
           ],
           "count": null,
@@ -2497,7 +2498,7 @@
           "courses": [
             {
               "code": "GRMN 1660T",
-              "name": "GRMN 1660T"
+              "name": "Germans/Jews, Deutsche (und) Juden"
             }
           ],
           "count": null,
@@ -2509,7 +2510,7 @@
           "courses": [
             {
               "code": "GRMN 1660U",
-              "name": "GRMN 1660U"
+              "name": "What was Socialism?  From Marx to \"Goodbye Lenin\""
             }
           ],
           "count": null,
@@ -2521,7 +2522,7 @@
           "courses": [
             {
               "code": "GRMN 1660V",
-              "name": "GRMN 1660V"
+              "name": "Nietzsche"
             }
           ],
           "count": null,
@@ -2533,7 +2534,7 @@
           "courses": [
             {
               "code": "GRMN 1660W",
-              "name": "GRMN 1660W"
+              "name": "Early German Film and Film Theory"
             }
           ],
           "count": null,
@@ -2545,7 +2546,7 @@
           "courses": [
             {
               "code": "GRMN 1661A",
-              "name": "GRMN 1661A"
+              "name": "Race and Classical German Thought"
             }
           ],
           "count": null,
@@ -2557,7 +2558,7 @@
           "courses": [
             {
               "code": "GRMN 1661E",
-              "name": "GRMN 1661E"
+              "name": "Germany, Alcohol, and the Global Nineteenth Century"
             }
           ],
           "count": null,
@@ -2569,7 +2570,7 @@
           "courses": [
             {
               "code": "GRMN 1900A",
-              "name": "GRMN 1900A"
+              "name": "The Weimar Republic (1918-1933)"
             }
           ],
           "count": null,
@@ -2581,7 +2582,7 @@
           "courses": [
             {
               "code": "GRMN 1900B",
-              "name": "GRMN 1900B"
+              "name": "Sites of Memory"
             }
           ],
           "count": null,
@@ -2593,7 +2594,7 @@
           "courses": [
             {
               "code": "GRMN 1900C",
-              "name": "GRMN 1900C"
+              "name": "Cultural Industry and the Aesthetics of the Spectacle"
             }
           ],
           "count": null,
@@ -2605,7 +2606,7 @@
           "courses": [
             {
               "code": "GRMN 1900D",
-              "name": "GRMN 1900D"
+              "name": "Fleeing the Nazis: German Culture in Exile, 1933-1945"
             }
           ],
           "count": null,
@@ -2617,7 +2618,7 @@
           "courses": [
             {
               "code": "GRMN 1900E",
-              "name": "GRMN 1900E"
+              "name": "Made in Germany - A Cultural History of Science, Technology, and Engineering"
             }
           ],
           "count": null,
@@ -2629,7 +2630,7 @@
           "courses": [
             {
               "code": "GRMN 2320B",
-              "name": "GRMN 2320B"
+              "name": "The Works of Heinrich Kleist"
             }
           ],
           "count": null,
@@ -2641,7 +2642,7 @@
           "courses": [
             {
               "code": "GRMN 2320C",
-              "name": "GRMN 2320C"
+              "name": "Enlightened Laughter"
             }
           ],
           "count": null,
@@ -2653,7 +2654,7 @@
           "courses": [
             {
               "code": "GRMN 2320D",
-              "name": "GRMN 2320D"
+              "name": "Kafka in English"
             }
           ],
           "count": null,
@@ -2665,7 +2666,7 @@
           "courses": [
             {
               "code": "GRMN 2320E",
-              "name": "GRMN 2320E"
+              "name": "Political Romanticism"
             }
           ],
           "count": null,
@@ -2677,7 +2678,7 @@
           "courses": [
             {
               "code": "GRMN 2330A",
-              "name": "GRMN 2330A"
+              "name": "Vision and Narration in the 19th Century"
             }
           ],
           "count": null,
@@ -2689,7 +2690,7 @@
           "courses": [
             {
               "code": "GRMN 2340A",
-              "name": "GRMN 2340A"
+              "name": "German Literature 1968-1989"
             }
           ],
           "count": null,
@@ -2701,7 +2702,7 @@
           "courses": [
             {
               "code": "GRMN 2340B",
-              "name": "GRMN 2340B"
+              "name": "Poetik der AutorInnen"
             }
           ],
           "count": null,
@@ -2713,7 +2714,7 @@
           "courses": [
             {
               "code": "GRMN 2340C",
-              "name": "GRMN 2340C"
+              "name": "German Modernism"
             }
           ],
           "count": null,
@@ -2725,7 +2726,7 @@
           "courses": [
             {
               "code": "GRMN 2460A",
-              "name": "GRMN 2460A"
+              "name": "German Literature 1945-1967"
             }
           ],
           "count": null,
@@ -2737,7 +2738,7 @@
           "courses": [
             {
               "code": "GRMN 2460C",
-              "name": "GRMN 2460C"
+              "name": "Literature of the German Democratic Republic"
             }
           ],
           "count": null,
@@ -2749,7 +2750,7 @@
           "courses": [
             {
               "code": "GRMN 2460D",
-              "name": "GRMN 2460D"
+              "name": "Thomas Mann: Die Romane"
             }
           ],
           "count": null,
@@ -2761,7 +2762,7 @@
           "courses": [
             {
               "code": "GRMN 2660A",
-              "name": "GRMN 2660A"
+              "name": "On the Sublime"
             }
           ],
           "count": null,
@@ -2773,7 +2774,7 @@
           "courses": [
             {
               "code": "GRMN 2660C",
-              "name": "GRMN 2660C"
+              "name": "Socialism and the Intellectuals"
             }
           ],
           "count": null,
@@ -2785,7 +2786,7 @@
           "courses": [
             {
               "code": "GRMN 2660G",
-              "name": "GRMN 2660G"
+              "name": "Reading (in) German Literature"
             }
           ],
           "count": null,
@@ -2797,7 +2798,7 @@
           "courses": [
             {
               "code": "GRMN 2660H",
-              "name": "GRMN 2660H"
+              "name": "Historicism, Photography, Film"
             }
           ],
           "count": null,
@@ -2809,7 +2810,7 @@
           "courses": [
             {
               "code": "GRMN 2660I",
-              "name": "GRMN 2660I"
+              "name": "Torture in European Literature and Aesthetic Theory"
             }
           ],
           "count": null,
@@ -2821,7 +2822,7 @@
           "courses": [
             {
               "code": "GRMN 2660O",
-              "name": "GRMN 2660O"
+              "name": "From Hegel to Nietzsche:  Literature as/and Philosophy"
             }
           ],
           "count": null,
@@ -2833,7 +2834,7 @@
           "courses": [
             {
               "code": "GRMN 2660P",
-              "name": "GRMN 2660P"
+              "name": "The Essay:  Theory and Praxis"
             }
           ],
           "count": null,
@@ -2845,7 +2846,7 @@
           "courses": [
             {
               "code": "GRMN 2661A",
-              "name": "GRMN 2661A"
+              "name": "\u201cOther Worlds\u201d"
             }
           ],
           "count": null,
@@ -2857,7 +2858,7 @@
           "courses": [
             {
               "code": "GRMN 2661F",
-              "name": "GRMN 2661F"
+              "name": "Textual Border Crossings: Translational Literature"
             }
           ],
           "count": null,
@@ -2869,7 +2870,7 @@
           "courses": [
             {
               "code": "GRMN 2661J",
-              "name": "GRMN 2661J"
+              "name": "Art, Philosophy, and Truth: A Close Reading of Benjamin's Essay on Goethe's Elective Affinities"
             }
           ],
           "count": null,
@@ -2881,7 +2882,7 @@
           "courses": [
             {
               "code": "GRMN 2661Q",
-              "name": "GRMN 2661Q"
+              "name": "Goethe\u2019s Faust"
             }
           ],
           "count": null,
@@ -2893,7 +2894,7 @@
           "courses": [
             {
               "code": "GRMN 2662A",
-              "name": "GRMN 2662A"
+              "name": "Theories of Poetry and the Poetic"
             }
           ],
           "count": null,
@@ -2905,651 +2906,651 @@
           "type": "required",
           "course": {
             "code": "GRMN 0500F",
-            "name": "GRMN 0500F"
+            "name": "Twentieth-Century German Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0600C",
-            "name": "GRMN 0600C"
+            "name": "From Faust to Freud: Germany\u2019s Long 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750B",
-            "name": "GRMN 0750B"
+            "name": "Tales of Vampirism and the Uncanny"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750D",
-            "name": "GRMN 0750D"
+            "name": "The Poetics of Murder: Crime Fiction from Poe to the Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 0750F",
-            "name": "GRMN 0750F"
+            "name": "Historical Crime Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1200C",
-            "name": "GRMN 1200C"
+            "name": "Nietzsche - The Good European"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1200D",
-            "name": "GRMN 1200D"
+            "name": "Repetition: Kierkegaard, Nietzsche and Freud"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320A",
-            "name": "GRMN 1320A"
+            "name": "German Aesthetics from Lessing to Heidegger"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320D",
-            "name": "GRMN 1320D"
+            "name": "Goethe"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320E",
-            "name": "GRMN 1320E"
+            "name": "Classical German Literature:  Goethe und die Klassik"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320F",
-            "name": "GRMN 1320F"
+            "name": "Eighteenth-Century German Aesthetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320G",
-            "name": "GRMN 1320G"
+            "name": "Drama and Religion"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320I",
-            "name": "GRMN 1320I"
+            "name": "What is an Image? German Aesthetics and Art from Lessing to Heidegger"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320O",
-            "name": "GRMN 1320O"
+            "name": "Freudian Inspirations: Psychoanalysis and the Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1320S",
-            "name": "GRMN 1320S"
+            "name": "Reading Friedrich H\u00f6lderlin; An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1330A",
-            "name": "GRMN 1330A"
+            "name": "The Individual in the Age of Industry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340A",
-            "name": "GRMN 1340A"
+            "name": "Crime and Punishment- Introduction to German Mystery Texts and Films"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340B",
-            "name": "GRMN 1340B"
+            "name": "Guilt Management: Postwar German Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340C",
-            "name": "GRMN 1340C"
+            "name": "Jahrhundertwende 1900"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340D",
-            "name": "GRMN 1340D"
+            "name": "Modern German Prose, 1978-1998"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340I",
-            "name": "GRMN 1340I"
+            "name": "Turn of the Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340J",
-            "name": "GRMN 1340J"
+            "name": "The Works of Franz Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340K",
-            "name": "GRMN 1340K"
+            "name": "Unmittelbar nach 1945: Literatur und Film in Deutschland"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340L",
-            "name": "GRMN 1340L"
+            "name": "The Modern Period"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340M",
-            "name": "GRMN 1340M"
+            "name": "Kafka's Writing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1340Q",
-            "name": "GRMN 1340Q"
+            "name": "Vergangenheitsbew\u00e4ltigung: German Literature of Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440A",
-            "name": "GRMN 1440A"
+            "name": "Dada-Performance and Digital-Interactivity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440C",
-            "name": "GRMN 1440C"
+            "name": "Poetry and the Sublime"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440D",
-            "name": "GRMN 1440D"
+            "name": "Modernity and Its Discontents: The German Novella"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440E",
-            "name": "GRMN 1440E"
+            "name": "M\u00e4rchen"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440F",
-            "name": "GRMN 1440F"
+            "name": "Lyric Poetry From the Middle Ages to the Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440H",
-            "name": "GRMN 1440H"
+            "name": "Projections of America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440L",
-            "name": "GRMN 1440L"
+            "name": "German Lyric Poetry: From Goethe to Heine"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440N",
-            "name": "GRMN 1440N"
+            "name": "Kunstmaerchen: the Literary Fairytale in the Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440O",
-            "name": "GRMN 1440O"
+            "name": "Modern German Drama"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440P",
-            "name": "GRMN 1440P"
+            "name": "Heroes, Failures and Other Peculiar Characters-The German Novel from Goethe to Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440S",
-            "name": "GRMN 1440S"
+            "name": "Grimms' Fairy Tales"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440X",
-            "name": "GRMN 1440X"
+            "name": "\"Stranger Things: The German Novella\""
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1440Y",
-            "name": "GRMN 1440Y"
+            "name": "Return to Sender: Love, Letters, and Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1441C",
-            "name": "GRMN 1441C"
+            "name": "Introduction to German Romantic Poetry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450A",
-            "name": "GRMN 1450A"
+            "name": "German-Jewish Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450B",
-            "name": "GRMN 1450B"
+            "name": "Die Berliner Republik und die Vergangenheit"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450C",
-            "name": "GRMN 1450C"
+            "name": "National Socialism and the Shoah in Recent German Prose"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450F",
-            "name": "GRMN 1450F"
+            "name": "20 Years After: The End of GDR and German Reunification"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450G",
-            "name": "GRMN 1450G"
+            "name": "Love and Death"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1450H",
-            "name": "GRMN 1450H"
+            "name": "Images of America in German Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1640C",
-            "name": "GRMN 1640C"
+            "name": "German National Cinema from 1917 to 1989, and Cold War Germanys in Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660B",
-            "name": "GRMN 1660B"
+            "name": "Berlin: A City Strives to Reinvent Itself"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660C",
-            "name": "GRMN 1660C"
+            "name": "German Culture in the Nazi Era"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660F",
-            "name": "GRMN 1660F"
+            "name": "After Hitler: German Culture and Politics, 1945 to Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660G",
-            "name": "GRMN 1660G"
+            "name": "Kafka"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660H",
-            "name": "GRMN 1660H"
+            "name": "Literary Discourse of Minority Cultures in Germany"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660I",
-            "name": "GRMN 1660I"
+            "name": "Literature and Other Media"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660K",
-            "name": "GRMN 1660K"
+            "name": "Thinking After Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660L",
-            "name": "GRMN 1660L"
+            "name": "German Jews and Capitalist Markets in the Long Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660P",
-            "name": "GRMN 1660P"
+            "name": "Having Beethoven Over in 1970"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660Q",
-            "name": "GRMN 1660Q"
+            "name": "Film and the Third Reich"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660R",
-            "name": "GRMN 1660R"
+            "name": "Freud"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660S",
-            "name": "GRMN 1660S"
+            "name": "Mord und Medien. Krimis im intermedialen Vergleich"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660T",
-            "name": "GRMN 1660T"
+            "name": "Germans/Jews, Deutsche (und) Juden"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660U",
-            "name": "GRMN 1660U"
+            "name": "What was Socialism?  From Marx to \"Goodbye Lenin\""
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660V",
-            "name": "GRMN 1660V"
+            "name": "Nietzsche"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1660W",
-            "name": "GRMN 1660W"
+            "name": "Early German Film and Film Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1661A",
-            "name": "GRMN 1661A"
+            "name": "Race and Classical German Thought"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1661E",
-            "name": "GRMN 1661E"
+            "name": "Germany, Alcohol, and the Global Nineteenth Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900A",
-            "name": "GRMN 1900A"
+            "name": "The Weimar Republic (1918-1933)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900B",
-            "name": "GRMN 1900B"
+            "name": "Sites of Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900C",
-            "name": "GRMN 1900C"
+            "name": "Cultural Industry and the Aesthetics of the Spectacle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900D",
-            "name": "GRMN 1900D"
+            "name": "Fleeing the Nazis: German Culture in Exile, 1933-1945"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 1900E",
-            "name": "GRMN 1900E"
+            "name": "Made in Germany - A Cultural History of Science, Technology, and Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320B",
-            "name": "GRMN 2320B"
+            "name": "The Works of Heinrich Kleist"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320C",
-            "name": "GRMN 2320C"
+            "name": "Enlightened Laughter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320D",
-            "name": "GRMN 2320D"
+            "name": "Kafka in English"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2320E",
-            "name": "GRMN 2320E"
+            "name": "Political Romanticism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2330A",
-            "name": "GRMN 2330A"
+            "name": "Vision and Narration in the 19th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340A",
-            "name": "GRMN 2340A"
+            "name": "German Literature 1968-1989"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340B",
-            "name": "GRMN 2340B"
+            "name": "Poetik der AutorInnen"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2340C",
-            "name": "GRMN 2340C"
+            "name": "German Modernism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460A",
-            "name": "GRMN 2460A"
+            "name": "German Literature 1945-1967"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460C",
-            "name": "GRMN 2460C"
+            "name": "Literature of the German Democratic Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2460D",
-            "name": "GRMN 2460D"
+            "name": "Thomas Mann: Die Romane"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660A",
-            "name": "GRMN 2660A"
+            "name": "On the Sublime"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660C",
-            "name": "GRMN 2660C"
+            "name": "Socialism and the Intellectuals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660G",
-            "name": "GRMN 2660G"
+            "name": "Reading (in) German Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660H",
-            "name": "GRMN 2660H"
+            "name": "Historicism, Photography, Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660I",
-            "name": "GRMN 2660I"
+            "name": "Torture in European Literature and Aesthetic Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660O",
-            "name": "GRMN 2660O"
+            "name": "From Hegel to Nietzsche:  Literature as/and Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2660P",
-            "name": "GRMN 2660P"
+            "name": "The Essay:  Theory and Praxis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661A",
-            "name": "GRMN 2661A"
+            "name": "\u201cOther Worlds\u201d"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661F",
-            "name": "GRMN 2661F"
+            "name": "Textual Border Crossings: Translational Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661J",
-            "name": "GRMN 2661J"
+            "name": "Art, Philosophy, and Truth: A Close Reading of Benjamin's Essay on Goethe's Elective Affinities"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2661Q",
-            "name": "GRMN 2661Q"
+            "name": "Goethe\u2019s Faust"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GRMN 2662A",
-            "name": "GRMN 2662A"
+            "name": "Theories of Poetry and the Poetic"
           }
         }
       ],
@@ -3567,375 +3568,375 @@
     },
     {
       "code": "GRMN 0500F",
-      "name": "GRMN 0500F"
+      "name": "Twentieth-Century German Culture"
     },
     {
       "code": "GRMN 0600C",
-      "name": "GRMN 0600C"
+      "name": "From Faust to Freud: Germany\u2019s Long 19th Century"
     },
     {
       "code": "GRMN 0750B",
-      "name": "GRMN 0750B"
+      "name": "Tales of Vampirism and the Uncanny"
     },
     {
       "code": "GRMN 0750D",
-      "name": "GRMN 0750D"
+      "name": "The Poetics of Murder: Crime Fiction from Poe to the Present"
     },
     {
       "code": "GRMN 0750F",
-      "name": "GRMN 0750F"
+      "name": "Historical Crime Fiction"
     },
     {
       "code": "GRMN 1200C",
-      "name": "GRMN 1200C"
+      "name": "Nietzsche - The Good European"
     },
     {
       "code": "GRMN 1200D",
-      "name": "GRMN 1200D"
+      "name": "Repetition: Kierkegaard, Nietzsche and Freud"
     },
     {
       "code": "GRMN 1320A",
-      "name": "GRMN 1320A"
+      "name": "German Aesthetics from Lessing to Heidegger"
     },
     {
       "code": "GRMN 1320D",
-      "name": "GRMN 1320D"
+      "name": "Goethe"
     },
     {
       "code": "GRMN 1320E",
-      "name": "GRMN 1320E"
+      "name": "Classical German Literature:  Goethe und die Klassik"
     },
     {
       "code": "GRMN 1320F",
-      "name": "GRMN 1320F"
+      "name": "Eighteenth-Century German Aesthetics"
     },
     {
       "code": "GRMN 1320G",
-      "name": "GRMN 1320G"
+      "name": "Drama and Religion"
     },
     {
       "code": "GRMN 1320I",
-      "name": "GRMN 1320I"
+      "name": "What is an Image? German Aesthetics and Art from Lessing to Heidegger"
     },
     {
       "code": "GRMN 1320O",
-      "name": "GRMN 1320O"
+      "name": "Freudian Inspirations: Psychoanalysis and the Arts"
     },
     {
       "code": "GRMN 1320S",
-      "name": "GRMN 1320S"
+      "name": "Reading Friedrich H\u00f6lderlin; An Introduction"
     },
     {
       "code": "GRMN 1330A",
-      "name": "GRMN 1330A"
+      "name": "The Individual in the Age of Industry"
     },
     {
       "code": "GRMN 1340A",
-      "name": "GRMN 1340A"
+      "name": "Crime and Punishment- Introduction to German Mystery Texts and Films"
     },
     {
       "code": "GRMN 1340B",
-      "name": "GRMN 1340B"
+      "name": "Guilt Management: Postwar German Culture"
     },
     {
       "code": "GRMN 1340C",
-      "name": "GRMN 1340C"
+      "name": "Jahrhundertwende 1900"
     },
     {
       "code": "GRMN 1340D",
-      "name": "GRMN 1340D"
+      "name": "Modern German Prose, 1978-1998"
     },
     {
       "code": "GRMN 1340I",
-      "name": "GRMN 1340I"
+      "name": "Turn of the Century"
     },
     {
       "code": "GRMN 1340J",
-      "name": "GRMN 1340J"
+      "name": "The Works of Franz Kafka"
     },
     {
       "code": "GRMN 1340K",
-      "name": "GRMN 1340K"
+      "name": "Unmittelbar nach 1945: Literatur und Film in Deutschland"
     },
     {
       "code": "GRMN 1340L",
-      "name": "GRMN 1340L"
+      "name": "The Modern Period"
     },
     {
       "code": "GRMN 1340M",
-      "name": "GRMN 1340M"
+      "name": "Kafka's Writing"
     },
     {
       "code": "GRMN 1340Q",
-      "name": "GRMN 1340Q"
+      "name": "Vergangenheitsbew\u00e4ltigung: German Literature of Memory"
     },
     {
       "code": "GRMN 1440A",
-      "name": "GRMN 1440A"
+      "name": "Dada-Performance and Digital-Interactivity"
     },
     {
       "code": "GRMN 1440C",
-      "name": "GRMN 1440C"
+      "name": "Poetry and the Sublime"
     },
     {
       "code": "GRMN 1440D",
-      "name": "GRMN 1440D"
+      "name": "Modernity and Its Discontents: The German Novella"
     },
     {
       "code": "GRMN 1440E",
-      "name": "GRMN 1440E"
+      "name": "M\u00e4rchen"
     },
     {
       "code": "GRMN 1440F",
-      "name": "GRMN 1440F"
+      "name": "Lyric Poetry From the Middle Ages to the Present"
     },
     {
       "code": "GRMN 1440H",
-      "name": "GRMN 1440H"
+      "name": "Projections of America"
     },
     {
       "code": "GRMN 1440L",
-      "name": "GRMN 1440L"
+      "name": "German Lyric Poetry: From Goethe to Heine"
     },
     {
       "code": "GRMN 1440N",
-      "name": "GRMN 1440N"
+      "name": "Kunstmaerchen: the Literary Fairytale in the Nineteenth Century"
     },
     {
       "code": "GRMN 1440O",
-      "name": "GRMN 1440O"
+      "name": "Modern German Drama"
     },
     {
       "code": "GRMN 1440P",
-      "name": "GRMN 1440P"
+      "name": "Heroes, Failures and Other Peculiar Characters-The German Novel from Goethe to Kafka"
     },
     {
       "code": "GRMN 1440S",
-      "name": "GRMN 1440S"
+      "name": "Grimms' Fairy Tales"
     },
     {
       "code": "GRMN 1440X",
-      "name": "GRMN 1440X"
+      "name": "\"Stranger Things: The German Novella\""
     },
     {
       "code": "GRMN 1440Y",
-      "name": "GRMN 1440Y"
+      "name": "Return to Sender: Love, Letters, and Literature"
     },
     {
       "code": "GRMN 1441C",
-      "name": "GRMN 1441C"
+      "name": "Introduction to German Romantic Poetry"
     },
     {
       "code": "GRMN 1450A",
-      "name": "GRMN 1450A"
+      "name": "German-Jewish Literature"
     },
     {
       "code": "GRMN 1450B",
-      "name": "GRMN 1450B"
+      "name": "Die Berliner Republik und die Vergangenheit"
     },
     {
       "code": "GRMN 1450C",
-      "name": "GRMN 1450C"
+      "name": "National Socialism and the Shoah in Recent German Prose"
     },
     {
       "code": "GRMN 1450F",
-      "name": "GRMN 1450F"
+      "name": "20 Years After: The End of GDR and German Reunification"
     },
     {
       "code": "GRMN 1450G",
-      "name": "GRMN 1450G"
+      "name": "Love and Death"
     },
     {
       "code": "GRMN 1450H",
-      "name": "GRMN 1450H"
+      "name": "Images of America in German Literature"
     },
     {
       "code": "GRMN 1640C",
-      "name": "GRMN 1640C"
+      "name": "German National Cinema from 1917 to 1989, and Cold War Germanys in Film"
     },
     {
       "code": "GRMN 1660B",
-      "name": "GRMN 1660B"
+      "name": "Berlin: A City Strives to Reinvent Itself"
     },
     {
       "code": "GRMN 1660C",
-      "name": "GRMN 1660C"
+      "name": "German Culture in the Nazi Era"
     },
     {
       "code": "GRMN 1660F",
-      "name": "GRMN 1660F"
+      "name": "After Hitler: German Culture and Politics, 1945 to Present"
     },
     {
       "code": "GRMN 1660G",
-      "name": "GRMN 1660G"
+      "name": "Kafka"
     },
     {
       "code": "GRMN 1660H",
-      "name": "GRMN 1660H"
+      "name": "Literary Discourse of Minority Cultures in Germany"
     },
     {
       "code": "GRMN 1660I",
-      "name": "GRMN 1660I"
+      "name": "Literature and Other Media"
     },
     {
       "code": "GRMN 1660K",
-      "name": "GRMN 1660K"
+      "name": "Thinking After Philosophy"
     },
     {
       "code": "GRMN 1660L",
-      "name": "GRMN 1660L"
+      "name": "German Jews and Capitalist Markets in the Long Nineteenth Century"
     },
     {
       "code": "GRMN 1660P",
-      "name": "GRMN 1660P"
+      "name": "Having Beethoven Over in 1970"
     },
     {
       "code": "GRMN 1660Q",
-      "name": "GRMN 1660Q"
+      "name": "Film and the Third Reich"
     },
     {
       "code": "GRMN 1660R",
-      "name": "GRMN 1660R"
+      "name": "Freud"
     },
     {
       "code": "GRMN 1660S",
-      "name": "GRMN 1660S"
+      "name": "Mord und Medien. Krimis im intermedialen Vergleich"
     },
     {
       "code": "GRMN 1660T",
-      "name": "GRMN 1660T"
+      "name": "Germans/Jews, Deutsche (und) Juden"
     },
     {
       "code": "GRMN 1660U",
-      "name": "GRMN 1660U"
+      "name": "What was Socialism?  From Marx to \"Goodbye Lenin\""
     },
     {
       "code": "GRMN 1660V",
-      "name": "GRMN 1660V"
+      "name": "Nietzsche"
     },
     {
       "code": "GRMN 1660W",
-      "name": "GRMN 1660W"
+      "name": "Early German Film and Film Theory"
     },
     {
       "code": "GRMN 1661A",
-      "name": "GRMN 1661A"
+      "name": "Race and Classical German Thought"
     },
     {
       "code": "GRMN 1661E",
-      "name": "GRMN 1661E"
+      "name": "Germany, Alcohol, and the Global Nineteenth Century"
     },
     {
       "code": "GRMN 1900A",
-      "name": "GRMN 1900A"
+      "name": "The Weimar Republic (1918-1933)"
     },
     {
       "code": "GRMN 1900B",
-      "name": "GRMN 1900B"
+      "name": "Sites of Memory"
     },
     {
       "code": "GRMN 1900C",
-      "name": "GRMN 1900C"
+      "name": "Cultural Industry and the Aesthetics of the Spectacle"
     },
     {
       "code": "GRMN 1900D",
-      "name": "GRMN 1900D"
+      "name": "Fleeing the Nazis: German Culture in Exile, 1933-1945"
     },
     {
       "code": "GRMN 1900E",
-      "name": "GRMN 1900E"
+      "name": "Made in Germany - A Cultural History of Science, Technology, and Engineering"
     },
     {
       "code": "GRMN 2320B",
-      "name": "GRMN 2320B"
+      "name": "The Works of Heinrich Kleist"
     },
     {
       "code": "GRMN 2320C",
-      "name": "GRMN 2320C"
+      "name": "Enlightened Laughter"
     },
     {
       "code": "GRMN 2320D",
-      "name": "GRMN 2320D"
+      "name": "Kafka in English"
     },
     {
       "code": "GRMN 2320E",
-      "name": "GRMN 2320E"
+      "name": "Political Romanticism"
     },
     {
       "code": "GRMN 2330A",
-      "name": "GRMN 2330A"
+      "name": "Vision and Narration in the 19th Century"
     },
     {
       "code": "GRMN 2340A",
-      "name": "GRMN 2340A"
+      "name": "German Literature 1968-1989"
     },
     {
       "code": "GRMN 2340B",
-      "name": "GRMN 2340B"
+      "name": "Poetik der AutorInnen"
     },
     {
       "code": "GRMN 2340C",
-      "name": "GRMN 2340C"
+      "name": "German Modernism"
     },
     {
       "code": "GRMN 2460A",
-      "name": "GRMN 2460A"
+      "name": "German Literature 1945-1967"
     },
     {
       "code": "GRMN 2460C",
-      "name": "GRMN 2460C"
+      "name": "Literature of the German Democratic Republic"
     },
     {
       "code": "GRMN 2460D",
-      "name": "GRMN 2460D"
+      "name": "Thomas Mann: Die Romane"
     },
     {
       "code": "GRMN 2660A",
-      "name": "GRMN 2660A"
+      "name": "On the Sublime"
     },
     {
       "code": "GRMN 2660C",
-      "name": "GRMN 2660C"
+      "name": "Socialism and the Intellectuals"
     },
     {
       "code": "GRMN 2660G",
-      "name": "GRMN 2660G"
+      "name": "Reading (in) German Literature"
     },
     {
       "code": "GRMN 2660H",
-      "name": "GRMN 2660H"
+      "name": "Historicism, Photography, Film"
     },
     {
       "code": "GRMN 2660I",
-      "name": "GRMN 2660I"
+      "name": "Torture in European Literature and Aesthetic Theory"
     },
     {
       "code": "GRMN 2660O",
-      "name": "GRMN 2660O"
+      "name": "From Hegel to Nietzsche:  Literature as/and Philosophy"
     },
     {
       "code": "GRMN 2660P",
-      "name": "GRMN 2660P"
+      "name": "The Essay:  Theory and Praxis"
     },
     {
       "code": "GRMN 2661A",
-      "name": "GRMN 2661A"
+      "name": "\u201cOther Worlds\u201d"
     },
     {
       "code": "GRMN 2661F",
-      "name": "GRMN 2661F"
+      "name": "Textual Border Crossings: Translational Literature"
     },
     {
       "code": "GRMN 2661J",
-      "name": "GRMN 2661J"
+      "name": "Art, Philosophy, and Truth: A Close Reading of Benjamin's Essay on Goethe's Elective Affinities"
     },
     {
       "code": "GRMN 2661Q",
-      "name": "GRMN 2661Q"
+      "name": "Goethe\u2019s Faust"
     },
     {
       "code": "GRMN 2662A",
-      "name": "GRMN 2662A"
+      "name": "Theories of Poetry and the Poetic"
     }
   ]
 }

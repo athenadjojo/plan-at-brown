@@ -2,55 +2,56 @@
   "concentration": "Architecture",
   "slug": "arct",
   "url": "https://bulletin.brown.edu/the-college/concentrations/arct/",
+  "description": "The Architecture concentration introduces students to a broad understanding of concepts and methods for the planning and design of buildings and urban environments. It connects architectural education firmly to the humanities and provides a greater awareness of historical, global, environmental, social and economic issues in the built environment. This approach to the education of architects and urban planners aims to provide them with the tools needed in today\u2019s fractured urban society. Apart from training careful observation, critical analysis and problem solving, students will acquire skills in sketching, drafting, model-making, and digital rendering. By combining a carefully selected range of classes in architectural design, the humanities, engineering and technology, and urban life and theory, students will acquire necessary proficiency for pursuing a graduate degree in architecture after Brown. All concentrators are required to write an essay when they file for the concentration that lays out what they expect to gain from the course of study they propose. All second-semester seniors will be required to write a final essay that takes measure of what they have learned from the concentration, including their capstone and other experiences relating to their study of architecture. The self-assessment should be submitted through ASK with a revised list of courses actually taken at least one month prior to graduation.",
   "tracks": [
     {
       "id": "self_assessment",
       "name": "Self-Assessment",
       "groups": [
         {
-          "name": "1 Introduction to Design Studio 1",
+          "name": "1 Introduction to Design Studio",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "2 Practice Courses 2",
+          "name": "2 Practice Courses",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "1 Double-Credit Design Studio 2",
+          "name": "1 Double-Credit Design Studio",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation 4",
+          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "1 Pathway Elective in Sciences 1",
+          "name": "1 Pathway Elective in Sciences",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "1 Pathway Elective on Social Sciences / Humanities 1",
+          "name": "1 Pathway Elective on Social Sciences / Humanities",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "1 Capstone Course 1",
+          "name": "1 Capstone Course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -65,49 +66,49 @@
       "name": "Summary of Concentration Requirements1",
       "groups": [
         {
-          "name": "1 Introduction to Design Studio 1",
+          "name": "1 Introduction to Design Studio",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "2 Practice Courses 2",
+          "name": "2 Practice Courses",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "1 Double-Credit Design Studio 2",
+          "name": "1 Double-Credit Design Studio",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation 4",
+          "name": "4 History of Art and Architecture lecture or seminar courses bearing the A designation",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "1 Pathway Elective in Sciences 1",
+          "name": "1 Pathway Elective in Sciences",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "1 Pathway Elective on Social Sciences / Humanities 1",
+          "name": "1 Pathway Elective on Social Sciences / Humanities",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "1 Capstone Course 1",
+          "name": "1 Capstone Course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -121,147 +122,147 @@
   "all_courses": [
     {
       "code": "HIAA 0100",
-      "name": "HIAA 0100"
+      "name": "Introduction to Architectural Design Studio"
     },
     {
       "code": "HIAA 0130",
-      "name": "HIAA 0130"
+      "name": "Architectural Projection"
     },
     {
       "code": "HIAA 0140",
-      "name": "HIAA 0140"
+      "name": "Structural and Architectural Analysis"
     },
     {
       "code": "HIAA 0150",
-      "name": "HIAA 0150"
+      "name": "Intermediate Architectural Design Studio"
     },
     {
       "code": "HIAA 0190",
-      "name": "HIAA 0190"
+      "name": "Advanced Design Studio"
     },
     {
       "code": "HIAA 0022",
-      "name": "HIAA 0022"
+      "name": "The Art of Enlightenment"
     },
     {
       "code": "HIAA 0024",
-      "name": "HIAA 0024"
+      "name": "Arts of Asia: Beginnings to 1300"
     },
     {
       "code": "HIAA 0032",
-      "name": "HIAA 0032"
+      "name": "Art and Architecture of the Roman Empire"
     },
     {
       "code": "HIAA 0322",
-      "name": "HIAA 0322"
+      "name": "The Arts of Religion and Ritual in the Ancient World"
     },
     {
       "code": "HIAA 0660",
-      "name": "HIAA 0660"
+      "name": "Giotto to Watteau:  Introduction to the Art of Europe from Renaissance to French Revolution"
     },
     {
       "code": "HIAA 0063",
-      "name": "HIAA 0063"
+      "name": "Food and Art in the Early Modern World"
     },
     {
       "code": "HIAA 0070",
-      "name": "HIAA 0070"
+      "name": "Introduction to American Art: The 19th Century"
     },
     {
       "code": "HIAA 0072",
-      "name": "HIAA 0072"
+      "name": "Introduction to American Art: The Twentieth Century"
     },
     {
       "code": "HIAA 0075",
-      "name": "HIAA 0075"
+      "name": "Introduction to the History of Art: Modern Photography"
     },
     {
       "code": "HIAA 0077",
-      "name": "HIAA 0077"
+      "name": "Revolutions, Illusions, Impressions: A History of Nineteenth-Century Art"
     },
     {
       "code": "HIAA 0084",
-      "name": "HIAA 0084"
+      "name": "Postwar to Postmodernism:  Art Since 1945"
     },
     {
       "code": "HIAA 0087",
-      "name": "HIAA 0087"
+      "name": "Contemporary Art"
     },
     {
       "code": "HIAA 0089",
-      "name": "HIAA 0089"
+      "name": "Contemporary Photography"
     },
     {
       "code": "HIAA 0090",
-      "name": "HIAA 0090"
+      "name": "The Other History of Modern Architecture"
     },
     {
       "code": "HIAA 0820",
-      "name": "HIAA 0820"
+      "name": "Art and Technology from Futurism to Hacktivism"
     },
     {
       "code": "HIAA 0850",
-      "name": "HIAA 0850"
+      "name": "Modern Architecture"
     },
     {
       "code": "HIAA 0860",
-      "name": "HIAA 0860"
+      "name": "Contemporary Architecture"
     },
     {
       "code": "HIAA 0861",
-      "name": "HIAA 0861"
+      "name": "City and Cinema"
     },
     {
       "code": "HIAA 0023",
-      "name": "HIAA 0023"
+      "name": "South Asian Art and Architecture"
     },
     {
       "code": "HIAA 0041",
-      "name": "HIAA 0041"
+      "name": "The Architectures of Islam"
     },
     {
       "code": "HIAA 0081",
-      "name": "HIAA 0081"
+      "name": "Architecture of the House Through Space and Time"
     },
     {
       "code": "HIAA 0770",
-      "name": "HIAA 0770"
+      "name": "Architecture and Urbanism of Africa"
     },
     {
       "code": "HIAA 1181",
-      "name": "HIAA 1181"
+      "name": "Prefabrication and Architecture"
     },
     {
       "code": "HIAA 1190",
-      "name": "HIAA 1190"
+      "name": "Spaces and Institutions of Modernity"
     },
     {
       "code": "HIAA 1202",
-      "name": "HIAA 1202"
+      "name": "Mountains and Waters: Art and Ecology in East Asia"
     },
     {
       "code": "HIAA 1212",
-      "name": "HIAA 1212"
+      "name": "The Pictured Text"
     },
     {
       "code": "HIAA 1213",
-      "name": "HIAA 1213"
+      "name": "The Bureaucracy of Hell: Envisioning Death in East Asian Art"
     },
     {
       "code": "HIAA 1307",
-      "name": "HIAA 1307"
+      "name": "Politics and Spectacle in the Arts of Ancient Rome"
     },
     {
       "code": "HIAA 1308",
-      "name": "HIAA 1308"
+      "name": "Arts of Memory in Ancient Rome"
     },
     {
       "code": "HIAA 1771",
-      "name": "HIAA 1771"
+      "name": "Eclectic Arts in the Global 19th Century"
     },
     {
       "code": "HIAA 1820",
-      "name": "HIAA 1820"
+      "name": "Abstraction in Theory and Practice"
     },
     {
       "code": "HIAA 1990",

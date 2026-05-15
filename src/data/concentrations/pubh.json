@@ -2,219 +2,1509 @@
   "concentration": "Public Health",
   "slug": "pubh",
   "url": "https://bulletin.brown.edu/the-college/concentrations/pubh/",
-  "tracks": [],
+  "description": "Public health is an interdisciplinary concentration through which students gain an understanding of the breadth of theories, concepts, and methods that underpin science-based efforts to protect and promote the well-being of all people. Courses in the concentration allow students to explore a breadth of approaches that can be employed to describe the health of populations, determine the causes of poor health outcomes, and design and evaluate strategies for improving population health. Recognizing that all people have an equal right to better health, special attention is paid to identifying, reducing, and eliminating health inequities. Requirements for the Public Health Concentration",
+  "tracks": [
+    {
+      "id": "requirements_0",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "1. Core Courses (non-substitutable; 5 required for all students)",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 0310",
+                  "name": "Health Care in the United States"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 0320",
+                  "name": "Introduction to Public Health"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 0850",
+                  "name": "Fundamentals of Epidemiology"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 2120",
+                  "name": "Introduction to Methods in Epidemiologic Research"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 2140",
+                  "name": "Principles of Applied Epidemiology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 2150",
+                  "name": "Foundations in Modern Epidemiologic Methods"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1501",
+                  "name": "Essentials of Data Analysis"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 1510",
+                  "name": "Principles of Biostatistics and Data Analysis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2507",
+                  "name": "Biostatistics and Applied Data Analysis I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "STAT 2510",
+                  "name": "Principles of Biostatistics and Data Analysis"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1910",
+                  "name": "Public Health Senior Seminar (required of all non-honors seniors; FALL)"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1915",
+                  "name": "Public Health Honors Senior Seminar"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "2. Environmental Health and Policy (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 0720",
+                  "name": "Public Health and the Environment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1101",
+                  "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1700",
+                  "name": "Current Topics in Environmental Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1720",
+                  "name": "Environmental Exposure Assessments in Practice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1725",
+                  "name": "Rural Public Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1730",
+                  "name": "Climate Risks and Health Solutions"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "3. Health, Health Care Systems, and Policy (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 0330",
+                  "name": "Health Law and Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 0650",
+                  "name": "From Manufacturer to Patient:  Why is the Cost of Prescription Drugs So Darn High?"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1100",
+                  "name": "Comparative Health Care Systems"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1450",
+                  "name": "COVID-19, Public Health, and Health Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1460",
+                  "name": "Public Health Law and Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1480",
+                  "name": "Foundations of Health Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1580",
+                  "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1681",
+                  "name": "Reproductive Health, Rights and Justice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "4. Social and Behavioral Science for Prevention (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 0400",
+                  "name": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants & Health Equity"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 0700",
+                  "name": "Global Public Health Interventions"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1101",
+                  "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1300",
+                  "name": "Parenting Behaviors and Child Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1540",
+                  "name": "Alcohol Use and Misuse"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1550",
+                  "name": "Substance Use and Vulnerability to Addiction"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1551",
+                  "name": "Substance Use Prevention, Treatment, & Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1610",
+                  "name": "Tobacco, Disease and the Industry: cigs, e-cigs and more"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1650",
+                  "name": "Race, Racism and Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 1670",
+                  "name": "Public Mental Health: A Framework for Studying and Preventing Mental Disorders"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1690",
+                  "name": "Technology and Health Behavior Change"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1920",
+                  "name": "Social Determinants of Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1998",
+                  "name": "Public Health Nutrition"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "5. Global Health Elective (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 0700",
+                  "name": "Global Public Health Interventions"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 0720",
+                  "name": "Public Health and the Environment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1070",
+                  "name": "Global Burden of Disease"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1580",
+                  "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 2710",
+                  "name": "Interdisciplinary Perspectives on Disability and Death in the Global South"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "6. Health Disparities Elective (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 0400",
+                  "name": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants & Health Equity"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1460",
+                  "name": "Public Health Law and Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1580",
+                  "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1650",
+                  "name": "Race, Racism and Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1680I",
+                  "name": "Pathology to Power:  Disability, Health and Community"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1681",
+                  "name": "Reproductive Health, Rights and Justice"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1796",
+                  "name": "The Historical Determinants of Public Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1810",
+                  "name": "Community-Engaged Research in Public Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HSP 1821",
+                  "name": "Incarceration, Disparities, and Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "PHP 1920",
+                  "name": "Social Determinants of Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BSS 1998",
+                  "name": "Public Health Nutrition"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "7. Biology (select one of the following):",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0200",
+                  "name": "The Foundation of Living Systems"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0380",
+                  "name": "The Ecology and Evolution of Infectious Disease"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0420",
+                  "name": "Principles of Ecology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0470",
+                  "name": "Genetics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0500",
+                  "name": "Cell and Molecular Biology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0510",
+                  "name": "Introductory Microbiology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0530",
+                  "name": "Principles of Immunology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "BIOL 0800",
+                  "name": "Principles of Physiology"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EPI 2130",
+                  "name": "Human Biology for Public Health"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "8. Public Health Elective (Any 1000-level or higher Public Health course)",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 0310",
+            "name": "Health Care in the United States"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 0320",
+            "name": "Introduction to Public Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 0850",
+            "name": "Fundamentals of Epidemiology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 2120",
+            "name": "Introduction to Methods in Epidemiologic Research"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 2140",
+            "name": "Principles of Applied Epidemiology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 2150",
+            "name": "Foundations in Modern Epidemiologic Methods"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1501",
+            "name": "Essentials of Data Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 1510",
+            "name": "Principles of Biostatistics and Data Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2507",
+            "name": "Biostatistics and Applied Data Analysis I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "STAT 2510",
+            "name": "Principles of Biostatistics and Data Analysis"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1910",
+            "name": "Public Health Senior Seminar (required of all non-honors seniors; FALL)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1915",
+            "name": "Public Health Honors Senior Seminar"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 0720",
+            "name": "Public Health and the Environment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1101",
+            "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1700",
+            "name": "Current Topics in Environmental Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1720",
+            "name": "Environmental Exposure Assessments in Practice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1725",
+            "name": "Rural Public Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1730",
+            "name": "Climate Risks and Health Solutions"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 0330",
+            "name": "Health Law and Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 0650",
+            "name": "From Manufacturer to Patient:  Why is the Cost of Prescription Drugs So Darn High?"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1100",
+            "name": "Comparative Health Care Systems"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1450",
+            "name": "COVID-19, Public Health, and Health Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1460",
+            "name": "Public Health Law and Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1480",
+            "name": "Foundations of Health Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1580",
+            "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1681",
+            "name": "Reproductive Health, Rights and Justice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 0400",
+            "name": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants & Health Equity"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 0700",
+            "name": "Global Public Health Interventions"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1101",
+            "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1300",
+            "name": "Parenting Behaviors and Child Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1540",
+            "name": "Alcohol Use and Misuse"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1550",
+            "name": "Substance Use and Vulnerability to Addiction"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1551",
+            "name": "Substance Use Prevention, Treatment, & Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1610",
+            "name": "Tobacco, Disease and the Industry: cigs, e-cigs and more"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1650",
+            "name": "Race, Racism and Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 1670",
+            "name": "Public Mental Health: A Framework for Studying and Preventing Mental Disorders"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1690",
+            "name": "Technology and Health Behavior Change"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1920",
+            "name": "Social Determinants of Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1998",
+            "name": "Public Health Nutrition"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 0700",
+            "name": "Global Public Health Interventions"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 0720",
+            "name": "Public Health and the Environment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1070",
+            "name": "Global Burden of Disease"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1580",
+            "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 2710",
+            "name": "Interdisciplinary Perspectives on Disability and Death in the Global South"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 0400",
+            "name": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants & Health Equity"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1460",
+            "name": "Public Health Law and Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1580",
+            "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1650",
+            "name": "Race, Racism and Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1680I",
+            "name": "Pathology to Power:  Disability, Health and Community"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1681",
+            "name": "Reproductive Health, Rights and Justice"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1796",
+            "name": "The Historical Determinants of Public Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1810",
+            "name": "Community-Engaged Research in Public Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HSP 1821",
+            "name": "Incarceration, Disparities, and Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "PHP 1920",
+            "name": "Social Determinants of Health"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BSS 1998",
+            "name": "Public Health Nutrition"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0200",
+            "name": "The Foundation of Living Systems"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0380",
+            "name": "The Ecology and Evolution of Infectious Disease"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0420",
+            "name": "Principles of Ecology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0470",
+            "name": "Genetics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0500",
+            "name": "Cell and Molecular Biology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0510",
+            "name": "Introductory Microbiology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0530",
+            "name": "Principles of Immunology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "BIOL 0800",
+            "name": "Principles of Physiology"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EPI 2130",
+            "name": "Human Biology for Public Health"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
   "all_courses": [
     {
       "code": "HSP 0310",
-      "name": "HSP 0310"
+      "name": "Health Care in the United States"
     },
     {
       "code": "PHP 0320",
-      "name": "PHP 0320"
+      "name": "Introduction to Public Health"
     },
     {
       "code": "EPI 0850",
-      "name": "EPI 0850"
+      "name": "Fundamentals of Epidemiology"
     },
     {
       "code": "EPI 2120",
-      "name": "EPI 2120"
+      "name": "Introduction to Methods in Epidemiologic Research"
     },
     {
       "code": "EPI 2140",
-      "name": "EPI 2140"
+      "name": "Principles of Applied Epidemiology"
     },
     {
       "code": "EPI 2150",
-      "name": "EPI 2150"
+      "name": "Foundations in Modern Epidemiologic Methods"
     },
     {
       "code": "STAT 1501",
-      "name": "STAT 1501"
+      "name": "Essentials of Data Analysis"
     },
     {
       "code": "STAT 1510",
-      "name": "STAT 1510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "STAT 2507",
-      "name": "STAT 2507"
+      "name": "Biostatistics and Applied Data Analysis I"
     },
     {
       "code": "STAT 2510",
-      "name": "STAT 2510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "PHP 1910",
-      "name": "PHP 1910"
+      "name": "Public Health Senior Seminar (required of all non-honors seniors; FALL)"
     },
     {
       "code": "PHP 1915",
-      "name": "PHP 1915"
+      "name": "Public Health Honors Senior Seminar"
     },
     {
       "code": "PHP 0720",
-      "name": "PHP 0720"
+      "name": "Public Health and the Environment"
     },
     {
       "code": "BSS 1101",
-      "name": "BSS 1101"
+      "name": "World of Food: Personal to Global Perspectives on Nutrition, Agriculture and Policy"
     },
     {
       "code": "EPI 1700",
-      "name": "EPI 1700"
+      "name": "Current Topics in Environmental Health"
     },
     {
       "code": "EPI 1720",
-      "name": "EPI 1720"
+      "name": "Environmental Exposure Assessments in Practice"
     },
     {
       "code": "EPI 1725",
-      "name": "EPI 1725"
+      "name": "Rural Public Health"
     },
     {
       "code": "EPI 1730",
-      "name": "EPI 1730"
+      "name": "Climate Risks and Health Solutions"
     },
     {
       "code": "HSP 0330",
-      "name": "HSP 0330"
+      "name": "Health Law and Policy"
     },
     {
       "code": "HSP 0650",
-      "name": "HSP 0650"
+      "name": "From Manufacturer to Patient:  Why is the Cost of Prescription Drugs So Darn High?"
     },
     {
       "code": "HSP 1100",
-      "name": "HSP 1100"
+      "name": "Comparative Health Care Systems"
     },
     {
       "code": "HSP 1450",
-      "name": "HSP 1450"
+      "name": "COVID-19, Public Health, and Health Policy"
     },
     {
       "code": "HSP 1460",
-      "name": "HSP 1460"
+      "name": "Public Health Law and Policy"
     },
     {
       "code": "HSP 1480",
-      "name": "HSP 1480"
+      "name": "Foundations of Health Economics"
     },
     {
       "code": "HSP 1580",
-      "name": "HSP 1580"
+      "name": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats"
     },
     {
       "code": "HSP 1681",
-      "name": "HSP 1681"
+      "name": "Reproductive Health, Rights and Justice"
     },
     {
       "code": "BSS 0400",
-      "name": "BSS 0400"
+      "name": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants & Health Equity"
     },
     {
       "code": "BSS 0700",
-      "name": "BSS 0700"
+      "name": "Global Public Health Interventions"
     },
     {
       "code": "BSS 1300",
-      "name": "BSS 1300"
+      "name": "Parenting Behaviors and Child Health"
     },
     {
       "code": "PHP 1540",
-      "name": "PHP 1540"
+      "name": "Alcohol Use and Misuse"
     },
     {
       "code": "BSS 1550",
-      "name": "BSS 1550"
+      "name": "Substance Use and Vulnerability to Addiction"
     },
     {
       "code": "BSS 1551",
-      "name": "BSS 1551"
+      "name": "Substance Use Prevention, Treatment, & Policy"
     },
     {
       "code": "BSS 1610",
-      "name": "BSS 1610"
+      "name": "Tobacco, Disease and the Industry: cigs, e-cigs and more"
     },
     {
       "code": "BSS 1650",
-      "name": "BSS 1650"
+      "name": "Race, Racism and Health"
     },
     {
       "code": "EPI 1670",
-      "name": "EPI 1670"
+      "name": "Public Mental Health: A Framework for Studying and Preventing Mental Disorders"
     },
     {
       "code": "BSS 1690",
-      "name": "BSS 1690"
+      "name": "Technology and Health Behavior Change"
     },
     {
       "code": "PHP 1920",
-      "name": "PHP 1920"
+      "name": "Social Determinants of Health"
     },
     {
       "code": "BSS 1998",
-      "name": "BSS 1998"
+      "name": "Public Health Nutrition"
     },
     {
       "code": "PHP 1070",
-      "name": "PHP 1070"
+      "name": "Global Burden of Disease"
     },
     {
       "code": "BSS 2710",
-      "name": "BSS 2710"
+      "name": "Interdisciplinary Perspectives on Disability and Death in the Global South"
     },
     {
       "code": "BSS 1680I",
-      "name": "BSS 1680I"
+      "name": "Pathology to Power:  Disability, Health and Community"
     },
     {
       "code": "PHP 1796",
-      "name": "PHP 1796"
+      "name": "The Historical Determinants of Public Health"
     },
     {
       "code": "BSS 1810",
-      "name": "BSS 1810"
+      "name": "Community-Engaged Research in Public Health"
     },
     {
       "code": "HSP 1821",
-      "name": "HSP 1821"
+      "name": "Incarceration, Disparities, and Health"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "BIOL 0380",
-      "name": "BIOL 0380"
+      "name": "The Ecology and Evolution of Infectious Disease"
     },
     {
       "code": "BIOL 0420",
-      "name": "BIOL 0420"
+      "name": "Principles of Ecology"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0510",
-      "name": "BIOL 0510"
+      "name": "Introductory Microbiology"
     },
     {
       "code": "BIOL 0530",
-      "name": "BIOL 0530"
+      "name": "Principles of Immunology"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "EPI 2130",
-      "name": "EPI 2130"
+      "name": "Human Biology for Public Health"
     },
     {
       "code": "PHP 1980",

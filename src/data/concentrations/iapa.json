@@ -2,13 +2,14 @@
   "concentration": "International and Public Affairs",
   "slug": "iapa",
   "url": "https://bulletin.brown.edu/the-college/concentrations/iapa/",
+  "description": "The concentration in International and Public Affairs equips students with the knowledge and skills necessary to be engaged global citizens. This concentration offers three tracks: Development, Policy & Governance, and Security. All students take a common core of five classes, beginning with a choice of thematic gateway lecture courses (ideally taken during freshman or sophomore year), and then building through a required junior seminar and a required senior seminar (eligible students may choose to write an honor's thesis to satisfy the senior seminar requirement). All students choose one of three tracks of substantive specialization: Development, in which students explore issues of human development in local and global contexts, and across both the developing world and advanced industrial settings; Security, which allows students to explore issues of security in both local and global contexts; and Policy and Governance, in which students explore the design, implementation, and evaluation of public policies to resolve societal challenges, as well as the governing structures that yield those policies. The concentration is committed to engaging students in the classroom, enabling research opportunities with faculty and in the field, and supporting experiential learning opportunities. Advisors' office hours and an online appointment scheduler are available here. The concentration comprises 11 courses (12 for an honors degree). Students take a Gateway course, which introduces them to multidisciplinary perspectives on social challenges that cut across global regions. The Foundational course introduces students to central themes and texts in the three IAPA tracks: Development, Policy and Governance, and Security. Gateway and Track Foundational courses are not interchangeable or substitutable with courses offered in other concentrations. They should both be taken in the first or second year.",
   "tracks": [
     {
       "id": "track_specialization_and_electives",
       "name": "Track Specialization and Electives",
       "groups": [
         {
-          "name": "Gateway Course 1",
+          "name": "Gateway Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "IAPA 0300",
-                  "name": "IAPA 0300"
+                  "name": "Costs of War"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "IAPA 0400",
-                  "name": "IAPA 0400"
+                  "name": "Fiscal Plumbing 101: The American Tax State in Comparative and Historical  Perspective"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "IAPA 0900",
-                  "name": "IAPA 0900"
+                  "name": "How We Compete: The Race for Industrial Supremacy Over Time and Place"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ECON 1000",
-                  "name": "ECON 1000"
+                  "name": "Using Big Data to Solve Economic and Social Problems"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "POLS 1020",
-                  "name": "POLS 1020"
+                  "name": "Politics of the Illicit Global Economy"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "SOC 1490",
-                  "name": "SOC 1490"
+                  "name": "Power, Knowledge and Justice in Global Social Change"
                 }
               ],
               "count": null,
@@ -88,7 +89,7 @@
           "notes": []
         },
         {
-          "name": "Track Foundational 1",
+          "name": "Track Foundational",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "IAPA 1001",
-                  "name": "IAPA 1001"
+                  "name": "Foundations of Development"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "IAPA 1002",
-                  "name": "IAPA 1002"
+                  "name": "Foundations of Policy and Governance"
                 }
               ],
               "count": null,
@@ -122,7 +123,7 @@
               "courses": [
                 {
                   "code": "IAPA 1003",
-                  "name": "IAPA 1003"
+                  "name": "Foundations of Security"
                 }
               ],
               "count": null,
@@ -132,14 +133,14 @@
           "notes": []
         },
         {
-          "name": "Track Electives (See tables below) 5",
+          "name": "Track Electives (See tables below)",
           "type": "label",
           "courses": [],
           "count": 5,
           "notes": []
         },
         {
-          "name": "Qualitative Research Methods 1 1",
+          "name": "Qualitative Research Methods",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -149,7 +150,7 @@
               "courses": [
                 {
                   "code": "IAPA 1500A",
-                  "name": "IAPA 1500A"
+                  "name": "Ethnographic Research Methods"
                 }
               ],
               "count": null,
@@ -161,7 +162,7 @@
               "courses": [
                 {
                   "code": "SOC 1020",
-                  "name": "SOC 1020"
+                  "name": "Methods of Social Research"
                 }
               ],
               "count": null,
@@ -171,7 +172,7 @@
           "notes": []
         },
         {
-          "name": "Quantitative Research Methods 2 1",
+          "name": "Quantitative Research Methods",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -181,7 +182,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": null,
@@ -193,7 +194,7 @@
               "courses": [
                 {
                   "code": "IAPA 1502",
-                  "name": "IAPA 1502"
+                  "name": "What Works: Evaluating the Impact of Social Programs"
                 }
               ],
               "count": null,
@@ -205,7 +206,7 @@
               "courses": [
                 {
                   "code": "POLS 1600",
-                  "name": "POLS 1600"
+                  "name": "Political Research Methods"
                 }
               ],
               "count": null,
@@ -217,7 +218,7 @@
               "courses": [
                 {
                   "code": "SOC 1100",
-                  "name": "SOC 1100"
+                  "name": "Introductory Statistics for Social Research"
                 }
               ],
               "count": null,
@@ -227,7 +228,7 @@
           "notes": []
         },
         {
-          "name": "Junior Seminar 3",
+          "name": "Junior Seminar",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -237,7 +238,7 @@
               "courses": [
                 {
                   "code": "IAPA 1700P",
-                  "name": "IAPA 1700P"
+                  "name": "Displaced:  How Global Systems Shape Refugee Families"
                 }
               ],
               "count": null,
@@ -249,7 +250,7 @@
               "courses": [
                 {
                   "code": "IAPA 1700R",
-                  "name": "IAPA 1700R"
+                  "name": "Inequality, Policy, and Economics"
                 }
               ],
               "count": null,
@@ -261,7 +262,7 @@
               "courses": [
                 {
                   "code": "IAPA 1700S",
-                  "name": "IAPA 1700S"
+                  "name": "Survey of Time: Temporality, Social Theory, and Difference"
                 }
               ],
               "count": null,
@@ -273,7 +274,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701M",
-                  "name": "IAPA 1701M"
+                  "name": "Justice, Gender, and Markets"
                 }
               ],
               "count": null,
@@ -285,7 +286,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701N",
-                  "name": "IAPA 1701N"
+                  "name": "Diplomacy, an Art That Isn't Lost"
                 }
               ],
               "count": null,
@@ -297,7 +298,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701V",
-                  "name": "IAPA 1701V"
+                  "name": "Democratization"
                 }
               ],
               "count": null,
@@ -309,7 +310,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701W",
-                  "name": "IAPA 1701W"
+                  "name": "The Cold War in Latin America"
                 }
               ],
               "count": null,
@@ -321,7 +322,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701X",
-                  "name": "IAPA 1701X"
+                  "name": "American Education Policy in Historical and Comparative Perspective"
                 }
               ],
               "count": null,
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701Y",
-                  "name": "IAPA 1701Y"
+                  "name": "Climate Change, Power, & Money"
                 }
               ],
               "count": null,
@@ -345,7 +346,7 @@
               "courses": [
                 {
                   "code": "IAPA 1701Z",
-                  "name": "IAPA 1701Z"
+                  "name": "Animals and War"
                 }
               ],
               "count": null,
@@ -357,7 +358,7 @@
               "courses": [
                 {
                   "code": "IAPA 1702D",
-                  "name": "IAPA 1702D"
+                  "name": "Beyond Refugeehood: Politics of mobility, border regimes, and humanitarianism"
                 }
               ],
               "count": null,
@@ -369,7 +370,7 @@
               "courses": [
                 {
                   "code": "IAPA 1702H",
-                  "name": "IAPA 1702H"
+                  "name": "The Politics of Industrial Transformation"
                 }
               ],
               "count": null,
@@ -381,7 +382,7 @@
               "courses": [
                 {
                   "code": "IAPA 1702I",
-                  "name": "IAPA 1702I"
+                  "name": "Governance from Socialist to Post-socialist China"
                 }
               ],
               "count": null,
@@ -391,7 +392,7 @@
           "notes": []
         },
         {
-          "name": "Senior Capstone 4",
+          "name": "Senior Capstone",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -401,7 +402,7 @@
               "courses": [
                 {
                   "code": "IAPA 1800D",
-                  "name": "IAPA 1800D"
+                  "name": "Introduction to Corporate Law and Public Policy"
                 }
               ],
               "count": null,
@@ -413,7 +414,7 @@
               "courses": [
                 {
                   "code": "IAPA 1801D",
-                  "name": "IAPA 1801D"
+                  "name": "Politics & Journalism: A Practical Guide to How We Got Here and Where We\u2019re Going"
                 }
               ],
               "count": null,
@@ -425,7 +426,7 @@
               "courses": [
                 {
                   "code": "IAPA 1801F",
-                  "name": "IAPA 1801F"
+                  "name": "Prison Abolition as Policy"
                 }
               ],
               "count": null,
@@ -437,7 +438,7 @@
               "courses": [
                 {
                   "code": "IAPA 1802M",
-                  "name": "IAPA 1802M"
+                  "name": "Rwanda Past and Present"
                 }
               ],
               "count": null,
@@ -449,7 +450,7 @@
               "courses": [
                 {
                   "code": "IAPA 1803",
-                  "name": "IAPA 1803"
+                  "name": "Humanitarian Response in Modern Conflict"
                 }
               ],
               "count": null,
@@ -461,7 +462,7 @@
               "courses": [
                 {
                   "code": "IAPA 1804",
-                  "name": "IAPA 1804"
+                  "name": "Diplomacy, Crisis, and War in the Modern Era"
                 }
               ],
               "count": null,
@@ -473,7 +474,7 @@
               "courses": [
                 {
                   "code": "IAPA 1804A",
-                  "name": "IAPA 1804A"
+                  "name": "Iran and the Islamic Revolution"
                 }
               ],
               "count": null,
@@ -485,7 +486,7 @@
               "courses": [
                 {
                   "code": "IAPA 1804D",
-                  "name": "IAPA 1804D"
+                  "name": "Legal Methods for Public Policy"
                 }
               ],
               "count": null,
@@ -497,7 +498,7 @@
               "courses": [
                 {
                   "code": "IAPA 1804M",
-                  "name": "IAPA 1804M"
+                  "name": "Overcoming Threats to Human Security"
                 }
               ],
               "count": null,
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "IAPA 1810",
-                  "name": "IAPA 1810"
+                  "name": "Democratization and Autocratization"
                 }
               ],
               "count": null,
@@ -521,7 +522,7 @@
               "courses": [
                 {
                   "code": "IAPA 1811",
-                  "name": "IAPA 1811"
+                  "name": "Contemporary Digital Policy and Politics"
                 }
               ],
               "count": null,
@@ -533,7 +534,7 @@
               "courses": [
                 {
                   "code": "IAPA 1821P",
-                  "name": "IAPA 1821P"
+                  "name": "Political Psychology of International Relations"
                 }
               ],
               "count": null,
@@ -545,7 +546,7 @@
               "courses": [
                 {
                   "code": "IAPA 1816A",
-                  "name": "IAPA 1816A"
+                  "name": "Senior Honors Seminar"
                 }
               ],
               "count": 1,
@@ -557,7 +558,7 @@
               "courses": [
                 {
                   "code": "IAPA 1817A",
-                  "name": "IAPA 1817A"
+                  "name": "Senior Honors Thesis"
                 }
               ],
               "count": 1,
@@ -572,294 +573,294 @@
           "type": "required",
           "course": {
             "code": "IAPA 0300",
-            "name": "IAPA 0300"
+            "name": "Costs of War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 0400",
-            "name": "IAPA 0400"
+            "name": "Fiscal Plumbing 101: The American Tax State in Comparative and Historical  Perspective"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 0900",
-            "name": "IAPA 0900"
+            "name": "How We Compete: The Race for Industrial Supremacy Over Time and Place"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1000",
-            "name": "ECON 1000"
+            "name": "Using Big Data to Solve Economic and Social Problems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1020",
-            "name": "POLS 1020"
+            "name": "Politics of the Illicit Global Economy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1490",
-            "name": "SOC 1490"
+            "name": "Power, Knowledge and Justice in Global Social Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1001",
-            "name": "IAPA 1001"
+            "name": "Foundations of Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1002",
-            "name": "IAPA 1002"
+            "name": "Foundations of Policy and Governance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1003",
-            "name": "IAPA 1003"
+            "name": "Foundations of Security"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1500A",
-            "name": "IAPA 1500A"
+            "name": "Ethnographic Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1020",
-            "name": "SOC 1020"
+            "name": "Methods of Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1502",
-            "name": "IAPA 1502"
+            "name": "What Works: Evaluating the Impact of Social Programs"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1600",
-            "name": "POLS 1600"
+            "name": "Political Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1100",
-            "name": "SOC 1100"
+            "name": "Introductory Statistics for Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1700P",
-            "name": "IAPA 1700P"
+            "name": "Displaced:  How Global Systems Shape Refugee Families"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1700R",
-            "name": "IAPA 1700R"
+            "name": "Inequality, Policy, and Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1700S",
-            "name": "IAPA 1700S"
+            "name": "Survey of Time: Temporality, Social Theory, and Difference"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701M",
-            "name": "IAPA 1701M"
+            "name": "Justice, Gender, and Markets"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701N",
-            "name": "IAPA 1701N"
+            "name": "Diplomacy, an Art That Isn't Lost"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701V",
-            "name": "IAPA 1701V"
+            "name": "Democratization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701W",
-            "name": "IAPA 1701W"
+            "name": "The Cold War in Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701X",
-            "name": "IAPA 1701X"
+            "name": "American Education Policy in Historical and Comparative Perspective"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701Y",
-            "name": "IAPA 1701Y"
+            "name": "Climate Change, Power, & Money"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1701Z",
-            "name": "IAPA 1701Z"
+            "name": "Animals and War"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1702D",
-            "name": "IAPA 1702D"
+            "name": "Beyond Refugeehood: Politics of mobility, border regimes, and humanitarianism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1702H",
-            "name": "IAPA 1702H"
+            "name": "The Politics of Industrial Transformation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1702I",
-            "name": "IAPA 1702I"
+            "name": "Governance from Socialist to Post-socialist China"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1800D",
-            "name": "IAPA 1800D"
+            "name": "Introduction to Corporate Law and Public Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1801D",
-            "name": "IAPA 1801D"
+            "name": "Politics & Journalism: A Practical Guide to How We Got Here and Where We\u2019re Going"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1801F",
-            "name": "IAPA 1801F"
+            "name": "Prison Abolition as Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1802M",
-            "name": "IAPA 1802M"
+            "name": "Rwanda Past and Present"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1803",
-            "name": "IAPA 1803"
+            "name": "Humanitarian Response in Modern Conflict"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1804",
-            "name": "IAPA 1804"
+            "name": "Diplomacy, Crisis, and War in the Modern Era"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1804A",
-            "name": "IAPA 1804A"
+            "name": "Iran and the Islamic Revolution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1804D",
-            "name": "IAPA 1804D"
+            "name": "Legal Methods for Public Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1804M",
-            "name": "IAPA 1804M"
+            "name": "Overcoming Threats to Human Security"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1810",
-            "name": "IAPA 1810"
+            "name": "Democratization and Autocratization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1811",
-            "name": "IAPA 1811"
+            "name": "Contemporary Digital Policy and Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1821P",
-            "name": "IAPA 1821P"
+            "name": "Political Psychology of International Relations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1816A",
-            "name": "IAPA 1816A"
+            "name": "Senior Honors Seminar"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "IAPA 1817A",
-            "name": "IAPA 1817A"
+            "name": "Senior Honors Thesis"
           }
         }
       ],
@@ -869,171 +870,171 @@
   "all_courses": [
     {
       "code": "IAPA 0300",
-      "name": "IAPA 0300"
+      "name": "Costs of War"
     },
     {
       "code": "IAPA 0400",
-      "name": "IAPA 0400"
+      "name": "Fiscal Plumbing 101: The American Tax State in Comparative and Historical  Perspective"
     },
     {
       "code": "IAPA 0900",
-      "name": "IAPA 0900"
+      "name": "How We Compete: The Race for Industrial Supremacy Over Time and Place"
     },
     {
       "code": "ECON 1000",
-      "name": "ECON 1000"
+      "name": "Using Big Data to Solve Economic and Social Problems"
     },
     {
       "code": "POLS 1020",
-      "name": "POLS 1020"
+      "name": "Politics of the Illicit Global Economy"
     },
     {
       "code": "SOC 1490",
-      "name": "SOC 1490"
+      "name": "Power, Knowledge and Justice in Global Social Change"
     },
     {
       "code": "IAPA 1001",
-      "name": "IAPA 1001"
+      "name": "Foundations of Development"
     },
     {
       "code": "IAPA 1002",
-      "name": "IAPA 1002"
+      "name": "Foundations of Policy and Governance"
     },
     {
       "code": "IAPA 1003",
-      "name": "IAPA 1003"
+      "name": "Foundations of Security"
     },
     {
       "code": "IAPA 1500A",
-      "name": "IAPA 1500A"
+      "name": "Ethnographic Research Methods"
     },
     {
       "code": "SOC 1020",
-      "name": "SOC 1020"
+      "name": "Methods of Social Research"
     },
     {
       "code": "ECON 1620",
-      "name": "ECON 1620"
+      "name": "Introduction to Econometrics"
     },
     {
       "code": "IAPA 1502",
-      "name": "IAPA 1502"
+      "name": "What Works: Evaluating the Impact of Social Programs"
     },
     {
       "code": "POLS 1600",
-      "name": "POLS 1600"
+      "name": "Political Research Methods"
     },
     {
       "code": "SOC 1100",
-      "name": "SOC 1100"
+      "name": "Introductory Statistics for Social Research"
     },
     {
       "code": "IAPA 1700P",
-      "name": "IAPA 1700P"
+      "name": "Displaced:  How Global Systems Shape Refugee Families"
     },
     {
       "code": "IAPA 1700R",
-      "name": "IAPA 1700R"
+      "name": "Inequality, Policy, and Economics"
     },
     {
       "code": "IAPA 1700S",
-      "name": "IAPA 1700S"
+      "name": "Survey of Time: Temporality, Social Theory, and Difference"
     },
     {
       "code": "IAPA 1701M",
-      "name": "IAPA 1701M"
+      "name": "Justice, Gender, and Markets"
     },
     {
       "code": "IAPA 1701N",
-      "name": "IAPA 1701N"
+      "name": "Diplomacy, an Art That Isn't Lost"
     },
     {
       "code": "IAPA 1701V",
-      "name": "IAPA 1701V"
+      "name": "Democratization"
     },
     {
       "code": "IAPA 1701W",
-      "name": "IAPA 1701W"
+      "name": "The Cold War in Latin America"
     },
     {
       "code": "IAPA 1701X",
-      "name": "IAPA 1701X"
+      "name": "American Education Policy in Historical and Comparative Perspective"
     },
     {
       "code": "IAPA 1701Y",
-      "name": "IAPA 1701Y"
+      "name": "Climate Change, Power, & Money"
     },
     {
       "code": "IAPA 1701Z",
-      "name": "IAPA 1701Z"
+      "name": "Animals and War"
     },
     {
       "code": "IAPA 1702D",
-      "name": "IAPA 1702D"
+      "name": "Beyond Refugeehood: Politics of mobility, border regimes, and humanitarianism"
     },
     {
       "code": "IAPA 1702H",
-      "name": "IAPA 1702H"
+      "name": "The Politics of Industrial Transformation"
     },
     {
       "code": "IAPA 1702I",
-      "name": "IAPA 1702I"
+      "name": "Governance from Socialist to Post-socialist China"
     },
     {
       "code": "IAPA 1800D",
-      "name": "IAPA 1800D"
+      "name": "Introduction to Corporate Law and Public Policy"
     },
     {
       "code": "IAPA 1801D",
-      "name": "IAPA 1801D"
+      "name": "Politics & Journalism: A Practical Guide to How We Got Here and Where We\u2019re Going"
     },
     {
       "code": "IAPA 1801F",
-      "name": "IAPA 1801F"
+      "name": "Prison Abolition as Policy"
     },
     {
       "code": "IAPA 1802M",
-      "name": "IAPA 1802M"
+      "name": "Rwanda Past and Present"
     },
     {
       "code": "IAPA 1803",
-      "name": "IAPA 1803"
+      "name": "Humanitarian Response in Modern Conflict"
     },
     {
       "code": "IAPA 1804",
-      "name": "IAPA 1804"
+      "name": "Diplomacy, Crisis, and War in the Modern Era"
     },
     {
       "code": "IAPA 1804A",
-      "name": "IAPA 1804A"
+      "name": "Iran and the Islamic Revolution"
     },
     {
       "code": "IAPA 1804D",
-      "name": "IAPA 1804D"
+      "name": "Legal Methods for Public Policy"
     },
     {
       "code": "IAPA 1804M",
-      "name": "IAPA 1804M"
+      "name": "Overcoming Threats to Human Security"
     },
     {
       "code": "IAPA 1810",
-      "name": "IAPA 1810"
+      "name": "Democratization and Autocratization"
     },
     {
       "code": "IAPA 1811",
-      "name": "IAPA 1811"
+      "name": "Contemporary Digital Policy and Politics"
     },
     {
       "code": "IAPA 1821P",
-      "name": "IAPA 1821P"
+      "name": "Political Psychology of International Relations"
     },
     {
       "code": "IAPA 1816A",
-      "name": "IAPA 1816A"
+      "name": "Senior Honors Seminar"
     },
     {
       "code": "IAPA 1817A",
-      "name": "IAPA 1817A"
+      "name": "Senior Honors Thesis"
     },
     {
       "code": "ANTH 1236",
@@ -1089,155 +1090,155 @@
     },
     {
       "code": "ANTH 1150",
-      "name": "ANTH 1150"
+      "name": "Middle East in Anthropological Perspective"
     },
     {
       "code": "ANTH 1301",
-      "name": "ANTH 1301"
+      "name": "Anthropology of Homelessness"
     },
     {
       "code": "ECON 1500",
-      "name": "ECON 1500"
+      "name": "Current Global Macroeconomic Challenges"
     },
     {
       "code": "ECON 1560",
-      "name": "ECON 1560"
+      "name": "Economic Growth"
     },
     {
       "code": "ENVS 1554",
-      "name": "ENVS 1554"
+      "name": "Farm Planet: Hunger, Development, and the Future of Food and Agriculture"
     },
     {
       "code": "HIST 1267",
-      "name": "HIST 1267"
+      "name": "The Global British Empire, 1600-The Present"
     },
     {
       "code": "IAPA 1401",
-      "name": "IAPA 1401"
+      "name": "Economic Development in Latin America"
     },
     {
       "code": "IAPA 1402",
-      "name": "IAPA 1402"
+      "name": "Beyond Sun, Sea and Sand: Exploring the Contemporary Caribbean"
     },
     {
       "code": "JUDS 1711",
-      "name": "JUDS 1711"
+      "name": "History of the State of Israel: 1948 to the Present"
     },
     {
       "code": "HSP 1460",
-      "name": "HSP 1460"
+      "name": "Public Health Law and Policy"
     },
     {
       "code": "POLS 1290",
-      "name": "POLS 1290"
+      "name": "The Rise of China"
     },
     {
       "code": "POLS 1440",
-      "name": "POLS 1440"
+      "name": "Security, Governance and Development in Africa"
     },
     {
       "code": "SOC 1270",
-      "name": "SOC 1270"
+      "name": "Race, Class, and Ethnicity in the Modern World"
     },
     {
       "code": "URBN 1871G",
-      "name": "URBN 1871G"
+      "name": "Urban Asia: Beyond Tradition, Modernity, and Crisis"
     },
     {
       "code": "CSCI 1800",
-      "name": "CSCI 1800"
+      "name": "Cybersecurity and International Relations"
     },
     {
       "code": "ECON 1340",
-      "name": "ECON 1340"
+      "name": "Economics of Global Warming"
     },
     {
       "code": "HIST 1080",
-      "name": "HIST 1080"
+      "name": "Humanitarianism and Conflict in Africa"
     },
     {
       "code": "IAPA 1201B",
-      "name": "IAPA 1201B"
+      "name": "Victory, Defeat, and Everything In-Between:  History, Strategy, and Politics"
     },
     {
       "code": "IAPA 1203",
-      "name": "IAPA 1203"
+      "name": "History of American Intervention"
     },
     {
       "code": "POLS 1225",
-      "name": "POLS 1225"
+      "name": "Nuclear Weapons"
     },
     {
       "code": "POLS 1500",
-      "name": "POLS 1500"
+      "name": "The International Law and Politics of Human Rights"
     },
     {
       "code": "POLS 1822I",
-      "name": "POLS 1822I"
+      "name": "Geopolitics of Oil and Energy"
     },
     {
       "code": "SOC 1128",
-      "name": "SOC 1128"
+      "name": "Migrants, Refugees and the Mediterranean"
     },
     {
       "code": "UNIV 1001",
-      "name": "UNIV 1001"
+      "name": "The Israeli-Palestinian Conflict: Contested Narratives"
     },
     {
       "code": "AFRI 1170",
-      "name": "AFRI 1170"
+      "name": "African American Women's History"
     },
     {
       "code": "ANTH 1300",
-      "name": "ANTH 1300"
+      "name": "Anthropology of Addictions and Recovery"
     },
     {
       "code": "CSCI 1580",
-      "name": "CSCI 1580"
+      "name": "Information Retrieval and Web Search"
     },
     {
       "code": "ECON 1385",
-      "name": "ECON 1385"
+      "name": "Intergenerational Poverty in America"
     },
     {
       "code": "ECON 1570",
-      "name": "ECON 1570"
+      "name": "The Economics of Latin Americans"
     },
     {
       "code": "ENVS 1400",
-      "name": "ENVS 1400"
+      "name": "Sustainable Design in the Built Environment"
     },
     {
       "code": "HIST 1121",
-      "name": "HIST 1121"
+      "name": "The Modern Chinese Nation: An Idea and Its Limits"
     },
     {
       "code": "HIST 1531",
-      "name": "HIST 1531"
+      "name": "Mass Movements, Modern Politics: From Labor to the New Right in America"
     },
     {
       "code": "HSP 1450",
-      "name": "HSP 1450"
+      "name": "COVID-19, Public Health, and Health Policy"
     },
     {
       "code": "HSP 1681",
-      "name": "HSP 1681"
+      "name": "Reproductive Health, Rights and Justice"
     },
     {
       "code": "POLS 1090",
-      "name": "POLS 1090"
+      "name": "Polarized Politics"
     },
     {
       "code": "POLS 1280",
-      "name": "POLS 1280"
+      "name": "The Rise of India: History, Politics, Economics and Society"
     },
     {
       "code": "SOC 1116",
-      "name": "SOC 1116"
+      "name": "Criminal Courts and the Law in an Era of Mass Incarceration"
     },
     {
       "code": "URBN 1250",
-      "name": "URBN 1250"
+      "name": "The Political Foundations of the City"
     }
   ]
 }

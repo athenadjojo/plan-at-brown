@@ -2,13 +2,14 @@
   "concentration": "Linguistics",
   "slug": "ling",
   "url": "https://bulletin.brown.edu/the-college/concentrations/ling/",
+  "description": "Language is a uniquely human capacity that enables us to communicate a limitless set of messages on any topic.\u00a0While human languages can differ greatly in certain respects, all are intricate, complex, rule-governed systems.\u00a0Linguistics is the scientific study of these systems, their use for communication in rich social settings, and their cognitive underpinnings.\u00a0The linguistics concentration at Brown introduces students with the basic concepts in linguistics that are necessary to describe human languages and theorize about them:\u00a0how sound is organized in language, how sounds and gestures combine to form meaningful units, and how language is used for communication.\u00a0It encourages students to acquire an appreciation of the different kinds of variation in human languages:\u00a0what is common to different languages, how languages can differ from one another, and how speech communities and individuals vary in their use of language.\u00a0It familiarizes students with a wide variety of topics in linguistics, including psycholinguistics, language change, language and society, computational approaches to language, and philosophy of language.\u00a0Furthermore, the concentration lets students acquire hands-on experience in understanding and solving open-ended questions in linguistics, which would include comparing the merits of competing theoretical approaches, and teaches them how to communicate linguistic arguments effectively in writing and in presentations. Students who wish to pursue one or more aspects of Linguistics in greater depth than required by the Bachelor of Arts, and to focus on some of the more technical, computational, and/or experimental areas of the field may choose to take a Bachelor of Science in Linguistics instead.\u00a0Students will form a collection of classes that combines expertise in linguistics and in adjacent fields.\u00a0For instance, students may combine their interest in linguistics with classes in cognitive science, philosophy, or computer science, with approval from the concentration advisor.",
   "tracks": [
     {
       "id": "a_b__requirements___10_courses_",
       "name": "A.B. Requirements  (10 courses)",
       "groups": [
         {
-          "name": "Gateway Course 1",
+          "name": "Gateway Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "LING 0100",
-                  "name": "LING 0100"
+                  "name": "Introduction to Linguistics"
                 }
               ],
               "count": null,
@@ -28,7 +29,7 @@
           "notes": []
         },
         {
-          "name": "Phonetics/Phonology Courses 1",
+          "name": "Phonetics/Phonology Courses",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -38,7 +39,7 @@
               "courses": [
                 {
                   "code": "LING 1200",
-                  "name": "LING 1200"
+                  "name": "Phonology"
                 }
               ],
               "count": null,
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "LING 1210",
-                  "name": "LING 1210"
+                  "name": "Phonetics"
                 }
               ],
               "count": null,
@@ -60,7 +61,7 @@
           "notes": []
         },
         {
-          "name": "Syntax Courses 1",
+          "name": "Syntax Courses",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -70,7 +71,7 @@
               "courses": [
                 {
                   "code": "LING 1310",
-                  "name": "LING 1310"
+                  "name": "Introduction to Syntax"
                 }
               ],
               "count": null,
@@ -82,7 +83,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -92,7 +93,7 @@
           "notes": []
         },
         {
-          "name": "Semantics/Pragmatics Courses 1",
+          "name": "Semantics/Pragmatics Courses",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "LING 1410",
-                  "name": "LING 1410"
+                  "name": "Lexical Semantics"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "LING 1440",
-                  "name": "LING 1440"
+                  "name": "Compositional Semantics"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "LING 1412",
-                  "name": "LING 1412"
+                  "name": "Pragmatics"
                 }
               ],
               "count": null,
@@ -136,7 +137,7 @@
           "notes": []
         },
         {
-          "name": "Linguistic Variation Courses 1",
+          "name": "Linguistic Variation Courses",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "LING 1500",
-                  "name": "LING 1500"
+                  "name": "Sociolinguistics"
                 }
               ],
               "count": null,
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "LING 0511",
-                  "name": "LING 0511"
+                  "name": "Language and Gender"
                 }
               ],
               "count": null,
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -194,7 +195,7 @@
               "courses": [
                 {
                   "code": "CPSY 1650",
-                  "name": "CPSY 1650"
+                  "name": "Child Language Acquisition"
                 }
               ],
               "count": null,
@@ -206,7 +207,7 @@
               "courses": [
                 {
                   "code": "CPSY 1660",
-                  "name": "CPSY 1660"
+                  "name": "Learning Compositional Language"
                 }
               ],
               "count": null,
@@ -218,7 +219,7 @@
               "courses": [
                 {
                   "code": "CPSY 1800",
-                  "name": "CPSY 1800"
+                  "name": "Language Processing"
                 }
               ],
               "count": null,
@@ -230,7 +231,7 @@
               "courses": [
                 {
                   "code": "CPSY 1850",
-                  "name": "CPSY 1850"
+                  "name": "Language Processing in Humans and Machines"
                 }
               ],
               "count": null,
@@ -242,7 +243,7 @@
               "courses": [
                 {
                   "code": "CPSY 1890",
-                  "name": "CPSY 1890"
+                  "name": "Laboratory in Psycholinguistics"
                 }
               ],
               "count": null,
@@ -252,7 +253,7 @@
           "notes": []
         },
         {
-          "name": "5 additional appropriate electives forming a thematically related set to be determined in consultation with the Concentration Advisor. At least one of these must be drawn from the list of advanced courses listed below, and we strongly recommend that at least one course be an appropriate methods and a topics course.  No more than 2 of these courses may be drawn from below 1000 level courses. The electives can be drawn from any of the above courses, or any of the other linguistic/language related courses in the program. Electives may also be drawn from courses in other departments in consultation with the Concentration Advisor; a list of courses which standardly count towards the Linguistics Concentration (provided they form part of the thematically related set) is appended below. 5",
+          "name": "5 additional appropriate electives forming a thematically related set to be determined in consultation with the Concentration Advisor. At least one of these must be drawn from the list of advanced courses listed below, and we strongly recommend that at least one course be an appropriate methods and a topics course.  No more than 2 of these courses may be drawn from below 1000 level courses. The electives can be drawn from any of the above courses, or any of the other linguistic/language related courses in the program. Electives may also be drawn from courses in other departments in consultation with the Concentration Advisor; a list of courses which standardly count towards the Linguistics Concentration (provided they form part of the thematically related set) is appended below.",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -262,7 +263,7 @@
               "courses": [
                 {
                   "code": "CPSY 1650",
-                  "name": "CPSY 1650"
+                  "name": "Child Language Acquisition"
                 }
               ],
               "count": null,
@@ -274,7 +275,7 @@
               "courses": [
                 {
                   "code": "SLAV 1300",
-                  "name": "SLAV 1300"
+                  "name": "Language and Politics in East Europe and Russia"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "LING 1440",
-                  "name": "LING 1440"
+                  "name": "Compositional Semantics"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "LING 1771",
-                  "name": "LING 1771"
+                  "name": "Introduction to Corpus Linguistics"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "LING 1870",
-                  "name": "LING 1870"
+                  "name": "Linguistic Field Methods"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "CSCI 1460",
-                  "name": "CSCI 1460"
+                  "name": "Computational Linguistics"
                 }
               ],
               "count": null,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "CPSY 1890",
-                  "name": "CPSY 1890"
+                  "name": "Laboratory in Psycholinguistics"
                 }
               ],
               "count": null,
@@ -364,168 +365,168 @@
           "type": "required",
           "course": {
             "code": "LING 0100",
-            "name": "LING 0100"
+            "name": "Introduction to Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1200",
-            "name": "LING 1200"
+            "name": "Phonology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1210",
-            "name": "LING 1210"
+            "name": "Phonetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1310",
-            "name": "LING 1310"
+            "name": "Introduction to Syntax"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1410",
-            "name": "LING 1410"
+            "name": "Lexical Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1440",
-            "name": "LING 1440"
+            "name": "Compositional Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1412",
-            "name": "LING 1412"
+            "name": "Pragmatics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1500",
-            "name": "LING 1500"
+            "name": "Sociolinguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 0511",
-            "name": "LING 0511"
+            "name": "Language and Gender"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1650",
-            "name": "CPSY 1650"
+            "name": "Child Language Acquisition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1660",
-            "name": "CPSY 1660"
+            "name": "Learning Compositional Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1800",
-            "name": "CPSY 1800"
+            "name": "Language Processing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1850",
-            "name": "CPSY 1850"
+            "name": "Language Processing in Humans and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1890",
-            "name": "CPSY 1890"
+            "name": "Laboratory in Psycholinguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1650",
-            "name": "CPSY 1650"
+            "name": "Child Language Acquisition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SLAV 1300",
-            "name": "SLAV 1300"
+            "name": "Language and Politics in East Europe and Russia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1440",
-            "name": "LING 1440"
+            "name": "Compositional Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1771",
-            "name": "LING 1771"
+            "name": "Introduction to Corpus Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1870",
-            "name": "LING 1870"
+            "name": "Linguistic Field Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1460",
-            "name": "CSCI 1460"
+            "name": "Computational Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1890",
-            "name": "CPSY 1890"
+            "name": "Laboratory in Psycholinguistics"
           }
         }
       ],
@@ -536,7 +537,7 @@
       "name": "ScB Requirements (16 courses)",
       "groups": [
         {
-          "name": "Gateway course 1",
+          "name": "Gateway course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -546,7 +547,7 @@
               "courses": [
                 {
                   "code": "LING 0100",
-                  "name": "LING 0100"
+                  "name": "Introduction to Linguistics"
                 }
               ],
               "count": null,
@@ -556,7 +557,7 @@
           "notes": []
         },
         {
-          "name": "At least one course in phonetics / phonology, such as: 1",
+          "name": "At least one course in phonetics / phonology, such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -566,7 +567,7 @@
               "courses": [
                 {
                   "code": "LING 1200",
-                  "name": "LING 1200"
+                  "name": "Phonology"
                 }
               ],
               "count": null,
@@ -578,7 +579,7 @@
               "courses": [
                 {
                   "code": "LING 1210",
-                  "name": "LING 1210"
+                  "name": "Phonetics"
                 }
               ],
               "count": null,
@@ -588,7 +589,7 @@
           "notes": []
         },
         {
-          "name": "At least one course in syntax, such as: 1",
+          "name": "At least one course in syntax, such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -598,7 +599,7 @@
               "courses": [
                 {
                   "code": "LING 1310",
-                  "name": "LING 1310"
+                  "name": "Introduction to Syntax"
                 }
               ],
               "count": null,
@@ -610,7 +611,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -620,7 +621,7 @@
           "notes": []
         },
         {
-          "name": "At least one course in semantics / pragmatics, such as: 1",
+          "name": "At least one course in semantics / pragmatics, such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -630,7 +631,7 @@
               "courses": [
                 {
                   "code": "LING 1410",
-                  "name": "LING 1410"
+                  "name": "Lexical Semantics"
                 }
               ],
               "count": null,
@@ -642,7 +643,7 @@
               "courses": [
                 {
                   "code": "LING 1412",
-                  "name": "LING 1412"
+                  "name": "Pragmatics"
                 }
               ],
               "count": null,
@@ -654,7 +655,7 @@
               "courses": [
                 {
                   "code": "LING 1440",
-                  "name": "LING 1440"
+                  "name": "Compositional Semantics"
                 }
               ],
               "count": null,
@@ -664,7 +665,7 @@
           "notes": []
         },
         {
-          "name": "At least one course in linguistics variation, such as: 1",
+          "name": "At least one course in linguistics variation, such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -674,7 +675,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -686,7 +687,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -698,7 +699,7 @@
               "courses": [
                 {
                   "code": "CPSY 1650",
-                  "name": "CPSY 1650"
+                  "name": "Child Language Acquisition"
                 }
               ],
               "count": null,
@@ -710,7 +711,7 @@
               "courses": [
                 {
                   "code": "CPSY 1660",
-                  "name": "CPSY 1660"
+                  "name": "Learning Compositional Language"
                 }
               ],
               "count": null,
@@ -722,7 +723,7 @@
               "courses": [
                 {
                   "code": "CPSY 1800",
-                  "name": "CPSY 1800"
+                  "name": "Language Processing"
                 }
               ],
               "count": null,
@@ -734,7 +735,7 @@
               "courses": [
                 {
                   "code": "CPSY 1890",
-                  "name": "CPSY 1890"
+                  "name": "Laboratory in Psycholinguistics"
                 }
               ],
               "count": null,
@@ -744,7 +745,7 @@
           "notes": []
         },
         {
-          "name": "Three electives specifically in the focus area, such as: 3",
+          "name": "Three electives specifically in the focus area, such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -754,7 +755,7 @@
               "courses": [
                 {
                   "code": "LING 1741",
-                  "name": "LING 1741"
+                  "name": "Information Theory in Language"
                 }
               ],
               "count": null,
@@ -766,7 +767,7 @@
               "courses": [
                 {
                   "code": "LING 1771",
-                  "name": "LING 1771"
+                  "name": "Introduction to Corpus Linguistics"
                 }
               ],
               "count": null,
@@ -778,7 +779,7 @@
               "courses": [
                 {
                   "code": "CSCI 1460",
-                  "name": "CSCI 1460"
+                  "name": "Computational Linguistics"
                 }
               ],
               "count": null,
@@ -790,7 +791,7 @@
               "courses": [
                 {
                   "code": "CPSY 1800",
-                  "name": "CPSY 1800"
+                  "name": "Language Processing"
                 }
               ],
               "count": null,
@@ -802,7 +803,7 @@
               "courses": [
                 {
                   "code": "CPSY 1850",
-                  "name": "CPSY 1850"
+                  "name": "Language Processing in Humans and Machines"
                 }
               ],
               "count": null,
@@ -814,7 +815,7 @@
               "courses": [
                 {
                   "code": "LING 1310",
-                  "name": "LING 1310"
+                  "name": "Introduction to Syntax"
                 }
               ],
               "count": null,
@@ -826,7 +827,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -838,7 +839,7 @@
               "courses": [
                 {
                   "code": "CPSY 1385",
-                  "name": "CPSY 1385"
+                  "name": "Topics in Language Acquisition: Language Acquisition and Cognitive Development"
                 }
               ],
               "count": null,
@@ -850,7 +851,7 @@
               "courses": [
                 {
                   "code": "CPSY 1650",
-                  "name": "CPSY 1650"
+                  "name": "Child Language Acquisition"
                 }
               ],
               "count": null,
@@ -862,7 +863,7 @@
               "courses": [
                 {
                   "code": "CPSY 1660",
-                  "name": "CPSY 1660"
+                  "name": "Learning Compositional Language"
                 }
               ],
               "count": null,
@@ -874,7 +875,7 @@
               "courses": [
                 {
                   "code": "CPSY 1890",
-                  "name": "CPSY 1890"
+                  "name": "Laboratory in Psycholinguistics"
                 }
               ],
               "count": null,
@@ -886,7 +887,7 @@
               "courses": [
                 {
                   "code": "LING 1270",
-                  "name": "LING 1270"
+                  "name": "Laboratory in Phonetics"
                 }
               ],
               "count": null,
@@ -898,7 +899,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -910,7 +911,7 @@
               "courses": [
                 {
                   "code": "LING 1410",
-                  "name": "LING 1410"
+                  "name": "Lexical Semantics"
                 }
               ],
               "count": null,
@@ -922,7 +923,7 @@
               "courses": [
                 {
                   "code": "LING 1412",
-                  "name": "LING 1412"
+                  "name": "Pragmatics"
                 }
               ],
               "count": null,
@@ -934,7 +935,7 @@
               "courses": [
                 {
                   "code": "LING 1440",
-                  "name": "LING 1440"
+                  "name": "Compositional Semantics"
                 }
               ],
               "count": null,
@@ -946,7 +947,7 @@
               "courses": [
                 {
                   "code": "PHIL 0990X",
-                  "name": "PHIL 0990X"
+                  "name": "Conditionals"
                 }
               ],
               "count": null,
@@ -963,7 +964,7 @@
           "notes": []
         },
         {
-          "name": "Four non-linguistic focus area electives, such as: 4",
+          "name": "Four non-linguistic focus area electives, such as:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -973,7 +974,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -985,7 +986,7 @@
               "courses": [
                 {
                   "code": "CSCI 0220",
-                  "name": "CSCI 0220"
+                  "name": "Introduction to Discrete Structures and Probability"
                 }
               ],
               "count": null,
@@ -997,7 +998,7 @@
               "courses": [
                 {
                   "code": "CSCI 1410",
-                  "name": "CSCI 1410"
+                  "name": "Artificial Intelligence"
                 }
               ],
               "count": null,
@@ -1009,7 +1010,7 @@
               "courses": [
                 {
                   "code": "CSCI 1420",
-                  "name": "CSCI 1420"
+                  "name": "Machine Learning"
                 }
               ],
               "count": null,
@@ -1021,7 +1022,7 @@
               "courses": [
                 {
                   "code": "CSCI 1951A",
-                  "name": "CSCI 1951A"
+                  "name": "Data Science"
                 }
               ],
               "count": null,
@@ -1033,7 +1034,7 @@
               "courses": [
                 {
                   "code": "STAT 1560",
-                  "name": "STAT 1560"
+                  "name": "Using R for Data Analysis"
                 }
               ],
               "count": null,
@@ -1045,7 +1046,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -1057,7 +1058,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -1069,7 +1070,7 @@
               "courses": [
                 {
                   "code": "CPSY 2908",
-                  "name": "CPSY 2908"
+                  "name": "Multivariate Statistical Techniques"
                 }
               ],
               "count": null,
@@ -1081,7 +1082,7 @@
               "courses": [
                 {
                   "code": "CSCI 1460",
-                  "name": "CSCI 1460"
+                  "name": "Computational Linguistics"
                 }
               ],
               "count": null,
@@ -1093,7 +1094,7 @@
               "courses": [
                 {
                   "code": "NEUR 0680",
-                  "name": "NEUR 0680"
+                  "name": "Introduction to Computational Neuroscience"
                 }
               ],
               "count": null,
@@ -1105,7 +1106,7 @@
               "courses": [
                 {
                   "code": "PHIL 1770",
-                  "name": "PHIL 1770"
+                  "name": "Philosophy of Mind"
                 }
               ],
               "count": null,
@@ -1117,7 +1118,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -1129,7 +1130,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1141,7 +1142,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -1153,7 +1154,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -1165,7 +1166,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1177,7 +1178,7 @@
               "courses": [
                 {
                   "code": "CPSY 1610",
-                  "name": "CPSY 1610"
+                  "name": "Cognitive Development"
                 }
               ],
               "count": null,
@@ -1189,7 +1190,7 @@
               "courses": [
                 {
                   "code": "CPSY 1620",
-                  "name": "CPSY 1620"
+                  "name": "Developmental Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1201,7 +1202,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design"
                 }
               ],
               "count": null,
@@ -1213,7 +1214,7 @@
               "courses": [
                 {
                   "code": "MATH 0750",
-                  "name": "MATH 0750"
+                  "name": "Introduction to Higher Mathematics"
                 }
               ],
               "count": null,
@@ -1225,7 +1226,7 @@
               "courses": [
                 {
                   "code": "PHIL 0990T",
-                  "name": "PHIL 0990T"
+                  "name": "Paradox and Infinity"
                 }
               ],
               "count": null,
@@ -1237,7 +1238,7 @@
               "courses": [
                 {
                   "code": "PHIL 1630",
-                  "name": "PHIL 1630"
+                  "name": "Mathematical Logic"
                 }
               ],
               "count": null,
@@ -1249,7 +1250,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1266,7 +1267,7 @@
           "notes": []
         },
         {
-          "name": "Three additional electives in Linguistics, preferably outside the main focus area, such as: 3",
+          "name": "Three additional electives in Linguistics, preferably outside the main focus area, such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -1276,7 +1277,7 @@
               "courses": [
                 {
                   "code": "LING 1311",
-                  "name": "LING 1311"
+                  "name": "Linguistic Variation and Universals"
                 }
               ],
               "count": null,
@@ -1288,7 +1289,7 @@
               "courses": [
                 {
                   "code": "LING 1440",
-                  "name": "LING 1440"
+                  "name": "Compositional Semantics"
                 }
               ],
               "count": null,
@@ -1300,7 +1301,7 @@
               "courses": [
                 {
                   "code": "LING 1870",
-                  "name": "LING 1870"
+                  "name": "Linguistic Field Methods"
                 }
               ],
               "count": null,
@@ -1312,7 +1313,7 @@
               "courses": [
                 {
                   "code": "ANTH 1800",
-                  "name": "ANTH 1800"
+                  "name": "Sociolinguistics, Discourse and Dialogue"
                 }
               ],
               "count": null,
@@ -1324,7 +1325,7 @@
               "courses": [
                 {
                   "code": "SLAV 1300",
-                  "name": "SLAV 1300"
+                  "name": "Language and Politics in East Europe and Russia"
                 }
               ],
               "count": null,
@@ -1336,7 +1337,7 @@
               "courses": [
                 {
                   "code": "CPSY 1660",
-                  "name": "CPSY 1660"
+                  "name": "Learning Compositional Language"
                 }
               ],
               "count": null,
@@ -1348,7 +1349,7 @@
               "courses": [
                 {
                   "code": "CPSY 1850",
-                  "name": "CPSY 1850"
+                  "name": "Language Processing in Humans and Machines"
                 }
               ],
               "count": null,
@@ -1360,7 +1361,7 @@
               "courses": [
                 {
                   "code": "LING 1771",
-                  "name": "LING 1771"
+                  "name": "Introduction to Corpus Linguistics"
                 }
               ],
               "count": null,
@@ -1372,7 +1373,7 @@
               "courses": [
                 {
                   "code": "LING 1741",
-                  "name": "LING 1741"
+                  "name": "Information Theory in Language"
                 }
               ],
               "count": null,
@@ -1384,7 +1385,7 @@
               "courses": [
                 {
                   "code": "CPSY 1800",
-                  "name": "CPSY 1800"
+                  "name": "Language Processing"
                 }
               ],
               "count": null,
@@ -1401,7 +1402,7 @@
           "notes": []
         },
         {
-          "name": "One independent study / capstone requirement 1",
+          "name": "One independent study / capstone requirement",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1411,7 +1412,7 @@
               "courses": [
                 {
                   "code": "LING 1970",
-                  "name": "LING 1970"
+                  "name": "Independent Research in Linguistics"
                 }
               ],
               "count": null,
@@ -1426,462 +1427,462 @@
           "type": "required",
           "course": {
             "code": "LING 0100",
-            "name": "LING 0100"
+            "name": "Introduction to Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1200",
-            "name": "LING 1200"
+            "name": "Phonology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1210",
-            "name": "LING 1210"
+            "name": "Phonetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1310",
-            "name": "LING 1310"
+            "name": "Introduction to Syntax"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1410",
-            "name": "LING 1410"
+            "name": "Lexical Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1412",
-            "name": "LING 1412"
+            "name": "Pragmatics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1440",
-            "name": "LING 1440"
+            "name": "Compositional Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1650",
-            "name": "CPSY 1650"
+            "name": "Child Language Acquisition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1660",
-            "name": "CPSY 1660"
+            "name": "Learning Compositional Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1800",
-            "name": "CPSY 1800"
+            "name": "Language Processing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1890",
-            "name": "CPSY 1890"
+            "name": "Laboratory in Psycholinguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1741",
-            "name": "LING 1741"
+            "name": "Information Theory in Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1771",
-            "name": "LING 1771"
+            "name": "Introduction to Corpus Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1460",
-            "name": "CSCI 1460"
+            "name": "Computational Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1800",
-            "name": "CPSY 1800"
+            "name": "Language Processing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1850",
-            "name": "CPSY 1850"
+            "name": "Language Processing in Humans and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1310",
-            "name": "LING 1310"
+            "name": "Introduction to Syntax"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1385",
-            "name": "CPSY 1385"
+            "name": "Topics in Language Acquisition: Language Acquisition and Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1650",
-            "name": "CPSY 1650"
+            "name": "Child Language Acquisition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1660",
-            "name": "CPSY 1660"
+            "name": "Learning Compositional Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1890",
-            "name": "CPSY 1890"
+            "name": "Laboratory in Psycholinguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1270",
-            "name": "LING 1270"
+            "name": "Laboratory in Phonetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1410",
-            "name": "LING 1410"
+            "name": "Lexical Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1412",
-            "name": "LING 1412"
+            "name": "Pragmatics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1440",
-            "name": "LING 1440"
+            "name": "Compositional Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0990X",
-            "name": "PHIL 0990X"
+            "name": "Conditionals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0220",
-            "name": "CSCI 0220"
+            "name": "Introduction to Discrete Structures and Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1410",
-            "name": "CSCI 1410"
+            "name": "Artificial Intelligence"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1420",
-            "name": "CSCI 1420"
+            "name": "Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1951A",
-            "name": "CSCI 1951A"
+            "name": "Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1560",
-            "name": "STAT 1560"
+            "name": "Using R for Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 2908",
-            "name": "CPSY 2908"
+            "name": "Multivariate Statistical Techniques"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1460",
-            "name": "CSCI 1460"
+            "name": "Computational Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0680",
-            "name": "NEUR 0680"
+            "name": "Introduction to Computational Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1770",
-            "name": "PHIL 1770"
+            "name": "Philosophy of Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1610",
-            "name": "CPSY 1610"
+            "name": "Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1620",
-            "name": "CPSY 1620"
+            "name": "Developmental Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0750",
-            "name": "MATH 0750"
+            "name": "Introduction to Higher Mathematics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0990T",
-            "name": "PHIL 0990T"
+            "name": "Paradox and Infinity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1630",
-            "name": "PHIL 1630"
+            "name": "Mathematical Logic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1311",
-            "name": "LING 1311"
+            "name": "Linguistic Variation and Universals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1440",
-            "name": "LING 1440"
+            "name": "Compositional Semantics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1870",
-            "name": "LING 1870"
+            "name": "Linguistic Field Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 1800",
-            "name": "ANTH 1800"
+            "name": "Sociolinguistics, Discourse and Dialogue"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SLAV 1300",
-            "name": "SLAV 1300"
+            "name": "Language and Politics in East Europe and Russia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1660",
-            "name": "CPSY 1660"
+            "name": "Learning Compositional Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1850",
-            "name": "CPSY 1850"
+            "name": "Language Processing in Humans and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1771",
-            "name": "LING 1771"
+            "name": "Introduction to Corpus Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1741",
-            "name": "LING 1741"
+            "name": "Information Theory in Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1800",
-            "name": "CPSY 1800"
+            "name": "Language Processing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LING 1970",
-            "name": "LING 1970"
+            "name": "Independent Research in Linguistics"
           }
         }
       ],
@@ -1891,199 +1892,199 @@
   "all_courses": [
     {
       "code": "LING 0100",
-      "name": "LING 0100"
+      "name": "Introduction to Linguistics"
     },
     {
       "code": "LING 1200",
-      "name": "LING 1200"
+      "name": "Phonology"
     },
     {
       "code": "LING 1210",
-      "name": "LING 1210"
+      "name": "Phonetics"
     },
     {
       "code": "LING 1310",
-      "name": "LING 1310"
+      "name": "Introduction to Syntax"
     },
     {
       "code": "LING 1311",
-      "name": "LING 1311"
+      "name": "Linguistic Variation and Universals"
     },
     {
       "code": "LING 1410",
-      "name": "LING 1410"
+      "name": "Lexical Semantics"
     },
     {
       "code": "LING 1440",
-      "name": "LING 1440"
+      "name": "Compositional Semantics"
     },
     {
       "code": "LING 1412",
-      "name": "LING 1412"
+      "name": "Pragmatics"
     },
     {
       "code": "LING 1500",
-      "name": "LING 1500"
+      "name": "Sociolinguistics"
     },
     {
       "code": "LING 0511",
-      "name": "LING 0511"
+      "name": "Language and Gender"
     },
     {
       "code": "CPSY 0800",
-      "name": "CPSY 0800"
+      "name": "Language and the Mind"
     },
     {
       "code": "CPSY 1650",
-      "name": "CPSY 1650"
+      "name": "Child Language Acquisition"
     },
     {
       "code": "CPSY 1660",
-      "name": "CPSY 1660"
+      "name": "Learning Compositional Language"
     },
     {
       "code": "CPSY 1800",
-      "name": "CPSY 1800"
+      "name": "Language Processing"
     },
     {
       "code": "CPSY 1850",
-      "name": "CPSY 1850"
+      "name": "Language Processing in Humans and Machines"
     },
     {
       "code": "CPSY 1890",
-      "name": "CPSY 1890"
+      "name": "Laboratory in Psycholinguistics"
     },
     {
       "code": "SLAV 1300",
-      "name": "SLAV 1300"
+      "name": "Language and Politics in East Europe and Russia"
     },
     {
       "code": "LING 1771",
-      "name": "LING 1771"
+      "name": "Introduction to Corpus Linguistics"
     },
     {
       "code": "LING 1870",
-      "name": "LING 1870"
+      "name": "Linguistic Field Methods"
     },
     {
       "code": "CSCI 1460",
-      "name": "CSCI 1460"
+      "name": "Computational Linguistics"
     },
     {
       "code": "LING 1741",
-      "name": "LING 1741"
+      "name": "Information Theory in Language"
     },
     {
       "code": "CPSY 1385",
-      "name": "CPSY 1385"
+      "name": "Topics in Language Acquisition: Language Acquisition and Cognitive Development"
     },
     {
       "code": "LING 1270",
-      "name": "LING 1270"
+      "name": "Laboratory in Phonetics"
     },
     {
       "code": "PHIL 0990X",
-      "name": "PHIL 0990X"
+      "name": "Conditionals"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "CSCI 0220",
-      "name": "CSCI 0220"
+      "name": "Introduction to Discrete Structures and Probability"
     },
     {
       "code": "CSCI 1410",
-      "name": "CSCI 1410"
+      "name": "Artificial Intelligence"
     },
     {
       "code": "CSCI 1420",
-      "name": "CSCI 1420"
+      "name": "Machine Learning"
     },
     {
       "code": "CSCI 1951A",
-      "name": "CSCI 1951A"
+      "name": "Data Science"
     },
     {
       "code": "STAT 1560",
-      "name": "STAT 1560"
+      "name": "Using R for Data Analysis"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "CPSY 0950",
-      "name": "CPSY 0950"
+      "name": "Introduction to programming"
     },
     {
       "code": "CPSY 2908",
-      "name": "CPSY 2908"
+      "name": "Multivariate Statistical Techniques"
     },
     {
       "code": "NEUR 0680",
-      "name": "NEUR 0680"
+      "name": "Introduction to Computational Neuroscience"
     },
     {
       "code": "PHIL 1770",
-      "name": "PHIL 1770"
+      "name": "Philosophy of Mind"
     },
     {
       "code": "CPSY 0200",
-      "name": "CPSY 0200"
+      "name": "Human Cognition"
     },
     {
       "code": "CPSY 0400",
-      "name": "CPSY 0400"
+      "name": "Cognitive Neuroscience"
     },
     {
       "code": "CPSY 0610",
-      "name": "CPSY 0610"
+      "name": "Children's Thinking: The Nature of Cognitive Development"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "CPSY 1610",
-      "name": "CPSY 1610"
+      "name": "Cognitive Development"
     },
     {
       "code": "CPSY 1620",
-      "name": "CPSY 1620"
+      "name": "Developmental Cognitive Neuroscience"
     },
     {
       "code": "CPSY 1900",
-      "name": "CPSY 1900"
+      "name": "Research Methods And Design"
     },
     {
       "code": "MATH 0750",
-      "name": "MATH 0750"
+      "name": "Introduction to Higher Mathematics"
     },
     {
       "code": "PHIL 0990T",
-      "name": "PHIL 0990T"
+      "name": "Paradox and Infinity"
     },
     {
       "code": "PHIL 1630",
-      "name": "PHIL 1630"
+      "name": "Mathematical Logic"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "ANTH 1800",
-      "name": "ANTH 1800"
+      "name": "Sociolinguistics, Discourse and Dialogue"
     },
     {
       "code": "LING 1970",
-      "name": "LING 1970"
+      "name": "Independent Research in Linguistics"
     }
   ]
 }

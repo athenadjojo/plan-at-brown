@@ -2,6 +2,7 @@
   "concentration": "Italian Studies",
   "slug": "ital",
   "url": "https://bulletin.brown.edu/the-college/concentrations/ital/",
+  "description": "Inherently interdisciplinary, the Italian Studies concentration allows students to strengthen their language skills in Italian and deepen their knowledge of Italian literature, history, art, and culture. Most concentrators have some background in Italian language. However, it is possible to concentrate in Italian studies without having studied the language before coming to Brown, although doing so requires an early start. After fulfilling the language requirement by completing up to Italian 0600 (or the equivalent), students enroll in a variety of advanced courses, reflecting the interdisciplinary nature of the concentration. Junior concentrators often study abroad in the Brown Program in Bologna. All senior concentrators participate in the \u201csenior conference\u201d by delivering brief presentations on academic topics of their choice in Italian Studies. Concentrators might also pursue capstone research, writing, or multimedia projects. The concentration requires that students demonstrate proficiency in the Italian language by completing up toITAL\u00a00600(or the equivalent in Bologna).ITAL\u00a00400is the first language course that counts toward the\u00a0ten required courses for the concentration (except for students who place out ofITAL\u00a00400, who will need to complete a total of nine courses). At least four of the ten courses should be taken in Italian.",
   "tracks": [
     {
       "id": "concentration_requirements",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ITAL 0600",
-                  "name": "ITAL 0600"
+                  "name": "Advanced Italian II"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ITAL 0750",
-                  "name": "ITAL 0750"
+                  "name": "Truth on Trial:  Justice in Italy"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ITAL 0751",
-                  "name": "ITAL 0751"
+                  "name": "When Leaders Lie: Machiavelli in International Context"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ITAL 0950",
-                  "name": "ITAL 0950"
+                  "name": "Introduction to Italian Cinema: Italian Film and History"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ITAL 0975",
-                  "name": "ITAL 0975"
+                  "name": "Let\u2019s Eat, Italy: Italian History and Culture through Food"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ITAL 0981",
-                  "name": "ITAL 0981"
+                  "name": "When Leaders Lie: Machiavelli in International Context"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ITAL 1000B",
-                  "name": "ITAL 1000B"
+                  "name": "Reading Recent Italian Fiction"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ITAL 1000D",
-                  "name": "ITAL 1000D"
+                  "name": "Italian National Identity:  Criticisms and Crises"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ITAL 1000E",
-                  "name": "ITAL 1000E"
+                  "name": "Masterpieces of Italian Cinema - Capolavori del cinema italiano"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "ITAL 1010",
-                  "name": "ITAL 1010"
+                  "name": "Dante in English Translation: Dante's World and the Invention of Modernity"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "ITAL 1029",
-                  "name": "ITAL 1029"
+                  "name": "World Cinema in a Global Context"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "ITAL 1030A",
-                  "name": "ITAL 1030A"
+                  "name": "Fellini"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "ITAL 1320",
-                  "name": "ITAL 1320"
+                  "name": "Great Authors and Works of Italian Renaissance: Ariosto\u2019s Orlando furioso"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "ITAL 1340",
-                  "name": "ITAL 1340"
+                  "name": "The Panorama and 19th-Century Visual Culture"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "ITAL 1350A",
-                  "name": "ITAL 1350A"
+                  "name": "Transmedia Storytelling and the New Italian Epic."
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400B",
-                  "name": "ITAL 1400B"
+                  "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400D",
-                  "name": "ITAL 1400D"
+                  "name": "Photography and Literature: Italian Examples of an Uncanny Relationship"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400F",
-                  "name": "ITAL 1400F"
+                  "name": "Twentieth Century Italian Culture"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400H",
-                  "name": "ITAL 1400H"
+                  "name": "Early Modern Italy"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400M",
-                  "name": "ITAL 1400M"
+                  "name": "Giorgio Agamben and Radical Italian Theory"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "ITAL 1400P",
-                  "name": "ITAL 1400P"
+                  "name": "The Southern Question and the Colonial Mediterranean"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "ITAL 1420",
-                  "name": "ITAL 1420"
+                  "name": "Sex and the Cities: Venice, Florence, and Rome, 1450-1800"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "ITAL 1550",
-                  "name": "ITAL 1550"
+                  "name": "Italian Representations of the Holocaust"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "ITAL 1580",
-                  "name": "ITAL 1580"
+                  "name": "Word, Image and Power in Early Modern Italy"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "ITAL 1590",
-                  "name": "ITAL 1590"
+                  "name": "Word, Media, Power in Modern Italy"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "ITAL 1610",
-                  "name": "ITAL 1610"
+                  "name": "The Divina Commedia: Inferno and Purgatorio"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "ITAL 1620",
-                  "name": "ITAL 1620"
+                  "name": "The Divina Commedia: Dante's Paradiso: Justifying a Cosmos"
                 }
               ],
               "count": null,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "ITAL 1920",
-                  "name": "ITAL 1920"
+                  "name": "Independent Study Project (Undergraduate)"
                 }
               ],
               "count": null,
@@ -354,7 +355,7 @@
               "courses": [
                 {
                   "code": "ITAL 1990",
-                  "name": "ITAL 1990"
+                  "name": "Senior Conference"
                 }
               ],
               "count": null,
@@ -366,7 +367,7 @@
               "courses": [
                 {
                   "code": "ITAL 2100",
-                  "name": "ITAL 2100"
+                  "name": "Introduction to Italian Studies"
                 }
               ],
               "count": null,
@@ -378,7 +379,7 @@
               "courses": [
                 {
                   "code": "ITAL 2190B",
-                  "name": "ITAL 2190B"
+                  "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
                 }
               ],
               "count": null,
@@ -390,7 +391,7 @@
               "courses": [
                 {
                   "code": "ITAL 2190G",
-                  "name": "ITAL 2190G"
+                  "name": "Letteratura Italiana del Novecento"
                 }
               ],
               "count": null,
@@ -402,7 +403,7 @@
               "courses": [
                 {
                   "code": "ITAL 2220",
-                  "name": "ITAL 2220"
+                  "name": "New Perspectives on Fascism"
                 }
               ],
               "count": null,
@@ -422,7 +423,7 @@
               "courses": [
                 {
                   "code": "HIAA 0340",
-                  "name": "HIAA 0340"
+                  "name": "Roman Art and Architecture: From Julius Caesar to Hadrian"
                 }
               ],
               "count": null,
@@ -434,7 +435,7 @@
               "courses": [
                 {
                   "code": "HIAA 0550",
-                  "name": "HIAA 0550"
+                  "name": "Painters, Builders, and Bankers in Early Modern Italy"
                 }
               ],
               "count": null,
@@ -446,7 +447,7 @@
               "courses": [
                 {
                   "code": "HIAA 0560",
-                  "name": "HIAA 0560"
+                  "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
                 }
               ],
               "count": null,
@@ -458,7 +459,7 @@
               "courses": [
                 {
                   "code": "HIAA 1200D",
-                  "name": "HIAA 1200D"
+                  "name": "Pompeii"
                 }
               ],
               "count": null,
@@ -470,7 +471,7 @@
               "courses": [
                 {
                   "code": "HIAA 1301",
-                  "name": "HIAA 1301"
+                  "name": "The Palaces of Ancient Rome"
                 }
               ],
               "count": null,
@@ -482,7 +483,7 @@
               "courses": [
                 {
                   "code": "HIAA 1302",
-                  "name": "HIAA 1302"
+                  "name": "Women and Families in the Ancient Mediterranean"
                 }
               ],
               "count": null,
@@ -494,7 +495,7 @@
               "courses": [
                 {
                   "code": "HIAA 1303",
-                  "name": "HIAA 1303"
+                  "name": "Pompeii: Art, Architecture, and Archaeology in the Lost City"
                 }
               ],
               "count": null,
@@ -506,7 +507,7 @@
               "courses": [
                 {
                   "code": "HIAA 1550B",
-                  "name": "HIAA 1550B"
+                  "name": "Topics in the Early History of Printmaking: Festival and Carnival"
                 }
               ],
               "count": null,
@@ -518,7 +519,7 @@
               "courses": [
                 {
                   "code": "HIAA 1560A",
-                  "name": "HIAA 1560A"
+                  "name": "Italy and the Mediterranean"
                 }
               ],
               "count": null,
@@ -530,7 +531,7 @@
               "courses": [
                 {
                   "code": "HIAA 1560C",
-                  "name": "HIAA 1560C"
+                  "name": "Renaissance Venice and the Veneto"
                 }
               ],
               "count": null,
@@ -542,7 +543,7 @@
               "courses": [
                 {
                   "code": "HIAA 1560D",
-                  "name": "HIAA 1560D"
+                  "name": "Siena from Simone Martini to Beccafumi"
                 }
               ],
               "count": null,
@@ -554,7 +555,7 @@
               "courses": [
                 {
                   "code": "HIAA 1560F",
-                  "name": "HIAA 1560F"
+                  "name": "Topics in Italian Visual Culture:  The Visible City, 1400- 1800"
                 }
               ],
               "count": null,
@@ -566,7 +567,7 @@
               "courses": [
                 {
                   "code": "HIAA 1600C",
-                  "name": "HIAA 1600C"
+                  "name": "Italian Baroque Painting and Sculpture"
                 }
               ],
               "count": null,
@@ -578,7 +579,7 @@
               "courses": [
                 {
                   "code": "MUSC 0071",
-                  "name": "MUSC 0071"
+                  "name": "Opera"
                 }
               ],
               "count": null,
@@ -593,329 +594,329 @@
           "type": "required",
           "course": {
             "code": "ITAL 0600",
-            "name": "ITAL 0600"
+            "name": "Advanced Italian II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 0750",
-            "name": "ITAL 0750"
+            "name": "Truth on Trial:  Justice in Italy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 0751",
-            "name": "ITAL 0751"
+            "name": "When Leaders Lie: Machiavelli in International Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 0950",
-            "name": "ITAL 0950"
+            "name": "Introduction to Italian Cinema: Italian Film and History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 0975",
-            "name": "ITAL 0975"
+            "name": "Let\u2019s Eat, Italy: Italian History and Culture through Food"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 0981",
-            "name": "ITAL 0981"
+            "name": "When Leaders Lie: Machiavelli in International Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1000B",
-            "name": "ITAL 1000B"
+            "name": "Reading Recent Italian Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1000D",
-            "name": "ITAL 1000D"
+            "name": "Italian National Identity:  Criticisms and Crises"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1000E",
-            "name": "ITAL 1000E"
+            "name": "Masterpieces of Italian Cinema - Capolavori del cinema italiano"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1010",
-            "name": "ITAL 1010"
+            "name": "Dante in English Translation: Dante's World and the Invention of Modernity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1029",
-            "name": "ITAL 1029"
+            "name": "World Cinema in a Global Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1030A",
-            "name": "ITAL 1030A"
+            "name": "Fellini"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1320",
-            "name": "ITAL 1320"
+            "name": "Great Authors and Works of Italian Renaissance: Ariosto\u2019s Orlando furioso"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1340",
-            "name": "ITAL 1340"
+            "name": "The Panorama and 19th-Century Visual Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1350A",
-            "name": "ITAL 1350A"
+            "name": "Transmedia Storytelling and the New Italian Epic."
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400B",
-            "name": "ITAL 1400B"
+            "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400D",
-            "name": "ITAL 1400D"
+            "name": "Photography and Literature: Italian Examples of an Uncanny Relationship"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400F",
-            "name": "ITAL 1400F"
+            "name": "Twentieth Century Italian Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400H",
-            "name": "ITAL 1400H"
+            "name": "Early Modern Italy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400M",
-            "name": "ITAL 1400M"
+            "name": "Giorgio Agamben and Radical Italian Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1400P",
-            "name": "ITAL 1400P"
+            "name": "The Southern Question and the Colonial Mediterranean"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1420",
-            "name": "ITAL 1420"
+            "name": "Sex and the Cities: Venice, Florence, and Rome, 1450-1800"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1550",
-            "name": "ITAL 1550"
+            "name": "Italian Representations of the Holocaust"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1580",
-            "name": "ITAL 1580"
+            "name": "Word, Image and Power in Early Modern Italy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1590",
-            "name": "ITAL 1590"
+            "name": "Word, Media, Power in Modern Italy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1610",
-            "name": "ITAL 1610"
+            "name": "The Divina Commedia: Inferno and Purgatorio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1620",
-            "name": "ITAL 1620"
+            "name": "The Divina Commedia: Dante's Paradiso: Justifying a Cosmos"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1920",
-            "name": "ITAL 1920"
+            "name": "Independent Study Project (Undergraduate)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 1990",
-            "name": "ITAL 1990"
+            "name": "Senior Conference"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 2100",
-            "name": "ITAL 2100"
+            "name": "Introduction to Italian Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 2190B",
-            "name": "ITAL 2190B"
+            "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 2190G",
-            "name": "ITAL 2190G"
+            "name": "Letteratura Italiana del Novecento"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ITAL 2220",
-            "name": "ITAL 2220"
+            "name": "New Perspectives on Fascism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0340",
-            "name": "HIAA 0340"
+            "name": "Roman Art and Architecture: From Julius Caesar to Hadrian"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0550",
-            "name": "HIAA 0550"
+            "name": "Painters, Builders, and Bankers in Early Modern Italy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0560",
-            "name": "HIAA 0560"
+            "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1200D",
-            "name": "HIAA 1200D"
+            "name": "Pompeii"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1301",
-            "name": "HIAA 1301"
+            "name": "The Palaces of Ancient Rome"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1302",
-            "name": "HIAA 1302"
+            "name": "Women and Families in the Ancient Mediterranean"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1303",
-            "name": "HIAA 1303"
+            "name": "Pompeii: Art, Architecture, and Archaeology in the Lost City"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1550B",
-            "name": "HIAA 1550B"
+            "name": "Topics in the Early History of Printmaking: Festival and Carnival"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1560A",
-            "name": "HIAA 1560A"
+            "name": "Italy and the Mediterranean"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1560C",
-            "name": "HIAA 1560C"
+            "name": "Renaissance Venice and the Veneto"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1560D",
-            "name": "HIAA 1560D"
+            "name": "Siena from Simone Martini to Beccafumi"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1560F",
-            "name": "HIAA 1560F"
+            "name": "Topics in Italian Visual Culture:  The Visible City, 1400- 1800"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1600C",
-            "name": "HIAA 1600C"
+            "name": "Italian Baroque Painting and Sculpture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MUSC 0071",
-            "name": "MUSC 0071"
+            "name": "Opera"
           }
         }
       ],
@@ -933,187 +934,187 @@
     },
     {
       "code": "ITAL 0750",
-      "name": "ITAL 0750"
+      "name": "Truth on Trial:  Justice in Italy"
     },
     {
       "code": "ITAL 0751",
-      "name": "ITAL 0751"
+      "name": "When Leaders Lie: Machiavelli in International Context"
     },
     {
       "code": "ITAL 0950",
-      "name": "ITAL 0950"
+      "name": "Introduction to Italian Cinema: Italian Film and History"
     },
     {
       "code": "ITAL 0975",
-      "name": "ITAL 0975"
+      "name": "Let\u2019s Eat, Italy: Italian History and Culture through Food"
     },
     {
       "code": "ITAL 0981",
-      "name": "ITAL 0981"
+      "name": "When Leaders Lie: Machiavelli in International Context"
     },
     {
       "code": "ITAL 1000B",
-      "name": "ITAL 1000B"
+      "name": "Reading Recent Italian Fiction"
     },
     {
       "code": "ITAL 1000D",
-      "name": "ITAL 1000D"
+      "name": "Italian National Identity:  Criticisms and Crises"
     },
     {
       "code": "ITAL 1000E",
-      "name": "ITAL 1000E"
+      "name": "Masterpieces of Italian Cinema - Capolavori del cinema italiano"
     },
     {
       "code": "ITAL 1010",
-      "name": "ITAL 1010"
+      "name": "Dante in English Translation: Dante's World and the Invention of Modernity"
     },
     {
       "code": "ITAL 1029",
-      "name": "ITAL 1029"
+      "name": "World Cinema in a Global Context"
     },
     {
       "code": "ITAL 1030A",
-      "name": "ITAL 1030A"
+      "name": "Fellini"
     },
     {
       "code": "ITAL 1320",
-      "name": "ITAL 1320"
+      "name": "Great Authors and Works of Italian Renaissance: Ariosto\u2019s Orlando furioso"
     },
     {
       "code": "ITAL 1340",
-      "name": "ITAL 1340"
+      "name": "The Panorama and 19th-Century Visual Culture"
     },
     {
       "code": "ITAL 1350A",
-      "name": "ITAL 1350A"
+      "name": "Transmedia Storytelling and the New Italian Epic."
     },
     {
       "code": "ITAL 1400B",
-      "name": "ITAL 1400B"
+      "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
     },
     {
       "code": "ITAL 1400D",
-      "name": "ITAL 1400D"
+      "name": "Photography and Literature: Italian Examples of an Uncanny Relationship"
     },
     {
       "code": "ITAL 1400F",
-      "name": "ITAL 1400F"
+      "name": "Twentieth Century Italian Culture"
     },
     {
       "code": "ITAL 1400H",
-      "name": "ITAL 1400H"
+      "name": "Early Modern Italy"
     },
     {
       "code": "ITAL 1400M",
-      "name": "ITAL 1400M"
+      "name": "Giorgio Agamben and Radical Italian Theory"
     },
     {
       "code": "ITAL 1400P",
-      "name": "ITAL 1400P"
+      "name": "The Southern Question and the Colonial Mediterranean"
     },
     {
       "code": "ITAL 1420",
-      "name": "ITAL 1420"
+      "name": "Sex and the Cities: Venice, Florence, and Rome, 1450-1800"
     },
     {
       "code": "ITAL 1550",
-      "name": "ITAL 1550"
+      "name": "Italian Representations of the Holocaust"
     },
     {
       "code": "ITAL 1580",
-      "name": "ITAL 1580"
+      "name": "Word, Image and Power in Early Modern Italy"
     },
     {
       "code": "ITAL 1590",
-      "name": "ITAL 1590"
+      "name": "Word, Media, Power in Modern Italy"
     },
     {
       "code": "ITAL 1610",
-      "name": "ITAL 1610"
+      "name": "The Divina Commedia: Inferno and Purgatorio"
     },
     {
       "code": "ITAL 1620",
-      "name": "ITAL 1620"
+      "name": "The Divina Commedia: Dante's Paradiso: Justifying a Cosmos"
     },
     {
       "code": "ITAL 1920",
-      "name": "ITAL 1920"
+      "name": "Independent Study Project (Undergraduate)"
     },
     {
       "code": "ITAL 1990",
-      "name": "ITAL 1990"
+      "name": "Senior Conference"
     },
     {
       "code": "ITAL 2100",
-      "name": "ITAL 2100"
+      "name": "Introduction to Italian Studies"
     },
     {
       "code": "ITAL 2190B",
-      "name": "ITAL 2190B"
+      "name": "Fascism and Antifascism: Culture and Literature between the Two World Wars"
     },
     {
       "code": "ITAL 2190G",
-      "name": "ITAL 2190G"
+      "name": "Letteratura Italiana del Novecento"
     },
     {
       "code": "ITAL 2220",
-      "name": "ITAL 2220"
+      "name": "New Perspectives on Fascism"
     },
     {
       "code": "HIAA 0340",
-      "name": "HIAA 0340"
+      "name": "Roman Art and Architecture: From Julius Caesar to Hadrian"
     },
     {
       "code": "HIAA 0550",
-      "name": "HIAA 0550"
+      "name": "Painters, Builders, and Bankers in Early Modern Italy"
     },
     {
       "code": "HIAA 0560",
-      "name": "HIAA 0560"
+      "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
     },
     {
       "code": "HIAA 1200D",
-      "name": "HIAA 1200D"
+      "name": "Pompeii"
     },
     {
       "code": "HIAA 1301",
-      "name": "HIAA 1301"
+      "name": "The Palaces of Ancient Rome"
     },
     {
       "code": "HIAA 1302",
-      "name": "HIAA 1302"
+      "name": "Women and Families in the Ancient Mediterranean"
     },
     {
       "code": "HIAA 1303",
-      "name": "HIAA 1303"
+      "name": "Pompeii: Art, Architecture, and Archaeology in the Lost City"
     },
     {
       "code": "HIAA 1550B",
-      "name": "HIAA 1550B"
+      "name": "Topics in the Early History of Printmaking: Festival and Carnival"
     },
     {
       "code": "HIAA 1560A",
-      "name": "HIAA 1560A"
+      "name": "Italy and the Mediterranean"
     },
     {
       "code": "HIAA 1560C",
-      "name": "HIAA 1560C"
+      "name": "Renaissance Venice and the Veneto"
     },
     {
       "code": "HIAA 1560D",
-      "name": "HIAA 1560D"
+      "name": "Siena from Simone Martini to Beccafumi"
     },
     {
       "code": "HIAA 1560F",
-      "name": "HIAA 1560F"
+      "name": "Topics in Italian Visual Culture:  The Visible City, 1400- 1800"
     },
     {
       "code": "HIAA 1600C",
-      "name": "HIAA 1600C"
+      "name": "Italian Baroque Painting and Sculpture"
     },
     {
       "code": "MUSC 0071",
-      "name": "MUSC 0071"
+      "name": "Opera"
     },
     {
       "code": "ITAL 0300",

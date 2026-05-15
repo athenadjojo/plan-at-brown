@@ -2,6 +2,7 @@
   "concentration": "Mathematics",
   "slug": "math",
   "url": "https://bulletin.brown.edu/the-college/concentrations/math/",
+  "description": "Mathematics is a grouping of sciences, including geometry, algebra, and calculus, that study quantity, structure, space, and change.\u00a0 Mathematics concentrators at Brown can explore these concepts through the department\u2019s broad course offerings and flexible concentration requirements. The concentration leads to either the Bachelor of Arts or Bachelor of Science degree (the latter is strongly recommended for students interested in pursuing graduate study in mathematics or related fields). Concentrators begin their learning with multivariable calculus, linear algebra, and abstract algebra. Beyond these prerequisites, students take a variety of advanced topics on the 1000 level based on their interests. After sufficient preparation and with permission of the instructor, students may also take courses on the 2000 level. Students also have the option of completing a thesis project. Concentrators in mathematics should complete the prerequisites by the end of their sophomore year.It is strongly recommended that students takeMATH\u00a01010before takingMATH\u00a01630, (formerly MATH 1130).",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "Multivariate calculus and linear algebra (choose one of the following sequences): 2",
+          "name": "Multivariate calculus and linear algebra (choose one of the following sequences):",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -25,11 +26,11 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculusand Linear Algebra"
                 },
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Multivariable Calculusand Linear Algebra"
                 }
               ],
               "count": null,
@@ -41,11 +42,11 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculusand Linear Algebra With Theory"
                 },
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Multivariable Calculusand Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -57,11 +58,11 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)and Linear Algebra"
                 },
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Multivariable Calculus (Physics/Engineering)and Linear Algebra"
                 }
               ],
               "count": null,
@@ -73,11 +74,11 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theoryand Linear Algebra With Theory"
                 },
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Multivariable Calculus With Theoryand Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -104,7 +105,7 @@
               "courses": [
                 {
                   "code": "MATH 1630",
-                  "name": "MATH 1630"
+                  "name": "Real Analysis I (formerly MATH 1130)"
                 }
               ],
               "count": 1,
@@ -116,7 +117,7 @@
               "courses": [
                 {
                   "code": "MATH 1640",
-                  "name": "MATH 1640"
+                  "name": "Real Analysis II (formerly MATH 1140)"
                 }
               ],
               "count": 1,
@@ -128,7 +129,7 @@
               "courses": [
                 {
                   "code": "MATH 1530",
-                  "name": "MATH 1530"
+                  "name": "Abstract Algebra"
                 }
               ],
               "count": 1,
@@ -140,7 +141,7 @@
               "courses": [
                 {
                   "code": "MATH 1540",
-                  "name": "MATH 1540"
+                  "name": "Topics in Abstract Algebra"
                 }
               ],
               "count": 1,
@@ -152,7 +153,7 @@
               "courses": [
                 {
                   "code": "MATH 1560",
-                  "name": "MATH 1560"
+                  "name": "Number Theory"
                 }
               ],
               "count": null,
@@ -162,14 +163,14 @@
           "notes": []
         },
         {
-          "name": "Four other 1000- or 2000- level Mathematics courses.   The year-long sequence 0750/0760 may be substituted for one of these course credits. 4",
+          "name": "Four other 1000- or 2000- level Mathematics courses.   The year-long sequence 0750/0760 may be substituted for one of these course credits.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Four additional courses in mathematics, science, economics, or applied mathematics approved by the concentration advisor. 4",
+          "name": "Four additional courses in mathematics, science, economics, or applied mathematics approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -182,11 +183,11 @@
           "options": [
             {
               "code": "MATH 0180",
-              "name": "MATH 0180"
+              "name": "Multivariable Calculusand Linear Algebra"
             },
             {
               "code": "MATH 0520",
-              "name": "MATH 0520"
+              "name": "Multivariable Calculusand Linear Algebra"
             }
           ]
         },
@@ -195,11 +196,11 @@
           "options": [
             {
               "code": "MATH 0180",
-              "name": "MATH 0180"
+              "name": "Multivariable Calculusand Linear Algebra With Theory"
             },
             {
               "code": "MATH 0540",
-              "name": "MATH 0540"
+              "name": "Multivariable Calculusand Linear Algebra With Theory"
             }
           ]
         },
@@ -208,11 +209,11 @@
           "options": [
             {
               "code": "MATH 0200",
-              "name": "MATH 0200"
+              "name": "Multivariable Calculus (Physics/Engineering)and Linear Algebra"
             },
             {
               "code": "MATH 0520",
-              "name": "MATH 0520"
+              "name": "Multivariable Calculus (Physics/Engineering)and Linear Algebra"
             }
           ]
         },
@@ -221,11 +222,11 @@
           "options": [
             {
               "code": "MATH 0350",
-              "name": "MATH 0350"
+              "name": "Multivariable Calculus With Theoryand Linear Algebra With Theory"
             },
             {
               "code": "MATH 0540",
-              "name": "MATH 0540"
+              "name": "Multivariable Calculus With Theoryand Linear Algebra With Theory"
             }
           ]
         },
@@ -233,35 +234,35 @@
           "type": "required",
           "course": {
             "code": "MATH 1630",
-            "name": "MATH 1630"
+            "name": "Real Analysis I (formerly MATH 1130)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1640",
-            "name": "MATH 1640"
+            "name": "Real Analysis II (formerly MATH 1140)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1530",
-            "name": "MATH 1530"
+            "name": "Abstract Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1540",
-            "name": "MATH 1540"
+            "name": "Topics in Abstract Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1560",
-            "name": "MATH 1560"
+            "name": "Number Theory"
           }
         }
       ],
@@ -279,27 +280,27 @@
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculusand Linear Algebra"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Multivariable Calculusand Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Multivariable Calculusand Linear Algebra With Theory"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)and Linear Algebra"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theoryand Linear Algebra With Theory"
     },
     {
       "code": "MATH 1530",
-      "name": "MATH 1530"
+      "name": "Abstract Algebra"
     },
     {
       "code": "MATH 1970",
@@ -307,23 +308,23 @@
     },
     {
       "code": "MATH 1640",
-      "name": "MATH 1640"
+      "name": "Real Analysis II (formerly MATH 1140)"
     },
     {
       "code": "MATH 1540",
-      "name": "MATH 1540"
+      "name": "Topics in Abstract Algebra"
     },
     {
       "code": "MATH 1560",
-      "name": "MATH 1560"
+      "name": "Number Theory"
     },
     {
       "code": "MATH 1460",
-      "name": "MATH 1460"
+      "name": "Complex Analysis (formerly MATH 1260)"
     },
     {
       "code": "MATH 1710",
-      "name": "MATH 1710"
+      "name": "Topology (formerly MATH 1410)"
     }
   ]
 }

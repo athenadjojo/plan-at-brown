@@ -2,13 +2,14 @@
   "concentration": "Political Science",
   "slug": "pols",
   "url": "https://bulletin.brown.edu/the-college/concentrations/pols/",
+  "description": "Why and how does democracy flourish -- or decline? Just what is democracy? How do emotions shape our political behavior? Would less government lead to more social justice? What is social justice? How does smuggling (of drugs, guns, and people) reshape international relations? How does climate change affect politics? Do states or multinational corporations call the shots in the global economy? Political science is about questions like these. You can grapple with every one of them -- and many more -- in the classrooms of the Brown Political Science Department. We study how people -- nations, regions, cities, communities -- live their common lives. How people solve (or duck) their common problems. How people govern themselves. How they think, talk, argue, fight, and vote. We seek to develop understandings of institutions, ideas, practices, and relations that constitute public life, and modes of inquiry that promote citizenship.",
   "tracks": [
     {
       "id": "requirements_",
       "name": "Requirements:",
       "groups": [
         {
-          "name": "Two introductory courses from the following: 2",
+          "name": "Two introductory courses from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "POLS 0010",
-                  "name": "POLS 0010"
+                  "name": "Introduction to the American Political Process"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "POLS 0110",
-                  "name": "POLS 0110"
+                  "name": "Introduction to Political Thought"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "POLS 0200",
-                  "name": "POLS 0200"
+                  "name": "Introduction to Comparative Politics"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "POLS 0400",
-                  "name": "POLS 0400"
+                  "name": "Introduction to International Politics"
                 }
               ],
               "count": null,
@@ -64,14 +65,14 @@
           "notes": []
         },
         {
-          "name": "One course in Political Theory taught by a Political Science theory professor 1 1",
+          "name": "One course in Political Theory taught by a Political Science theory professor",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One methods course from Political Science: 2 1",
+          "name": "One methods course from Political Science:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -81,7 +82,7 @@
               "courses": [
                 {
                   "code": "POLS 0500",
-                  "name": "POLS 0500"
+                  "name": "Foundations of Political Analysis"
                 }
               ],
               "count": null,
@@ -93,7 +94,7 @@
               "courses": [
                 {
                   "code": "POLS 1600",
-                  "name": "POLS 1600"
+                  "name": "Political Research Methods"
                 }
               ],
               "count": null,
@@ -127,7 +128,7 @@
           "notes": []
         },
         {
-          "name": "Five additional courses from within Political Science and/or taught by a Political Science faculty member 1 5",
+          "name": "Five additional courses from within Political Science and/or taught by a Political Science faculty member",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -139,42 +140,42 @@
           "type": "required",
           "course": {
             "code": "POLS 0010",
-            "name": "POLS 0010"
+            "name": "Introduction to the American Political Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0110",
-            "name": "POLS 0110"
+            "name": "Introduction to Political Thought"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0200",
-            "name": "POLS 0200"
+            "name": "Introduction to Comparative Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0400",
-            "name": "POLS 0400"
+            "name": "Introduction to International Politics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0500",
-            "name": "POLS 0500"
+            "name": "Foundations of Political Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1600",
-            "name": "POLS 1600"
+            "name": "Political Research Methods"
           }
         },
         {
@@ -205,27 +206,27 @@
   "all_courses": [
     {
       "code": "POLS 0010",
-      "name": "POLS 0010"
+      "name": "Introduction to the American Political Process"
     },
     {
       "code": "POLS 0110",
-      "name": "POLS 0110"
+      "name": "Introduction to Political Thought"
     },
     {
       "code": "POLS 0200",
-      "name": "POLS 0200"
+      "name": "Introduction to Comparative Politics"
     },
     {
       "code": "POLS 0400",
-      "name": "POLS 0400"
+      "name": "Introduction to International Politics"
     },
     {
       "code": "POLS 0500",
-      "name": "POLS 0500"
+      "name": "Foundations of Political Analysis"
     },
     {
       "code": "POLS 1600",
-      "name": "POLS 1600"
+      "name": "Political Research Methods"
     },
     {
       "code": "POLS 1970",

@@ -2,6 +2,7 @@
   "concentration": "Chemistry",
   "slug": "chem",
   "url": "https://bulletin.brown.edu/the-college/concentrations/chem/",
+  "description": "The Chemistry concentration offers courses and research opportunities that range from fundamental studies involving the characterization and preparation of synthetic and naturally occurring molecules, to interdisciplinary studies at the interfaces of chemistry with biology, medicine, physics, engineering, and nanoscience. As early as their first year, undergraduates are able to work with faculty members on cutting edge research projects. The Sc.B. degree provides a thorough foundation for further graduate study or for entry-level technical positions in the molecular sciences. Students seeking the Sc.B. may either pursue the standard Chemistry concentration or one of two possible tracks: Chemical Biology or Materials Chemistry. Students may also pursue the A.B. degree in Chemistry, which provides a core education in the discipline. Note that the physical chemistry courses (CHEM\u00a01140,CHEM\u00a01150,CHEM\u00a01160) have mathematics and physics prerequisites.",
   "tracks": [
     {
       "id": "standard_program_for_the_a_b__degree",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "CHEM 0360",
-              "name": "CHEM 0360"
+              "name": "Organic Chemistry II"
             }
           ],
           "count": 1,
@@ -49,7 +50,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -61,7 +62,7 @@
           "courses": [
             {
               "code": "CHEM 0600",
-              "name": "CHEM 0600"
+              "name": "Preparative Chemistry Lab"
             }
           ],
           "count": null,
@@ -73,7 +74,7 @@
           "courses": [
             {
               "code": "CHEM 1140",
-              "name": "CHEM 1140"
+              "name": "Physical Chemistry: Quantum Chemistry1"
             }
           ],
           "count": 1,
@@ -85,7 +86,7 @@
           "courses": [
             {
               "code": "CHEM 1150",
-              "name": "CHEM 1150"
+              "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics1"
             }
           ],
           "count": 1,
@@ -97,14 +98,14 @@
           "courses": [
             {
               "code": "CHEM 1160",
-              "name": "CHEM 1160"
+              "name": "Physical Chemistry Laboratory1"
             }
           ],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One upper level CHEM elective. 2 1",
+          "name": "One upper level CHEM elective.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -116,56 +117,56 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0600",
-            "name": "CHEM 0600"
+            "name": "Preparative Chemistry Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory1"
           }
         }
       ],
@@ -181,7 +182,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -193,7 +194,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -205,7 +206,7 @@
           "courses": [
             {
               "code": "CHEM 0360",
-              "name": "CHEM 0360"
+              "name": "Organic Chemistry II"
             }
           ],
           "count": 1,
@@ -217,7 +218,7 @@
           "courses": [
             {
               "code": "CHEM 0370",
-              "name": "CHEM 0370"
+              "name": "Organic Chemistry Laboratory"
             }
           ],
           "count": null,
@@ -229,7 +230,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -241,14 +242,14 @@
           "courses": [
             {
               "code": "CHEM 0600",
-              "name": "CHEM 0600"
+              "name": "Preparative Chemistry Lab"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two semesters of independent study: 2",
+          "name": "Two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research1"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "CHEM 0981",
-                  "name": "CHEM 0981"
+                  "name": "Undergraduate Research - Writing Designated"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": 1,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": 1,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "CHEM 1160",
-                  "name": "CHEM 1160"
+                  "name": "Physical Chemistry Laboratory"
                 }
               ],
               "count": 1,
@@ -328,14 +329,14 @@
           "notes": []
         },
         {
-          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Six electives (at least three must be upper level CHEM courses) 3 6",
+          "name": "Six electives (at least three must be upper level CHEM courses)",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -347,77 +348,77 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0370",
-            "name": "CHEM 0370"
+            "name": "Organic Chemistry Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0600",
-            "name": "CHEM 0600"
+            "name": "Preparative Chemistry Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0981",
-            "name": "CHEM 0981"
+            "name": "Undergraduate Research - Writing Designated"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory"
           }
         },
         {
@@ -440,7 +441,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -452,7 +453,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -464,7 +465,7 @@
           "courses": [
             {
               "code": "CHEM 0360",
-              "name": "CHEM 0360"
+              "name": "Organic Chemistry II"
             }
           ],
           "count": 1,
@@ -476,7 +477,7 @@
           "courses": [
             {
               "code": "CHEM 0370",
-              "name": "CHEM 0370"
+              "name": "Organic Chemistry Laboratory"
             }
           ],
           "count": null,
@@ -488,7 +489,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -500,14 +501,14 @@
           "courses": [
             {
               "code": "CHEM 0600",
-              "name": "CHEM 0600"
+              "name": "Preparative Chemistry Lab"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two semesters of independent study: 2",
+          "name": "Two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -517,7 +518,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research1"
                 }
               ],
               "count": null,
@@ -529,7 +530,7 @@
               "courses": [
                 {
                   "code": "CHEM 0981",
-                  "name": "CHEM 0981"
+                  "name": "Undergraduate Research - Writing Designated"
                 }
               ],
               "count": null,
@@ -541,7 +542,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": 1,
@@ -553,7 +554,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": 1,
@@ -565,7 +566,7 @@
               "courses": [
                 {
                   "code": "CHEM 1160",
-                  "name": "CHEM 1160"
+                  "name": "Physical Chemistry Laboratory"
                 }
               ],
               "count": 1,
@@ -587,14 +588,14 @@
           "notes": []
         },
         {
-          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Six electives (at least three must be upper level CHEM courses) 3 6",
+          "name": "Six electives (at least three must be upper level CHEM courses)",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -606,77 +607,77 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0370",
-            "name": "CHEM 0370"
+            "name": "Organic Chemistry Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0600",
-            "name": "CHEM 0600"
+            "name": "Preparative Chemistry Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0981",
-            "name": "CHEM 0981"
+            "name": "Undergraduate Research - Writing Designated"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory"
           }
         },
         {
@@ -699,7 +700,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -711,7 +712,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -723,7 +724,7 @@
           "courses": [
             {
               "code": "CHEM 0360",
-              "name": "CHEM 0360"
+              "name": "Organic Chemistry II"
             }
           ],
           "count": 1,
@@ -735,7 +736,7 @@
           "courses": [
             {
               "code": "CHEM 0400",
-              "name": "CHEM 0400"
+              "name": "Biophysical and Bioinorganic Chemistry"
             }
           ],
           "count": 1,
@@ -747,7 +748,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": null,
@@ -759,14 +760,14 @@
           "courses": [
             {
               "code": "CHEM 0600",
-              "name": "CHEM 0600"
+              "name": "Preparative Chemistry Lab"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two semesters of independent study: 2",
+          "name": "Two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -776,7 +777,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research1"
                 }
               ],
               "count": null,
@@ -788,7 +789,7 @@
               "courses": [
                 {
                   "code": "CHEM 0981",
-                  "name": "CHEM 0981"
+                  "name": "Undergraduate Research - Writing Designated"
                 }
               ],
               "count": null,
@@ -800,7 +801,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": 1,
@@ -812,7 +813,7 @@
               "courses": [
                 {
                   "code": "CHEM 1230",
-                  "name": "CHEM 1230"
+                  "name": "Chemical Biology"
                 }
               ],
               "count": 1,
@@ -824,7 +825,7 @@
               "courses": [
                 {
                   "code": "CHEM 1240",
-                  "name": "CHEM 1240"
+                  "name": "Biochemistry"
                 }
               ],
               "count": 1,
@@ -836,7 +837,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry"
                 }
               ],
               "count": 1,
@@ -858,14 +859,14 @@
           "notes": []
         },
         {
-          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 2",
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Select three of the following: 3 3",
+          "name": "Select three of the following:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -875,7 +876,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -887,7 +888,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -899,7 +900,7 @@
               "courses": [
                 {
                   "code": "BIOL 0510",
-                  "name": "BIOL 0510"
+                  "name": "Introductory Microbiology"
                 }
               ],
               "count": null,
@@ -911,7 +912,7 @@
               "courses": [
                 {
                   "code": "BIOL 0530",
-                  "name": "BIOL 0530"
+                  "name": "Principles of Immunology"
                 }
               ],
               "count": null,
@@ -923,7 +924,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -935,7 +936,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": null,
@@ -945,7 +946,7 @@
           "notes": []
         },
         {
-          "name": "Two other electives 4 2",
+          "name": "Two other electives",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -957,84 +958,84 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0600",
-            "name": "CHEM 0600"
+            "name": "Preparative Chemistry Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0981",
-            "name": "CHEM 0981"
+            "name": "Undergraduate Research - Writing Designated"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1230",
-            "name": "CHEM 1230"
+            "name": "Chemical Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1240",
-            "name": "CHEM 1240"
+            "name": "Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry"
           }
         },
         {
@@ -1048,42 +1049,42 @@
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0510",
-            "name": "BIOL 0510"
+            "name": "Introductory Microbiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0530",
-            "name": "BIOL 0530"
+            "name": "Principles of Immunology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         }
       ],
@@ -1099,7 +1100,7 @@
           "courses": [
             {
               "code": "CHEM 0330",
-              "name": "CHEM 0330"
+              "name": "Equilibrium, Rate, and Structure"
             }
           ],
           "count": 1,
@@ -1111,7 +1112,7 @@
           "courses": [
             {
               "code": "CHEM 0350",
-              "name": "CHEM 0350"
+              "name": "Organic Chemistry I"
             }
           ],
           "count": 1,
@@ -1123,7 +1124,7 @@
           "courses": [
             {
               "code": "CHEM 0360",
-              "name": "CHEM 0360"
+              "name": "Organic Chemistry II"
             }
           ],
           "count": 1,
@@ -1135,7 +1136,7 @@
           "courses": [
             {
               "code": "CHEM 0500",
-              "name": "CHEM 0500"
+              "name": "Inorganic Chemistry"
             }
           ],
           "count": 1,
@@ -1147,14 +1148,14 @@
           "courses": [
             {
               "code": "CHEM 0600",
-              "name": "CHEM 0600"
+              "name": "Preparative Chemistry Lab"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two semesters of independent study: 2",
+          "name": "Two semesters of independent study:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1164,7 +1165,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research1"
                 }
               ],
               "count": null,
@@ -1176,7 +1177,7 @@
               "courses": [
                 {
                   "code": "CHEM 0981",
-                  "name": "CHEM 0981"
+                  "name": "Undergraduate Research - Writing Designated"
                 }
               ],
               "count": null,
@@ -1188,7 +1189,7 @@
               "courses": [
                 {
                   "code": "CHEM 1060",
-                  "name": "CHEM 1060"
+                  "name": "Advanced Inorganic Chemistry2"
                 }
               ],
               "count": 1,
@@ -1200,7 +1201,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": 1,
@@ -1212,7 +1213,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics2"
                 }
               ],
               "count": 1,
@@ -1224,7 +1225,7 @@
               "courses": [
                 {
                   "code": "CHEM 1700",
-                  "name": "CHEM 1700"
+                  "name": "Nanoscale Materials:  Synthesis and Applications"
                 }
               ],
               "count": 1,
@@ -1246,14 +1247,14 @@
           "notes": []
         },
         {
-          "name": "Two Physics courses, typically 0030/0040 or 0050/0060 5 2",
+          "name": "Two Physics courses, typically 0030/0040 or 0050/0060",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One of the following courses 1",
+          "name": "One of the following courses",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1263,7 +1264,7 @@
               "courses": [
                 {
                   "code": "CHEM 1560S",
-                  "name": "CHEM 1560S"
+                  "name": "The Chemistry of Polymeric Organic Materials"
                 }
               ],
               "count": null,
@@ -1275,7 +1276,7 @@
               "courses": [
                 {
                   "code": "BIOL 1090",
-                  "name": "BIOL 1090"
+                  "name": "Polymer Science for Biomaterials (or)"
                 }
               ],
               "count": null,
@@ -1287,7 +1288,7 @@
               "courses": [
                 {
                   "code": "BIOL 1120",
-                  "name": "BIOL 1120/"
+                  "name": "Biomaterials (or)"
                 }
               ],
               "count": null,
@@ -1299,7 +1300,7 @@
               "courses": [
                 {
                   "code": "BIOL 1140",
-                  "name": "BIOL 1140"
+                  "name": "Tissue Engineering (or)"
                 }
               ],
               "count": null,
@@ -1311,7 +1312,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials (or)"
                 }
               ],
               "count": null,
@@ -1323,7 +1324,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -1333,7 +1334,7 @@
           "notes": []
         },
         {
-          "name": "Four electives, at least two must be upper level CHEM courses. 4 4",
+          "name": "Four electives, at least two must be upper level CHEM courses.",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -1345,77 +1346,77 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0600",
-            "name": "CHEM 0600"
+            "name": "Preparative Chemistry Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0981",
-            "name": "CHEM 0981"
+            "name": "Undergraduate Research - Writing Designated"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1060",
-            "name": "CHEM 1060"
+            "name": "Advanced Inorganic Chemistry2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1700",
-            "name": "CHEM 1700"
+            "name": "Nanoscale Materials:  Synthesis and Applications"
           }
         },
         {
@@ -1429,42 +1430,42 @@
           "type": "required",
           "course": {
             "code": "CHEM 1560S",
-            "name": "CHEM 1560S"
+            "name": "The Chemistry of Polymeric Organic Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1090",
-            "name": "BIOL 1090"
+            "name": "Polymer Science for Biomaterials (or)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1120",
-            "name": "BIOL 1120/"
+            "name": "Biomaterials (or)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1140",
-            "name": "BIOL 1140"
+            "name": "Tissue Engineering (or)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials (or)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         }
       ],
@@ -1474,35 +1475,35 @@
   "all_courses": [
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0360",
-      "name": "CHEM 0360"
+      "name": "Organic Chemistry II"
     },
     {
       "code": "CHEM 0500",
-      "name": "CHEM 0500"
+      "name": "Inorganic Chemistry"
     },
     {
       "code": "CHEM 0600",
-      "name": "CHEM 0600"
+      "name": "Preparative Chemistry Lab"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry1"
     },
     {
       "code": "CHEM 1150",
-      "name": "CHEM 1150"
+      "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics1"
     },
     {
       "code": "CHEM 1160",
-      "name": "CHEM 1160"
+      "name": "Physical Chemistry Laboratory1"
     },
     {
       "code": "BIOL 0280",
@@ -1518,7 +1519,7 @@
     },
     {
       "code": "CHEM 0370",
-      "name": "CHEM 0370"
+      "name": "Organic Chemistry Laboratory"
     },
     {
       "code": "MATH 0180",
@@ -1526,39 +1527,39 @@
     },
     {
       "code": "CHEM 0400",
-      "name": "CHEM 0400"
+      "name": "Biophysical and Bioinorganic Chemistry"
     },
     {
       "code": "CHEM 1230",
-      "name": "CHEM 1230"
+      "name": "Chemical Biology"
     },
     {
       "code": "CHEM 1240",
-      "name": "CHEM 1240"
+      "name": "Biochemistry"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0510",
-      "name": "BIOL 0510"
+      "name": "Introductory Microbiology"
     },
     {
       "code": "BIOL 0530",
-      "name": "BIOL 0530"
+      "name": "Principles of Immunology"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "BIOL 0200",
@@ -1566,35 +1567,35 @@
     },
     {
       "code": "CHEM 1060",
-      "name": "CHEM 1060"
+      "name": "Advanced Inorganic Chemistry2"
     },
     {
       "code": "CHEM 1700",
-      "name": "CHEM 1700"
+      "name": "Nanoscale Materials:  Synthesis and Applications"
     },
     {
       "code": "CHEM 1560S",
-      "name": "CHEM 1560S"
+      "name": "The Chemistry of Polymeric Organic Materials"
     },
     {
       "code": "BIOL 1090",
-      "name": "BIOL 1090"
+      "name": "Polymer Science for Biomaterials (or)"
     },
     {
       "code": "BIOL 1120",
-      "name": "BIOL 1120/"
+      "name": "Biomaterials (or)"
     },
     {
       "code": "BIOL 1140",
-      "name": "BIOL 1140"
+      "name": "Tissue Engineering (or)"
     },
     {
       "code": "ENGN 1470",
-      "name": "ENGN 1470"
+      "name": "Composite Materials (or)"
     },
     {
       "code": "ENGN 1200",
-      "name": "ENGN 1200"
+      "name": "Biomaterials"
     },
     {
       "code": "ENGN 0040",

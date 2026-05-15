@@ -2,6 +2,7 @@
   "concentration": "Earth and Planetary Science",
   "slug": "eps",
   "url": "https://bulletin.brown.edu/the-college/concentrations/eps/",
+  "description": "Earth and Planetary Science is a highly interdisciplinary concentration employing principles from physics, chemistry, and biology to understand processes on and in the Earth and other planetary bodies. Concentrators can study Earth and planetary interiors, including the formation of rocks and minerals, movement of the Earth\u2019s tectonic plates, and mountain building and volcanism. Other areas emphasize surface processes, such as coastal erosion, formation of water resources, and desertification. This concentration is a good choice for students who seek a broad scientific understanding of the processes that shape the physical world around us. Both A.B. and Sc.B. degrees are offered, requiring 12 and 19 courses, respectively.\u00a0 These degrees build skills in critical thinking, data analysis and modeling, finding solutions to complex problems, and written and oral communication.\u00a0\u00a0 DEEPS provides a highly collaborative learning environment that emphasizes process-oriented, hands-on approaches in the classroom, in labs and on field trips. There are many opportunities for students to do paid research during the summer or academic year.",
   "tracks": [
     {
       "id": "standard_program_for_the_a_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure (or equivalent)"
                 }
               ],
               "count": 1,
@@ -28,7 +29,7 @@
           "notes": []
         },
         {
-          "name": "Two courses to build quantitative skills: 2",
+          "name": "Two courses to build quantitative skills:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -38,7 +39,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I (or higher)"
                 }
               ],
               "count": null,
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -74,7 +75,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data (or higher)"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or higher)"
                 }
               ],
               "count": null,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations (or higher)"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics (or higher)"
                 }
               ],
               "count": null,
@@ -127,7 +128,7 @@
           "notes": []
         },
         {
-          "name": "Two of these four fundamentals courses: 2",
+          "name": "Two of these four fundamentals courses:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -137,7 +138,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": null,
@@ -149,7 +150,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": null,
@@ -161,7 +162,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": null,
@@ -173,7 +174,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": null,
@@ -183,7 +184,7 @@
           "notes": []
         },
         {
-          "name": "Select three of the following: 3",
+          "name": "Select three of the following:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -193,7 +194,7 @@
               "courses": [
                 {
                   "code": "EEPS 1240",
-                  "name": "EEPS 1240"
+                  "name": "Stratigraphy and Sedimentation"
                 }
               ],
               "count": null,
@@ -205,7 +206,7 @@
               "courses": [
                 {
                   "code": "EEPS 1410",
-                  "name": "EEPS 1410"
+                  "name": "Mineralogy"
                 }
               ],
               "count": null,
@@ -217,7 +218,7 @@
               "courses": [
                 {
                   "code": "EEPS 1420",
-                  "name": "EEPS 1420"
+                  "name": "Petrology"
                 }
               ],
               "count": null,
@@ -229,7 +230,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -239,14 +240,14 @@
           "notes": []
         },
         {
-          "name": "Three additional upper level EEPS courses or an approved substitute such as a field course 3",
+          "name": "Three additional upper level EEPS courses or an approved substitute such as a field course",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "One additional upper level science or math course with approval from the concentration advisor. 1",
+          "name": "One additional upper level science or math course with approval from the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -258,112 +259,112 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1240",
-            "name": "EEPS 1240"
+            "name": "Stratigraphy and Sedimentation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1410",
-            "name": "EEPS 1410"
+            "name": "Mineralogy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1420",
-            "name": "EEPS 1420"
+            "name": "Petrology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         }
       ],
@@ -384,7 +385,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure (or equivalent)"
                 }
               ],
               "count": 1,
@@ -394,7 +395,7 @@
           "notes": []
         },
         {
-          "name": "Four courses to build quantitative skills: 4",
+          "name": "Four courses to build quantitative skills:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -404,7 +405,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I (or higher)"
                 }
               ],
               "count": null,
@@ -416,7 +417,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -428,7 +429,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -440,7 +441,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data (or higher)"
                 }
               ],
               "count": null,
@@ -452,7 +453,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations (or higher)"
                 }
               ],
               "count": null,
@@ -464,7 +465,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or higher)"
                 }
               ],
               "count": null,
@@ -476,7 +477,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics (or higher)"
                 }
               ],
               "count": null,
@@ -488,7 +489,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": null,
@@ -508,7 +509,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": 1,
@@ -520,7 +521,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": 1,
@@ -532,7 +533,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": 1,
@@ -542,7 +543,7 @@
           "notes": []
         },
         {
-          "name": "Three of the following: 3",
+          "name": "Three of the following:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -552,7 +553,7 @@
               "courses": [
                 {
                   "code": "EEPS 1240",
-                  "name": "EEPS 1240"
+                  "name": "Stratigraphy and Sedimentation"
                 }
               ],
               "count": null,
@@ -564,7 +565,7 @@
               "courses": [
                 {
                   "code": "EEPS 1410",
-                  "name": "EEPS 1410"
+                  "name": "Mineralogy"
                 }
               ],
               "count": null,
@@ -576,7 +577,7 @@
               "courses": [
                 {
                   "code": "EEPS 1420",
-                  "name": "EEPS 1420"
+                  "name": "Petrology"
                 }
               ],
               "count": null,
@@ -588,7 +589,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -598,14 +599,14 @@
           "notes": []
         },
         {
-          "name": "Three additional upper level EEPS courses or an approved substitute such as a field course 3",
+          "name": "Three additional upper level EEPS courses or an approved substitute such as a field course",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "Four upper level science or math courses with approval from the concentration advisor 4",
+          "name": "Four upper level science or math courses with approval from the concentration advisor",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -615,7 +616,7 @@
               "courses": [
                 {
                   "code": "EEPS 1970",
-                  "name": "EEPS 1970"
+                  "name": "Undergraduate Senior Thesis Course (Senior Research Thesis)"
                 }
               ],
               "count": 1,
@@ -630,119 +631,119 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1240",
-            "name": "EEPS 1240"
+            "name": "Stratigraphy and Sedimentation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1410",
-            "name": "EEPS 1410"
+            "name": "Mineralogy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1420",
-            "name": "EEPS 1420"
+            "name": "Petrology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1970",
-            "name": "EEPS 1970"
+            "name": "Undergraduate Senior Thesis Course (Senior Research Thesis)"
           }
         }
       ],
@@ -752,71 +753,71 @@
   "all_courses": [
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure (or equivalent)"
     },
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I (or higher)"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data (or higher)"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics (or higher)"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations (or higher)"
     },
     {
       "code": "PHYS 0050",
-      "name": "PHYS 0050"
+      "name": "Foundations of Mechanics (or higher)"
     },
     {
       "code": "EEPS 0220",
-      "name": "EEPS 0220"
+      "name": "Earth and Environmental Processes"
     },
     {
       "code": "EEPS 0230",
-      "name": "EEPS 0230"
+      "name": "Geochemistry: Earth and Planetary Materials and Processes"
     },
     {
       "code": "EEPS 0240",
-      "name": "EEPS 0240"
+      "name": "Earth: Evolution of a Habitable Planet"
     },
     {
       "code": "EEPS 0250",
-      "name": "EEPS 0250"
+      "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
     },
     {
       "code": "EEPS 1240",
-      "name": "EEPS 1240"
+      "name": "Stratigraphy and Sedimentation"
     },
     {
       "code": "EEPS 1410",
-      "name": "EEPS 1410"
+      "name": "Mineralogy"
     },
     {
       "code": "EEPS 1420",
-      "name": "EEPS 1420"
+      "name": "Petrology"
     },
     {
       "code": "EEPS 1450",
-      "name": "EEPS 1450"
+      "name": "Structural Geology"
     },
     {
       "code": "EEPS 1970",
-      "name": "EEPS 1970"
+      "name": "Undergraduate Senior Thesis Course (Senior Research Thesis)"
     }
   ]
 }

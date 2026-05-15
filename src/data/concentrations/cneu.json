@@ -2,6 +2,7 @@
   "concentration": "Computational Neuroscience",
   "slug": "cneu",
   "url": "https://bulletin.brown.edu/the-college/concentrations/cneu/",
+  "description": "This multidisciplinary concentration spans many fields, including computer science, neuroscience, cognitive science, applied math, and data science. Students studying Computational Neuroscience will learn to use computational models of the brain and nervous system to study complex biological processes and overcome the limitations of human experimentation. They will also learn to use the brain and nervous system as a model to improve the power and efficiency of artificial systems. Concentrators will think critically about the impact of their work on society and understand how biases can negatively influence computational models.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "Calculus 1",
+          "name": "Calculus",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -35,7 +36,7 @@
           "notes": []
         },
         {
-          "name": "Differential Equations 1",
+          "name": "Differential Equations",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -45,7 +46,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": null,
@@ -55,7 +56,7 @@
           "notes": []
         },
         {
-          "name": "Linear Algebra 1",
+          "name": "Linear Algebra",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -65,7 +66,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -77,7 +78,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -111,7 +112,7 @@
           "notes": []
         },
         {
-          "name": "Statistics 1",
+          "name": "Statistics",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -121,7 +122,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -133,7 +134,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -145,7 +146,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -157,7 +158,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -169,7 +170,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -189,7 +190,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": 1,
@@ -201,7 +202,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": 1,
@@ -213,7 +214,7 @@
               "courses": [
                 {
                   "code": "NEUR 1030",
-                  "name": "NEUR 1030"
+                  "name": "Neural Systems"
                 }
               ],
               "count": null,
@@ -225,7 +226,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -237,7 +238,7 @@
               "courses": [
                 {
                   "code": "CSCI 0112",
-                  "name": "CSCI 0112"
+                  "name": "Computing Foundations: Program Organization"
                 }
               ],
               "count": null,
@@ -249,7 +250,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -261,7 +262,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -273,7 +274,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -285,7 +286,7 @@
               "courses": [
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": 1,
@@ -297,7 +298,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -309,7 +310,7 @@
               "courses": [
                 {
                   "code": "NEUR 0680",
-                  "name": "NEUR 0680"
+                  "name": "Introduction to Computational Neuroscience"
                 }
               ],
               "count": 1,
@@ -319,7 +320,7 @@
           "notes": []
         },
         {
-          "name": "Two Computational Neuroscience Electives From The Below List: 2",
+          "name": "Two Computational Neuroscience Electives From The Below List:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -329,7 +330,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -341,7 +342,7 @@
               "courses": [
                 {
                   "code": "NEUR 1440",
-                  "name": "NEUR 1440"
+                  "name": "Mechanisms and Meaning of Neural Dynamics"
                 }
               ],
               "count": null,
@@ -353,7 +354,7 @@
               "courses": [
                 {
                   "code": "NEUR 1660",
-                  "name": "NEUR 1660"
+                  "name": "Neural Computation in Learning and Decision-Making"
                 }
               ],
               "count": null,
@@ -365,7 +366,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -377,7 +378,7 @@
               "courses": [
                 {
                   "code": "CSCI 1810",
-                  "name": "CSCI 1810"
+                  "name": "Computational Molecular Biology"
                 }
               ],
               "count": null,
@@ -389,7 +390,7 @@
               "courses": [
                 {
                   "code": "NEUR 1940B",
-                  "name": "NEUR 1940B"
+                  "name": "Deep Learning in Neuroethology"
                 }
               ],
               "count": null,
@@ -401,7 +402,7 @@
               "courses": [
                 {
                   "code": "NEUR 1630",
-                  "name": "NEUR 1630"
+                  "name": "Big Data Neuroscience Ideas Lab"
                 }
               ],
               "count": null,
@@ -413,7 +414,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -425,7 +426,7 @@
               "courses": [
                 {
                   "code": "CPSY 1850",
-                  "name": "CPSY 1850"
+                  "name": "Language Processing in Humans and Machines"
                 }
               ],
               "count": null,
@@ -437,7 +438,7 @@
               "courses": [
                 {
                   "code": "NEUR 2110",
-                  "name": "NEUR 2110"
+                  "name": "Statistical Neuroscience"
                 }
               ],
               "count": null,
@@ -447,7 +448,7 @@
           "notes": []
         },
         {
-          "name": "One Course in Artificial Intelligence: 1",
+          "name": "One Course in Artificial Intelligence:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -457,7 +458,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -469,7 +470,7 @@
               "courses": [
                 {
                   "code": "CSCI 1410",
-                  "name": "CSCI 1410"
+                  "name": "Artificial Intelligence"
                 }
               ],
               "count": null,
@@ -481,7 +482,7 @@
               "courses": [
                 {
                   "code": "CSCI 1411",
-                  "name": "CSCI 1411"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -493,7 +494,7 @@
               "courses": [
                 {
                   "code": "CSCI 1420",
-                  "name": "CSCI 1420"
+                  "name": "Machine Learning"
                 }
               ],
               "count": null,
@@ -505,7 +506,7 @@
               "courses": [
                 {
                   "code": "CSCI 1430",
-                  "name": "CSCI 1430"
+                  "name": "Computer Vision"
                 }
               ],
               "count": null,
@@ -517,7 +518,7 @@
               "courses": [
                 {
                   "code": "CSCI 1460",
-                  "name": "CSCI 1460"
+                  "name": "Computational Linguistics"
                 }
               ],
               "count": null,
@@ -529,7 +530,7 @@
               "courses": [
                 {
                   "code": "CSCI 1470",
-                  "name": "CSCI 1470"
+                  "name": "Deep Learning"
                 }
               ],
               "count": null,
@@ -541,7 +542,7 @@
               "courses": [
                 {
                   "code": "DATA 2060",
-                  "name": "DATA 2060"
+                  "name": "Machine Learning: from Theory to Algorithms"
                 }
               ],
               "count": null,
@@ -553,7 +554,7 @@
               "courses": [
                 {
                   "code": "HIST 1956S",
-                  "name": "HIST 1956S"
+                  "name": "History of Artificial Intelligence"
                 }
               ],
               "count": null,
@@ -563,7 +564,7 @@
           "notes": []
         },
         {
-          "name": "Two Upper-Level Neuroscience Electives 2",
+          "name": "Two Upper-Level Neuroscience Electives",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -580,7 +581,7 @@
               "courses": [
                 {
                   "code": "CPSY 1400",
-                  "name": "CPSY 1400"
+                  "name": "The Neural Bases of Cognition"
                 }
               ],
               "count": null,
@@ -592,7 +593,7 @@
               "courses": [
                 {
                   "code": "ENGL 1900Z",
-                  "name": "ENGL 1900Z"
+                  "name": "Neuroaesthetics and Reading"
                 }
               ],
               "count": null,
@@ -604,7 +605,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -616,7 +617,7 @@
               "courses": [
                 {
                   "code": "NEUR 1540",
-                  "name": "NEUR 1540"
+                  "name": "Neurobiology of Learning and Memory"
                 }
               ],
               "count": null,
@@ -628,7 +629,7 @@
               "courses": [
                 {
                   "code": "NEUR 1650",
-                  "name": "NEUR 1650"
+                  "name": "Structure of the Nervous System"
                 }
               ],
               "count": null,
@@ -640,7 +641,7 @@
               "courses": [
                 {
                   "code": "NEUR 1740",
-                  "name": "NEUR 1740"
+                  "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
                 }
               ],
               "count": null,
@@ -650,7 +651,7 @@
           "notes": []
         },
         {
-          "name": "One Elective in Ethics: 1",
+          "name": "One Elective in Ethics:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -660,7 +661,7 @@
               "courses": [
                 {
                   "code": "CSCI 1805",
-                  "name": "CSCI 1805"
+                  "name": "Computers, Freedom and Privacy"
                 }
               ],
               "count": null,
@@ -672,7 +673,7 @@
               "courses": [
                 {
                   "code": "CSCI 1951I",
-                  "name": "CSCI 1951I"
+                  "name": "CS for Social Change"
                 }
               ],
               "count": null,
@@ -684,7 +685,7 @@
               "courses": [
                 {
                   "code": "CSCI 1951Z",
-                  "name": "CSCI 1951Z"
+                  "name": "Fairness in Automated Decision Making"
                 }
               ],
               "count": null,
@@ -696,7 +697,7 @@
               "courses": [
                 {
                   "code": "DATA 0080",
-                  "name": "DATA 0080"
+                  "name": "Data, Ethics and Society"
                 }
               ],
               "count": null,
@@ -708,7 +709,7 @@
               "courses": [
                 {
                   "code": "ECON 1000",
-                  "name": "ECON 1000"
+                  "name": "Using Big Data to Solve Economic and Social Problems"
                 }
               ],
               "count": null,
@@ -720,7 +721,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -732,7 +733,7 @@
               "courses": [
                 {
                   "code": "PHIL 0401",
-                  "name": "PHIL 0401"
+                  "name": "Ethics of Digital Technology"
                 }
               ],
               "count": null,
@@ -744,7 +745,7 @@
               "courses": [
                 {
                   "code": "PHIL 0403",
-                  "name": "PHIL 0403"
+                  "name": "Ethics and Politics of Data"
                 }
               ],
               "count": null,
@@ -756,7 +757,7 @@
               "courses": [
                 {
                   "code": "APMA 1910",
-                  "name": "APMA 1910"
+                  "name": "Race and Gender in the Scientific Community"
                 }
               ],
               "count": null,
@@ -768,7 +769,7 @@
               "courses": [
                 {
                   "code": "STS 1700T",
-                  "name": "STS 1700T"
+                  "name": "Race, Gender, and Technology in Everyday Life"
                 }
               ],
               "count": null,
@@ -778,7 +779,7 @@
           "notes": []
         },
         {
-          "name": "Two Additional Electives: 2",
+          "name": "Two Additional Electives:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -795,7 +796,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -807,7 +808,7 @@
               "courses": [
                 {
                   "code": "APMA 0200",
-                  "name": "APMA 0200"
+                  "name": "Introduction to Modeling"
                 }
               ],
               "count": null,
@@ -819,7 +820,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -831,7 +832,7 @@
               "courses": [
                 {
                   "code": "APMA 1070",
-                  "name": "APMA 1070"
+                  "name": "Quantitative Models of Biological Systems"
                 }
               ],
               "count": null,
@@ -843,7 +844,7 @@
               "courses": [
                 {
                   "code": "APMA 1170",
-                  "name": "APMA 1170"
+                  "name": "Introduction to Computational Linear Algebra"
                 }
               ],
               "count": null,
@@ -855,7 +856,7 @@
               "courses": [
                 {
                   "code": "APMA 1360",
-                  "name": "APMA 1360"
+                  "name": "Applied Dynamical Systems"
                 }
               ],
               "count": null,
@@ -867,7 +868,7 @@
               "courses": [
                 {
                   "code": "APMA 1660",
-                  "name": "APMA 1660"
+                  "name": "Statistical Inference II"
                 }
               ],
               "count": null,
@@ -879,7 +880,7 @@
               "courses": [
                 {
                   "code": "APMA 1690",
-                  "name": "APMA 1690"
+                  "name": "Computational Probability and Statistics"
                 }
               ],
               "count": null,
@@ -891,7 +892,7 @@
               "courses": [
                 {
                   "code": "APMA 1710",
-                  "name": "APMA 1710"
+                  "name": "Information Theory"
                 }
               ],
               "count": null,
@@ -903,7 +904,7 @@
               "courses": [
                 {
                   "code": "APMA 1740",
-                  "name": "APMA 1740"
+                  "name": "Recent Applications of Probability and Statistics"
                 }
               ],
               "count": null,
@@ -915,7 +916,7 @@
               "courses": [
                 {
                   "code": "APMA 1860",
-                  "name": "APMA 1860"
+                  "name": "Graphs and Networks"
                 }
               ],
               "count": null,
@@ -927,7 +928,7 @@
               "courses": [
                 {
                   "code": "APMA 1941D",
-                  "name": "APMA 1941D"
+                  "name": "Pattern Theory"
                 }
               ],
               "count": null,
@@ -939,7 +940,7 @@
               "courses": [
                 {
                   "code": "BIOL 1435",
-                  "name": "BIOL 1435"
+                  "name": "Computational Methods for Studying Demographic History with Molecular Data"
                 }
               ],
               "count": null,
@@ -951,7 +952,7 @@
               "courses": [
                 {
                   "code": "BIOL 1555",
-                  "name": "BIOL 1555"
+                  "name": "Methods in Informatics and Data Science for Health"
                 }
               ],
               "count": null,
@@ -963,7 +964,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -975,7 +976,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -987,7 +988,7 @@
               "courses": [
                 {
                   "code": "CSCI 0535",
-                  "name": "CSCI 0535"
+                  "name": "Linear Algebra for Machine Learning"
                 }
               ],
               "count": null,
@@ -999,7 +1000,7 @@
               "courses": [
                 {
                   "code": "CSCI 1010",
-                  "name": "CSCI 1010"
+                  "name": "Theory of Computation"
                 }
               ],
               "count": null,
@@ -1011,7 +1012,7 @@
               "courses": [
                 {
                   "code": "CSCI 1570",
-                  "name": "CSCI 1570"
+                  "name": "Design and Analysis of Algorithms"
                 }
               ],
               "count": null,
@@ -1023,7 +1024,7 @@
               "courses": [
                 {
                   "code": "CSCI 1951A",
-                  "name": "CSCI 1951A"
+                  "name": "Data Science"
                 }
               ],
               "count": null,
@@ -1035,7 +1036,7 @@
               "courses": [
                 {
                   "code": "CSCI 1951Q",
-                  "name": "CSCI 1951Q"
+                  "name": "Topics in Programming Languages"
                 }
               ],
               "count": null,
@@ -1047,7 +1048,7 @@
               "courses": [
                 {
                   "code": "ENGN 2912P",
-                  "name": "ENGN 2912P"
+                  "name": "Topics in Optimization"
                 }
               ],
               "count": null,
@@ -1059,7 +1060,7 @@
               "courses": [
                 {
                   "code": "MATH 1210",
-                  "name": "MATH 1210"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -1071,7 +1072,7 @@
               "courses": [
                 {
                   "code": "MATH 1610",
-                  "name": "MATH 1610"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -1083,7 +1084,7 @@
               "courses": [
                 {
                   "code": "PHYS 1610",
-                  "name": "PHYS 1610"
+                  "name": "Biological Physics"
                 }
               ],
               "count": null,
@@ -1093,7 +1094,7 @@
           "notes": []
         },
         {
-          "name": "NEUR 1900 Capstone 1",
+          "name": "NEUR 1900 Capstone",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1105,28 +1106,28 @@
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
@@ -1154,532 +1155,532 @@
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1030",
-            "name": "NEUR 1030"
+            "name": "Neural Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0112",
-            "name": "CSCI 0112"
+            "name": "Computing Foundations: Program Organization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0200",
-            "name": "CSCI 0200"
+            "name": "Program Design with Data Structures and Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0680",
-            "name": "NEUR 0680"
+            "name": "Introduction to Computational Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1440",
-            "name": "NEUR 1440"
+            "name": "Mechanisms and Meaning of Neural Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1660",
-            "name": "NEUR 1660"
+            "name": "Neural Computation in Learning and Decision-Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1810",
-            "name": "CSCI 1810"
+            "name": "Computational Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1940B",
-            "name": "NEUR 1940B"
+            "name": "Deep Learning in Neuroethology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1630",
-            "name": "NEUR 1630"
+            "name": "Big Data Neuroscience Ideas Lab"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1850",
-            "name": "CPSY 1850"
+            "name": "Language Processing in Humans and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 2110",
-            "name": "NEUR 2110"
+            "name": "Statistical Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1410",
-            "name": "CSCI 1410"
+            "name": "Artificial Intelligence"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1411",
-            "name": "CSCI 1411"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1420",
-            "name": "CSCI 1420"
+            "name": "Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1430",
-            "name": "CSCI 1430"
+            "name": "Computer Vision"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1460",
-            "name": "CSCI 1460"
+            "name": "Computational Linguistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1470",
-            "name": "CSCI 1470"
+            "name": "Deep Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 2060",
-            "name": "DATA 2060"
+            "name": "Machine Learning: from Theory to Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1956S",
-            "name": "HIST 1956S"
+            "name": "History of Artificial Intelligence"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1400",
-            "name": "CPSY 1400"
+            "name": "The Neural Bases of Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGL 1900Z",
-            "name": "ENGL 1900Z"
+            "name": "Neuroaesthetics and Reading"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1540",
-            "name": "NEUR 1540"
+            "name": "Neurobiology of Learning and Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1650",
-            "name": "NEUR 1650"
+            "name": "Structure of the Nervous System"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1740",
-            "name": "NEUR 1740"
+            "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1805",
-            "name": "CSCI 1805"
+            "name": "Computers, Freedom and Privacy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1951I",
-            "name": "CSCI 1951I"
+            "name": "CS for Social Change"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1951Z",
-            "name": "CSCI 1951Z"
+            "name": "Fairness in Automated Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 0080",
-            "name": "DATA 0080"
+            "name": "Data, Ethics and Society"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1000",
-            "name": "ECON 1000"
+            "name": "Using Big Data to Solve Economic and Social Problems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0401",
-            "name": "PHIL 0401"
+            "name": "Ethics of Digital Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0403",
-            "name": "PHIL 0403"
+            "name": "Ethics and Politics of Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1910",
-            "name": "APMA 1910"
+            "name": "Race and Gender in the Scientific Community"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STS 1700T",
-            "name": "STS 1700T"
+            "name": "Race, Gender, and Technology in Everyday Life"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0200",
-            "name": "APMA 0200"
+            "name": "Introduction to Modeling"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1070",
-            "name": "APMA 1070"
+            "name": "Quantitative Models of Biological Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1170",
-            "name": "APMA 1170"
+            "name": "Introduction to Computational Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1360",
-            "name": "APMA 1360"
+            "name": "Applied Dynamical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1660",
-            "name": "APMA 1660"
+            "name": "Statistical Inference II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1690",
-            "name": "APMA 1690"
+            "name": "Computational Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1710",
-            "name": "APMA 1710"
+            "name": "Information Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1740",
-            "name": "APMA 1740"
+            "name": "Recent Applications of Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1860",
-            "name": "APMA 1860"
+            "name": "Graphs and Networks"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1941D",
-            "name": "APMA 1941D"
+            "name": "Pattern Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1435",
-            "name": "BIOL 1435"
+            "name": "Computational Methods for Studying Demographic History with Molecular Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1555",
-            "name": "BIOL 1555"
+            "name": "Methods in Informatics and Data Science for Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0535",
-            "name": "CSCI 0535"
+            "name": "Linear Algebra for Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1010",
-            "name": "CSCI 1010"
+            "name": "Theory of Computation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1570",
-            "name": "CSCI 1570"
+            "name": "Design and Analysis of Algorithms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1951A",
-            "name": "CSCI 1951A"
+            "name": "Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1951Q",
-            "name": "CSCI 1951Q"
+            "name": "Topics in Programming Languages"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2912P",
-            "name": "ENGN 2912P"
+            "name": "Topics in Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1210",
-            "name": "MATH 1210"
+            "name": "Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1610",
-            "name": "MATH 1610"
+            "name": "Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1610",
-            "name": "PHYS 1610"
+            "name": "Biological Physics"
           }
         }
       ],
@@ -1689,19 +1690,19 @@
   "all_courses": [
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "APMA 0260",
@@ -1709,303 +1710,303 @@
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "NEUR 1030",
-      "name": "NEUR 1030"
+      "name": "Neural Systems"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0112",
-      "name": "CSCI 0112"
+      "name": "Computing Foundations: Program Organization"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Program Design with Data Structures and Algorithms"
     },
     {
       "code": "NEUR 0680",
-      "name": "NEUR 0680"
+      "name": "Introduction to Computational Neuroscience"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "NEUR 1440",
-      "name": "NEUR 1440"
+      "name": "Mechanisms and Meaning of Neural Dynamics"
     },
     {
       "code": "NEUR 1660",
-      "name": "NEUR 1660"
+      "name": "Neural Computation in Learning and Decision-Making"
     },
     {
       "code": "CPSY 1291",
-      "name": "CPSY 1291"
+      "name": "Computational Methods for Mind, Brain and Behavior"
     },
     {
       "code": "CSCI 1810",
-      "name": "CSCI 1810"
+      "name": "Computational Molecular Biology"
     },
     {
       "code": "NEUR 1940B",
-      "name": "NEUR 1940B"
+      "name": "Deep Learning in Neuroethology"
     },
     {
       "code": "NEUR 1630",
-      "name": "NEUR 1630"
+      "name": "Big Data Neuroscience Ideas Lab"
     },
     {
       "code": "CPSY 1950",
-      "name": "CPSY 1950"
+      "name": "Deep Learning in Brains, Minds and Machines"
     },
     {
       "code": "CPSY 1850",
-      "name": "CPSY 1850"
+      "name": "Language Processing in Humans and Machines"
     },
     {
       "code": "NEUR 2110",
-      "name": "NEUR 2110"
+      "name": "Statistical Neuroscience"
     },
     {
       "code": "CSCI 0410",
-      "name": "CSCI 0410"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 1410",
-      "name": "CSCI 1410"
+      "name": "Artificial Intelligence"
     },
     {
       "code": "CSCI 1411",
-      "name": "CSCI 1411"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 1420",
-      "name": "CSCI 1420"
+      "name": "Machine Learning"
     },
     {
       "code": "CSCI 1430",
-      "name": "CSCI 1430"
+      "name": "Computer Vision"
     },
     {
       "code": "CSCI 1460",
-      "name": "CSCI 1460"
+      "name": "Computational Linguistics"
     },
     {
       "code": "CSCI 1470",
-      "name": "CSCI 1470"
+      "name": "Deep Learning"
     },
     {
       "code": "DATA 2060",
-      "name": "DATA 2060"
+      "name": "Machine Learning: from Theory to Algorithms"
     },
     {
       "code": "HIST 1956S",
-      "name": "HIST 1956S"
+      "name": "History of Artificial Intelligence"
     },
     {
       "code": "CPSY 1400",
-      "name": "CPSY 1400"
+      "name": "The Neural Bases of Cognition"
     },
     {
       "code": "ENGL 1900Z",
-      "name": "ENGL 1900Z"
+      "name": "Neuroaesthetics and Reading"
     },
     {
       "code": "ENGN 1220",
-      "name": "ENGN 1220"
+      "name": "Neuroengineering"
     },
     {
       "code": "NEUR 1540",
-      "name": "NEUR 1540"
+      "name": "Neurobiology of Learning and Memory"
     },
     {
       "code": "NEUR 1650",
-      "name": "NEUR 1650"
+      "name": "Structure of the Nervous System"
     },
     {
       "code": "NEUR 1740",
-      "name": "NEUR 1740"
+      "name": "The Diseased Brain: Mechanisms of Neurological and Psychiatric Disorders"
     },
     {
       "code": "CSCI 1805",
-      "name": "CSCI 1805"
+      "name": "Computers, Freedom and Privacy"
     },
     {
       "code": "CSCI 1951I",
-      "name": "CSCI 1951I"
+      "name": "CS for Social Change"
     },
     {
       "code": "CSCI 1951Z",
-      "name": "CSCI 1951Z"
+      "name": "Fairness in Automated Decision Making"
     },
     {
       "code": "DATA 0080",
-      "name": "DATA 0080"
+      "name": "Data, Ethics and Society"
     },
     {
       "code": "ECON 1000",
-      "name": "ECON 1000"
+      "name": "Using Big Data to Solve Economic and Social Problems"
     },
     {
       "code": "ENGN 1800",
-      "name": "ENGN 1800"
+      "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
     },
     {
       "code": "PHIL 0401",
-      "name": "PHIL 0401"
+      "name": "Ethics of Digital Technology"
     },
     {
       "code": "PHIL 0403",
-      "name": "PHIL 0403"
+      "name": "Ethics and Politics of Data"
     },
     {
       "code": "APMA 1910",
-      "name": "APMA 1910"
+      "name": "Race and Gender in the Scientific Community"
     },
     {
       "code": "STS 1700T",
-      "name": "STS 1700T"
+      "name": "Race, Gender, and Technology in Everyday Life"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "APMA 0200",
-      "name": "APMA 0200"
+      "name": "Introduction to Modeling"
     },
     {
       "code": "APMA 0360",
-      "name": "APMA 0360"
+      "name": "Applied Partial Differential Equations I"
     },
     {
       "code": "APMA 1070",
-      "name": "APMA 1070"
+      "name": "Quantitative Models of Biological Systems"
     },
     {
       "code": "APMA 1170",
-      "name": "APMA 1170"
+      "name": "Introduction to Computational Linear Algebra"
     },
     {
       "code": "APMA 1360",
-      "name": "APMA 1360"
+      "name": "Applied Dynamical Systems"
     },
     {
       "code": "APMA 1660",
-      "name": "APMA 1660"
+      "name": "Statistical Inference II"
     },
     {
       "code": "APMA 1690",
-      "name": "APMA 1690"
+      "name": "Computational Probability and Statistics"
     },
     {
       "code": "APMA 1710",
-      "name": "APMA 1710"
+      "name": "Information Theory"
     },
     {
       "code": "APMA 1740",
-      "name": "APMA 1740"
+      "name": "Recent Applications of Probability and Statistics"
     },
     {
       "code": "APMA 1860",
-      "name": "APMA 1860"
+      "name": "Graphs and Networks"
     },
     {
       "code": "APMA 1941D",
-      "name": "APMA 1941D"
+      "name": "Pattern Theory"
     },
     {
       "code": "BIOL 1435",
-      "name": "BIOL 1435"
+      "name": "Computational Methods for Studying Demographic History with Molecular Data"
     },
     {
       "code": "BIOL 1555",
-      "name": "BIOL 1555"
+      "name": "Methods in Informatics and Data Science for Health"
     },
     {
       "code": "CPSY 0450",
-      "name": "CPSY 0450"
+      "name": "Brain Damage and the Mind"
     },
     {
       "code": "CPSY 0800",
-      "name": "CPSY 0800"
+      "name": "Language and the Mind"
     },
     {
       "code": "CSCI 0535",
-      "name": "CSCI 0535"
+      "name": "Linear Algebra for Machine Learning"
     },
     {
       "code": "CSCI 1010",
-      "name": "CSCI 1010"
+      "name": "Theory of Computation"
     },
     {
       "code": "CSCI 1570",
-      "name": "CSCI 1570"
+      "name": "Design and Analysis of Algorithms"
     },
     {
       "code": "CSCI 1951A",
-      "name": "CSCI 1951A"
+      "name": "Data Science"
     },
     {
       "code": "CSCI 1951Q",
-      "name": "CSCI 1951Q"
+      "name": "Topics in Programming Languages"
     },
     {
       "code": "ENGN 2912P",
-      "name": "ENGN 2912P"
+      "name": "Topics in Optimization"
     },
     {
       "code": "MATH 1210",
-      "name": "MATH 1210"
+      "name": "Probability"
     },
     {
       "code": "MATH 1610",
-      "name": "MATH 1610"
+      "name": "Probability"
     },
     {
       "code": "PHYS 1610",
-      "name": "PHYS 1610"
+      "name": "Biological Physics"
     }
   ]
 }

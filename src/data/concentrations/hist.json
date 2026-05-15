@@ -2,6 +2,7 @@
   "concentration": "History",
   "slug": "hist",
   "url": "https://bulletin.brown.edu/the-college/concentrations/hist/",
+  "description": "History is the study of how societies and cultures across the world change over time. History concentrators learn to write and think critically, and to understand issues from a variety of perspectives. The department offers a wide variety of courses concerned with changes in human experience through time, ranging from classical Greek and Roman civilizations to the histories of Africa, the Middle East, the Americas, and Asia. While some courses explore special topics, others concentrate on the history of a particular country (e.g. China or Brazil) or period of time (e.g. Antiquity or the 20th century). By taking advantage of our diverse course offerings, students can engage in and develop broad perspectives on the past and the present. Prospective concentrators should visit the History site and visit the office hours of their prospective concentrator advisor (assigned according to student surname).",
   "tracks": [
     {
       "id": "concentration_requirements",
@@ -103,1007 +104,1007 @@
     },
     {
       "code": "HIST 0150A",
-      "name": "HIST 0150A"
+      "name": "History of Capitalism"
     },
     {
       "code": "HIST 0150B",
-      "name": "HIST 0150B"
+      "name": "The Philosophers' Stone: Alchemy From Antiquity to Harry Potter"
     },
     {
       "code": "HIST 0150C",
-      "name": "HIST 0150C"
+      "name": "Locked Up: A Global History of Prison and Captivity"
     },
     {
       "code": "HIST 0150D",
-      "name": "HIST 0150D"
+      "name": "Refugees: A Twentieth-Century History"
     },
     {
       "code": "HIST 0150G",
-      "name": "HIST 0150G"
+      "name": "History of Law: Great Trials"
     },
     {
       "code": "HIST 0150H",
-      "name": "HIST 0150H"
+      "name": "Foods and Drugs in History"
     },
     {
       "code": "HIST 0150I",
-      "name": "HIST 0150I"
+      "name": "The Making of the Modern World"
     },
     {
       "code": "HIST 0150J",
-      "name": "HIST 0150J"
+      "name": "The Ocean in Global History"
     },
     {
       "code": "HIST 0150K",
-      "name": "HIST 0150K"
+      "name": "Curators, Hoarders, and Looters: The Long and Curious History of Collecting"
     },
     {
       "code": "HIST 0202",
-      "name": "HIST 0202"
+      "name": "African Experiences of Empire"
     },
     {
       "code": "HIST 0203",
-      "name": "HIST 0203"
+      "name": "Modern Africa: From Empire to Nation-State"
     },
     {
       "code": "HIST 0212",
-      "name": "HIST 0212"
+      "name": "Histories of East Asia: China"
     },
     {
       "code": "HIST 0214",
-      "name": "HIST 0214"
+      "name": "Histories of East Asia: Japan"
     },
     {
       "code": "HIST 0218",
-      "name": "HIST 0218"
+      "name": "The Making of Modern East Asia"
     },
     {
       "code": "HIST 0233",
-      "name": "HIST 0233"
+      "name": "Colonial Latin America"
     },
     {
       "code": "HIST 0234",
-      "name": "HIST 0234"
+      "name": "Modern Latin America"
     },
     {
       "code": "HIST 0243",
-      "name": "HIST 0243"
+      "name": "Modern Middle East Roots: 1492 to the Present"
     },
     {
       "code": "HIST 0244",
-      "name": "HIST 0244"
+      "name": "Understanding the Middle East: A Modern History"
     },
     {
       "code": "HIST 0246",
-      "name": "HIST 0246"
+      "name": "The Ottoman Empire and Modern Middle East"
     },
     {
       "code": "HIST 0247",
-      "name": "HIST 0247"
+      "name": "Civilization, Empire, Nation: Competing Histories of the Middle East"
     },
     {
       "code": "HIST 0250",
-      "name": "HIST 0250"
+      "name": "American Exceptionalism: The History of an Idea"
     },
     {
       "code": "HIST 0252",
-      "name": "HIST 0252"
+      "name": "The American Civil War"
     },
     {
       "code": "HIST 0253",
-      "name": "HIST 0253"
+      "name": "Religion, Politics, and Culture in America, 1865 - Present"
     },
     {
       "code": "HIST 0253A",
-      "name": "HIST 0253A"
+      "name": "Colonial America: A Global History"
     },
     {
       "code": "HIST 0254",
-      "name": "HIST 0254"
+      "name": "Reconstruction and the Politics of Violence"
     },
     {
       "code": "HIST 0255A",
-      "name": "HIST 0255A"
+      "name": "Mexican American History"
     },
     {
       "code": "HIST 0256",
-      "name": "HIST 0256"
+      "name": "Introduction to Latinx History"
     },
     {
       "code": "HIST 0260",
-      "name": "HIST 0260"
+      "name": "Early Modern India, 1500-1800"
     },
     {
       "code": "HIST 0270A",
-      "name": "HIST 0270A"
+      "name": "From Fire Wielders to Empire Builders: Human Impact on the Global Environment before 1492"
     },
     {
       "code": "HIST 0270B",
-      "name": "HIST 0270B"
+      "name": "From the Columbian Exchange to Climate Change: Modern Global Environmental History"
     },
     {
       "code": "HIST 0276",
-      "name": "HIST 0276"
+      "name": "A Global History of the Atomic Age"
     },
     {
       "code": "HIST 0276B",
-      "name": "HIST 0276B"
+      "name": "Science and Capitalism"
     },
     {
       "code": "HIST 0285A",
-      "name": "HIST 0285A"
+      "name": "Modern Genocide and Other Crimes against Humanity"
     },
     {
       "code": "HIST 0286A",
-      "name": "HIST 0286A"
+      "name": "History of Medicine I: Medical Traditions in the Old World Before 1700"
     },
     {
       "code": "HIST 0286B",
-      "name": "HIST 0286B"
+      "name": "History of Medicine II: The Development of Scientific Medicine in Europe and the World"
     },
     {
       "code": "HIST 0510A",
-      "name": "HIST 0510A"
+      "name": "Shanghai in Myth and History"
     },
     {
       "code": "HIST 0510B",
-      "name": "HIST 0510B"
+      "name": "History of Tokyo"
     },
     {
       "code": "HIST 0520A",
-      "name": "HIST 0520A"
+      "name": "Athens, Jerusalem, and Baghdad: Three Civilizations, One Tradition"
     },
     {
       "code": "HIST 0521A",
-      "name": "HIST 0521A"
+      "name": "Christianity in Conflict in the Medieval Mediterranean"
     },
     {
       "code": "HIST 0521M",
-      "name": "HIST 0521M"
+      "name": "The Holy Grail and the Historian's Quest for the Truth"
     },
     {
       "code": "HIST 0522G",
-      "name": "HIST 0522G"
+      "name": "An Empire and Republic: The Dutch Golden Age"
     },
     {
       "code": "HIST 0522O",
-      "name": "HIST 0522O"
+      "name": "What is Enlightenment?"
     },
     {
       "code": "HIST 0523A",
-      "name": "HIST 0523A"
+      "name": "The Holocaust in Historical Perspective"
     },
     {
       "code": "HIST 0523B",
-      "name": "HIST 0523B"
+      "name": "State Surveillance in History"
     },
     {
       "code": "HIST 0523P",
-      "name": "HIST 0523P"
+      "name": "The First World War"
     },
     {
       "code": "HIST 0537A",
-      "name": "HIST 0537A"
+      "name": "Popular Culture in Latin America and the Caribbean"
     },
     {
       "code": "HIST 0550A",
-      "name": "HIST 0550A"
+      "name": "Object Histories: The Material Culture of Early America"
     },
     {
       "code": "HIST 0551A",
-      "name": "HIST 0551A"
+      "name": "Abraham Lincoln: Historical and Cultural Perspectives"
     },
     {
       "code": "HIST 0552A",
-      "name": "HIST 0552A"
+      "name": "A Textile History of Atlantic Slavery"
     },
     {
       "code": "HIST 0555B",
-      "name": "HIST 0555B"
+      "name": "Robber Barons"
     },
     {
       "code": "HIST 0557C",
-      "name": "HIST 0557C"
+      "name": "Narratives of Slavery"
     },
     {
       "code": "HIST 0557D",
-      "name": "HIST 0557D"
+      "name": "World of Walden Pond: Transcendentalism in the Age of Reform"
     },
     {
       "code": "HIST 0558B",
-      "name": "HIST 0558B"
+      "name": "History of American Feminism"
     },
     {
       "code": "HIST 0558C",
-      "name": "HIST 0558C"
+      "name": "Latinx Social Movement History"
     },
     {
       "code": "HIST 0559A",
-      "name": "HIST 0559A"
+      "name": "Culture and U.S. Empire"
     },
     {
       "code": "HIST 0559B",
-      "name": "HIST 0559B"
+      "name": "Asian Americans and Third World Solidarity"
     },
     {
       "code": "HIST 0559C",
-      "name": "HIST 0559C"
+      "name": "Archives and Activism"
     },
     {
       "code": "HIST 0574A",
-      "name": "HIST 0574A"
+      "name": "The Silk Road, Past and Present"
     },
     {
       "code": "HIST 0576A",
-      "name": "HIST 0576A"
+      "name": "The Arctic: Global History from the Dog Sled to the Oil Rig"
     },
     {
       "code": "HIST 0577A",
-      "name": "HIST 0577A"
+      "name": "The Chinese Diaspora: A History of Globalization"
     },
     {
       "code": "HIST 0577B",
-      "name": "HIST 0577B"
+      "name": "The US-Mexico Border and Borderlands: A Bilingual English-Spanish Seminar"
     },
     {
       "code": "HIST 0580M",
-      "name": "HIST 0580M"
+      "name": "The Age of Revolutions, 1760-1824"
     },
     {
       "code": "HIST 0580O",
-      "name": "HIST 0580O"
+      "name": "Making Change: Nonviolence in Action"
     },
     {
       "code": "HIST 0582A",
-      "name": "HIST 0582A"
+      "name": "Animal Histories"
     },
     {
       "code": "HIST 0621A",
-      "name": "HIST 0621A"
+      "name": "Surviving Medieval Paris"
     },
     {
       "code": "HIST 0621B",
-      "name": "HIST 0621B"
+      "name": "The Search for King Arthur"
     },
     {
       "code": "HIST 0623B",
-      "name": "HIST 0623B"
+      "name": "The Russian Revolution"
     },
     {
       "code": "HIST 0623C",
-      "name": "HIST 0623C"
+      "name": "Americans in the USSR"
     },
     {
       "code": "HIST 0654A",
-      "name": "HIST 0654A"
+      "name": "Welfare States and a History of Modern Life"
     },
     {
       "code": "HIST 0654B",
-      "name": "HIST 0654B"
+      "name": "American Patriotism in Black and White"
     },
     {
       "code": "HIST 0655A",
-      "name": "HIST 0655A"
+      "name": "Culture Wars in American Schools"
     },
     {
       "code": "HIST 0657A",
-      "name": "HIST 0657A"
+      "name": "Early American Lives"
     },
     {
       "code": "HIST 0658D",
-      "name": "HIST 0658D"
+      "name": "Walden + Woodstock: The American Lives of Ralph Waldo Emerson and Bob Dylan"
     },
     {
       "code": "HIST 0673A",
-      "name": "HIST 0673A"
+      "name": "Colonial Encounters in the Early Atlantic"
     },
     {
       "code": "HIST 0675A",
-      "name": "HIST 0675A"
+      "name": "The Chinese Diaspora: A History of Globalization"
     },
     {
       "code": "HIST 0685A",
-      "name": "HIST 0685A"
+      "name": "The Social Lives of Dead Bodies in China and Beyond"
     },
     {
       "code": "HIST 1030",
-      "name": "HIST 1030"
+      "name": "Entangled South Africa"
     },
     {
       "code": "HIST 1060",
-      "name": "HIST 1060"
+      "name": "Colonial Africa"
     },
     {
       "code": "HIST 1070",
-      "name": "HIST 1070"
+      "name": "Postcolonial Africa"
     },
     {
       "code": "HIST 1080",
-      "name": "HIST 1080"
+      "name": "Humanitarianism and Conflict in Africa"
     },
     {
       "code": "HIST 1081",
-      "name": "HIST 1081"
+      "name": "The Environmental History of Subsistence and Extraction in Africa before 1900"
     },
     {
       "code": "HIST 1101",
-      "name": "HIST 1101"
+      "name": "Chinese Political Thought from Confucius to Xi Jinping"
     },
     {
       "code": "HIST 1110",
-      "name": "HIST 1110"
+      "name": "Imperial China/China: Culture and Legacy"
     },
     {
       "code": "HIST 1111",
-      "name": "HIST 1111"
+      "name": "Women and Gender Relations in China"
     },
     {
       "code": "HIST 1112",
-      "name": "HIST 1112"
+      "name": "China's Early Modern Empires"
     },
     {
       "code": "HIST 1118",
-      "name": "HIST 1118"
+      "name": "China's Late Empires"
     },
     {
       "code": "HIST 1120",
-      "name": "HIST 1120"
+      "name": "At China's Edges"
     },
     {
       "code": "HIST 1121",
-      "name": "HIST 1121"
+      "name": "The Modern Chinese Nation: An Idea and Its Limits"
     },
     {
       "code": "HIST 1122",
-      "name": "HIST 1122"
+      "name": "China Pop: The Social History of Chinese Popular Culture"
     },
     {
       "code": "HIST 1123",
-      "name": "HIST 1123"
+      "name": "China's Socialist Dreams"
     },
     {
       "code": "HIST 1141",
-      "name": "HIST 1141"
+      "name": "Japan in the Age of the Samurai"
     },
     {
       "code": "HIST 1149",
-      "name": "HIST 1149"
+      "name": "Imperial Japan"
     },
     {
       "code": "HIST 1150",
-      "name": "HIST 1150"
+      "name": "Modern Japan"
     },
     {
       "code": "HIST 1155",
-      "name": "HIST 1155"
+      "name": "Japan's Pacific War: 1937-1945"
     },
     {
       "code": "HIST 1156",
-      "name": "HIST 1156"
+      "name": "Postwar Japan"
     },
     {
       "code": "HIST 1200A",
-      "name": "HIST 1200A"
+      "name": "Mediterranean Culture Wars: Archaic Greek History, c 1200 to 479 BC"
     },
     {
       "code": "HIST 1200B",
-      "name": "HIST 1200B"
+      "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
     },
     {
       "code": "HIST 1200C",
-      "name": "HIST 1200C"
+      "name": "History of Greece: From Alexander the Great to the Roman Conquest"
     },
     {
       "code": "HIST 1201A",
-      "name": "HIST 1201A"
+      "name": "Roman History I"
     },
     {
       "code": "HIST 1201B",
-      "name": "HIST 1201B"
+      "name": "Roman History II: The Empire"
     },
     {
       "code": "HIST 1202",
-      "name": "HIST 1202"
+      "name": "Formation of the Classical Heritage: Greeks, Romans, Jews, Christians, and Muslims"
     },
     {
       "code": "HIST 1205",
-      "name": "HIST 1205"
+      "name": "The Long Fall of the Roman Empire"
     },
     {
       "code": "HIST 1210A",
-      "name": "HIST 1210A"
+      "name": "The Viking Age"
     },
     {
       "code": "HIST 1211",
-      "name": "HIST 1211"
+      "name": "Becoming Medieval: Self, Other, and the World"
     },
     {
       "code": "HIST 1216",
-      "name": "HIST 1216"
+      "name": "The Paradox of Early Modern Europe"
     },
     {
       "code": "HIST 1240A",
-      "name": "HIST 1240A"
+      "name": "Politics of Violence in 20C Europe"
     },
     {
       "code": "HIST 1241A",
-      "name": "HIST 1241A"
+      "name": "Migration in European History"
     },
     {
       "code": "HIST 1260D",
-      "name": "HIST 1260D"
+      "name": "Living Together: Muslims, Christians, and Jews in Medieval Iberia"
     },
     {
       "code": "HIST 1262F",
-      "name": "HIST 1262F"
+      "name": "Women, Gender, and Feminism in Early Modern Italy"
     },
     {
       "code": "HIST 1262M",
-      "name": "HIST 1262M"
+      "name": "Truth on Trial: Justice in Italy, 1400-1800"
     },
     {
       "code": "HIST 1264M",
-      "name": "HIST 1264M"
+      "name": "Cultural History of the Netherlands in a Golden Age and a Global Age"
     },
     {
       "code": "HIST 1266C",
-      "name": "HIST 1266C"
+      "name": "English History, 1529-1660"
     },
     {
       "code": "HIST 1266D",
-      "name": "HIST 1266D"
+      "name": "British History, 1660-1800"
     },
     {
       "code": "HIST 1267",
-      "name": "HIST 1267"
+      "name": "The Global British Empire, 1600-The Present"
     },
     {
       "code": "HIST 1268A",
-      "name": "HIST 1268A"
+      "name": "The Rise of the Russian Empire"
     },
     {
       "code": "HIST 1268B",
-      "name": "HIST 1268B"
+      "name": "Russia in the Era of Reforms, Revolutions, and World Wars"
     },
     {
       "code": "HIST 1268C",
-      "name": "HIST 1268C"
+      "name": "The Collapse of Socialism and the Rise of New Russia"
     },
     {
       "code": "HIST 1270C",
-      "name": "HIST 1270C"
+      "name": "German History, 1806-1945"
     },
     {
       "code": "HIST 1272D",
-      "name": "HIST 1272D"
+      "name": "The French Revolution"
     },
     {
       "code": "HIST 1272E",
-      "name": "HIST 1272E"
+      "name": "Paris: Sacred and Profane, Imagined and Real"
     },
     {
       "code": "HIST 1320",
-      "name": "HIST 1320"
+      "name": "Rebel Island: Cuba, 1492-Present"
     },
     {
       "code": "HIST 1333",
-      "name": "HIST 1333"
+      "name": "The Mexican Revolution"
     },
     {
       "code": "HIST 1340",
-      "name": "HIST 1340"
+      "name": "History of the Andes"
     },
     {
       "code": "HIST 1360",
-      "name": "HIST 1360"
+      "name": "Amazonia from the Prehuman to the Present"
     },
     {
       "code": "HIST 1381",
-      "name": "HIST 1381"
+      "name": "Latin American History and Film: Memory, Narrative and Nation"
     },
     {
       "code": "HIST 1382",
-      "name": "HIST 1382"
+      "name": "The Environmental History of Latin America"
     },
     {
       "code": "HIST 1440",
-      "name": "HIST 1440"
+      "name": "The Ottomans: Faith, Law, Empire"
     },
     {
       "code": "HIST 1455",
-      "name": "HIST 1455"
+      "name": "The Making of the Modern Middle East"
     },
     {
       "code": "HIST 1457",
-      "name": "HIST 1457"
+      "name": "Understanding the Palestinians"
     },
     {
       "code": "HIST 1470",
-      "name": "HIST 1470"
+      "name": "Legal History in the Middle East"
     },
     {
       "code": "HIST 1502",
-      "name": "HIST 1502"
+      "name": "The Early Republic United States"
     },
     {
       "code": "HIST 1503",
-      "name": "HIST 1503"
+      "name": "Antebellum America and the Road to Civil War"
     },
     {
       "code": "HIST 1505",
-      "name": "HIST 1505"
+      "name": "Making America Modern"
     },
     {
       "code": "HIST 1507",
-      "name": "HIST 1507"
+      "name": "American Babylon: Crisis and Reckoning in the Postwar United States, 1945-1980"
     },
     {
       "code": "HIST 1511",
-      "name": "HIST 1511"
+      "name": "Sinners, Saints, and Heretics: Religion in Early America"
     },
     {
       "code": "HIST 1512",
-      "name": "HIST 1512"
+      "name": "First Nations: The People and Cultures of Native North America to 1800"
     },
     {
       "code": "HIST 1513",
-      "name": "HIST 1513"
+      "name": "U.S. Cultural History from Revolution to Reconstruction"
     },
     {
       "code": "HIST 1514",
-      "name": "HIST 1514"
+      "name": "Capitalism, Slavery and the Economy of Early America"
     },
     {
       "code": "HIST 1515",
-      "name": "HIST 1515"
+      "name": "American Slavery"
     },
     {
       "code": "HIST 1530",
-      "name": "HIST 1530"
+      "name": "The Intimate State: The Politics of Gender, Sex, and Family in the U.S., 1873-Present"
     },
     {
       "code": "HIST 1531",
-      "name": "HIST 1531"
+      "name": "Mass Movements, Modern Politics: From Labor to the New Right in America"
     },
     {
       "code": "HIST 1532",
-      "name": "HIST 1532"
+      "name": "Black Freedom Struggle Since 1945"
     },
     {
       "code": "HIST 1533",
-      "name": "HIST 1533"
+      "name": "Cities and Inequality Since 1920: The United States"
     },
     {
       "code": "HIST 1553",
-      "name": "HIST 1553"
+      "name": "Empires in America to 1890"
     },
     {
       "code": "HIST 1554",
-      "name": "HIST 1554"
+      "name": "American Empire Since 1890"
     },
     {
       "code": "HIST 1570",
-      "name": "HIST 1570"
+      "name": "American Legal and Constitutional History"
     },
     {
       "code": "HIST 1571",
-      "name": "HIST 1571"
+      "name": "The Intellectual History of Black Women"
     },
     {
       "code": "HIST 1574",
-      "name": "HIST 1574"
+      "name": "US Liberal Imperialism and Its Discontents"
     },
     {
       "code": "HIST 1620",
-      "name": "HIST 1620"
+      "name": "Resisting Empire: Gandhi and the Making of Modern South Asia"
     },
     {
       "code": "HIST 1640",
-      "name": "HIST 1640"
+      "name": "Inequality + Change: South Asia after 1947"
     },
     {
       "code": "HIST 1735",
-      "name": "HIST 1735"
+      "name": "Slavery in the Early Modern World"
     },
     {
       "code": "HIST 1800",
-      "name": "HIST 1800"
+      "name": "Religion and Power in North America to 1865"
     },
     {
       "code": "HIST 1820A",
-      "name": "HIST 1820A"
+      "name": "Environmental History"
     },
     {
       "code": "HIST 1820B",
-      "name": "HIST 1820B"
+      "name": "China's Environmental History"
     },
     {
       "code": "HIST 1820G",
-      "name": "HIST 1820G"
+      "name": "Nature on Display"
     },
     {
       "code": "HIST 1825F",
-      "name": "HIST 1825F"
+      "name": "Nature, Knowledge, Power in Early Modern Europe"
     },
     {
       "code": "HIST 1825H",
-      "name": "HIST 1825H"
+      "name": "Science, Medicine and Technology in the 17th Century"
     },
     {
       "code": "HIST 1825J",
-      "name": "HIST 1825J"
+      "name": "History of Artificial Intelligence"
     },
     {
       "code": "HIST 1825S",
-      "name": "HIST 1825S"
+      "name": "Science and Capitalism"
     },
     {
       "code": "HIST 1830B",
-      "name": "HIST 1830B"
+      "name": "Politics and the Psyche from Sigmund Freud to Donald Trump"
     },
     {
       "code": "HIST 1830M",
-      "name": "HIST 1830M"
+      "name": "From Medieval Bedlam to Prozac Nation: Intimate Histories of Psychiatry and Self"
     },
     {
       "code": "HIST 1835A",
-      "name": "HIST 1835A"
+      "name": "Unearthing the Body: History, Archaeology, and Biology at the End of Antiquity"
     },
     {
       "code": "HIST 1942A",
-      "name": "HIST 1942A"
+      "name": "Taiwan's Geographies"
     },
     {
       "code": "HIST 1952A",
-      "name": "HIST 1952A"
+      "name": "World of Walden Pond: Transcendentalism as a Social and Intellectual Movement"
     },
     {
       "code": "HIST 1956A",
-      "name": "HIST 1956A"
+      "name": "Thinking Historically: A History of History Writing"
     },
     {
       "code": "HIST 1956B",
-      "name": "HIST 1956B"
+      "name": "Rites of Power in Modern China"
     },
     {
       "code": "HIST 1956S",
-      "name": "HIST 1956S"
+      "name": "History of Artificial Intelligence"
     },
     {
       "code": "HIST 1960G",
-      "name": "HIST 1960G"
+      "name": "Southern African Frontiers, c. 1400-1860"
     },
     {
       "code": "HIST 1960H",
-      "name": "HIST 1960H"
+      "name": "Indigeneity and Assimilation in Southern Africa: The Khoe-San"
     },
     {
       "code": "HIST 1960J",
-      "name": "HIST 1960J"
+      "name": "More-Than-Human Histories of Africa"
     },
     {
       "code": "HIST 1960Q",
-      "name": "HIST 1960Q"
+      "name": "Medicine and Public Health in Africa"
     },
     {
       "code": "HIST 1960R",
-      "name": "HIST 1960R"
+      "name": "South Africa Since 1990"
     },
     {
       "code": "HIST 1960S",
-      "name": "HIST 1960S"
+      "name": "North African History: 1800 to Present"
     },
     {
       "code": "HIST 1961B",
-      "name": "HIST 1961B"
+      "name": "Cities and Urban Culture in China"
     },
     {
       "code": "HIST 1961C",
-      "name": "HIST 1961C"
+      "name": "Knowledge and Power: China's Examination Hell"
     },
     {
       "code": "HIST 1961D",
-      "name": "HIST 1961D"
+      "name": "Heaven Above, Suzhou and Hangzhou Below: Urban Culture in Early Modern China"
     },
     {
       "code": "HIST 1961N",
-      "name": "HIST 1961N"
+      "name": "Colonization and Ethnicity in East Asian History"
     },
     {
       "code": "HIST 1962B",
-      "name": "HIST 1962B"
+      "name": "Life During Wartime: Theory and Sources from the Twentieth Century"
     },
     {
       "code": "HIST 1962C",
-      "name": "HIST 1962C"
+      "name": "State, Religion and the Public Good in Modern China"
     },
     {
       "code": "HIST 1962D",
-      "name": "HIST 1962D"
+      "name": "Japan in the  World, from the Age of Empires to 3.11"
     },
     {
       "code": "HIST 1962F",
-      "name": "HIST 1962F"
+      "name": "Assembling Chinese History"
     },
     {
       "code": "HIST 1962G",
-      "name": "HIST 1962G"
+      "name": "Southeast Asian Food History"
     },
     {
       "code": "HIST 1963L",
-      "name": "HIST 1963L"
+      "name": "Barbarians, Byzantines, and Berbers:  Early Medieval North Africa, AD 300-1050"
     },
     {
       "code": "HIST 1963M",
-      "name": "HIST 1963M"
+      "name": "Charlemagne: Conquest, Empire, and the Making of the Middle Ages"
     },
     {
       "code": "HIST 1963Q",
-      "name": "HIST 1963Q"
+      "name": "Sex, Power, and God: A Medieval Perspective"
     },
     {
       "code": "HIST 1964A",
-      "name": "HIST 1964A"
+      "name": "Age of Impostors: Fraud, Identification, and the Self in Early Modern Europe"
     },
     {
       "code": "HIST 1964B",
-      "name": "HIST 1964B"
+      "name": "The Enchanted World: Magic, Angels, and Demons in Early Modern Europe"
     },
     {
       "code": "HIST 1964D",
-      "name": "HIST 1964D"
+      "name": "Women in Early Modern England"
     },
     {
       "code": "HIST 1964E",
-      "name": "HIST 1964E"
+      "name": "The English Revolution"
     },
     {
       "code": "HIST 1964F",
-      "name": "HIST 1964F"
+      "name": "Early Modern Ireland"
     },
     {
       "code": "HIST 1964G",
-      "name": "HIST 1964G"
+      "name": "Spin, Terror and Revolution: England, Scotland and Ireland, 1660-1720"
     },
     {
       "code": "HIST 1964H",
-      "name": "HIST 1964H"
+      "name": "Race and Empire in 18th Century France"
     },
     {
       "code": "HIST 1964I",
-      "name": "HIST 1964I"
+      "name": "England Without a Monarchy: Regicide and Republic, 1649-1660"
     },
     {
       "code": "HIST 1964K",
-      "name": "HIST 1964K"
+      "name": "Descartes' World"
     },
     {
       "code": "HIST 1964L",
-      "name": "HIST 1964L"
+      "name": "Slavery in the Early Modern World"
     },
     {
       "code": "HIST 1964S",
-      "name": "HIST 1964S"
+      "name": "Islands of the Mind"
     },
     {
       "code": "HIST 1965C",
-      "name": "HIST 1965C"
+      "name": "Stalinism"
     },
     {
       "code": "HIST 1965D",
-      "name": "HIST 1965D"
+      "name": "The USSR and the Cold War"
     },
     {
       "code": "HIST 1965E",
-      "name": "HIST 1965E"
+      "name": "Politics of the Intellectual in 20C Europe"
     },
     {
       "code": "HIST 1965G",
-      "name": "HIST 1965G"
+      "name": "Hannah Arendt and Her World"
     },
     {
       "code": "HIST 1965H",
-      "name": "HIST 1965H"
+      "name": "Europe and the Invention of Race"
     },
     {
       "code": "HIST 1965I",
-      "name": "HIST 1965I"
+      "name": "Industrial Revolution in Europe"
     },
     {
       "code": "HIST 1965R",
-      "name": "HIST 1965R"
+      "name": "The Crisis of Liberalism in Modern History"
     },
     {
       "code": "HIST 1967C",
-      "name": "HIST 1967C"
+      "name": "Making Revolutionary Cuba, 1959-Present"
     },
     {
       "code": "HIST 1967Q",
-      "name": "HIST 1967Q"
+      "name": "Gender and Sexuality in the Modern History of Latin America"
     },
     {
       "code": "HIST 1967T",
-      "name": "HIST 1967T"
+      "name": "History of the Andes from the Incas to Evo Morales"
     },
     {
       "code": "HIST 1968A",
-      "name": "HIST 1968A"
+      "name": "Approaches to the Middle East"
     },
     {
       "code": "HIST 1968V",
-      "name": "HIST 1968V"
+      "name": "America and the Middle East: Histories of Connection and Exchange"
     },
     {
       "code": "HIST 1969A",
-      "name": "HIST 1969A"
+      "name": "Israel-Palestine: Lands and Peoples I"
     },
     {
       "code": "HIST 1969B",
-      "name": "HIST 1969B"
+      "name": "Israel-Palestine: Lands and Peoples II"
     },
     {
       "code": "HIST 1969D",
-      "name": "HIST 1969D"
+      "name": "Palestine versus the Palestinians"
     },
     {
       "code": "HIST 1970A",
-      "name": "HIST 1970A"
+      "name": "Colonial Encounters: Indians, Europeans, and the Making of Early America"
     },
     {
       "code": "HIST 1970B",
-      "name": "HIST 1970B"
+      "name": "Enslaved! Indians and Africans in an Unfree Atlantic World"
     },
     {
       "code": "HIST 1970D",
-      "name": "HIST 1970D"
+      "name": "Problem of Class in Early America"
     },
     {
       "code": "HIST 1970F",
-      "name": "HIST 1970F"
+      "name": "Early American and Atlantic Money"
     },
     {
       "code": "HIST 1970G",
-      "name": "HIST 1970G"
+      "name": "Captive Voices: Atlantic Slavery in the Digital Age"
     },
     {
       "code": "HIST 1971D",
-      "name": "HIST 1971D"
+      "name": "From Emancipation to Obama"
     },
     {
       "code": "HIST 1972A",
-      "name": "HIST 1972A"
+      "name": "American Legal History, 1760-1920"
     },
     {
       "code": "HIST 1972F",
-      "name": "HIST 1972F"
+      "name": "Consent: Race, Sex, and the Law"
     },
     {
       "code": "HIST 1972G",
-      "name": "HIST 1972G"
+      "name": "Lesbian Memoir"
     },
     {
       "code": "HIST 1972H",
-      "name": "HIST 1972H"
+      "name": "U.S. Human Rights in a Global Age"
     },
     {
       "code": "HIST 1972I",
-      "name": "HIST 1972I"
+      "name": "Loss, Political Activism and Public Feelings: Between Fact and Affect"
     },
     {
       "code": "HIST 1972J",
-      "name": "HIST 1972J"
+      "name": "Racial Capitalism and U.S. Liberal Empire"
     },
     {
       "code": "HIST 1973Q",
-      "name": "HIST 1973Q"
+      "name": "Environmental Pressures of South Asia"
     },
     {
       "code": "HIST 1974A",
-      "name": "HIST 1974A"
+      "name": "The Silk Roads, Past and Present"
     },
     {
       "code": "HIST 1974B",
-      "name": "HIST 1974B"
+      "name": "War and Peace: A Global History"
     },
     {
       "code": "HIST 1974G",
-      "name": "HIST 1974G"
+      "name": "Nonviolence in History and Practice"
     },
     {
       "code": "HIST 1974J",
-      "name": "HIST 1974J"
+      "name": "Decolonizing Minds: A People's History of the World"
     },
     {
       "code": "HIST 1974K",
-      "name": "HIST 1974K"
+      "name": "Maps and Empires"
     },
     {
       "code": "HIST 1974M",
-      "name": "HIST 1974M"
+      "name": "Early Modern Globalization"
     },
     {
       "code": "HIST 1974P",
-      "name": "HIST 1974P"
+      "name": "Modernity's Crisis: Jewish History from the French Revolution to the Election of Donald Trump"
     },
     {
       "code": "HIST 1974S",
-      "name": "HIST 1974S"
+      "name": "The Nuclear Age"
     },
     {
       "code": "HIST 1974Y",
-      "name": "HIST 1974Y"
+      "name": "Moral Panic and Politics of Fear"
     },
     {
       "code": "HIST 1975J",
-      "name": "HIST 1975J"
+      "name": "Portuguese Discoveries  and Early Modern Global History"
     },
     {
       "code": "HIST 1976A",
-      "name": "HIST 1976A"
+      "name": "Native Histories in Latin America and North America"
     },
     {
       "code": "HIST 1976B",
-      "name": "HIST 1976B"
+      "name": "The History of Extinction"
     },
     {
       "code": "HIST 1976C",
-      "name": "HIST 1976C"
+      "name": "Animal, Vegetable, Mineral: Environmental Histories of Non-Human Actors"
     },
     {
       "code": "HIST 1976D",
-      "name": "HIST 1976D"
+      "name": "Powering the Past: The History of Energy"
     },
     {
       "code": "HIST 1976E",
-      "name": "HIST 1976E"
+      "name": "The Anthropocene: Climate Change as Social History"
     },
     {
       "code": "HIST 1976G",
-      "name": "HIST 1976G"
+      "name": "Animal Histories"
     },
     {
       "code": "HIST 1976H",
-      "name": "HIST 1976H"
+      "name": "Environmental History of Latin America 1492-Present"
     },
     {
       "code": "HIST 1976I",
-      "name": "HIST 1976I"
+      "name": "Imperialism and Environmental Change"
     },
     {
       "code": "HIST 1976J",
-      "name": "HIST 1976J"
+      "name": "Earth Histories: From Creation to Countdown"
     },
     {
       "code": "HIST 1976N",
-      "name": "HIST 1976N"
+      "name": "Topics in the History of Economic Thought"
     },
     {
       "code": "HIST 1976R",
-      "name": "HIST 1976R"
+      "name": "Histories of the Future"
     },
     {
       "code": "HIST 1977B",
-      "name": "HIST 1977B"
+      "name": "Feathery Things: An Avian Introduction to Animal Studies"
     },
     {
       "code": "HIST 1977I",
-      "name": "HIST 1977I"
+      "name": "Gender, Race, and Medicine in the Americas"
     },
     {
       "code": "HIST 1977J",
-      "name": "HIST 1977J"
+      "name": "War and Medicine since the Renaissance"
     },
     {
       "code": "HIST 1990",
-      "name": "HIST 1990"
+      "name": "Undergraduate Reading Courses"
     },
     {
       "code": "HIST 1993",
-      "name": "HIST 1993"
+      "name": "History Honors Workshop for Thesis Writers, Part I"
     },
     {
       "code": "HIST 1994",
-      "name": "HIST 1994"
+      "name": "History Honors Workshop for Thesis Writers, Part II"
     }
   ]
 }

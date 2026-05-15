@@ -2,6 +2,7 @@
   "concentration": "Education Studies",
   "slug": "educ",
   "url": "https://bulletin.brown.edu/the-college/concentrations/educ/",
+  "description": "Education Studies is a multidisciplinary concentration that explores the role of education as both a foundational institution in society and a key influence on human development. We offer students a unique opportunity to do engaged scholarship by applying theory to real-world questions about education policy, practice, and the learning process. From introductory courses to advanced seminars, our classes examine how education can promote or limit equity, opportunity, and social justice. Our faculty members work closely with students to study education using analytical approaches and theoretical frameworks drawn from anthropology, economics, history, human development, political science, sociology, social work, and teaching and learning. The Education concentration provides students with a strong liberal arts foundation for graduate studies and prepares students to be change agents in the broad-based education sector and beyond. Concentrators go on to a wide range of careers including advocacy, counseling, education technology, law, politics & policy, research, and teaching as well as leadership in schools, districts, and state departments of education. Students interested in earning a license to teach in public schools are encouraged to pursue the Brown 5th-year Masters of Arts in Teaching (MAT) program where they will receive world-class training to be culturally-responsive educators in urban education settings.",
   "tracks": [
     {
       "id": "concentration_requirements",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "EDUC 0300",
-              "name": "EDUC 0300"
+              "name": "Introduction to Education and Society: Foundations of Opportunity and Inequality"
             }
           ],
           "count": null,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "EDUC 0750",
-              "name": "EDUC 0750"
+              "name": "Evidence and Method in Education Research"
             }
           ],
           "count": null,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "EDUC 1900",
-              "name": "EDUC 1900"
+              "name": "Senior Seminar"
             }
           ],
           "count": null,
@@ -49,21 +50,21 @@
           "type": "required",
           "course": {
             "code": "EDUC 0300",
-            "name": "EDUC 0300"
+            "name": "Introduction to Education and Society: Foundations of Opportunity and Inequality"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0750",
-            "name": "EDUC 0750"
+            "name": "Evidence and Method in Education Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1900",
-            "name": "EDUC 1900"
+            "name": "Senior Seminar"
           }
         }
       ],
@@ -79,7 +80,7 @@
           "courses": [
             {
               "code": "EDUC 0300",
-              "name": "EDUC 0300"
+              "name": "Introduction to Education and Society: Foundations of Opportunity and Inequality"
             }
           ],
           "count": null,
@@ -91,7 +92,7 @@
           "courses": [
             {
               "code": "EDUC 0750",
-              "name": "EDUC 0750"
+              "name": "Evidence and Method in Education Research"
             }
           ],
           "count": null,
@@ -103,7 +104,7 @@
           "courses": [
             {
               "code": "EDUC 1900",
-              "name": "EDUC 1900"
+              "name": "Senior Seminar"
             }
           ],
           "count": null,
@@ -115,21 +116,21 @@
           "type": "required",
           "course": {
             "code": "EDUC 0300",
-            "name": "EDUC 0300"
+            "name": "Introduction to Education and Society: Foundations of Opportunity and Inequality"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0750",
-            "name": "EDUC 0750"
+            "name": "Evidence and Method in Education Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1900",
-            "name": "EDUC 1900"
+            "name": "Senior Seminar"
           }
         }
       ],
@@ -140,7 +141,7 @@
       "name": "Other Courses in Education Studies Concentration",
       "groups": [
         {
-          "name": "4 Courses in Area of Emphasis (could include any 4 of the following) 4",
+          "name": "4 Courses in Area of Emphasis (could include any 4 of the following)",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "EDUC 0515",
-                  "name": "EDUC 0515"
+                  "name": "Teaching LGBTQIA History"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "EDUC 0520",
-                  "name": "EDUC 0520"
+                  "name": "Adolescent Literature"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "EDUC 0530",
-                  "name": "EDUC 0530"
+                  "name": "Fieldwork and Seminar in Secondary Education"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "EDUC 0610",
-                  "name": "EDUC 0610"
+                  "name": "Brown v. Board of Education and the History of School Desegregation"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "EDUC 0620",
-                  "name": "EDUC 0620"
+                  "name": "Cradle of Inequality: The Role of Families, Schools, and Neighborhoods"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "EDUC 0750",
-                  "name": "EDUC 0750"
+                  "name": "Evidence and Method in Education Research"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "EDUC 0800",
-                  "name": "EDUC 0800"
+                  "name": "Introduction to Human Development and Education"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "EDUC 0825",
-                  "name": "EDUC 0825"
+                  "name": "Adolescence in Social Context"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "EDUC 1190",
-                  "name": "EDUC 1190"
+                  "name": "Family Engagement in Education"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "EDUC 1240",
-                  "name": "EDUC 1240"
+                  "name": "Qualitative Methods"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "EDUC 1320",
-                  "name": "EDUC 1320"
+                  "name": "Turning Hope into Results: The Policy Ecosystem of the Providence Public Schools District"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "EDUC 1430",
-                  "name": "EDUC 1430"
+                  "name": "Social Psychology of Race, Class, and Gender"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "EDUC 1475",
-                  "name": "EDUC 1475"
+                  "name": "The Big IDEA: The Complexities of Gifted and Special Education"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "EDUC 1490",
-                  "name": "EDUC 1490"
+                  "name": "Discipline and Punish: Historical Insights on School Punishment"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "EDUC 1660",
-                  "name": "EDUC 1660"
+                  "name": "Social Context of Learning and Development"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "EDUC 1675",
-                  "name": "EDUC 1675"
+                  "name": "The Psychology of Teaching and Learning"
                 }
               ],
               "count": null,
@@ -340,21 +341,21 @@
           "notes": []
         },
         {
-          "name": "3 Foundational courses in Education (from the table above) 3",
+          "name": "3 Foundational courses in Education (from the table above)",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "3 Electives 3",
+          "name": "3 Electives",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "1 Experiential Component 0",
+          "name": "1 Experiential Component",
           "type": "label",
           "courses": [],
           "count": 0,
@@ -366,112 +367,112 @@
           "type": "required",
           "course": {
             "code": "EDUC 0515",
-            "name": "EDUC 0515"
+            "name": "Teaching LGBTQIA History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0520",
-            "name": "EDUC 0520"
+            "name": "Adolescent Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0530",
-            "name": "EDUC 0530"
+            "name": "Fieldwork and Seminar in Secondary Education"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0610",
-            "name": "EDUC 0610"
+            "name": "Brown v. Board of Education and the History of School Desegregation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0620",
-            "name": "EDUC 0620"
+            "name": "Cradle of Inequality: The Role of Families, Schools, and Neighborhoods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0750",
-            "name": "EDUC 0750"
+            "name": "Evidence and Method in Education Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0800",
-            "name": "EDUC 0800"
+            "name": "Introduction to Human Development and Education"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0825",
-            "name": "EDUC 0825"
+            "name": "Adolescence in Social Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1190",
-            "name": "EDUC 1190"
+            "name": "Family Engagement in Education"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1240",
-            "name": "EDUC 1240"
+            "name": "Qualitative Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1320",
-            "name": "EDUC 1320"
+            "name": "Turning Hope into Results: The Policy Ecosystem of the Providence Public Schools District"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1430",
-            "name": "EDUC 1430"
+            "name": "Social Psychology of Race, Class, and Gender"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1475",
-            "name": "EDUC 1475"
+            "name": "The Big IDEA: The Complexities of Gifted and Special Education"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1490",
-            "name": "EDUC 1490"
+            "name": "Discipline and Punish: Historical Insights on School Punishment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1660",
-            "name": "EDUC 1660"
+            "name": "Social Context of Learning and Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 1675",
-            "name": "EDUC 1675"
+            "name": "The Psychology of Teaching and Learning"
           }
         }
       ],
@@ -493,63 +494,63 @@
     },
     {
       "code": "EDUC 0515",
-      "name": "EDUC 0515"
+      "name": "Teaching LGBTQIA History"
     },
     {
       "code": "EDUC 0520",
-      "name": "EDUC 0520"
+      "name": "Adolescent Literature"
     },
     {
       "code": "EDUC 0530",
-      "name": "EDUC 0530"
+      "name": "Fieldwork and Seminar in Secondary Education"
     },
     {
       "code": "EDUC 0610",
-      "name": "EDUC 0610"
+      "name": "Brown v. Board of Education and the History of School Desegregation"
     },
     {
       "code": "EDUC 0620",
-      "name": "EDUC 0620"
+      "name": "Cradle of Inequality: The Role of Families, Schools, and Neighborhoods"
     },
     {
       "code": "EDUC 0800",
-      "name": "EDUC 0800"
+      "name": "Introduction to Human Development and Education"
     },
     {
       "code": "EDUC 0825",
-      "name": "EDUC 0825"
+      "name": "Adolescence in Social Context"
     },
     {
       "code": "EDUC 1190",
-      "name": "EDUC 1190"
+      "name": "Family Engagement in Education"
     },
     {
       "code": "EDUC 1240",
-      "name": "EDUC 1240"
+      "name": "Qualitative Methods"
     },
     {
       "code": "EDUC 1320",
-      "name": "EDUC 1320"
+      "name": "Turning Hope into Results: The Policy Ecosystem of the Providence Public Schools District"
     },
     {
       "code": "EDUC 1430",
-      "name": "EDUC 1430"
+      "name": "Social Psychology of Race, Class, and Gender"
     },
     {
       "code": "EDUC 1475",
-      "name": "EDUC 1475"
+      "name": "The Big IDEA: The Complexities of Gifted and Special Education"
     },
     {
       "code": "EDUC 1490",
-      "name": "EDUC 1490"
+      "name": "Discipline and Punish: Historical Insights on School Punishment"
     },
     {
       "code": "EDUC 1660",
-      "name": "EDUC 1660"
+      "name": "Social Context of Learning and Development"
     },
     {
       "code": "EDUC 1675",
-      "name": "EDUC 1675"
+      "name": "The Psychology of Teaching and Learning"
     },
     {
       "code": "EDUC 1991",

@@ -2,6 +2,7 @@
   "concentration": "Theatre Arts and Performance Studies",
   "slug": "taps",
   "url": "https://bulletin.brown.edu/the-college/concentrations/taps/",
+  "description": "The Department of Theatre Arts and Performance Studies (TAPS) is the intellectual and artistic center for the aesthetic, historical, literary, practical, and theoretical explorations of performance in global perspective \u2013 theatre, dance, speech, time-based art, and even performative \u201croles\u201d in everyday life. The TAPS concentration offers three tracks with many points of overlap among them: Performance Studies, Theatre Arts, and Dance. Concentrators gain exposure to a broad spectrum of performance modes\u00a0 and methods -- acting, directing, dance, and writing, and chose an avenue of focus among them. Everyone graduates having studied craft, gained familiarity with history, and investigated the role of performance arts in culture. This concentration combines the study of dramatic literature, theatre history, performance theory, and studio work in the various theatre arts. All concentrators in Theatre Arts will gain practical experience through the study of acting and directing as well as in the technical production of plays, preparing students in the practical study of a cross-section of the vital aspects of theatre craft, including one class in either dance or speech. An essential aim of the concentration track is the engagement of students in performance procedures (acting, dancing, directing, choreography, design, playwriting, dramaturgy, etc.) in order to experience the inter-relationships among social contexts, dramatic texts and theatrical enactments. Along with practical study in craft, concentrators will graduate having studied theatre history and performance theory in global perspective.The study of theatre history provides a Theatre Arts concentrator with the necessary background to understand a variety of dramatic and theatrical forms. The study of performance theory enhances a student\u2019s ability to ask fundamental questions about the role of theatre in social, political, cultural and cross-cultural arenas.",
   "tracks": [
     {
       "id": "theatre_arts_track",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "TAPS 0700",
-                  "name": "TAPS 0700"
+                  "name": "Introduction to Theatre, Dance and Performance (Required Courses)"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "TAPS 0230",
-                  "name": "TAPS 0230"
+                  "name": "Acting"
                 }
               ],
               "count": 1,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "TAPS 0220",
-                  "name": "TAPS 0220"
+                  "name": "Persuasive Communication"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "TAPS 0250",
-                  "name": "TAPS 0250"
+                  "name": "Introduction to Technical Theatre and Production"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "TAPS 1230",
-                  "name": "TAPS 1230"
+                  "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "TAPS 1240",
-                  "name": "TAPS 1240"
+                  "name": "Performance Historiography and Theatre History"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "TAPS 1250",
-                  "name": "TAPS 1250"
+                  "name": "Late Modern and Contemporary Theatre and Performance"
                 }
               ],
               "count": 1,
@@ -100,7 +101,7 @@
           "notes": []
         },
         {
-          "name": "Theatre Studies electives: 4 elective courses, one of which must be theory, history, or literature chosen in consultation with the advisor according to the area of interest (i.e., acting, direction, playwriting, design/technical theatre). Additionally, following consultation with the advisor, one of the electives may be taken outside the TAPS department. 4",
+          "name": "Theatre Studies electives: 4 elective courses, one of which must be theory, history, or literature chosen in consultation with the advisor according to the area of interest (i.e., acting, direction, playwriting, design/technical theatre). Additionally, following consultation with the advisor, one of the electives may be taken outside the TAPS department.",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -112,49 +113,49 @@
           "type": "required",
           "course": {
             "code": "TAPS 0700",
-            "name": "TAPS 0700"
+            "name": "Introduction to Theatre, Dance and Performance (Required Courses)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0230",
-            "name": "TAPS 0230"
+            "name": "Acting"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0220",
-            "name": "TAPS 0220"
+            "name": "Persuasive Communication"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0250",
-            "name": "TAPS 0250"
+            "name": "Introduction to Technical Theatre and Production"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1230",
-            "name": "TAPS 1230"
+            "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1240",
-            "name": "TAPS 1240"
+            "name": "Performance Historiography and Theatre History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1250",
-            "name": "TAPS 1250"
+            "name": "Late Modern and Contemporary Theatre and Performance"
           }
         }
       ],
@@ -175,7 +176,7 @@
               "courses": [
                 {
                   "code": "TAPS 0700",
-                  "name": "TAPS 0700"
+                  "name": "Introduction to Theatre, Dance and Performance"
                 }
               ],
               "count": 1,
@@ -185,7 +186,7 @@
           "notes": []
         },
         {
-          "name": "Three of the following courses: 3",
+          "name": "Three of the following courses:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -195,7 +196,7 @@
               "courses": [
                 {
                   "code": "TAPS 1230",
-                  "name": "TAPS 1230"
+                  "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
                 }
               ],
               "count": null,
@@ -207,7 +208,7 @@
               "courses": [
                 {
                   "code": "TAPS 1240",
-                  "name": "TAPS 1240"
+                  "name": "Performance Historiography and Theatre History"
                 }
               ],
               "count": null,
@@ -219,7 +220,7 @@
               "courses": [
                 {
                   "code": "TAPS 1250",
-                  "name": "TAPS 1250"
+                  "name": "Late Modern and Contemporary Theatre and Performance"
                 }
               ],
               "count": null,
@@ -231,7 +232,7 @@
               "courses": [
                 {
                   "code": "TAPS 1280Y",
-                  "name": "TAPS 1280Y"
+                  "name": "Issues in Performance Studies"
                 }
               ],
               "count": null,
@@ -241,7 +242,7 @@
           "notes": []
         },
         {
-          "name": "Two primarily academic courses from within the Department with Performance Studies content to be selected with your advisor, such as (but not limited to): 2",
+          "name": "Two primarily academic courses from within the Department with Performance Studies content to be selected with your advisor, such as (but not limited to):",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -251,7 +252,7 @@
               "courses": [
                 {
                   "code": "TAPS 0800I",
-                  "name": "TAPS 0800I"
+                  "name": "(Re)Imagining the Body: What can a Body do?"
                 }
               ],
               "count": null,
@@ -263,7 +264,7 @@
               "courses": [
                 {
                   "code": "TAPS 1280E",
-                  "name": "TAPS 1280E"
+                  "name": "Neurodiversity and Performance"
                 }
               ],
               "count": null,
@@ -275,7 +276,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281G",
-                  "name": "TAPS 1281G"
+                  "name": "Queer Dance"
                 }
               ],
               "count": null,
@@ -287,7 +288,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281O",
-                  "name": "TAPS 1281O"
+                  "name": "Acting Outside the Box: Identity, Empathy, and Character in Performance"
                 }
               ],
               "count": null,
@@ -299,7 +300,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281Q",
-                  "name": "TAPS 1281Q"
+                  "name": "Introduction to Critical Dance Studies"
                 }
               ],
               "count": null,
@@ -311,7 +312,7 @@
               "courses": [
                 {
                   "code": "TAPS 1425",
-                  "name": "TAPS 1425"
+                  "name": "Queer Performance"
                 }
               ],
               "count": null,
@@ -323,7 +324,7 @@
               "courses": [
                 {
                   "code": "TAPS 1500P",
-                  "name": "TAPS 1500P"
+                  "name": "Asian American Theater Making"
                 }
               ],
               "count": null,
@@ -335,7 +336,7 @@
               "courses": [
                 {
                   "code": "TAPS 1600",
-                  "name": "TAPS 1600"
+                  "name": "Dramaturgy"
                 }
               ],
               "count": null,
@@ -347,7 +348,7 @@
               "courses": [
                 {
                   "code": "TAPS 1670",
-                  "name": "TAPS 1670"
+                  "name": "Latinx Theatre + Performance"
                 }
               ],
               "count": null,
@@ -357,14 +358,14 @@
           "notes": []
         },
         {
-          "name": "Two full-credit courses based in performance craft in either Dance, Acting, Directing, Playwriting, Speech, Design, Literary Arts, Visual Arts, Music, or Africana Studies approved by the concentration advisor. 2",
+          "name": "Two full-credit courses based in performance craft in either Dance, Acting, Directing, Playwriting, Speech, Design, Literary Arts, Visual Arts, Music, or Africana Studies approved by the concentration advisor.",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Two additional courses in the academic study of performance and performance culture(s) from either within TAPS or throughout the University in consultation with the advisor. 2",
+          "name": "Two additional courses in the academic study of performance and performance culture(s) from either within TAPS or throughout the University in consultation with the advisor.",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -376,98 +377,98 @@
           "type": "required",
           "course": {
             "code": "TAPS 0700",
-            "name": "TAPS 0700"
+            "name": "Introduction to Theatre, Dance and Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1230",
-            "name": "TAPS 1230"
+            "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1240",
-            "name": "TAPS 1240"
+            "name": "Performance Historiography and Theatre History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1250",
-            "name": "TAPS 1250"
+            "name": "Late Modern and Contemporary Theatre and Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1280Y",
-            "name": "TAPS 1280Y"
+            "name": "Issues in Performance Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0800I",
-            "name": "TAPS 0800I"
+            "name": "(Re)Imagining the Body: What can a Body do?"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1280E",
-            "name": "TAPS 1280E"
+            "name": "Neurodiversity and Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281G",
-            "name": "TAPS 1281G"
+            "name": "Queer Dance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281O",
-            "name": "TAPS 1281O"
+            "name": "Acting Outside the Box: Identity, Empathy, and Character in Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281Q",
-            "name": "TAPS 1281Q"
+            "name": "Introduction to Critical Dance Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1425",
-            "name": "TAPS 1425"
+            "name": "Queer Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1500P",
-            "name": "TAPS 1500P"
+            "name": "Asian American Theater Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1600",
-            "name": "TAPS 1600"
+            "name": "Dramaturgy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1670",
-            "name": "TAPS 1670"
+            "name": "Latinx Theatre + Performance"
           }
         }
       ],
@@ -488,7 +489,7 @@
               "courses": [
                 {
                   "code": "TAPS 0700",
-                  "name": "TAPS 0700"
+                  "name": "Introduction to Theatre, Dance and Performance"
                 }
               ],
               "count": 1,
@@ -498,7 +499,7 @@
           "notes": []
         },
         {
-          "name": "Critical Topics and Global Perspectives - three courses.  Students should work with their advisor to ensure their courses offer theoretical and geographic breadth.  Courses could include, for example: 3",
+          "name": "Critical Topics and Global Perspectives - three courses.  Students should work with their advisor to ensure their courses offer theoretical and geographic breadth.  Courses could include, for example:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -508,7 +509,7 @@
               "courses": [
                 {
                   "code": "TAPS 1230",
-                  "name": "TAPS 1230"
+                  "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
                 }
               ],
               "count": null,
@@ -520,7 +521,7 @@
               "courses": [
                 {
                   "code": "TAPS 1240",
-                  "name": "TAPS 1240"
+                  "name": "Performance Historiography and Theatre History"
                 }
               ],
               "count": null,
@@ -532,7 +533,7 @@
               "courses": [
                 {
                   "code": "TAPS 1250",
-                  "name": "TAPS 1250"
+                  "name": "Late Modern and Contemporary Theatre and Performance"
                 }
               ],
               "count": null,
@@ -544,7 +545,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281G",
-                  "name": "TAPS 1281G"
+                  "name": "Queer Dance"
                 }
               ],
               "count": null,
@@ -556,7 +557,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281Q",
-                  "name": "TAPS 1281Q"
+                  "name": "Introduction to Critical Dance Studies"
                 }
               ],
               "count": null,
@@ -568,7 +569,7 @@
               "courses": [
                 {
                   "code": "TAPS 1330",
-                  "name": "TAPS 1330"
+                  "name": "Dance History: The 20th Century"
                 }
               ],
               "count": null,
@@ -580,7 +581,7 @@
               "courses": [
                 {
                   "code": "TAPS 1425",
-                  "name": "TAPS 1425"
+                  "name": "Queer Performance"
                 }
               ],
               "count": null,
@@ -592,7 +593,7 @@
               "courses": [
                 {
                   "code": "TAPS 1670",
-                  "name": "TAPS 1670"
+                  "name": "Latinx Theatre + Performance"
                 }
               ],
               "count": null,
@@ -602,7 +603,7 @@
           "notes": []
         },
         {
-          "name": "Techniques of the Body - two courses selected in consultation with an advisor, such as the following: 2",
+          "name": "Techniques of the Body - two courses selected in consultation with an advisor, such as the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -612,7 +613,7 @@
               "courses": [
                 {
                   "code": "TAPS 0310",
-                  "name": "TAPS 0310"
+                  "name": "Introduction to Contemporary Dance"
                 }
               ],
               "count": null,
@@ -624,7 +625,7 @@
               "courses": [
                 {
                   "code": "TAPS 0330",
-                  "name": "TAPS 0330"
+                  "name": "Mande Dance, Music and Culture"
                 }
               ],
               "count": null,
@@ -636,7 +637,7 @@
               "courses": [
                 {
                   "code": "TAPS 0930C",
-                  "name": "TAPS 0930C"
+                  "name": "The Actor's Instrument: Stage Movement for Actors and Directors"
                 }
               ],
               "count": null,
@@ -648,7 +649,7 @@
               "courses": [
                 {
                   "code": "TAPS 1000",
-                  "name": "TAPS 1000"
+                  "name": "Intermediate Contemporary Dance"
                 }
               ],
               "count": null,
@@ -660,7 +661,7 @@
               "courses": [
                 {
                   "code": "TAPS 1340",
-                  "name": "TAPS 1340"
+                  "name": "Dance Styles"
                 }
               ],
               "count": null,
@@ -672,7 +673,7 @@
               "courses": [
                 {
                   "code": "TAPS 1341",
-                  "name": "TAPS 1341"
+                  "name": "Introduction to Ballet"
                 }
               ],
               "count": null,
@@ -684,7 +685,7 @@
               "courses": [
                 {
                   "code": "TAPS 1342",
-                  "name": "TAPS 1342"
+                  "name": "Ballet II"
                 }
               ],
               "count": null,
@@ -696,7 +697,7 @@
               "courses": [
                 {
                   "code": "TAPS 1343",
-                  "name": "TAPS 1343"
+                  "name": "Ballet III (Intermediate/Advanced Ballet)"
                 }
               ],
               "count": null,
@@ -708,7 +709,7 @@
               "courses": [
                 {
                   "code": "TAPS 1344",
-                  "name": "TAPS 1344"
+                  "name": "Advanced Ballet with Repertory"
                 }
               ],
               "count": null,
@@ -720,7 +721,7 @@
               "courses": [
                 {
                   "code": "TAPS 1348",
-                  "name": "TAPS 1348"
+                  "name": "Contemporary Dance Studio Project 1"
                 }
               ],
               "count": null,
@@ -732,7 +733,7 @@
               "courses": [
                 {
                   "code": "TAPS 1390",
-                  "name": "TAPS 1390"
+                  "name": "Contemporary Mande Performance"
                 }
               ],
               "count": null,
@@ -742,7 +743,7 @@
           "notes": []
         },
         {
-          "name": "Directing/Compositional Strategies - two courses selected in consultation with an advisor from courses such as the following: 2",
+          "name": "Directing/Compositional Strategies - two courses selected in consultation with an advisor from courses such as the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -752,7 +753,7 @@
               "courses": [
                 {
                   "code": "TAPS 0320",
-                  "name": "TAPS 0320"
+                  "name": "Dance Composition"
                 }
               ],
               "count": null,
@@ -764,7 +765,7 @@
               "courses": [
                 {
                   "code": "TAPS 0360",
-                  "name": "TAPS 0360"
+                  "name": "Viewpoints Technique: The Moving Body in Relation to Time, Space, and Ensemble"
                 }
               ],
               "count": null,
@@ -776,7 +777,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281E",
-                  "name": "TAPS 1281E"
+                  "name": "Directing Theory and Practice"
                 }
               ],
               "count": null,
@@ -788,7 +789,7 @@
               "courses": [
                 {
                   "code": "TAPS 1320",
-                  "name": "TAPS 1320"
+                  "name": "Dance Composition"
                 }
               ],
               "count": null,
@@ -798,7 +799,7 @@
           "notes": []
         },
         {
-          "name": "Design or Production - one course selected in consultation with an advisor from the following: 1",
+          "name": "Design or Production - one course selected in consultation with an advisor from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -808,7 +809,7 @@
               "courses": [
                 {
                   "code": "TAPS 0250",
-                  "name": "TAPS 0250"
+                  "name": "Introduction to Technical Theatre and Production"
                 }
               ],
               "count": null,
@@ -820,7 +821,7 @@
               "courses": [
                 {
                   "code": "TAPS 0260",
-                  "name": "TAPS 0260"
+                  "name": "Stage Lighting"
                 }
               ],
               "count": null,
@@ -832,7 +833,7 @@
               "courses": [
                 {
                   "code": "TAPS 1100",
-                  "name": "TAPS 1100"
+                  "name": "Stage Management"
                 }
               ],
               "count": null,
@@ -844,7 +845,7 @@
               "courses": [
                 {
                   "code": "TAPS 1251C",
-                  "name": "TAPS 1251C"
+                  "name": "Scenic Properties and the Props Artisan"
                 }
               ],
               "count": null,
@@ -856,7 +857,7 @@
               "courses": [
                 {
                   "code": "TAPS 1280F",
-                  "name": "TAPS 1280F"
+                  "name": "Introduction to Set Design"
                 }
               ],
               "count": null,
@@ -868,7 +869,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281A",
-                  "name": "TAPS 1281A"
+                  "name": "Director/Designer Collaborative Studio"
                 }
               ],
               "count": null,
@@ -880,7 +881,7 @@
               "courses": [
                 {
                   "code": "TAPS 1281M",
-                  "name": "TAPS 1281M"
+                  "name": "Introduction to Costume Construction"
                 }
               ],
               "count": null,
@@ -892,7 +893,7 @@
               "courses": [
                 {
                   "code": "TAPS 1300",
-                  "name": "TAPS 1300"
+                  "name": "Advanced Set Design"
                 }
               ],
               "count": null,
@@ -902,7 +903,7 @@
           "notes": []
         },
         {
-          "name": "One additional TAPS elective 1",
+          "name": "One additional TAPS elective",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -914,224 +915,224 @@
           "type": "required",
           "course": {
             "code": "TAPS 0700",
-            "name": "TAPS 0700"
+            "name": "Introduction to Theatre, Dance and Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1230",
-            "name": "TAPS 1230"
+            "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1240",
-            "name": "TAPS 1240"
+            "name": "Performance Historiography and Theatre History"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1250",
-            "name": "TAPS 1250"
+            "name": "Late Modern and Contemporary Theatre and Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281G",
-            "name": "TAPS 1281G"
+            "name": "Queer Dance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281Q",
-            "name": "TAPS 1281Q"
+            "name": "Introduction to Critical Dance Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1330",
-            "name": "TAPS 1330"
+            "name": "Dance History: The 20th Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1425",
-            "name": "TAPS 1425"
+            "name": "Queer Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1670",
-            "name": "TAPS 1670"
+            "name": "Latinx Theatre + Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0310",
-            "name": "TAPS 0310"
+            "name": "Introduction to Contemporary Dance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0330",
-            "name": "TAPS 0330"
+            "name": "Mande Dance, Music and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0930C",
-            "name": "TAPS 0930C"
+            "name": "The Actor's Instrument: Stage Movement for Actors and Directors"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1000",
-            "name": "TAPS 1000"
+            "name": "Intermediate Contemporary Dance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1340",
-            "name": "TAPS 1340"
+            "name": "Dance Styles"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1341",
-            "name": "TAPS 1341"
+            "name": "Introduction to Ballet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1342",
-            "name": "TAPS 1342"
+            "name": "Ballet II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1343",
-            "name": "TAPS 1343"
+            "name": "Ballet III (Intermediate/Advanced Ballet)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1344",
-            "name": "TAPS 1344"
+            "name": "Advanced Ballet with Repertory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1348",
-            "name": "TAPS 1348"
+            "name": "Contemporary Dance Studio Project 1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1390",
-            "name": "TAPS 1390"
+            "name": "Contemporary Mande Performance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0320",
-            "name": "TAPS 0320"
+            "name": "Dance Composition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0360",
-            "name": "TAPS 0360"
+            "name": "Viewpoints Technique: The Moving Body in Relation to Time, Space, and Ensemble"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281E",
-            "name": "TAPS 1281E"
+            "name": "Directing Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1320",
-            "name": "TAPS 1320"
+            "name": "Dance Composition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0250",
-            "name": "TAPS 0250"
+            "name": "Introduction to Technical Theatre and Production"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0260",
-            "name": "TAPS 0260"
+            "name": "Stage Lighting"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1100",
-            "name": "TAPS 1100"
+            "name": "Stage Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1251C",
-            "name": "TAPS 1251C"
+            "name": "Scenic Properties and the Props Artisan"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1280F",
-            "name": "TAPS 1280F"
+            "name": "Introduction to Set Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281A",
-            "name": "TAPS 1281A"
+            "name": "Director/Designer Collaborative Studio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1281M",
-            "name": "TAPS 1281M"
+            "name": "Introduction to Costume Construction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 1300",
-            "name": "TAPS 1300"
+            "name": "Advanced Set Design"
           }
         }
       ],
@@ -1141,163 +1142,163 @@
   "all_courses": [
     {
       "code": "TAPS 0700",
-      "name": "TAPS 0700"
+      "name": "Introduction to Theatre, Dance and Performance (Required Courses)"
     },
     {
       "code": "TAPS 0230",
-      "name": "TAPS 0230"
+      "name": "Acting"
     },
     {
       "code": "TAPS 0220",
-      "name": "TAPS 0220"
+      "name": "Persuasive Communication"
     },
     {
       "code": "TAPS 0250",
-      "name": "TAPS 0250"
+      "name": "Introduction to Technical Theatre and Production"
     },
     {
       "code": "TAPS 1230",
-      "name": "TAPS 1230"
+      "name": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity"
     },
     {
       "code": "TAPS 1240",
-      "name": "TAPS 1240"
+      "name": "Performance Historiography and Theatre History"
     },
     {
       "code": "TAPS 1250",
-      "name": "TAPS 1250"
+      "name": "Late Modern and Contemporary Theatre and Performance"
     },
     {
       "code": "TAPS 1280Y",
-      "name": "TAPS 1280Y"
+      "name": "Issues in Performance Studies"
     },
     {
       "code": "TAPS 0800I",
-      "name": "TAPS 0800I"
+      "name": "(Re)Imagining the Body: What can a Body do?"
     },
     {
       "code": "TAPS 1280E",
-      "name": "TAPS 1280E"
+      "name": "Neurodiversity and Performance"
     },
     {
       "code": "TAPS 1281G",
-      "name": "TAPS 1281G"
+      "name": "Queer Dance"
     },
     {
       "code": "TAPS 1281O",
-      "name": "TAPS 1281O"
+      "name": "Acting Outside the Box: Identity, Empathy, and Character in Performance"
     },
     {
       "code": "TAPS 1281Q",
-      "name": "TAPS 1281Q"
+      "name": "Introduction to Critical Dance Studies"
     },
     {
       "code": "TAPS 1425",
-      "name": "TAPS 1425"
+      "name": "Queer Performance"
     },
     {
       "code": "TAPS 1500P",
-      "name": "TAPS 1500P"
+      "name": "Asian American Theater Making"
     },
     {
       "code": "TAPS 1600",
-      "name": "TAPS 1600"
+      "name": "Dramaturgy"
     },
     {
       "code": "TAPS 1670",
-      "name": "TAPS 1670"
+      "name": "Latinx Theatre + Performance"
     },
     {
       "code": "TAPS 1330",
-      "name": "TAPS 1330"
+      "name": "Dance History: The 20th Century"
     },
     {
       "code": "TAPS 0310",
-      "name": "TAPS 0310"
+      "name": "Introduction to Contemporary Dance"
     },
     {
       "code": "TAPS 0330",
-      "name": "TAPS 0330"
+      "name": "Mande Dance, Music and Culture"
     },
     {
       "code": "TAPS 0930C",
-      "name": "TAPS 0930C"
+      "name": "The Actor's Instrument: Stage Movement for Actors and Directors"
     },
     {
       "code": "TAPS 1000",
-      "name": "TAPS 1000"
+      "name": "Intermediate Contemporary Dance"
     },
     {
       "code": "TAPS 1340",
-      "name": "TAPS 1340"
+      "name": "Dance Styles"
     },
     {
       "code": "TAPS 1341",
-      "name": "TAPS 1341"
+      "name": "Introduction to Ballet"
     },
     {
       "code": "TAPS 1342",
-      "name": "TAPS 1342"
+      "name": "Ballet II"
     },
     {
       "code": "TAPS 1343",
-      "name": "TAPS 1343"
+      "name": "Ballet III (Intermediate/Advanced Ballet)"
     },
     {
       "code": "TAPS 1344",
-      "name": "TAPS 1344"
+      "name": "Advanced Ballet with Repertory"
     },
     {
       "code": "TAPS 1348",
-      "name": "TAPS 1348"
+      "name": "Contemporary Dance Studio Project 1"
     },
     {
       "code": "TAPS 1390",
-      "name": "TAPS 1390"
+      "name": "Contemporary Mande Performance"
     },
     {
       "code": "TAPS 0320",
-      "name": "TAPS 0320"
+      "name": "Dance Composition"
     },
     {
       "code": "TAPS 0360",
-      "name": "TAPS 0360"
+      "name": "Viewpoints Technique: The Moving Body in Relation to Time, Space, and Ensemble"
     },
     {
       "code": "TAPS 1281E",
-      "name": "TAPS 1281E"
+      "name": "Directing Theory and Practice"
     },
     {
       "code": "TAPS 1320",
-      "name": "TAPS 1320"
+      "name": "Dance Composition"
     },
     {
       "code": "TAPS 0260",
-      "name": "TAPS 0260"
+      "name": "Stage Lighting"
     },
     {
       "code": "TAPS 1100",
-      "name": "TAPS 1100"
+      "name": "Stage Management"
     },
     {
       "code": "TAPS 1251C",
-      "name": "TAPS 1251C"
+      "name": "Scenic Properties and the Props Artisan"
     },
     {
       "code": "TAPS 1280F",
-      "name": "TAPS 1280F"
+      "name": "Introduction to Set Design"
     },
     {
       "code": "TAPS 1281A",
-      "name": "TAPS 1281A"
+      "name": "Director/Designer Collaborative Studio"
     },
     {
       "code": "TAPS 1281M",
-      "name": "TAPS 1281M"
+      "name": "Introduction to Costume Construction"
     },
     {
       "code": "TAPS 1300",
-      "name": "TAPS 1300"
+      "name": "Advanced Set Design"
     }
   ]
 }

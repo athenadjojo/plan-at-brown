@@ -2,6 +2,7 @@
   "concentration": "Economics",
   "slug": "econ",
   "url": "https://bulletin.brown.edu/the-college/concentrations/econ/",
+  "description": "Economics is the study of how individuals, businesses, and governments allocate resources to satisfy their objectives. The study of economics helps students understand markets, firms, financial organizations, and public debate about economic policy, including taxation, government expenditure, trade, globalization, health, and welfare. The concentration in Economics prepares students for graduate study in fields such as business and law, for graduate study leading to teaching and research in economics, and can be a stepping-stone to employment in business, finance, non-profit, and government organizations. Students may choose the standard concentration, the business track, or the public policy track, all of which have a corresponding professional track. If you are interested in declaring a concentration in Economics, please refer to this page for more information regarding the process. Students are required to begin withECON\u00a00110, an introductory course that stresses current economic issues, and the concepts and principles of economic analysis. Intermediate level courses in microeconomics (ECON\u00a01110orECON\u00a01130), macroeconomics (ECON\u00a01210), and econometrics (ECON\u00a01620followed byECON\u00a01629orECON\u00a01630) round out the list of foundation courses for the concentration. Economics concentrators must also fulfill a math requirement (ECON\u00a00170).",
   "tracks": [
     {
       "id": "standard_economics_concentration",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "ECON 0110"
+              "name": "Principles of Economics1"
             }
           ],
           "count": 1,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "ECON 0170",
-              "name": "ECON 0170"
+              "name": "Essential Mathematics for Economics"
             }
           ],
           "count": 1,
@@ -37,14 +38,14 @@
           "courses": [
             {
               "code": "MATH 0100",
-              "name": "MATH 0100"
+              "name": "Single Variable Calculus, Part II"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "or a higher-level math course. 2",
+          "name": "or a higher-level math course.",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ECON 1110",
-                  "name": "ECON 1110"
+                  "name": "Intermediate Microeconomics"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ECON 1130",
-                  "name": "ECON 1130"
+                  "name": "Intermediate Microeconomics (Mathematical)"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ECON 1210",
-                  "name": "ECON 1210"
+                  "name": "Intermediate Macroeconomics"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "MATH 1620",
-                  "name": "MATH 1620"
+                  "name": "Mathematical Statistics"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "ECON 1629",
-                  "name": "ECON 1629"
+                  "name": "Applied Research Methods for Economists"
                 }
               ],
               "count": 1,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": null,
@@ -160,7 +161,7 @@
           "notes": []
         },
         {
-          "name": "At least five additional 1000-level Economics courses. 3 5",
+          "name": "At least five additional 1000-level Economics courses.",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -172,84 +173,84 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0170",
-            "name": "ECON 0170"
+            "name": "Essential Mathematics for Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1110",
-            "name": "ECON 1110"
+            "name": "Intermediate Microeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1210",
-            "name": "ECON 1210"
+            "name": "Intermediate Macroeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1620",
-            "name": "MATH 1620"
+            "name": "Mathematical Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1629",
-            "name": "ECON 1629"
+            "name": "Applied Research Methods for Economists"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         }
       ],
@@ -265,7 +266,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "ECON 0110"
+              "name": "Principles of Economics1"
             }
           ],
           "count": 1,
@@ -277,7 +278,7 @@
           "courses": [
             {
               "code": "ECON 0170",
-              "name": "ECON 0170"
+              "name": "Essential Mathematics for Economics"
             }
           ],
           "count": 1,
@@ -289,7 +290,7 @@
           "courses": [
             {
               "code": "MATH 0100",
-              "name": "MATH 0100"
+              "name": "Single Variable Calculus, Part II"
             }
           ],
           "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "ECON 0710",
-                  "name": "ECON 0710"
+                  "name": "Financial Accounting"
                 }
               ],
               "count": 1,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "ECON 1110",
-                  "name": "ECON 1110"
+                  "name": "Intermediate Microeconomics"
                 }
               ],
               "count": 1,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "ECON 1130",
-                  "name": "ECON 1130"
+                  "name": "Intermediate Microeconomics (Mathematical)"
                 }
               ],
               "count": null,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "ECON 1210",
-                  "name": "ECON 1210"
+                  "name": "Intermediate Macroeconomics"
                 }
               ],
               "count": 1,
@@ -354,7 +355,7 @@
               "courses": [
                 {
                   "code": "ECON 1420",
-                  "name": "ECON 1420"
+                  "name": "Industrial Organization2"
                 }
               ],
               "count": 1,
@@ -366,7 +367,7 @@
               "courses": [
                 {
                   "code": "ECON 1620",
-                  "name": "ECON 1620"
+                  "name": "Introduction to Econometrics"
                 }
               ],
               "count": 1,
@@ -378,7 +379,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -390,7 +391,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -402,7 +403,7 @@
               "courses": [
                 {
                   "code": "MATH 1620",
-                  "name": "MATH 1620"
+                  "name": "Mathematical Statistics"
                 }
               ],
               "count": null,
@@ -414,7 +415,7 @@
               "courses": [
                 {
                   "code": "ECON 1629",
-                  "name": "ECON 1629"
+                  "name": "Applied Research Methods for Economists"
                 }
               ],
               "count": 1,
@@ -426,7 +427,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": null,
@@ -438,7 +439,7 @@
               "courses": [
                 {
                   "code": "ECON 1710",
-                  "name": "ECON 1710"
+                  "name": "Investments I"
                 }
               ],
               "count": 1,
@@ -450,7 +451,7 @@
               "courses": [
                 {
                   "code": "ECON 1720",
-                  "name": "ECON 1720"
+                  "name": "Corporate Finance"
                 }
               ],
               "count": 1,
@@ -460,7 +461,7 @@
           "notes": []
         },
         {
-          "name": "Two Business Economics electives from the following list: 2",
+          "name": "Two Business Economics electives from the following list:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -470,7 +471,7 @@
               "courses": [
                 {
                   "code": "ECON 1090",
-                  "name": "ECON 1090"
+                  "name": "Introduction to Game Theory"
                 }
               ],
               "count": null,
@@ -482,7 +483,7 @@
               "courses": [
                 {
                   "code": "ECON 1310",
-                  "name": "ECON 1310"
+                  "name": "Labor Economics"
                 }
               ],
               "count": null,
@@ -494,7 +495,7 @@
               "courses": [
                 {
                   "code": "ECON 1400",
-                  "name": "ECON 1400"
+                  "name": "The Economics of Mass Media"
                 }
               ],
               "count": null,
@@ -506,7 +507,7 @@
               "courses": [
                 {
                   "code": "ECON 1450",
-                  "name": "ECON 1450"
+                  "name": "Economic Organizations and Economic Systems"
                 }
               ],
               "count": null,
@@ -518,7 +519,7 @@
               "courses": [
                 {
                   "code": "ECON 1465",
-                  "name": "ECON 1465"
+                  "name": "Antitrust and Competition"
                 }
               ],
               "count": null,
@@ -530,7 +531,7 @@
               "courses": [
                 {
                   "code": "ECON 1470",
-                  "name": "ECON 1470"
+                  "name": "Bargaining Theory and Applications"
                 }
               ],
               "count": null,
@@ -542,7 +543,7 @@
               "courses": [
                 {
                   "code": "ECON 1490",
-                  "name": "ECON 1490"
+                  "name": "Designing Internet Marketplaces"
                 }
               ],
               "count": null,
@@ -554,7 +555,7 @@
               "courses": [
                 {
                   "code": "ECON 1540",
-                  "name": "ECON 1540"
+                  "name": "International Trade"
                 }
               ],
               "count": null,
@@ -566,7 +567,7 @@
               "courses": [
                 {
                   "code": "ECON 1550",
-                  "name": "ECON 1550"
+                  "name": "International Finance"
                 }
               ],
               "count": null,
@@ -578,7 +579,7 @@
               "courses": [
                 {
                   "code": "ECON 1660",
-                  "name": "ECON 1660"
+                  "name": "Big Data"
                 }
               ],
               "count": null,
@@ -590,7 +591,7 @@
               "courses": [
                 {
                   "code": "ECON 1730",
-                  "name": "ECON 1730"
+                  "name": "Venture Capital, Private Equity, and Entrepreneurship"
                 }
               ],
               "count": null,
@@ -602,7 +603,7 @@
               "courses": [
                 {
                   "code": "ECON 1740",
-                  "name": "ECON 1740"
+                  "name": "Mathematical Finance"
                 }
               ],
               "count": null,
@@ -614,7 +615,7 @@
               "courses": [
                 {
                   "code": "ECON 1750",
-                  "name": "ECON 1750"
+                  "name": "Investments II"
                 }
               ],
               "count": null,
@@ -626,7 +627,7 @@
               "courses": [
                 {
                   "code": "ECON 1760",
-                  "name": "ECON 1760"
+                  "name": "Financial Institutions"
                 }
               ],
               "count": null,
@@ -638,7 +639,7 @@
               "courses": [
                 {
                   "code": "ECON 1770",
-                  "name": "ECON 1770"
+                  "name": "Crisis Economics"
                 }
               ],
               "count": null,
@@ -650,7 +651,7 @@
               "courses": [
                 {
                   "code": "ECON 1780",
-                  "name": "ECON 1780"
+                  "name": "Advanced Topics in Corporate Finance"
                 }
               ],
               "count": null,
@@ -662,7 +663,7 @@
               "courses": [
                 {
                   "code": "ECON 1805",
-                  "name": "ECON 1805"
+                  "name": "Experimental and Behavioral Economics"
                 }
               ],
               "count": null,
@@ -674,7 +675,7 @@
               "courses": [
                 {
                   "code": "ECON 1820",
-                  "name": "ECON 1820"
+                  "name": "Theory of Behavioral Economics"
                 }
               ],
               "count": null,
@@ -686,7 +687,7 @@
               "courses": [
                 {
                   "code": "ECON 1830",
-                  "name": "ECON 1830"
+                  "name": "Behavioral Finance"
                 }
               ],
               "count": null,
@@ -698,7 +699,7 @@
               "courses": [
                 {
                   "code": "ECON 1870",
-                  "name": "ECON 1870"
+                  "name": "Game Theory and Applications to Economics"
                 }
               ],
               "count": null,
@@ -713,252 +714,252 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0170",
-            "name": "ECON 0170"
+            "name": "Essential Mathematics for Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0710",
-            "name": "ECON 0710"
+            "name": "Financial Accounting"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1110",
-            "name": "ECON 1110"
+            "name": "Intermediate Microeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1210",
-            "name": "ECON 1210"
+            "name": "Intermediate Macroeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1420",
-            "name": "ECON 1420"
+            "name": "Industrial Organization2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1620",
-            "name": "MATH 1620"
+            "name": "Mathematical Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1629",
-            "name": "ECON 1629"
+            "name": "Applied Research Methods for Economists"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1710",
-            "name": "ECON 1710"
+            "name": "Investments I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1720",
-            "name": "ECON 1720"
+            "name": "Corporate Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1090",
-            "name": "ECON 1090"
+            "name": "Introduction to Game Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1310",
-            "name": "ECON 1310"
+            "name": "Labor Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1400",
-            "name": "ECON 1400"
+            "name": "The Economics of Mass Media"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1450",
-            "name": "ECON 1450"
+            "name": "Economic Organizations and Economic Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1465",
-            "name": "ECON 1465"
+            "name": "Antitrust and Competition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1470",
-            "name": "ECON 1470"
+            "name": "Bargaining Theory and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1490",
-            "name": "ECON 1490"
+            "name": "Designing Internet Marketplaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1540",
-            "name": "ECON 1540"
+            "name": "International Trade"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1550",
-            "name": "ECON 1550"
+            "name": "International Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1660",
-            "name": "ECON 1660"
+            "name": "Big Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1730",
-            "name": "ECON 1730"
+            "name": "Venture Capital, Private Equity, and Entrepreneurship"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1740",
-            "name": "ECON 1740"
+            "name": "Mathematical Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1750",
-            "name": "ECON 1750"
+            "name": "Investments II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1760",
-            "name": "ECON 1760"
+            "name": "Financial Institutions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1770",
-            "name": "ECON 1770"
+            "name": "Crisis Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1780",
-            "name": "ECON 1780"
+            "name": "Advanced Topics in Corporate Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1805",
-            "name": "ECON 1805"
+            "name": "Experimental and Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1820",
-            "name": "ECON 1820"
+            "name": "Theory of Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1830",
-            "name": "ECON 1830"
+            "name": "Behavioral Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1870",
-            "name": "ECON 1870"
+            "name": "Game Theory and Applications to Economics"
           }
         }
       ],
@@ -974,7 +975,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "ECON 0110"
+              "name": "Principles of Economics1"
             }
           ],
           "count": 1,
@@ -986,7 +987,7 @@
           "courses": [
             {
               "code": "ECON 0170",
-              "name": "ECON 0170"
+              "name": "Essential Mathematics for Economics2"
             }
           ],
           "count": 1,
@@ -998,7 +999,7 @@
           "courses": [
             {
               "code": "MATH 0100",
-              "name": "MATH 0100"
+              "name": "Single Variable Calculus, Part II"
             }
           ],
           "count": null,
@@ -1010,7 +1011,7 @@
           "courses": [
             {
               "code": "ECON 1110",
-              "name": "ECON 1110"
+              "name": "Intermediate Microeconomics"
             }
           ],
           "count": 1,
@@ -1022,7 +1023,7 @@
           "courses": [
             {
               "code": "ECON 1130",
-              "name": "ECON 1130"
+              "name": "Intermediate Microeconomics (Mathematical)"
             }
           ],
           "count": null,
@@ -1034,7 +1035,7 @@
           "courses": [
             {
               "code": "ECON 1210",
-              "name": "ECON 1210"
+              "name": "Intermediate Macroeconomics"
             }
           ],
           "count": 1,
@@ -1046,7 +1047,7 @@
           "courses": [
             {
               "code": "ECON 1620",
-              "name": "ECON 1620"
+              "name": "Introduction to Econometrics3"
             }
           ],
           "count": 1,
@@ -1058,7 +1059,7 @@
           "courses": [
             {
               "code": "ECON 1629",
-              "name": "ECON 1629"
+              "name": "Applied Research Methods for Economists"
             }
           ],
           "count": 1,
@@ -1070,14 +1071,14 @@
           "courses": [
             {
               "code": "ECON 1630",
-              "name": "ECON 1630"
+              "name": "Mathematical Econometrics I"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Five Public Policy Electives from the list below: 4 5",
+          "name": "Five Public Policy Electives from the list below:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -1087,7 +1088,7 @@
               "courses": [
                 {
                   "code": "ECON 1000",
-                  "name": "ECON 1000"
+                  "name": "Using Big Data to Solve Economic and Social Problems"
                 }
               ],
               "count": null,
@@ -1099,7 +1100,7 @@
               "courses": [
                 {
                   "code": "ECON 1070",
-                  "name": "ECON 1070"
+                  "name": "Race, Crime, and Punishment in America"
                 }
               ],
               "count": null,
@@ -1111,7 +1112,7 @@
               "courses": [
                 {
                   "code": "ECON 1225",
-                  "name": "ECON 1225"
+                  "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
                 }
               ],
               "count": null,
@@ -1123,7 +1124,7 @@
               "courses": [
                 {
                   "code": "ECON 1255",
-                  "name": "ECON 1255"
+                  "name": "Unemployment: Models and Policies"
                 }
               ],
               "count": null,
@@ -1135,7 +1136,7 @@
               "courses": [
                 {
                   "code": "ECON 1310",
-                  "name": "ECON 1310"
+                  "name": "Labor Economics"
                 }
               ],
               "count": null,
@@ -1147,7 +1148,7 @@
               "courses": [
                 {
                   "code": "ECON 1330",
-                  "name": "ECON 1330"
+                  "name": "Gender and Development"
                 }
               ],
               "count": null,
@@ -1159,7 +1160,7 @@
               "courses": [
                 {
                   "code": "ECON 1340",
-                  "name": "ECON 1340"
+                  "name": "Economics of Global Warming"
                 }
               ],
               "count": null,
@@ -1171,7 +1172,7 @@
               "courses": [
                 {
                   "code": "ECON 1345",
-                  "name": "ECON 1345"
+                  "name": "Climate Change and the Commons"
                 }
               ],
               "count": null,
@@ -1183,7 +1184,7 @@
               "courses": [
                 {
                   "code": "ECON 1350",
-                  "name": "ECON 1350"
+                  "name": "Environmental Economics and Policy"
                 }
               ],
               "count": null,
@@ -1195,7 +1196,7 @@
               "courses": [
                 {
                   "code": "ECON 1355",
-                  "name": "ECON 1355"
+                  "name": "Environmental Issues in Development Economics"
                 }
               ],
               "count": null,
@@ -1207,7 +1208,7 @@
               "courses": [
                 {
                   "code": "ECON 1360",
-                  "name": "ECON 1360"
+                  "name": "Research Seminar in Health Economics"
                 }
               ],
               "count": null,
@@ -1219,7 +1220,7 @@
               "courses": [
                 {
                   "code": "ECON 1370",
-                  "name": "ECON 1370"
+                  "name": "Race and Inequality in the United States"
                 }
               ],
               "count": null,
@@ -1231,7 +1232,7 @@
               "courses": [
                 {
                   "code": "ECON 1385",
-                  "name": "ECON 1385"
+                  "name": "Intergenerational Poverty in America"
                 }
               ],
               "count": null,
@@ -1243,7 +1244,7 @@
               "courses": [
                 {
                   "code": "ECON 1390",
-                  "name": "ECON 1390"
+                  "name": "Inequality of Income, Wealth, and Health in the United States"
                 }
               ],
               "count": null,
@@ -1255,7 +1256,7 @@
               "courses": [
                 {
                   "code": "ECON 1410",
-                  "name": "ECON 1410"
+                  "name": "Urban Economics"
                 }
               ],
               "count": null,
@@ -1267,7 +1268,7 @@
               "courses": [
                 {
                   "code": "ECON 1420",
-                  "name": "ECON 1420"
+                  "name": "Industrial Organization"
                 }
               ],
               "count": null,
@@ -1279,7 +1280,7 @@
               "courses": [
                 {
                   "code": "ECON 1430",
-                  "name": "ECON 1430"
+                  "name": "The Economics of Social Policy"
                 }
               ],
               "count": null,
@@ -1291,7 +1292,7 @@
               "courses": [
                 {
                   "code": "ECON 1440",
-                  "name": "ECON 1440"
+                  "name": "The Economic Analysis of Political Behavior"
                 }
               ],
               "count": null,
@@ -1303,7 +1304,7 @@
               "courses": [
                 {
                   "code": "ECON 1480",
-                  "name": "ECON 1480"
+                  "name": "Public Economics"
                 }
               ],
               "count": null,
@@ -1315,7 +1316,7 @@
               "courses": [
                 {
                   "code": "ECON 1500",
-                  "name": "ECON 1500"
+                  "name": "Current Global Macroeconomic Challenges"
                 }
               ],
               "count": null,
@@ -1327,7 +1328,7 @@
               "courses": [
                 {
                   "code": "ECON 1520",
-                  "name": "ECON 1520"
+                  "name": "Culture, History and Comparative Development"
                 }
               ],
               "count": null,
@@ -1339,7 +1340,7 @@
               "courses": [
                 {
                   "code": "ECON 1530",
-                  "name": "ECON 1530"
+                  "name": "Health, Hunger and the Household in Developing Countries"
                 }
               ],
               "count": null,
@@ -1351,7 +1352,7 @@
               "courses": [
                 {
                   "code": "ECON 1540",
-                  "name": "ECON 1540"
+                  "name": "International Trade"
                 }
               ],
               "count": null,
@@ -1363,7 +1364,7 @@
               "courses": [
                 {
                   "code": "ECON 1550",
-                  "name": "ECON 1550"
+                  "name": "International Finance"
                 }
               ],
               "count": null,
@@ -1375,7 +1376,7 @@
               "courses": [
                 {
                   "code": "ECON 1560",
-                  "name": "ECON 1560"
+                  "name": "Economic Growth"
                 }
               ],
               "count": null,
@@ -1387,7 +1388,7 @@
               "courses": [
                 {
                   "code": "ECON 1570",
-                  "name": "ECON 1570"
+                  "name": "The Economics of Latin Americans"
                 }
               ],
               "count": null,
@@ -1399,7 +1400,7 @@
               "courses": [
                 {
                   "code": "ECON 1600",
-                  "name": "ECON 1600"
+                  "name": "Education, the Economy and School Reform"
                 }
               ],
               "count": null,
@@ -1409,7 +1410,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary requirement. Two courses outside of the economics department that relate to better understanding the implementation and/or evaluation of public policies (may be below or above 1000-level).Several departments offer such courses, and availability varies from year to year. Some pre-approved options are 2",
+          "name": "Interdisciplinary requirement. Two courses outside of the economics department that relate to better understanding the implementation and/or evaluation of public policies (may be below or above 1000-level).Several departments offer such courses, and availability varies from year to year. Some pre-approved options are",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1419,7 +1420,7 @@
               "courses": [
                 {
                   "code": "AFRI 1920",
-                  "name": "AFRI 1920"
+                  "name": "Health Inequality in Historical Perspective"
                 }
               ],
               "count": null,
@@ -1431,7 +1432,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -1443,7 +1444,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1455,7 +1456,7 @@
               "courses": [
                 {
                   "code": "HSP 0310",
-                  "name": "HSP 0310"
+                  "name": "Health Care in the United States"
                 }
               ],
               "count": null,
@@ -1467,7 +1468,7 @@
               "courses": [
                 {
                   "code": "HSP 0330",
-                  "name": "HSP 0330"
+                  "name": "Health Law and Policy"
                 }
               ],
               "count": null,
@@ -1479,7 +1480,7 @@
               "courses": [
                 {
                   "code": "EPI 0850",
-                  "name": "EPI 0850"
+                  "name": "Fundamentals of Epidemiology"
                 }
               ],
               "count": null,
@@ -1491,7 +1492,7 @@
               "courses": [
                 {
                   "code": "POLS 0010",
-                  "name": "POLS 0010"
+                  "name": "Introduction to the American Political Process"
                 }
               ],
               "count": null,
@@ -1503,7 +1504,7 @@
               "courses": [
                 {
                   "code": "POLS 1050",
-                  "name": "POLS 1050"
+                  "name": "Ethics and Public Policy"
                 }
               ],
               "count": null,
@@ -1515,7 +1516,7 @@
               "courses": [
                 {
                   "code": "POLS 1823Z",
-                  "name": "POLS 1823Z"
+                  "name": "Gender and Public Policy"
                 }
               ],
               "count": null,
@@ -1527,7 +1528,7 @@
               "courses": [
                 {
                   "code": "SOC 1330",
-                  "name": "SOC 1330"
+                  "name": "Remaking the City"
                 }
               ],
               "count": null,
@@ -1539,7 +1540,7 @@
               "courses": [
                 {
                   "code": "URBN 0210",
-                  "name": "URBN 0210"
+                  "name": "The City: An Introduction to Urban Studies"
                 }
               ],
               "count": null,
@@ -1556,7 +1557,7 @@
           "notes": []
         },
         {
-          "name": "A capstone project in the senior year. This can be satisfied in different ways: (a) the capstone is automatically fulfilled if one of the public policy electives completed is designated as a capstone course (see the list of capstone courses on the economics department website); or (b) a capstone project is otherwise arranged and completed for a public policy elective; or (c) an honors thesis is completed, under the guidelines of honors in the economics concentration; or (d) completion of an undergraduate research assistantship (URA). In cases (a), (b) and (d), a capstone form must be submitted to the department. 5",
+          "name": "A capstone project in the senior year. This can be satisfied in different ways: (a) the capstone is automatically fulfilled if one of the public policy electives completed is designated as a capstone course (see the list of capstone courses on the economics department website); or (b) a capstone project is otherwise arranged and completed for a public policy elective; or (c) an honors thesis is completed, under the guidelines of honors in the economics concentration; or (d) completion of an undergraduate research assistantship (URA). In cases (a), (b) and (d), a capstone form must be submitted to the department.",
           "type": "label",
           "courses": [],
           "count": null,
@@ -1568,329 +1569,329 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0170",
-            "name": "ECON 0170"
+            "name": "Essential Mathematics for Economics2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1110",
-            "name": "ECON 1110"
+            "name": "Intermediate Microeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1210",
-            "name": "ECON 1210"
+            "name": "Intermediate Macroeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "ECON 1620"
+            "name": "Introduction to Econometrics3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1629",
-            "name": "ECON 1629"
+            "name": "Applied Research Methods for Economists"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1000",
-            "name": "ECON 1000"
+            "name": "Using Big Data to Solve Economic and Social Problems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1070",
-            "name": "ECON 1070"
+            "name": "Race, Crime, and Punishment in America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1225",
-            "name": "ECON 1225"
+            "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1255",
-            "name": "ECON 1255"
+            "name": "Unemployment: Models and Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1310",
-            "name": "ECON 1310"
+            "name": "Labor Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1330",
-            "name": "ECON 1330"
+            "name": "Gender and Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1340",
-            "name": "ECON 1340"
+            "name": "Economics of Global Warming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1345",
-            "name": "ECON 1345"
+            "name": "Climate Change and the Commons"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1350",
-            "name": "ECON 1350"
+            "name": "Environmental Economics and Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1355",
-            "name": "ECON 1355"
+            "name": "Environmental Issues in Development Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1360",
-            "name": "ECON 1360"
+            "name": "Research Seminar in Health Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1370",
-            "name": "ECON 1370"
+            "name": "Race and Inequality in the United States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1385",
-            "name": "ECON 1385"
+            "name": "Intergenerational Poverty in America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1390",
-            "name": "ECON 1390"
+            "name": "Inequality of Income, Wealth, and Health in the United States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1410",
-            "name": "ECON 1410"
+            "name": "Urban Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1420",
-            "name": "ECON 1420"
+            "name": "Industrial Organization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1430",
-            "name": "ECON 1430"
+            "name": "The Economics of Social Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1440",
-            "name": "ECON 1440"
+            "name": "The Economic Analysis of Political Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1480",
-            "name": "ECON 1480"
+            "name": "Public Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1500",
-            "name": "ECON 1500"
+            "name": "Current Global Macroeconomic Challenges"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1520",
-            "name": "ECON 1520"
+            "name": "Culture, History and Comparative Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1530",
-            "name": "ECON 1530"
+            "name": "Health, Hunger and the Household in Developing Countries"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1540",
-            "name": "ECON 1540"
+            "name": "International Trade"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1550",
-            "name": "ECON 1550"
+            "name": "International Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1560",
-            "name": "ECON 1560"
+            "name": "Economic Growth"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1570",
-            "name": "ECON 1570"
+            "name": "The Economics of Latin Americans"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1600",
-            "name": "ECON 1600"
+            "name": "Education, the Economy and School Reform"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "AFRI 1920",
-            "name": "AFRI 1920"
+            "name": "Health Inequality in Historical Perspective"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HSP 0310",
-            "name": "HSP 0310"
+            "name": "Health Care in the United States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HSP 0330",
-            "name": "HSP 0330"
+            "name": "Health Law and Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EPI 0850",
-            "name": "EPI 0850"
+            "name": "Fundamentals of Epidemiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0010",
-            "name": "POLS 0010"
+            "name": "Introduction to the American Political Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1050",
-            "name": "POLS 1050"
+            "name": "Ethics and Public Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 1823Z",
-            "name": "POLS 1823Z"
+            "name": "Gender and Public Policy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1330",
-            "name": "SOC 1330"
+            "name": "Remaking the City"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "URBN 0210",
-            "name": "URBN 0210"
+            "name": "The City: An Introduction to Urban Studies"
           }
         }
       ],
@@ -1932,251 +1933,251 @@
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "MATH 1620",
-      "name": "MATH 1620"
+      "name": "Mathematical Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "ECON 0710",
-      "name": "ECON 0710"
+      "name": "Financial Accounting"
     },
     {
       "code": "ECON 1420",
-      "name": "ECON 1420"
+      "name": "Industrial Organization2"
     },
     {
       "code": "ECON 1710",
-      "name": "ECON 1710"
+      "name": "Investments I"
     },
     {
       "code": "ECON 1720",
-      "name": "ECON 1720"
+      "name": "Corporate Finance"
     },
     {
       "code": "ECON 1090",
-      "name": "ECON 1090"
+      "name": "Introduction to Game Theory"
     },
     {
       "code": "ECON 1310",
-      "name": "ECON 1310"
+      "name": "Labor Economics"
     },
     {
       "code": "ECON 1400",
-      "name": "ECON 1400"
+      "name": "The Economics of Mass Media"
     },
     {
       "code": "ECON 1450",
-      "name": "ECON 1450"
+      "name": "Economic Organizations and Economic Systems"
     },
     {
       "code": "ECON 1465",
-      "name": "ECON 1465"
+      "name": "Antitrust and Competition"
     },
     {
       "code": "ECON 1470",
-      "name": "ECON 1470"
+      "name": "Bargaining Theory and Applications"
     },
     {
       "code": "ECON 1490",
-      "name": "ECON 1490"
+      "name": "Designing Internet Marketplaces"
     },
     {
       "code": "ECON 1540",
-      "name": "ECON 1540"
+      "name": "International Trade"
     },
     {
       "code": "ECON 1550",
-      "name": "ECON 1550"
+      "name": "International Finance"
     },
     {
       "code": "ECON 1660",
-      "name": "ECON 1660"
+      "name": "Big Data"
     },
     {
       "code": "ECON 1730",
-      "name": "ECON 1730"
+      "name": "Venture Capital, Private Equity, and Entrepreneurship"
     },
     {
       "code": "ECON 1740",
-      "name": "ECON 1740"
+      "name": "Mathematical Finance"
     },
     {
       "code": "ECON 1750",
-      "name": "ECON 1750"
+      "name": "Investments II"
     },
     {
       "code": "ECON 1760",
-      "name": "ECON 1760"
+      "name": "Financial Institutions"
     },
     {
       "code": "ECON 1770",
-      "name": "ECON 1770"
+      "name": "Crisis Economics"
     },
     {
       "code": "ECON 1780",
-      "name": "ECON 1780"
+      "name": "Advanced Topics in Corporate Finance"
     },
     {
       "code": "ECON 1805",
-      "name": "ECON 1805"
+      "name": "Experimental and Behavioral Economics"
     },
     {
       "code": "ECON 1820",
-      "name": "ECON 1820"
+      "name": "Theory of Behavioral Economics"
     },
     {
       "code": "ECON 1830",
-      "name": "ECON 1830"
+      "name": "Behavioral Finance"
     },
     {
       "code": "ECON 1870",
-      "name": "ECON 1870"
+      "name": "Game Theory and Applications to Economics"
     },
     {
       "code": "ECON 1000",
-      "name": "ECON 1000"
+      "name": "Using Big Data to Solve Economic and Social Problems"
     },
     {
       "code": "ECON 1070",
-      "name": "ECON 1070"
+      "name": "Race, Crime, and Punishment in America"
     },
     {
       "code": "ECON 1225",
-      "name": "ECON 1225"
+      "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
     },
     {
       "code": "ECON 1255",
-      "name": "ECON 1255"
+      "name": "Unemployment: Models and Policies"
     },
     {
       "code": "ECON 1330",
-      "name": "ECON 1330"
+      "name": "Gender and Development"
     },
     {
       "code": "ECON 1340",
-      "name": "ECON 1340"
+      "name": "Economics of Global Warming"
     },
     {
       "code": "ECON 1345",
-      "name": "ECON 1345"
+      "name": "Climate Change and the Commons"
     },
     {
       "code": "ECON 1350",
-      "name": "ECON 1350"
+      "name": "Environmental Economics and Policy"
     },
     {
       "code": "ECON 1355",
-      "name": "ECON 1355"
+      "name": "Environmental Issues in Development Economics"
     },
     {
       "code": "ECON 1360",
-      "name": "ECON 1360"
+      "name": "Research Seminar in Health Economics"
     },
     {
       "code": "ECON 1370",
-      "name": "ECON 1370"
+      "name": "Race and Inequality in the United States"
     },
     {
       "code": "ECON 1385",
-      "name": "ECON 1385"
+      "name": "Intergenerational Poverty in America"
     },
     {
       "code": "ECON 1390",
-      "name": "ECON 1390"
+      "name": "Inequality of Income, Wealth, and Health in the United States"
     },
     {
       "code": "ECON 1410",
-      "name": "ECON 1410"
+      "name": "Urban Economics"
     },
     {
       "code": "ECON 1430",
-      "name": "ECON 1430"
+      "name": "The Economics of Social Policy"
     },
     {
       "code": "ECON 1440",
-      "name": "ECON 1440"
+      "name": "The Economic Analysis of Political Behavior"
     },
     {
       "code": "ECON 1480",
-      "name": "ECON 1480"
+      "name": "Public Economics"
     },
     {
       "code": "ECON 1500",
-      "name": "ECON 1500"
+      "name": "Current Global Macroeconomic Challenges"
     },
     {
       "code": "ECON 1520",
-      "name": "ECON 1520"
+      "name": "Culture, History and Comparative Development"
     },
     {
       "code": "ECON 1530",
-      "name": "ECON 1530"
+      "name": "Health, Hunger and the Household in Developing Countries"
     },
     {
       "code": "ECON 1560",
-      "name": "ECON 1560"
+      "name": "Economic Growth"
     },
     {
       "code": "ECON 1570",
-      "name": "ECON 1570"
+      "name": "The Economics of Latin Americans"
     },
     {
       "code": "ECON 1600",
-      "name": "ECON 1600"
+      "name": "Education, the Economy and School Reform"
     },
     {
       "code": "AFRI 1920",
-      "name": "AFRI 1920"
+      "name": "Health Inequality in Historical Perspective"
     },
     {
       "code": "CPSY 0220",
-      "name": "CPSY 0220"
+      "name": "Making Decisions"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "HSP 0310",
-      "name": "HSP 0310"
+      "name": "Health Care in the United States"
     },
     {
       "code": "HSP 0330",
-      "name": "HSP 0330"
+      "name": "Health Law and Policy"
     },
     {
       "code": "EPI 0850",
-      "name": "EPI 0850"
+      "name": "Fundamentals of Epidemiology"
     },
     {
       "code": "POLS 0010",
-      "name": "POLS 0010"
+      "name": "Introduction to the American Political Process"
     },
     {
       "code": "POLS 1050",
-      "name": "POLS 1050"
+      "name": "Ethics and Public Policy"
     },
     {
       "code": "POLS 1823Z",
-      "name": "POLS 1823Z"
+      "name": "Gender and Public Policy"
     },
     {
       "code": "SOC 1330",
-      "name": "SOC 1330"
+      "name": "Remaking the City"
     },
     {
       "code": "URBN 0210",
-      "name": "URBN 0210"
+      "name": "The City: An Introduction to Urban Studies"
     },
     {
       "code": "CSCI 1450",

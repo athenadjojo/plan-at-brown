@@ -2,6 +2,7 @@
   "concentration": "Design Engineering",
   "slug": "dese",
   "url": "https://bulletin.brown.edu/the-college/concentrations/dese/",
+  "description": "Design Engineering(DE) teaches students to understand not just the how and what, but the why and why not behind the creation of technologically enabled products, services and systems. Methodologies, frameworks and analytical tools to evaluate strategic and systemic implications and consequences of these products, services and systems are considered. DE prepares students to (a) effectively apply engineering principles and quantitative analysis to make design decisions, (b) utilize complementary and conflicting principles from domains other than engineering in design decisions, (c) adeptly apply systemic principles to show interactions within and between systems, and (d) achieve fluency in human-centered and systems design processes and principles to analyze and synthesize responses to complex real-world problems. Visit https://engineering.brown.edu/undergraduate/concentrations/design-engineering",
   "tracks": [
     {
       "id": "program_requirements",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": null,
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": null,
@@ -74,7 +75,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -108,7 +109,7 @@
           "notes": []
         },
         {
-          "name": "Basic Physical/Life Science 1",
+          "name": "Basic Physical/Life Science",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -118,7 +119,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": null,
@@ -130,7 +131,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": null,
@@ -142,7 +143,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -152,7 +153,7 @@
           "notes": []
         },
         {
-          "name": "Computer Science 1",
+          "name": "Computer Science",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -230,7 +231,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -242,7 +243,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -254,7 +255,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -266,7 +267,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -276,7 +277,7 @@
           "notes": []
         },
         {
-          "name": "A third mathematics course from the following list: 1",
+          "name": "A third mathematics course from the following list:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -286,7 +287,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -298,7 +299,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -310,7 +311,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -322,7 +323,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -334,7 +335,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -346,7 +347,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -358,7 +359,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -370,7 +371,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -382,7 +383,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -402,7 +403,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": 1,
@@ -414,7 +415,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": 1,
@@ -431,7 +432,7 @@
           "notes": []
         },
         {
-          "name": "One course that covers Social Science Research Methods: 1",
+          "name": "One course that covers Social Science Research Methods:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -441,7 +442,7 @@
               "courses": [
                 {
                   "code": "ANTH 1940",
-                  "name": "ANTH 1940"
+                  "name": "Ethnographic Research Methods"
                 }
               ],
               "count": null,
@@ -453,7 +454,7 @@
               "courses": [
                 {
                   "code": "SOC 1117",
-                  "name": "SOC 1117"
+                  "name": "Focus Groups for Market and Social Research"
                 }
               ],
               "count": null,
@@ -465,7 +466,7 @@
               "courses": [
                 {
                   "code": "SOC 1118",
-                  "name": "SOC 1118"
+                  "name": "Context Research for Innovation"
                 }
               ],
               "count": null,
@@ -477,7 +478,7 @@
               "courses": [
                 {
                   "code": "POLS 0500",
-                  "name": "POLS 0500"
+                  "name": "Foundations of Political Analysis"
                 }
               ],
               "count": null,
@@ -494,7 +495,7 @@
           "notes": []
         },
         {
-          "name": "One course on Decision Making and Design: 1",
+          "name": "One course on Decision Making and Design:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -504,7 +505,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -516,7 +517,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -528,7 +529,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -540,7 +541,7 @@
               "courses": [
                 {
                   "code": "CPSY 1730",
-                  "name": "CPSY 1730"
+                  "name": "Psychology in Business and Economics"
                 }
               ],
               "count": null,
@@ -552,7 +553,7 @@
               "courses": [
                 {
                   "code": "EDUC 0800",
-                  "name": "EDUC 0800"
+                  "name": "Introduction to Human Development and Education"
                 }
               ],
               "count": null,
@@ -564,7 +565,7 @@
               "courses": [
                 {
                   "code": "PHIL 1610",
-                  "name": "PHIL 1610"
+                  "name": "Decision Theory: Foundations and Applications"
                 }
               ],
               "count": null,
@@ -581,7 +582,7 @@
           "notes": []
         },
         {
-          "name": "One course on Societal Context for Design: 1",
+          "name": "One course on Societal Context for Design:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -591,7 +592,7 @@
               "courses": [
                 {
                   "code": "AMST 1611S",
-                  "name": "AMST 1611S"
+                  "name": "US Popular Culture"
                 }
               ],
               "count": null,
@@ -603,7 +604,7 @@
               "courses": [
                 {
                   "code": "ANTH 0100",
-                  "name": "ANTH 0100"
+                  "name": "Introduction to Cultural Anthropology"
                 }
               ],
               "count": null,
@@ -615,7 +616,7 @@
               "courses": [
                 {
                   "code": "ANTH 1236",
-                  "name": "ANTH 1236"
+                  "name": "Urban Life: Anthropology in and of the City"
                 }
               ],
               "count": null,
@@ -627,7 +628,7 @@
               "courses": [
                 {
                   "code": "ARCH 0755",
-                  "name": "ARCH 0755"
+                  "name": "Engineering and Technology in the Ancient World"
                 }
               ],
               "count": null,
@@ -639,7 +640,7 @@
               "courses": [
                 {
                   "code": "ECON 0110",
-                  "name": "ECON 0110"
+                  "name": "Principles of Economics"
                 }
               ],
               "count": null,
@@ -651,7 +652,7 @@
               "courses": [
                 {
                   "code": "ECON 1390",
-                  "name": "ECON 1390"
+                  "name": "Inequality of Income, Wealth, and Health in the United States"
                 }
               ],
               "count": null,
@@ -663,7 +664,7 @@
               "courses": [
                 {
                   "code": "HIAA 0140",
-                  "name": "HIAA 0140"
+                  "name": "Structural and Architectural Analysis"
                 }
               ],
               "count": null,
@@ -675,7 +676,7 @@
               "courses": [
                 {
                   "code": "HIAA 1171",
-                  "name": "HIAA 1171"
+                  "name": "Cities, Landscapes, and Design in the Age of Pandemics"
                 }
               ],
               "count": null,
@@ -687,7 +688,7 @@
               "courses": [
                 {
                   "code": "PHIL 0401",
-                  "name": "PHIL 0401"
+                  "name": "Ethics of Digital Technology"
                 }
               ],
               "count": null,
@@ -699,7 +700,7 @@
               "courses": [
                 {
                   "code": "PHIL 0403",
-                  "name": "PHIL 0403"
+                  "name": "Ethics and Politics of Data"
                 }
               ],
               "count": null,
@@ -711,7 +712,7 @@
               "courses": [
                 {
                   "code": "PHIL 1430",
-                  "name": "PHIL 1430"
+                  "name": "Moral Theories"
                 }
               ],
               "count": null,
@@ -723,7 +724,7 @@
               "courses": [
                 {
                   "code": "TAPS 0220",
-                  "name": "TAPS 0220"
+                  "name": "Persuasive Communication"
                 }
               ],
               "count": null,
@@ -735,7 +736,7 @@
               "courses": [
                 {
                   "code": "URBN 1870D",
-                  "name": "URBN 1870D"
+                  "name": "Downtown Development"
                 }
               ],
               "count": null,
@@ -752,14 +753,14 @@
           "notes": []
         },
         {
-          "name": "Advanced Courses: Six engineering and/or engineering-related courses, at least four of which are ENGN courses, including two ENGN courses that are above the 1000-level (cannot be Entrepreneurship or Innovation Management and Entrepreneurship (PRIME) program courses). The fifth and the sixth courses can be non-introductory, advanced STEM courses. The pathway must be approved by the Concentration Advisor and constitute a coherent body of work. 1 6",
+          "name": "Advanced Courses: Six engineering and/or engineering-related courses, at least four of which are ENGN courses, including two ENGN courses that are above the 1000-level (cannot be Entrepreneurship or Innovation Management and Entrepreneurship (PRIME) program courses). The fifth and the sixth courses can be non-introductory, advanced STEM courses. The pathway must be approved by the Concentration Advisor and constitute a coherent body of work.",
           "type": "label",
           "courses": [],
           "count": 6,
           "notes": []
         },
         {
-          "name": "One Capstone, Design or Independent Study 1",
+          "name": "One Capstone, Design or Independent Study",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -769,7 +770,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -781,7 +782,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -793,7 +794,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": null,
@@ -805,7 +806,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -817,7 +818,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -829,7 +830,7 @@
               "courses": [
                 {
                   "code": "ENGN 1240",
-                  "name": "ENGN 1240"
+                  "name": "Biomedical Engineering Design and Innovation I"
                 }
               ],
               "count": null,
@@ -841,7 +842,7 @@
               "courses": [
                 {
                   "code": "ENGN 1250",
-                  "name": "ENGN 1250"
+                  "name": "Biomedical Engineering Design and Innovation II"
                 }
               ],
               "count": null,
@@ -853,7 +854,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -865,7 +866,7 @@
               "courses": [
                 {
                   "code": "ENGN 1640",
-                  "name": "ENGN 1640"
+                  "name": "Design of Computing Systems"
                 }
               ],
               "count": null,
@@ -877,7 +878,7 @@
               "courses": [
                 {
                   "code": "ENGN 1650",
-                  "name": "ENGN 1650"
+                  "name": "Embedded Microprocessor Design"
                 }
               ],
               "count": null,
@@ -889,7 +890,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -901,7 +902,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -913,7 +914,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -925,7 +926,7 @@
               "courses": [
                 {
                   "code": "ENGN 1972",
-                  "name": "ENGN 1972"
+                  "name": "Independent Study in Engineering Design (Capstone)"
                 }
               ],
               "count": null,
@@ -937,7 +938,7 @@
               "courses": [
                 {
                   "code": "ENGN 1973",
-                  "name": "ENGN 1973"
+                  "name": "Independent Study in Engineering Design (Capstone)"
                 }
               ],
               "count": null,
@@ -952,476 +953,476 @@
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 1940",
-            "name": "ANTH 1940"
+            "name": "Ethnographic Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1117",
-            "name": "SOC 1117"
+            "name": "Focus Groups for Market and Social Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SOC 1118",
-            "name": "SOC 1118"
+            "name": "Context Research for Innovation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POLS 0500",
-            "name": "POLS 0500"
+            "name": "Foundations of Political Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1730",
-            "name": "CPSY 1730"
+            "name": "Psychology in Business and Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EDUC 0800",
-            "name": "EDUC 0800"
+            "name": "Introduction to Human Development and Education"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1610",
-            "name": "PHIL 1610"
+            "name": "Decision Theory: Foundations and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "AMST 1611S",
-            "name": "AMST 1611S"
+            "name": "US Popular Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 0100",
-            "name": "ANTH 0100"
+            "name": "Introduction to Cultural Anthropology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 1236",
-            "name": "ANTH 1236"
+            "name": "Urban Life: Anthropology in and of the City"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 0755",
-            "name": "ARCH 0755"
+            "name": "Engineering and Technology in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1390",
-            "name": "ECON 1390"
+            "name": "Inequality of Income, Wealth, and Health in the United States"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 0140",
-            "name": "HIAA 0140"
+            "name": "Structural and Architectural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIAA 1171",
-            "name": "HIAA 1171"
+            "name": "Cities, Landscapes, and Design in the Age of Pandemics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0401",
-            "name": "PHIL 0401"
+            "name": "Ethics of Digital Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0403",
-            "name": "PHIL 0403"
+            "name": "Ethics and Politics of Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1430",
-            "name": "PHIL 1430"
+            "name": "Moral Theories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "TAPS 0220",
-            "name": "TAPS 0220"
+            "name": "Persuasive Communication"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "URBN 1870D",
-            "name": "URBN 1870D"
+            "name": "Downtown Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1240",
-            "name": "ENGN 1240"
+            "name": "Biomedical Engineering Design and Innovation I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1250",
-            "name": "ENGN 1250"
+            "name": "Biomedical Engineering Design and Innovation II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1640",
-            "name": "ENGN 1640"
+            "name": "Design of Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1650",
-            "name": "ENGN 1650"
+            "name": "Embedded Microprocessor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1972",
-            "name": "ENGN 1972"
+            "name": "Independent Study in Engineering Design (Capstone)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1973",
-            "name": "ENGN 1973"
+            "name": "Independent Study in Engineering Design (Capstone)"
           }
         }
       ],
@@ -1439,267 +1440,267 @@
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science"
     },
     {
       "code": "ENGN 0790",
-      "name": "ENGN 0790"
+      "name": "Fundamentals of Environmental Engineering"
     },
     {
       "code": "ENGN 0500",
-      "name": "ENGN 0500"
+      "name": "Digital Computing Systems"
     },
     {
       "code": "ENGN 1200",
-      "name": "ENGN 1200"
+      "name": "Biomaterials"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculus"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations"
     },
     {
       "code": "APMA 0355",
-      "name": "APMA 0355"
+      "name": "Applied Ordinary Differential Equations with Theory"
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "APMA 0360",
-      "name": "APMA 0360"
+      "name": "Applied Partial Differential Equations I"
     },
     {
       "code": "APMA 0365",
-      "name": "APMA 0365"
+      "name": "Applied Partial Differential Equations I with Theory"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "ANTH 1940",
-      "name": "ANTH 1940"
+      "name": "Ethnographic Research Methods"
     },
     {
       "code": "SOC 1117",
-      "name": "SOC 1117"
+      "name": "Focus Groups for Market and Social Research"
     },
     {
       "code": "SOC 1118",
-      "name": "SOC 1118"
+      "name": "Context Research for Innovation"
     },
     {
       "code": "POLS 0500",
-      "name": "POLS 0500"
+      "name": "Foundations of Political Analysis"
     },
     {
       "code": "CPSY 0220",
-      "name": "CPSY 0220"
+      "name": "Making Decisions"
     },
     {
       "code": "CPSY 0010",
-      "name": "CPSY 0010"
+      "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "CPSY 1730",
-      "name": "CPSY 1730"
+      "name": "Psychology in Business and Economics"
     },
     {
       "code": "EDUC 0800",
-      "name": "EDUC 0800"
+      "name": "Introduction to Human Development and Education"
     },
     {
       "code": "PHIL 1610",
-      "name": "PHIL 1610"
+      "name": "Decision Theory: Foundations and Applications"
     },
     {
       "code": "AMST 1611S",
-      "name": "AMST 1611S"
+      "name": "US Popular Culture"
     },
     {
       "code": "ANTH 0100",
-      "name": "ANTH 0100"
+      "name": "Introduction to Cultural Anthropology"
     },
     {
       "code": "ANTH 1236",
-      "name": "ANTH 1236"
+      "name": "Urban Life: Anthropology in and of the City"
     },
     {
       "code": "ARCH 0755",
-      "name": "ARCH 0755"
+      "name": "Engineering and Technology in the Ancient World"
     },
     {
       "code": "ECON 0110",
-      "name": "ECON 0110"
+      "name": "Principles of Economics"
     },
     {
       "code": "ECON 1390",
-      "name": "ECON 1390"
+      "name": "Inequality of Income, Wealth, and Health in the United States"
     },
     {
       "code": "HIAA 0140",
-      "name": "HIAA 0140"
+      "name": "Structural and Architectural Analysis"
     },
     {
       "code": "HIAA 1171",
-      "name": "HIAA 1171"
+      "name": "Cities, Landscapes, and Design in the Age of Pandemics"
     },
     {
       "code": "PHIL 0401",
-      "name": "PHIL 0401"
+      "name": "Ethics of Digital Technology"
     },
     {
       "code": "PHIL 0403",
-      "name": "PHIL 0403"
+      "name": "Ethics and Politics of Data"
     },
     {
       "code": "PHIL 1430",
-      "name": "PHIL 1430"
+      "name": "Moral Theories"
     },
     {
       "code": "TAPS 0220",
-      "name": "TAPS 0220"
+      "name": "Persuasive Communication"
     },
     {
       "code": "URBN 1870D",
-      "name": "URBN 1870D"
+      "name": "Downtown Development"
     },
     {
       "code": "ENGN 1000",
-      "name": "ENGN 1000"
+      "name": "Projects in Engineering Design I"
     },
     {
       "code": "ENGN 1001",
-      "name": "ENGN 1001"
+      "name": "Projects in Engineering Design II"
     },
     {
       "code": "ENGN 1140",
-      "name": "ENGN 1140"
+      "name": "Chemical Process Design"
     },
     {
       "code": "ENGN 1150",
-      "name": "ENGN 1150"
+      "name": "Environmental Engineering Design"
     },
     {
       "code": "ENGN 1230",
-      "name": "ENGN 1230"
+      "name": "Instrumentation Design"
     },
     {
       "code": "ENGN 1240",
-      "name": "ENGN 1240"
+      "name": "Biomedical Engineering Design and Innovation I"
     },
     {
       "code": "ENGN 1250",
-      "name": "ENGN 1250"
+      "name": "Biomedical Engineering Design and Innovation II"
     },
     {
       "code": "ENGN 1620",
-      "name": "ENGN 1620"
+      "name": "Analysis and Design of Electronic Circuits"
     },
     {
       "code": "ENGN 1640",
-      "name": "ENGN 1640"
+      "name": "Design of Computing Systems"
     },
     {
       "code": "ENGN 1650",
-      "name": "ENGN 1650"
+      "name": "Embedded Microprocessor Design"
     },
     {
       "code": "ENGN 1740",
-      "name": "ENGN 1740"
+      "name": "Computer Aided Visualization and Design"
     },
     {
       "code": "ENGN 1760",
-      "name": "ENGN 1760"
+      "name": "Design of Space Systems"
     },
     {
       "code": "ENGN 1931D",
-      "name": "ENGN 1931D"
+      "name": "Design of Mechanical Assemblies"
     },
     {
       "code": "ENGN 1972",
-      "name": "ENGN 1972"
+      "name": "Independent Study in Engineering Design (Capstone)"
     },
     {
       "code": "ENGN 1973",
-      "name": "ENGN 1973"
+      "name": "Independent Study in Engineering Design (Capstone)"
     },
     {
       "code": "ENGN 0020",

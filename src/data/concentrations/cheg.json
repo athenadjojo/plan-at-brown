@@ -2,6 +2,7 @@
   "concentration": "Chemical Engineering",
   "slug": "cheg",
   "url": "https://bulletin.brown.edu/the-college/concentrations/cheg/",
+  "description": "The Sc.B. program in Chemical Engineering prepares students for any field in the chemical sciences. The program emphasizes a molecular engineering approach to problem-solving. Students will learn how engineering at the atomic scale can be used to solve some of the most pressing technical challenges facing society. The program provides a rigorous foundation in engineering fundamentals and space for students to craft a program for their desired goals. Our students go on to work in industry, start-ups, consulting, graduate and professional schools, and many other fields. The Chemical Engineering program is accredited by the Engineering Accreditation Commission of ABET:http://www.abet.org.\u00a0The objectives of the Brown University Chemical Engineering Sc.B. Program are to produce\u00a0graduates who will:\u00a0(1) apply their knowledge of engineering, science, mathematics, and liberal arts to successful\u00a0careers and leadership roles in industry, government, or academia;\u00a0(2) apply independent, critical, and integrative thinking to a broad range of complex,\u00a0multidisciplinary problems, and effectively communicate their solutions to broad audiences of\u00a0diverse backgrounds; and\u00a0(3) show a lifelong commitment to technical approaches that address the needs of society in an\u00a0ethical, safe, sustainable, and environmentally responsible manner.\u00a0The student outcomes of this program are the ABET (1)- (7) Student Outcomes as defined by the \"ABET Criteria for Accrediting Engineering Programs\" available online athttp://www.abet.org/accreditation-criteria-policies-documents/",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": 1,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -314,7 +315,7 @@
               "courses": [
                 {
                   "code": "ENGN 1100",
-                  "name": "ENGN 1100"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": 1,
@@ -326,7 +327,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design1"
                 }
               ],
               "count": 1,
@@ -338,7 +339,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics1"
                 }
               ],
               "count": 1,
@@ -350,7 +351,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": 1,
@@ -362,7 +363,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -372,7 +373,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Chemistry elective course 2",
+          "name": "Advanced Chemistry elective course",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -382,7 +383,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": 1,
@@ -394,7 +395,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -406,7 +407,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -418,7 +419,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -428,7 +429,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Engineering or Natural Sciences elective course 3 1",
+          "name": "Advanced Engineering or Natural Sciences elective course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -445,7 +446,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": 1,
@@ -467,238 +468,238 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1100",
-            "name": "ENGN 1100"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         }
       ],
@@ -719,7 +720,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -731,7 +732,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -743,7 +744,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -755,7 +756,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -779,7 +780,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -791,7 +792,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -803,7 +804,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -815,7 +816,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -827,7 +828,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -839,7 +840,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -851,7 +852,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -863,7 +864,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -875,7 +876,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -887,7 +888,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -899,7 +900,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -911,7 +912,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -923,7 +924,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -935,7 +936,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -947,7 +948,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": 1,
@@ -959,7 +960,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -971,7 +972,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -983,7 +984,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -995,7 +996,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -1015,7 +1016,7 @@
               "courses": [
                 {
                   "code": "ENGN 1100",
-                  "name": "ENGN 1100"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": 1,
@@ -1027,7 +1028,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design1"
                 }
               ],
               "count": 1,
@@ -1039,7 +1040,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics1"
                 }
               ],
               "count": 1,
@@ -1051,7 +1052,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": 1,
@@ -1063,7 +1064,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -1073,7 +1074,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Chemistry elective course 2",
+          "name": "Advanced Chemistry elective course",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1083,7 +1084,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": 1,
@@ -1095,7 +1096,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -1107,7 +1108,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -1119,7 +1120,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -1129,7 +1130,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Engineering or Natural Sciences elective course 3 1",
+          "name": "Advanced Engineering or Natural Sciences elective course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1146,7 +1147,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": 1,
@@ -1168,238 +1169,238 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1100",
-            "name": "ENGN 1100"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         }
       ],
@@ -1420,7 +1421,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -1432,7 +1433,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -1444,7 +1445,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -1456,7 +1457,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -1468,7 +1469,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -1480,7 +1481,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -1492,7 +1493,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -1504,7 +1505,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -1516,7 +1517,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -1528,7 +1529,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -1540,7 +1541,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -1552,7 +1553,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1564,7 +1565,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -1576,7 +1577,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1588,7 +1589,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1600,7 +1601,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1612,7 +1613,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -1624,7 +1625,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -1636,7 +1637,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -1648,7 +1649,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": 1,
@@ -1660,7 +1661,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -1672,7 +1673,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -1684,7 +1685,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -1696,7 +1697,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -1716,7 +1717,7 @@
               "courses": [
                 {
                   "code": "ENGN 1100",
-                  "name": "ENGN 1100"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": 1,
@@ -1728,7 +1729,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design1"
                 }
               ],
               "count": 1,
@@ -1740,7 +1741,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics1"
                 }
               ],
               "count": 1,
@@ -1752,7 +1753,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": 1,
@@ -1764,7 +1765,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -1774,7 +1775,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Chemistry elective course 2",
+          "name": "Advanced Chemistry elective course",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1784,7 +1785,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": 1,
@@ -1796,7 +1797,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -1808,7 +1809,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -1820,7 +1821,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -1830,7 +1831,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Engineering or Natural Sciences elective course 3 1",
+          "name": "Advanced Engineering or Natural Sciences elective course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1847,7 +1848,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": 1,
@@ -1869,238 +1870,238 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1100",
-            "name": "ENGN 1100"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         }
       ],
@@ -2121,7 +2122,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -2133,7 +2134,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -2145,7 +2146,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -2157,7 +2158,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -2169,7 +2170,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2181,7 +2182,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -2193,7 +2194,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -2205,7 +2206,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -2217,7 +2218,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -2229,7 +2230,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -2241,7 +2242,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -2253,7 +2254,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2265,7 +2266,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2277,7 +2278,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2289,7 +2290,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -2301,7 +2302,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2313,7 +2314,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -2325,7 +2326,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -2337,7 +2338,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -2349,7 +2350,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": 1,
@@ -2361,7 +2362,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -2373,7 +2374,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -2385,7 +2386,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -2397,7 +2398,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -2417,7 +2418,7 @@
               "courses": [
                 {
                   "code": "ENGN 1100",
-                  "name": "ENGN 1100"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": 1,
@@ -2429,7 +2430,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design1"
                 }
               ],
               "count": 1,
@@ -2441,7 +2442,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics1"
                 }
               ],
               "count": 1,
@@ -2453,7 +2454,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": 1,
@@ -2465,7 +2466,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -2475,7 +2476,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Chemistry elective course 2",
+          "name": "Advanced Chemistry elective course",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2485,7 +2486,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": 1,
@@ -2497,7 +2498,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -2509,7 +2510,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -2521,7 +2522,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -2531,7 +2532,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Engineering or Natural Sciences elective course 3 1",
+          "name": "Advanced Engineering or Natural Sciences elective course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -2548,7 +2549,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": 1,
@@ -2570,238 +2571,238 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1100",
-            "name": "ENGN 1100"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         }
       ],
@@ -2822,7 +2823,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -2834,7 +2835,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -2846,7 +2847,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -2858,7 +2859,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -2870,7 +2871,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2882,7 +2883,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -2894,7 +2895,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -2906,7 +2907,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -2918,7 +2919,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -2930,7 +2931,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -2942,7 +2943,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -2954,7 +2955,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2966,7 +2967,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2978,7 +2979,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2990,7 +2991,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -3002,7 +3003,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -3014,7 +3015,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -3026,7 +3027,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -3038,7 +3039,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -3050,7 +3051,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": 1,
@@ -3062,7 +3063,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -3074,7 +3075,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -3086,7 +3087,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -3098,7 +3099,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -3118,7 +3119,7 @@
               "courses": [
                 {
                   "code": "ENGN 1100",
-                  "name": "ENGN 1100"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": 1,
@@ -3130,7 +3131,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design1"
                 }
               ],
               "count": 1,
@@ -3142,7 +3143,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics1"
                 }
               ],
               "count": 1,
@@ -3154,7 +3155,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": 1,
@@ -3166,7 +3167,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -3176,7 +3177,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Chemistry elective course 2",
+          "name": "Advanced Chemistry elective course",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -3186,7 +3187,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": 1,
@@ -3198,7 +3199,7 @@
               "courses": [
                 {
                   "code": "CHEM 0400",
-                  "name": "CHEM 0400"
+                  "name": "Biophysical and Bioinorganic Chemistry"
                 }
               ],
               "count": null,
@@ -3210,7 +3211,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": null,
@@ -3222,7 +3223,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -3232,7 +3233,7 @@
           "notes": []
         },
         {
-          "name": "Advanced Engineering or Natural Sciences elective course 3 1",
+          "name": "Advanced Engineering or Natural Sciences elective course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -3249,7 +3250,7 @@
               "courses": [
                 {
                   "code": "ENGN 1140",
-                  "name": "ENGN 1140"
+                  "name": "Chemical Process Design"
                 }
               ],
               "count": 1,
@@ -3271,238 +3272,238 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1100",
-            "name": "ENGN 1100"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0400",
-            "name": "CHEM 0400"
+            "name": "Biophysical and Bioinorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1140",
-            "name": "ENGN 1140"
+            "name": "Chemical Process Design"
           }
         }
       ],
@@ -3580,91 +3581,91 @@
     },
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0520",
-      "name": "ENGN 0520"
+      "name": "Electrical Circuits and Signals"
     },
     {
       "code": "ENGN 0500",
-      "name": "ENGN 0500"
+      "name": "Digital Computing Systems"
     },
     {
       "code": "ENGN 0720",
-      "name": "ENGN 0720"
+      "name": "Thermodynamics"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "ENGN 1100",
-      "name": "ENGN 1100"
+      "name": "Numerical Methods in Engineering"
     },
     {
       "code": "ENGN 1120",
-      "name": "ENGN 1120"
+      "name": "Reaction Kinetics and Reactor Design1"
     },
     {
       "code": "ENGN 1130",
-      "name": "ENGN 1130"
+      "name": "Chemical Engineering Thermodynamics1"
     },
     {
       "code": "ENGN 1115",
-      "name": "ENGN 1115"
+      "name": "Principles of Heat and Mass Transfer"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0360",
-      "name": "CHEM 0360"
+      "name": "Organic Chemistry II"
     },
     {
       "code": "CHEM 0400",
-      "name": "CHEM 0400"
+      "name": "Biophysical and Bioinorganic Chemistry"
     },
     {
       "code": "CHEM 0500",
-      "name": "CHEM 0500"
+      "name": "Inorganic Chemistry"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry"
     },
     {
       "code": "ENGN 1140",
-      "name": "ENGN 1140"
+      "name": "Chemical Process Design"
     }
   ]
 }

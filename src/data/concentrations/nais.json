@@ -2,6 +2,7 @@
   "concentration": "Critical Native American and Indigenous Studies",
   "slug": "nais",
   "url": "https://bulletin.brown.edu/the-college/concentrations/nais/",
+  "description": "Critical Native American and Indigenous Studies (NAIS) is an interdisciplinary concentration offered through the American Studies department focused on research, teaching and engagement with the social, cultural, artistic, ancestral, heritage, legal and political aspects of Native American and Indigenous peoples in the historical and contemporary periods. It emphasizes the integrated study of indigeneity within contemporary U.S. borders, also extending across the Americas, to Oceania and to other parts of the world. This concentration builds on Brown University\u2019s strengths and history of engagement with critical theory, studies and pedagogy, and with topics of social justice, inequality, power structures and structural violence. Through courses across four breadth areas (Creative Expressions; History, Politics and Policy Issues; Language and Identity; Systems of Knowledge and Belief: Fundamentals of Indigenous Living, Society and Wellness) and including foundational and capstone courses, concentrators explore topics and research projects focused on further supporting the interests, concerns and needs of Indigenous peoples in the Western Hemisphere and globally. This critical approach is also grounded in Indigenous-centered knowledge production, in addition to engagement with topics such as: decolonial scholarship and practices (and the further defining of those terms); Indigenous self-determination and political and social justice; Indigenous activism and sovereignty struggles; the politics of land, dispossession and heritage studies; critiques of racial capitalism and extractive economies; issues of policing, incarceration, criminalization and violence against women; environmental justice and global environmental change; health and economic disparities; structural racism; language loss; cultural and intellectual property rights; and human rights advocacy.",
   "tracks": [
     {
       "id": "requirements",
@@ -13,21 +14,21 @@
           "courses": [
             {
               "code": "ETHN 1200K",
-              "name": "ETHN 1200K"
+              "name": "Introduction to Native American and Indigenous Studies"
             }
           ],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas. 1 4",
+          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Four elective courses from the following Concentration Breadth Areas: 1 4",
+          "name": "Four elective courses from the following Concentration Breadth Areas:",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "NAIS 1900",
-                  "name": "NAIS 1900"
+                  "name": "Critical NAIS Capstone Course"
                 }
               ],
               "count": 1,
@@ -101,14 +102,14 @@
           "type": "required",
           "course": {
             "code": "ETHN 1200K",
-            "name": "ETHN 1200K"
+            "name": "Introduction to Native American and Indigenous Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NAIS 1900",
-            "name": "NAIS 1900"
+            "name": "Critical NAIS Capstone Course"
           }
         }
       ],
@@ -124,21 +125,21 @@
           "courses": [
             {
               "code": "ETHN 1200K",
-              "name": "ETHN 1200K"
+              "name": "Introduction to Native American and Indigenous Studies"
             }
           ],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas. 1 4",
+          "name": "Four courses related to a focus area of study (determined by the student, in consultation with the NAIS DUS), also serving to prepare for the capstone requirement; these courses may be from different breadth areas.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Four elective courses from the following Concentration Breadth Areas: 1 4",
+          "name": "Four elective courses from the following Concentration Breadth Areas:",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -197,7 +198,7 @@
               "courses": [
                 {
                   "code": "NAIS 1900",
-                  "name": "NAIS 1900"
+                  "name": "Critical NAIS Capstone Course"
                 }
               ],
               "count": 1,
@@ -212,14 +213,14 @@
           "type": "required",
           "course": {
             "code": "ETHN 1200K",
-            "name": "ETHN 1200K"
+            "name": "Introduction to Native American and Indigenous Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NAIS 1900",
-            "name": "NAIS 1900"
+            "name": "Critical NAIS Capstone Course"
           }
         }
       ],
@@ -229,11 +230,11 @@
   "all_courses": [
     {
       "code": "ETHN 1200K",
-      "name": "ETHN 1200K"
+      "name": "Introduction to Native American and Indigenous Studies"
     },
     {
       "code": "NAIS 1900",
-      "name": "NAIS 1900"
+      "name": "Critical NAIS Capstone Course"
     }
   ]
 }

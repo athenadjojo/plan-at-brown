@@ -98,37 +98,70 @@ CONCENTRATIONS = {
 
 BASE_URL = "https://bulletin.brown.edu/the-college/concentrations"
 
-def get_course_from_link(link):
+
+def get_course_from_link(link, row=None):
     href = link.get('href', '')
     if 'search/?P=' not in href:
         return None
     code = requests.utils.unquote(href.split('P=')[-1]).strip()
-    name = link.get_text(strip=True).replace('\u00a0', ' ')  # fix non-breaking space
+    code = code.replace('\u00a0', ' ')
+    
+    # Try to get the course name from the next cell in the row
+    name = code  # fallback to code
+    if row:
+        cells = row.find_all(['td', 'th'])
+        for i, cell in enumerate(cells):
+            if link in cell.find_all('a'):
+                # Name is usually in the next cell
+                if i + 1 < len(cells):
+                    cell_text = cells[i + 1].get_text(strip=True).replace('\u00a0', ' ')
+                    # Make sure it's not a number (count column)
+                    if cell_text and not cell_text.isdigit() and len(cell_text) > 3:
+                        name = cell_text
+                break
+    
+    if not name or name == code:
+        name = link.get_text(strip=True).replace('\u00a0', ' ')
+    
     if code and len(code) > 3:
         return {"code": code, "name": name}
     return None
+
+def clean_label(text):
+    """Remove footnote reference numbers like 1, 5,6 from end of label text."""
+    # Remove trailing footnote patterns like "5,6" or "1" or "1 2"
+    text = re.sub(r'[\s,]+[\d,\s]+$', '', text.strip())
+    # Remove trailing numbers in parentheses
+    text = re.sub(r'\s*\(\d+\)\s*$', '', text)
+    return text.strip()
 
 def extract_all_courses(soup):
     courses = []
     seen = set()
     for link in soup.find_all('a', href=re.compile(r'search/\?P=')):
-        c = get_course_from_link(link)
+        row = link.find_parent('tr')
+        c = get_course_from_link(link, row)
         if c and c['code'] not in seen:
             seen.add(c['code'])
             courses.append(c)
     return courses
 
+
+def extract_description(soup):
+    paragraphs = []
+    content_div = soup.find('div', {'id': 'content'}) or soup.find('body')
+    if not content_div:
+        return ""
+    for p in content_div.find_all('p'):
+        text = p.get_text(strip=True)
+        if text and len(text) > 40:
+            paragraphs.append(text)
+        if len(paragraphs) >= 2:
+            break
+    return ' '.join(paragraphs)
+
+
 def parse_table_into_groups(table):
-    """
-    Parse a bulletin requirement table into sub-groups.
-    
-    The bulletin table structure is:
-    - Section label rows (no course links, spans multiple cols) = sub-header
-    - Single course link row = required course
-    - "or COURSE" row = alternative to previous course (choose_one)
-    - Multiple course links in one row = choose_one group
-    - Last column number = how many courses required from this group
-    """
     groups = []
     current_group = None
 
@@ -137,17 +170,15 @@ def parse_table_into_groups(table):
         if not cells:
             continue
 
-        full_text = row.get_text(' ', strip=True)
+        full_text = row.get_text(' ', strip=True).replace('\u00a0', ' ')
 
-        # Skip total rows
         if re.search(r'total credits?', full_text, re.IGNORECASE):
             continue
 
-        # Extract course links
         row_courses = []
         for cell in cells:
             for link in cell.find_all('a', href=re.compile(r'search/\?P=')):
-                c = get_course_from_link(link)
+                c = get_course_from_link(link, row)
                 if c:
                     row_courses.append(c)
 
@@ -158,71 +189,69 @@ def parse_table_into_groups(table):
             try:
                 count = int(txt)
                 break
-            except:
+            except Exception:
                 continue
 
-        first_cell_text = cells[0].get_text(strip=True) if cells else ''
+        first_cell_text = cells[0].get_text(strip=True).replace('\u00a0', ' ') if cells else ''
         is_or_row = re.match(r'^or\b', first_cell_text, re.IGNORECASE) is not None
 
-        if row_courses:
-            if is_or_row and current_group is not None:
-                # Alternative — make current group a choose_one
-                current_group['type'] = 'choose_one'
-                current_group['courses'].extend(row_courses)
-            elif len(row_courses) > 1:
-                # Multiple courses = choose one of them
-                new_group = {
-                    'name': '',
-                    'type': 'choose_one',
-                    'courses': row_courses,
-                    'count': count,
-                    'notes': []
-                }
-                groups.append(new_group)
-                current_group = new_group
-            else:
-                # Single required course
-                new_group = {
-                    'name': '',
-                    'type': 'required',
-                    'courses': row_courses,
-                    'count': count,
-                    'notes': []
-                }
-                groups.append(new_group)
-                current_group = new_group
-
-        else:
-            # No course links — section label or note
+        # Row with no courses but has meaningful text = label or note
+        if not row_courses:
             if not full_text or len(full_text) < 3:
                 continue
+            # If it mentions "select N" or "choose N" it's a section header
+            is_select = re.search(r'\b(select|choose|pick|complete|take)\b', full_text, re.IGNORECASE)
+            new_group = {
+                'name': clean_label(full_text),
+                'type': 'label',
+                'courses': [],
+                'count': count,
+                'notes': []
+            }
+            groups.append(new_group)
+            current_group = new_group
+            continue
 
-            # If it has a count and meaningful text, it's a section label
-            # that describes what comes next (e.g. "Two of these four:")
-            if full_text and full_text not in ['', ' ']:
-                new_group = {
-                    'name': full_text,
-                    'type': 'label',
-                    'courses': [],
-                    'count': count,
-                    'notes': []
-                }
-                groups.append(new_group)
-                current_group = new_group
+        if is_or_row and current_group is not None:
+            # Alternative to previous course — make it choose_one
+            current_group['type'] = 'choose_one'
+            current_group['courses'].extend(row_courses)
+        elif len(row_courses) > 1:
+            # Multiple courses on same row = choose one of them
+            new_group = {
+                'name': '',
+                'type': 'choose_one',
+                'courses': row_courses,
+                'count': count,
+                'notes': []
+            }
+            groups.append(new_group)
+            current_group = new_group
+        else:
+            # Single course
+            # If count == 1 in last col, it's a NEW requirement slot
+            # even if previous was also a single course
+            new_group = {
+                'name': '',
+                'type': 'required',
+                'courses': row_courses,
+                'count': count,
+                'notes': []
+            }
+            groups.append(new_group)
+            current_group = new_group
 
-    # Post-process: merge label groups with their following course groups
+    # Merge label + following course groups into sections
     merged = []
     i = 0
     while i < len(groups):
         g = groups[i]
         if g['type'] == 'label' and not g['courses']:
-            # Collect following non-label groups until next label
             sub_groups = []
             j = i + 1
             while j < len(groups) and groups[j]['type'] != 'label':
                 sub_groups.append(groups[j])
                 j += 1
-
             if sub_groups:
                 merged.append({
                     'name': g['name'],
@@ -233,13 +262,53 @@ def parse_table_into_groups(table):
                 })
                 i = j
             else:
-                merged.append(g)
+                # Label with no courses after it = standalone note
+                merged.append({
+                    'name': g['name'],
+                    'type': 'label',
+                    'courses': [],
+                    'count': g['count'],
+                    'notes': []
+                })
                 i += 1
         else:
             merged.append(g)
             i += 1
 
     return merged
+
+
+def flatten_groups(groups):
+    flat_courses = []
+    flat_notes = []
+
+    def _flatten(gs):
+        for g in gs:
+            if g['type'] == 'section':
+                _flatten(g.get('sub_groups', []))
+            elif g['type'] == 'required' and g['courses']:
+                flat_courses.append({'type': 'required', 'course': g['courses'][0]})
+            elif g['type'] == 'choose_one' and g['courses']:
+                flat_courses.append({'type': 'choose_one', 'options': g['courses']})
+            for note in g.get('notes', []):
+                if note not in flat_notes:
+                    flat_notes.append(note)
+
+    _flatten(groups)
+    return flat_courses, flat_notes
+
+
+def build_track_from_table(table, name, track_id):
+    groups = parse_table_into_groups(table)
+    flat_courses, flat_notes = flatten_groups(groups)
+    return {
+        "id": track_id,
+        "name": name,
+        "groups": groups,
+        "courses": flat_courses,
+        "notes": flat_notes
+    }
+
 
 def scrape_concentration(name, slug):
     url = f"{BASE_URL}/{slug}/"
@@ -250,24 +319,25 @@ def scrape_concentration(name, slug):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
     except Exception as e:
-        print(f"  ✗ Error: {e}")
+        print(f"  x Error: {e}")
         return None
 
     result = {
         "concentration": name,
         "slug": slug,
         "url": url,
+        "description": extract_description(soup),
         "tracks": [],
         "all_courses": extract_all_courses(soup)
     }
 
-    headers = soup.find_all(['h3', 'h4'])
+    skip_keywords = ['honor', 'professional track', 'brown university',
+                     'print', 'resources', 'contact', 'back to top']
 
+    # Primary: h3/h4 headers with a table after each
+    headers = soup.find_all(['h3', 'h4'])
     for header in headers:
         header_text = header.get_text(strip=True)
-
-        skip_keywords = ['honor', 'professional track', 'brown university',
-                         'print', 'resources', 'contact', 'back to top']
         if any(k in header_text.lower() for k in skip_keywords):
             continue
         if not header_text or len(header_text) < 3:
@@ -277,38 +347,30 @@ def scrape_concentration(name, slug):
         if not next_table:
             continue
 
-        groups = parse_table_into_groups(next_table)
-
-        # Build flat courses list for backward compat
-        flat_courses = []
-        flat_notes = []
-
-        def flatten(gs):
-            for g in gs:
-                if g['type'] == 'section':
-                    flatten(g.get('sub_groups', []))
-                elif g['type'] == 'required' and g['courses']:
-                    flat_courses.append({'type': 'required', 'course': g['courses'][0]})
-                elif g['type'] == 'choose_one' and g['courses']:
-                    flat_courses.append({'type': 'choose_one', 'options': g['courses']})
-                for note in g.get('notes', []):
-                    if note not in flat_notes:
-                        flat_notes.append(note)
-
-        flatten(groups)
-
-        track = {
-            "id": re.sub(r'[^a-z0-9]', '_', header_text.lower())[:50],
-            "name": header_text,
-            "groups": groups,       # Rich structured data
-            "courses": flat_courses, # Flat list for backward compat
-            "notes": flat_notes
-        }
-
-        if groups:
+        track_id = re.sub(r'[^a-z0-9]', '_', header_text.lower())[:50]
+        track = build_track_from_table(next_table, header_text, track_id)
+        if track['groups'] or track['courses']:
             result['tracks'].append(track)
 
-    print(f"  ✓ {len(result['all_courses'])} courses, {len(result['tracks'])} tracks")
+    # Fallback: no headers found — parse all tables directly
+    # Handles concentrations like Engineering & Physics
+    if not result['tracks']:
+        tables = soup.find_all('table')
+        for i, table in enumerate(tables):
+            groups = parse_table_into_groups(table)
+            if not groups:
+                continue
+            flat_courses, flat_notes = flatten_groups(groups)
+            if flat_courses or groups:
+                result['tracks'].append({
+                    "id": f"requirements_{i}",
+                    "name": "Concentration Requirements",
+                    "groups": groups,
+                    "courses": flat_courses,
+                    "notes": flat_notes
+                })
+
+    print(f"  + {len(result['all_courses'])} courses, {len(result['tracks'])} tracks")
     return result
 
 
@@ -319,12 +381,10 @@ def main():
 
     for name, slug in CONCENTRATIONS.items():
         data = scrape_concentration(name, slug)
-
         if data:
             filepath = f"src/data/concentrations/{slug}.json"
             with open(filepath, 'w') as f:
                 json.dump(data, f, indent=2)
-
             index[slug] = {
                 "name": name,
                 "slug": slug,
@@ -333,18 +393,18 @@ def main():
             }
         else:
             failed.append((name, slug))
-
         time.sleep(0.4)
 
     with open("src/data/concentrations/index.json", 'w') as f:
         json.dump(index, f, indent=2)
 
-    print(f"\n{'='*50}")
+    print(f"\n{'=' * 50}")
     print(f"Done! Scraped {len(index)} concentrations")
     if failed:
         print(f"Failed ({len(failed)}):")
         for n, s in failed:
             print(f"  - {n} ({s})")
+
 
 if __name__ == "__main__":
     main()

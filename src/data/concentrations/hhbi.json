@@ -2,6 +2,7 @@
   "concentration": "Health and Human Biology",
   "slug": "hhbi",
   "url": "https://bulletin.brown.edu/the-college/concentrations/hhbi/",
+  "description": "Health and Human Biology is an interdisciplinary concentration that provides a rigorous foundation in the biological sciences with substantive course work in humanities and social sciences within a subfield of Human Health and Disease. The program includes: background courses, biology core courses, a set of theme courses, and a Senior Capstone activity. Background courses provide the essential foundations in chemistry, mathematics, methods, and basic biology. These support the Biology core, which is comprised of a flexible menu of intermediate and advanced courses. A required portion of the Biology core is Genetics, a cornerstone of human biology and its interface with other fields. The Biology core underscores the related coursework within the Health and Disease Theme.\u00a0 The Theme courses are social science and humanities courses that form a cohesive, thoughtful grouping.\u00a0 Theme groupings must be approved by the advisor. A required senior capstone course or activity builds on the program's focus. CAPSTONE:Seehttps://www.brown.edu/academics/biology/undergraduate-education/undergraduate/health-and-human-biologyfor more information on the Capstone Activity.",
   "tracks": [
     {
       "id": "program_requirements",
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I (or equivalent placement)"
                 }
               ],
               "count": 1,
@@ -37,11 +38,11 @@
               "courses": [
                 {
                   "code": "MATH 0050",
-                  "name": "MATH 0050"
+                  "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
                 },
                 {
                   "code": "MATH 0060",
-                  "name": "MATH 0060"
+                  "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
                 }
               ],
               "count": null,
@@ -53,7 +54,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -65,7 +66,7 @@
               "courses": [
                 {
                   "code": "MATH 0170",
-                  "name": "MATH 0170"
+                  "name": "Single Variable Calculus, Part II (Accelerated)"
                 }
               ],
               "count": null,
@@ -77,7 +78,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -89,7 +90,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -99,7 +100,7 @@
           "notes": []
         },
         {
-          "name": "Statistics or methods course chosen with advisor's help. 1",
+          "name": "Statistics or methods course chosen with advisor's help.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -127,7 +128,7 @@
           "notes": []
         },
         {
-          "name": "Five (5) courses, including: 5",
+          "name": "Five (5) courses, including:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -144,7 +145,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -164,11 +165,11 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biologyand Cell and Molecular Biology"
                 },
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Evolutionary Biologyand Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -188,11 +189,11 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biologyand Introductory Microbiology"
                 },
                 {
                   "code": "BIOL 0510",
-                  "name": "BIOL 0510"
+                  "name": "Evolutionary Biologyand Introductory Microbiology"
                 }
               ],
               "count": null,
@@ -212,11 +213,11 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biologyand Biochemistry"
                 },
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Evolutionary Biologyand Biochemistry"
                 }
               ],
               "count": null,
@@ -236,7 +237,7 @@
               "courses": [
                 {
                   "code": "BIOL 0400",
-                  "name": "BIOL 0400"
+                  "name": "Biological Design: Structural Architecture of Organisms"
                 }
               ],
               "count": null,
@@ -248,7 +249,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -260,7 +261,7 @@
               "courses": [
                 {
                   "code": "BIOL 1310",
-                  "name": "BIOL 1310"
+                  "name": "Developmental Biology"
                 }
               ],
               "count": null,
@@ -272,7 +273,7 @@
               "courses": [
                 {
                   "code": "BIOL 1800",
-                  "name": "BIOL 1800"
+                  "name": "Animal Locomotion"
                 }
               ],
               "count": null,
@@ -284,7 +285,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -304,7 +305,7 @@
               "courses": [
                 {
                   "code": "BIOL 0380",
-                  "name": "BIOL 0380"
+                  "name": "The Ecology and Evolution of Infectious Disease"
                 }
               ],
               "count": null,
@@ -316,7 +317,7 @@
               "courses": [
                 {
                   "code": "BIOL 0410",
-                  "name": "BIOL 0410"
+                  "name": "Invertebrate Zoology"
                 }
               ],
               "count": null,
@@ -328,7 +329,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": null,
@@ -340,7 +341,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -352,7 +353,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -364,7 +365,7 @@
               "courses": [
                 {
                   "code": "BIOL 1555",
-                  "name": "BIOL 1555"
+                  "name": "Methods in Informatics and Data Science for Health"
                 }
               ],
               "count": null,
@@ -376,7 +377,7 @@
               "courses": [
                 {
                   "code": "ENVS 0490",
-                  "name": "ENVS 0490"
+                  "name": "Environmental Science in a Changing World"
                 }
               ],
               "count": null,
@@ -400,7 +401,7 @@
           "notes": []
         },
         {
-          "name": "THEME: With the advisor's assistance, a theme is chosen and a cohesive set of courses are selected from outside of Biology and Neuroscience. 4",
+          "name": "THEME: With the advisor's assistance, a theme is chosen and a cohesive set of courses are selected from outside of Biology and Neuroscience.",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -421,7 +422,7 @@
           "notes": []
         },
         {
-          "name": "SENIOR CAPSTONE ACTIVITY: Must be conducted during the senior year, fulfilled by one of the following, and related to the students learning goals in the concentration: 1",
+          "name": "SENIOR CAPSTONE ACTIVITY: Must be conducted during the senior year, fulfilled by one of the following, and related to the students learning goals in the concentration:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -472,7 +473,7 @@
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I (or equivalent placement)"
           }
         },
         {
@@ -480,11 +481,11 @@
           "options": [
             {
               "code": "MATH 0050",
-              "name": "MATH 0050"
+              "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
             },
             {
               "code": "MATH 0060",
-              "name": "MATH 0060"
+              "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
             }
           ]
         },
@@ -492,35 +493,35 @@
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0170",
-            "name": "MATH 0170"
+            "name": "Single Variable Calculus, Part II (Accelerated)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
@@ -528,11 +529,11 @@
           "options": [
             {
               "code": "BIOL 0480",
-              "name": "BIOL 0480"
+              "name": "Evolutionary Biologyand Cell and Molecular Biology"
             },
             {
               "code": "BIOL 0500",
-              "name": "BIOL 0500"
+              "name": "Evolutionary Biologyand Cell and Molecular Biology"
             }
           ]
         },
@@ -541,11 +542,11 @@
           "options": [
             {
               "code": "BIOL 0480",
-              "name": "BIOL 0480"
+              "name": "Evolutionary Biologyand Introductory Microbiology"
             },
             {
               "code": "BIOL 0510",
-              "name": "BIOL 0510"
+              "name": "Evolutionary Biologyand Introductory Microbiology"
             }
           ]
         },
@@ -554,11 +555,11 @@
           "options": [
             {
               "code": "BIOL 0480",
-              "name": "BIOL 0480"
+              "name": "Evolutionary Biologyand Biochemistry"
             },
             {
               "code": "BIOL 0280",
-              "name": "BIOL 0280"
+              "name": "Evolutionary Biologyand Biochemistry"
             }
           ]
         },
@@ -566,84 +567,84 @@
           "type": "required",
           "course": {
             "code": "BIOL 0400",
-            "name": "BIOL 0400"
+            "name": "Biological Design: Structural Architecture of Organisms"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1310",
-            "name": "BIOL 1310"
+            "name": "Developmental Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1800",
-            "name": "BIOL 1800"
+            "name": "Animal Locomotion"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0380",
-            "name": "BIOL 0380"
+            "name": "The Ecology and Evolution of Infectious Disease"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0410",
-            "name": "BIOL 0410"
+            "name": "Invertebrate Zoology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1555",
-            "name": "BIOL 1555"
+            "name": "Methods in Informatics and Data Science for Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENVS 0490",
-            "name": "ENVS 0490"
+            "name": "Environmental Science in a Changing World"
           }
         },
         {
@@ -674,95 +675,95 @@
   "all_courses": [
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I (or equivalent placement)"
     },
     {
       "code": "MATH 0050",
-      "name": "MATH 0050"
+      "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
     },
     {
       "code": "MATH 0060",
-      "name": "MATH 0060"
+      "name": "Analytic Geometry and Calculusand Analytic Geometry and Calculus"
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "MATH 0170",
-      "name": "MATH 0170"
+      "name": "Single Variable Calculus, Part II (Accelerated)"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 0480",
-      "name": "BIOL 0480"
+      "name": "Evolutionary Biologyand Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Evolutionary Biologyand Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0510",
-      "name": "BIOL 0510"
+      "name": "Evolutionary Biologyand Introductory Microbiology"
     },
     {
       "code": "BIOL 0280",
-      "name": "BIOL 0280"
+      "name": "Evolutionary Biologyand Biochemistry"
     },
     {
       "code": "BIOL 0400",
-      "name": "BIOL 0400"
+      "name": "Biological Design: Structural Architecture of Organisms"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "BIOL 1310",
-      "name": "BIOL 1310"
+      "name": "Developmental Biology"
     },
     {
       "code": "BIOL 1800",
-      "name": "BIOL 1800"
+      "name": "Animal Locomotion"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "BIOL 0380",
-      "name": "BIOL 0380"
+      "name": "The Ecology and Evolution of Infectious Disease"
     },
     {
       "code": "BIOL 0410",
-      "name": "BIOL 0410"
+      "name": "Invertebrate Zoology"
     },
     {
       "code": "BIOL 0420",
-      "name": "BIOL 0420"
+      "name": "Principles of Ecology"
     },
     {
       "code": "BIOL 1470",
-      "name": "BIOL 1470"
+      "name": "Conservation Biology"
     },
     {
       "code": "BIOL 1555",
-      "name": "BIOL 1555"
+      "name": "Methods in Informatics and Data Science for Health"
     },
     {
       "code": "ENVS 0490",
-      "name": "ENVS 0490"
+      "name": "Environmental Science in a Changing World"
     },
     {
       "code": "BIOL 1950",

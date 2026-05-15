@@ -2,20 +2,21 @@
   "concentration": "Classics",
   "slug": "clas",
   "url": "https://bulletin.brown.edu/the-college/concentrations/clas/",
+  "description": "The study of Classics focuses on the languages, literature, history, culture, and legacy of Greco-Roman antiquity. An undergraduate concentration in Classics furnishes students with a broad liberal education, and provides specialized training for those students intending to enter graduate school. Students may choose to study Ancient Greek, Latin, Sanskrit, and/or Modern Greek, and to explore courses in literature, mythology, history, philosophy, and religion. Students may either pursue the standard Classics concentration \u2013 the most popular choice \u2013 or one of several optional tracks: Greek, Latin, Greek and Latin, South Asian Classics, Sanskrit, Greek and Sanskrit, or Latin and Sanskrit. Concentrators who pursue an honors degree write a senior thesis, typically over the course of two semesters during their senior year. Beginning with declarations submitted after September 1, 2018, all tracks except \"Greek and Latin,\" \"Greek and Sanskrit,\" and \"Latin and Sanskrit\" require the satisfactory completion of nine courses as described below. The introductory courses in Greek and Latin may not usually be counted toward a concentration, but those in Sanskrit may be counted toward the concentration requirement in some of the tracks. Students should always consult with the Director of Undergraduate Studies regarding their path toward fulfilling requirements and choosing electives.",
   "tracks": [
     {
       "id": "classics",
       "name": "Classics",
       "groups": [
         {
-          "name": "One course in Greek or Latin on the 1000-level or above. 1 1",
+          "name": "One course in Greek or Latin on the 1000-level or above.",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Select any two  of the four ancient history courses: 2",
+          "name": "Select any two  of the four ancient history courses:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "CLAS 1210",
-                  "name": "CLAS 1210"
+                  "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "CLAS 1220",
-                  "name": "CLAS 1220"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "HIST 1200B",
-                  "name": "HIST 1200B"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
                 }
               ],
               "count": null,
@@ -61,7 +62,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -73,7 +74,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact"
                 }
               ],
               "count": null,
@@ -85,7 +86,7 @@
               "courses": [
                 {
                   "code": "HIST 1201B",
-                  "name": "HIST 1201B"
+                  "name": "Roman History II: The Empire"
                 }
               ],
               "count": null,
@@ -127,7 +128,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -139,42 +140,42 @@
           "type": "required",
           "course": {
             "code": "CLAS 1210",
-            "name": "CLAS 1210"
+            "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1220",
-            "name": "CLAS 1220"
+            "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1200B",
-            "name": "HIST 1200B"
+            "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1201B",
-            "name": "HIST 1201B"
+            "name": "Roman History II: The Empire"
           }
         },
         {
@@ -214,7 +215,7 @@
       "name": "Greek",
       "groups": [
         {
-          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be: 1 4",
+          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -224,7 +225,7 @@
               "courses": [
                 {
                   "code": "GREK 1810",
-                  "name": "GREK 1810"
+                  "name": "Greek Literature Survey to 450 BCE"
                 }
               ],
               "count": null,
@@ -236,7 +237,7 @@
               "courses": [
                 {
                   "code": "GREK 1820",
-                  "name": "GREK 1820"
+                  "name": "Greek Literature Survey after 450 BCE"
                 }
               ],
               "count": null,
@@ -248,7 +249,7 @@
               "courses": [
                 {
                   "code": "CLAS 1210",
-                  "name": "CLAS 1210"
+                  "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
                 }
               ],
               "count": 1,
@@ -260,7 +261,7 @@
               "courses": [
                 {
                   "code": "CLAS 1220",
-                  "name": "CLAS 1220"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
                 }
               ],
               "count": 1,
@@ -302,7 +303,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -314,28 +315,28 @@
           "type": "required",
           "course": {
             "code": "GREK 1810",
-            "name": "GREK 1810"
+            "name": "Greek Literature Survey to 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GREK 1820",
-            "name": "GREK 1820"
+            "name": "Greek Literature Survey after 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1210",
-            "name": "CLAS 1210"
+            "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1220",
-            "name": "CLAS 1220"
+            "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
           }
         },
         {
@@ -375,7 +376,7 @@
       "name": "Latin",
       "groups": [
         {
-          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be: 1 4",
+          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -385,7 +386,7 @@
               "courses": [
                 {
                   "code": "LATN 1810",
-                  "name": "LATN 1810"
+                  "name": "Survey of Republican Literature"
                 }
               ],
               "count": null,
@@ -397,7 +398,7 @@
               "courses": [
                 {
                   "code": "LATN 1820",
-                  "name": "LATN 1820"
+                  "name": "Survey of Roman Literature II: Empire"
                 }
               ],
               "count": null,
@@ -409,7 +410,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": 1,
@@ -421,7 +422,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact"
                 }
               ],
               "count": 1,
@@ -433,7 +434,7 @@
               "courses": [
                 {
                   "code": "HIST 1201B",
-                  "name": "HIST 1201B"
+                  "name": "Roman History II: The Empire"
                 }
               ],
               "count": null,
@@ -475,7 +476,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 3 1",
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -487,35 +488,35 @@
           "type": "required",
           "course": {
             "code": "LATN 1810",
-            "name": "LATN 1810"
+            "name": "Survey of Republican Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LATN 1820",
-            "name": "LATN 1820"
+            "name": "Survey of Roman Literature II: Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1201B",
-            "name": "HIST 1201B"
+            "name": "Roman History II: The Empire"
           }
         },
         {
@@ -555,21 +556,21 @@
       "name": "Greek and Latin",
       "groups": [
         {
-          "name": "Ancient Language A (Either Latin or Ancient Greek) requires four (4) courses on the 1000-level.  Typically Ancient Language A will be the one in which a survey course will be taken. 1 4",
+          "name": "Ancient Language A (Either Latin or Ancient Greek) requires four (4) courses on the 1000-level.  Typically Ancient Language A will be the one in which a survey course will be taken.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Ancient Language B (Either Ancient Greet or Latin, respectively) requires four ancient language courses of which two can be 0300 and 0400 and the other two at 1000-level or above. 2 4",
+          "name": "Ancient Language B (Either Ancient Greet or Latin, respectively) requires four ancient language courses of which two can be 0300 and 0400 and the other two at 1000-level or above.",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "One of the survey courses in Ancient Language A: 1",
+          "name": "One of the survey courses in Ancient Language A:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -579,7 +580,7 @@
               "courses": [
                 {
                   "code": "LATN 1810",
-                  "name": "LATN 1810"
+                  "name": "Survey of Republican Literature"
                 }
               ],
               "count": null,
@@ -591,7 +592,7 @@
               "courses": [
                 {
                   "code": "LATN 1820",
-                  "name": "LATN 1820"
+                  "name": "Survey of Roman Literature II: Empire"
                 }
               ],
               "count": null,
@@ -603,7 +604,7 @@
               "courses": [
                 {
                   "code": "GREK 1810",
-                  "name": "GREK 1810"
+                  "name": "Greek Literature Survey to 450 BCE"
                 }
               ],
               "count": null,
@@ -615,7 +616,7 @@
               "courses": [
                 {
                   "code": "GREK 1820",
-                  "name": "GREK 1820"
+                  "name": "Greek Literature Survey after 450 BCE"
                 }
               ],
               "count": null,
@@ -625,7 +626,7 @@
           "notes": []
         },
         {
-          "name": "Any THREE of the FOUR Ancient History courses: 3",
+          "name": "Any THREE of the FOUR Ancient History courses:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -635,7 +636,7 @@
               "courses": [
                 {
                   "code": "CLAS 1210",
-                  "name": "CLAS 1210"
+                  "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
                 }
               ],
               "count": null,
@@ -647,7 +648,7 @@
               "courses": [
                 {
                   "code": "CLAS 1220",
-                  "name": "CLAS 1220"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
                 }
               ],
               "count": null,
@@ -659,7 +660,7 @@
               "courses": [
                 {
                   "code": "HIST 1200B",
-                  "name": "HIST 1200B"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
                 }
               ],
               "count": null,
@@ -671,7 +672,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -683,7 +684,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact"
                 }
               ],
               "count": null,
@@ -695,7 +696,7 @@
               "courses": [
                 {
                   "code": "HIST 1201B",
-                  "name": "HIST 1201B"
+                  "name": "Roman History II: The Empire"
                 }
               ],
               "count": null,
@@ -705,7 +706,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond,\" OR a DIAP course offered by the Department of Classics. 1",
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond,\" OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -717,70 +718,70 @@
           "type": "required",
           "course": {
             "code": "LATN 1810",
-            "name": "LATN 1810"
+            "name": "Survey of Republican Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LATN 1820",
-            "name": "LATN 1820"
+            "name": "Survey of Roman Literature II: Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GREK 1810",
-            "name": "GREK 1810"
+            "name": "Greek Literature Survey to 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GREK 1820",
-            "name": "GREK 1820"
+            "name": "Greek Literature Survey after 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1210",
-            "name": "CLAS 1210"
+            "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1220",
-            "name": "CLAS 1220"
+            "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1200B",
-            "name": "HIST 1200B"
+            "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1201B",
-            "name": "HIST 1201B"
+            "name": "Roman History II: The Empire"
           }
         }
       ],
@@ -791,14 +792,14 @@
       "name": "South Asian Classics",
       "groups": [
         {
-          "name": "At least one Sanskrit course above Sanskrit 0300 1 1",
+          "name": "At least one Sanskrit course above Sanskrit",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Three of the Sanskrit Classics Courses in Translation 2 3",
+          "name": "Three of the Sanskrit Classics Courses in Translation",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -826,7 +827,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 4 1",
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -859,14 +860,14 @@
       "name": "Sanskrit",
       "groups": [
         {
-          "name": "Two Sanskrit courses at the 1000-level or above 1 2",
+          "name": "Two Sanskrit courses at the 1000-level or above",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Two of the Sanskrit Classics Courses in Translation 2 2",
+          "name": "Two of the Sanskrit Classics Courses in Translation",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -890,7 +891,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics. 4 1",
+          "name": "One further course offered by the Department of Classics and designated \u201cClassics and Beyond,\u201d OR a DIAP course offered by the Department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -919,14 +920,14 @@
       "name": "Greek and Sanskrit",
       "groups": [
         {
-          "name": "Four Sanskrit courses at any level 1 4",
+          "name": "Four Sanskrit courses at any level",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be: 2 4",
+          "name": "Four Greek courses on the 1000-level or above, at least one of which is to be:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -936,7 +937,7 @@
               "courses": [
                 {
                   "code": "GREK 1810",
-                  "name": "GREK 1810"
+                  "name": "Greek Literature Survey to 450 BCE"
                 }
               ],
               "count": null,
@@ -948,7 +949,7 @@
               "courses": [
                 {
                   "code": "GREK 1820",
-                  "name": "GREK 1820"
+                  "name": "Greek Literature Survey after 450 BCE"
                 }
               ],
               "count": null,
@@ -958,7 +959,7 @@
           "notes": []
         },
         {
-          "name": "One of the two Ancient Greek History Courses: 1",
+          "name": "One of the two Ancient Greek History Courses:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -975,7 +976,7 @@
               "courses": [
                 {
                   "code": "CLAS 1210",
-                  "name": "CLAS 1210"
+                  "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
                 }
               ],
               "count": null,
@@ -987,7 +988,7 @@
               "courses": [
                 {
                   "code": "CLAS 1220",
-                  "name": "CLAS 1220"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
                 }
               ],
               "count": null,
@@ -999,7 +1000,7 @@
               "courses": [
                 {
                   "code": "HIST 1200B",
-                  "name": "HIST 1200B"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
                 }
               ],
               "count": null,
@@ -1025,7 +1026,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics. 1",
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1037,35 +1038,35 @@
           "type": "required",
           "course": {
             "code": "GREK 1810",
-            "name": "GREK 1810"
+            "name": "Greek Literature Survey to 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "GREK 1820",
-            "name": "GREK 1820"
+            "name": "Greek Literature Survey after 450 BCE"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1210",
-            "name": "CLAS 1210"
+            "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1220",
-            "name": "CLAS 1220"
+            "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1200B",
-            "name": "HIST 1200B"
+            "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
           }
         },
         {
@@ -1089,14 +1090,14 @@
       "name": "Latin and Sanskrit",
       "groups": [
         {
-          "name": "Four Sanskrit courses at any level 1 4",
+          "name": "Four Sanskrit courses at any level",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be 2 4",
+          "name": "Four Latin courses on the 1000-level or above, at least one of which is to be",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -1106,7 +1107,7 @@
               "courses": [
                 {
                   "code": "LATN 1810",
-                  "name": "LATN 1810"
+                  "name": "Survey of Republican Literature"
                 }
               ],
               "count": null,
@@ -1118,7 +1119,7 @@
               "courses": [
                 {
                   "code": "LATN 1820",
-                  "name": "LATN 1820"
+                  "name": "Survey of Roman Literature II: Empire"
                 }
               ],
               "count": null,
@@ -1128,7 +1129,7 @@
           "notes": []
         },
         {
-          "name": "One of the two Roman Ancient History courses 1",
+          "name": "One of the two Roman Ancient History courses",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1145,7 +1146,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -1157,7 +1158,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact"
                 }
               ],
               "count": null,
@@ -1169,7 +1170,7 @@
               "courses": [
                 {
                   "code": "HIST 1201B",
-                  "name": "HIST 1201B"
+                  "name": "Roman History II: The Empire"
                 }
               ],
               "count": null,
@@ -1195,7 +1196,7 @@
           "notes": []
         },
         {
-          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics. 1",
+          "name": "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1207,35 +1208,35 @@
           "type": "required",
           "course": {
             "code": "LATN 1810",
-            "name": "LATN 1810"
+            "name": "Survey of Republican Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "LATN 1820",
-            "name": "LATN 1820"
+            "name": "Survey of Roman Literature II: Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1201B",
-            "name": "HIST 1201B"
+            "name": "Roman History II: The Empire"
           }
         },
         {
@@ -1258,27 +1259,27 @@
   "all_courses": [
     {
       "code": "CLAS 1210",
-      "name": "CLAS 1210"
+      "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
     },
     {
       "code": "CLAS 1220",
-      "name": "CLAS 1220"
+      "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
     },
     {
       "code": "HIST 1200B",
-      "name": "HIST 1200B"
+      "name": "The Fall of Empires and Rise of Kings: Greek History to 478 to 323 BCE"
     },
     {
       "code": "CLAS 1310",
-      "name": "CLAS 1310"
+      "name": "Roman History I: The Rise and Fall of an Imperial Republic"
     },
     {
       "code": "CLAS 1320",
-      "name": "CLAS 1320"
+      "name": "Roman History II: The Roman Empire and Its Impact"
     },
     {
       "code": "HIST 1201B",
-      "name": "HIST 1201B"
+      "name": "Roman History II: The Empire"
     },
     {
       "code": "GREK 0100",
@@ -1418,7 +1419,7 @@
     },
     {
       "code": "GREK 1820",
-      "name": "GREK 1820"
+      "name": "Greek Literature Survey after 450 BCE"
     },
     {
       "code": "LATN 0300",
@@ -1430,7 +1431,7 @@
     },
     {
       "code": "LATN 1810",
-      "name": "LATN 1810"
+      "name": "Survey of Republican Literature"
     },
     {
       "code": "CLAS 0771",

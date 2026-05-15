@@ -2,6 +2,7 @@
   "concentration": "Computer Science-Economics",
   "slug": "csec",
   "url": "https://bulletin.brown.edu/the-college/concentrations/csec/",
+  "description": "The joint Computer Science-Economics concentration exposes students to the theoretical and practical connections between computer science and economics. It prepares students for professional careers that incorporate aspects of economics and computer technology and for academic careers conducting research in areas that emphasize the overlap between the two fields. Concentrators may choose to pursue either the A.B. or the Sc.B. degree. While the A.B. degree allows students to explore the two disciplines by taking advanced courses in both departments, its smaller number of required courses is compatible with a liberal education. The Sc.B. degree achieves greater depth in both computer science and economics by requiring more courses, and it offers students the opportunity to creatively integrate both disciplines through a design requirement. If you are interested in declaring a concentration in Computer Science-Economics, please refer to this page for more information regarding the process. For more information about the CS Pathways, see this page. Concentration credit will be given for only one ofAPMA\u00a01650,APMA\u00a01655, andCSCI\u00a01450.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree_",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "CSCI 0530",
-                  "name": "CSCI 0530"
+                  "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ECON 0110",
-                  "name": "ECON 0110"
+                  "name": "Principles of Economics"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science1"
                 }
               ],
               "count": 1,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -120,7 +121,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following Series: 2",
+          "name": "Select one of the following Series:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -137,11 +138,11 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -161,11 +162,11 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -185,7 +186,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science (and an additional CS course not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations CS course, or a 1000-level course.)"
                 }
               ],
               "count": null,
@@ -205,11 +206,11 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -219,7 +220,7 @@
           "notes": []
         },
         {
-          "name": "Two courses, touching two different Foundations areas 2",
+          "name": "Two courses, touching two different Foundations areas",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -236,7 +237,7 @@
               "courses": [
                 {
                   "code": "CSCI 0500",
-                  "name": "CSCI 0500"
+                  "name": "Data Structures, Algorithms, and Intractability: An Introduction"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
           "notes": []
         },
         {
-          "name": "b. AI/Machine Learning/Data Science Foundations, No concentration credit for 1410, 1411",
+          "name": "b. AI/Machine Learning/Data Science Foundations, No concentration credit for",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -256,7 +257,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -266,7 +267,7 @@
           "notes": []
         },
         {
-          "name": "c. Systems Foundations, Concentration credit not for both 300, 330",
+          "name": "c. Systems Foundations, Concentration credit not for both",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -276,7 +277,7 @@
               "courses": [
                 {
                   "code": "CSCI 0300",
-                  "name": "CSCI 0300"
+                  "name": "Fundamentals of Computer Systems"
                 }
               ],
               "count": null,
@@ -288,7 +289,7 @@
               "courses": [
                 {
                   "code": "CSCI 0320",
-                  "name": "CSCI 0320"
+                  "name": "Introduction to Software Engineering"
                 }
               ],
               "count": null,
@@ -300,7 +301,7 @@
               "courses": [
                 {
                   "code": "CSCI 0330",
-                  "name": "CSCI 0330"
+                  "name": "Introduction to Computer Systems"
                 }
               ],
               "count": null,
@@ -310,7 +311,7 @@
           "notes": []
         },
         {
-          "name": "Three 1000-level CSCI courses, which must be technical courses as defined in concentration handbook.. One of these can be an additional 100-level Foundations course. 3",
+          "name": "Three 1000-level CSCI courses, which must be technical courses as defined in concentration handbook.. One of these can be an additional 100-level Foundations course.",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -320,7 +321,7 @@
               "courses": [
                 {
                   "code": "ECON 1130",
-                  "name": "ECON 1130"
+                  "name": "Intermediate Microeconomics (Mathematical)2"
                 }
               ],
               "count": 1,
@@ -332,7 +333,7 @@
               "courses": [
                 {
                   "code": "ECON 1210",
-                  "name": "ECON 1210"
+                  "name": "Intermediate Macroeconomics"
                 }
               ],
               "count": 1,
@@ -344,7 +345,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": 1,
@@ -372,7 +373,7 @@
               "courses": [
                 {
                   "code": "ECON 1170",
-                  "name": "ECON 1170"
+                  "name": "Welfare Economics and Social Choice Theory"
                 }
               ],
               "count": null,
@@ -384,7 +385,7 @@
               "courses": [
                 {
                   "code": "ECON 1225",
-                  "name": "ECON 1225"
+                  "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
                 }
               ],
               "count": null,
@@ -396,7 +397,7 @@
               "courses": [
                 {
                   "code": "ECON 1255",
-                  "name": "ECON 1255"
+                  "name": "Unemployment: Models and Policies"
                 }
               ],
               "count": null,
@@ -408,7 +409,7 @@
               "courses": [
                 {
                   "code": "ECON 1470",
-                  "name": "ECON 1470"
+                  "name": "Bargaining Theory and Applications"
                 }
               ],
               "count": null,
@@ -420,7 +421,7 @@
               "courses": [
                 {
                   "code": "ECON 1490",
-                  "name": "ECON 1490"
+                  "name": "Designing Internet Marketplaces"
                 }
               ],
               "count": null,
@@ -432,7 +433,7 @@
               "courses": [
                 {
                   "code": "ECON 1545",
-                  "name": "ECON 1545"
+                  "name": "Topics in Macroeconomics, Development and International Economics"
                 }
               ],
               "count": null,
@@ -444,7 +445,7 @@
               "courses": [
                 {
                   "code": "ECON 1560",
-                  "name": "ECON 1560"
+                  "name": "Economic Growth"
                 }
               ],
               "count": null,
@@ -456,7 +457,7 @@
               "courses": [
                 {
                   "code": "ECON 1640",
-                  "name": "ECON 1640"
+                  "name": "Mathematical Econometrics II"
                 }
               ],
               "count": null,
@@ -468,7 +469,7 @@
               "courses": [
                 {
                   "code": "ECON 1660",
-                  "name": "ECON 1660"
+                  "name": "Big Data"
                 }
               ],
               "count": null,
@@ -480,7 +481,7 @@
               "courses": [
                 {
                   "code": "ECON 1670",
-                  "name": "ECON 1670"
+                  "name": "Advanced Topics in Econometrics"
                 }
               ],
               "count": null,
@@ -492,7 +493,7 @@
               "courses": [
                 {
                   "code": "ECON 1680",
-                  "name": "ECON 1680"
+                  "name": "Machine Learning, Text Analysis, and Economics"
                 }
               ],
               "count": null,
@@ -504,7 +505,7 @@
               "courses": [
                 {
                   "code": "ECON 1750",
-                  "name": "ECON 1750"
+                  "name": "Investments II"
                 }
               ],
               "count": null,
@@ -516,7 +517,7 @@
               "courses": [
                 {
                   "code": "ECON 1770",
-                  "name": "ECON 1770"
+                  "name": "Crisis Economics"
                 }
               ],
               "count": null,
@@ -528,7 +529,7 @@
               "courses": [
                 {
                   "code": "ECON 1805",
-                  "name": "ECON 1805"
+                  "name": "Experimental and Behavioral Economics"
                 }
               ],
               "count": null,
@@ -540,7 +541,7 @@
               "courses": [
                 {
                   "code": "ECON 1820",
-                  "name": "ECON 1820"
+                  "name": "Theory of Behavioral Economics"
                 }
               ],
               "count": null,
@@ -552,7 +553,7 @@
               "courses": [
                 {
                   "code": "ECON 1860",
-                  "name": "ECON 1860"
+                  "name": "The Theory of General Equilibrium"
                 }
               ],
               "count": null,
@@ -564,7 +565,7 @@
               "courses": [
                 {
                   "code": "ECON 1870",
-                  "name": "ECON 1870"
+                  "name": "Game Theory and Applications to Economics"
                 }
               ],
               "count": null,
@@ -574,14 +575,14 @@
           "notes": []
         },
         {
-          "name": "Two additional 1000-level Economics courses excluding 1620, 1960, 1970 3 2",
+          "name": "Two additional 1000-level Economics courses excluding",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One capstone course in either CS or Economics: a one-semester course, normally taken in the student's last semester undergraduate year, in which the student (or group of students) use a significant portion of their undergraduate education, broadly interpreted, in studying some current topic (preferably at the intersection of computer science and economics) in depth, to produce a culminating artifact such as a paper or software project.  A senior thesis, which involved two semesters of work, may count as a capstone. 1",
+          "name": "One capstone course in either CS or Economics: a one-semester course, normally taken in the student's last semester undergraduate year, in which the student (or group of students) use a significant portion of their undergraduate education, broadly interpreted, in studying some current topic (preferably at the intersection of computer science and economics) in depth, to produce a culminating artifact such as a paper or software project.  A senior thesis, which involved two semesters of work, may count as a capstone.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -593,56 +594,56 @@
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0530",
-            "name": "CSCI 0530"
+            "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
@@ -650,11 +651,11 @@
           "options": [
             {
               "code": "CSCI 0150",
-              "name": "CSCI 0150"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -663,11 +664,11 @@
           "options": [
             {
               "code": "CSCI 0170",
-              "name": "CSCI 0170"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -675,7 +676,7 @@
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science (and an additional CS course not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations CS course, or a 1000-level course.)"
           }
         },
         {
@@ -683,11 +684,11 @@
           "options": [
             {
               "code": "CSCI 0111",
-              "name": "CSCI 0111"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -695,56 +696,56 @@
           "type": "required",
           "course": {
             "code": "CSCI 0500",
-            "name": "CSCI 0500"
+            "name": "Data Structures, Algorithms, and Intractability: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0300",
-            "name": "CSCI 0300"
+            "name": "Fundamentals of Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0320",
-            "name": "CSCI 0320"
+            "name": "Introduction to Software Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0330",
-            "name": "CSCI 0330"
+            "name": "Introduction to Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1210",
-            "name": "ECON 1210"
+            "name": "Intermediate Macroeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
@@ -764,119 +765,119 @@
           "type": "required",
           "course": {
             "code": "ECON 1170",
-            "name": "ECON 1170"
+            "name": "Welfare Economics and Social Choice Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1225",
-            "name": "ECON 1225"
+            "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1255",
-            "name": "ECON 1255"
+            "name": "Unemployment: Models and Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1470",
-            "name": "ECON 1470"
+            "name": "Bargaining Theory and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1490",
-            "name": "ECON 1490"
+            "name": "Designing Internet Marketplaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1545",
-            "name": "ECON 1545"
+            "name": "Topics in Macroeconomics, Development and International Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1560",
-            "name": "ECON 1560"
+            "name": "Economic Growth"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1640",
-            "name": "ECON 1640"
+            "name": "Mathematical Econometrics II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1660",
-            "name": "ECON 1660"
+            "name": "Big Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1670",
-            "name": "ECON 1670"
+            "name": "Advanced Topics in Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1680",
-            "name": "ECON 1680"
+            "name": "Machine Learning, Text Analysis, and Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1750",
-            "name": "ECON 1750"
+            "name": "Investments II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1770",
-            "name": "ECON 1770"
+            "name": "Crisis Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1805",
-            "name": "ECON 1805"
+            "name": "Experimental and Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1820",
-            "name": "ECON 1820"
+            "name": "Theory of Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1860",
-            "name": "ECON 1860"
+            "name": "The Theory of General Equilibrium"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1870",
-            "name": "ECON 1870"
+            "name": "Game Theory and Applications to Economics"
           }
         }
       ],
@@ -897,7 +898,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -909,7 +910,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -921,7 +922,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -933,7 +934,7 @@
               "courses": [
                 {
                   "code": "CSCI 0530",
-                  "name": "CSCI 0530"
+                  "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
                 }
               ],
               "count": null,
@@ -945,7 +946,7 @@
               "courses": [
                 {
                   "code": "ECON 0110",
-                  "name": "ECON 0110"
+                  "name": "Principles of Economics"
                 }
               ],
               "count": null,
@@ -965,7 +966,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": 1,
@@ -977,7 +978,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -989,7 +990,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -999,7 +1000,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following series: 2",
+          "name": "Select one of the following series:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -1016,11 +1017,11 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -1040,11 +1041,11 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -1064,7 +1065,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science (and an additional CS course numbered 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course)"
                 }
               ],
               "count": null,
@@ -1084,11 +1085,11 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -1098,7 +1099,7 @@
           "notes": []
         },
         {
-          "name": "Two courses, touching two different Foundations areas: 2",
+          "name": "Two courses, touching two different Foundations areas:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -1115,7 +1116,7 @@
               "courses": [
                 {
                   "code": "CSCI 0500",
-                  "name": "CSCI 0500"
+                  "name": "Data Structures, Algorithms, and Intractability: An Introduction"
                 }
               ],
               "count": null,
@@ -1135,7 +1136,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -1155,7 +1156,7 @@
               "courses": [
                 {
                   "code": "CSCI 0300",
-                  "name": "CSCI 0300"
+                  "name": "Fundamentals of Computer Systems"
                 }
               ],
               "count": null,
@@ -1167,7 +1168,7 @@
               "courses": [
                 {
                   "code": "CSCI 0320",
-                  "name": "CSCI 0320"
+                  "name": "Introduction to Software Engineering"
                 }
               ],
               "count": null,
@@ -1179,7 +1180,7 @@
               "courses": [
                 {
                   "code": "CSCI 0330",
-                  "name": "CSCI 0330"
+                  "name": "Introduction to Computer Systems"
                 }
               ],
               "count": null,
@@ -1189,7 +1190,7 @@
           "notes": []
         },
         {
-          "name": "Two 1000-level CSCI courses, which must be technical courses, as defined in concentration handbook. 2",
+          "name": "Two 1000-level CSCI courses, which must be technical courses, as defined in concentration handbook.",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1199,7 +1200,7 @@
               "courses": [
                 {
                   "code": "ECON 1130",
-                  "name": "ECON 1130"
+                  "name": "Intermediate Microeconomics (Mathematical)1"
                 }
               ],
               "count": 1,
@@ -1211,7 +1212,7 @@
               "courses": [
                 {
                   "code": "ECON 1210",
-                  "name": "ECON 1210"
+                  "name": "Intermediate Macroeconomics"
                 }
               ],
               "count": 1,
@@ -1223,7 +1224,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": 1,
@@ -1233,7 +1234,7 @@
           "notes": []
         },
         {
-          "name": "Three courses from the \"mathematical-economics\" group: 2 3",
+          "name": "Three courses from the \"mathematical-economics\" group:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -1243,7 +1244,7 @@
               "courses": [
                 {
                   "code": "ECON 1170",
-                  "name": "ECON 1170"
+                  "name": "Welfare Economics and Social Choice Theory"
                 }
               ],
               "count": null,
@@ -1255,7 +1256,7 @@
               "courses": [
                 {
                   "code": "ECON 1225",
-                  "name": "ECON 1225"
+                  "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
                 }
               ],
               "count": null,
@@ -1267,7 +1268,7 @@
               "courses": [
                 {
                   "code": "ECON 1255",
-                  "name": "ECON 1255"
+                  "name": "Unemployment: Models and Policies"
                 }
               ],
               "count": null,
@@ -1279,7 +1280,7 @@
               "courses": [
                 {
                   "code": "ECON 1470",
-                  "name": "ECON 1470"
+                  "name": "Bargaining Theory and Applications"
                 }
               ],
               "count": null,
@@ -1291,7 +1292,7 @@
               "courses": [
                 {
                   "code": "ECON 1490",
-                  "name": "ECON 1490"
+                  "name": "Designing Internet Marketplaces"
                 }
               ],
               "count": null,
@@ -1303,7 +1304,7 @@
               "courses": [
                 {
                   "code": "ECON 1545",
-                  "name": "ECON 1545"
+                  "name": "Topics in Macroeconomics, Development and International Economics"
                 }
               ],
               "count": null,
@@ -1315,7 +1316,7 @@
               "courses": [
                 {
                   "code": "ECON 1640",
-                  "name": "ECON 1640"
+                  "name": "Mathematical Econometrics II"
                 }
               ],
               "count": null,
@@ -1327,7 +1328,7 @@
               "courses": [
                 {
                   "code": "ECON 1660",
-                  "name": "ECON 1660"
+                  "name": "Big Data"
                 }
               ],
               "count": null,
@@ -1339,7 +1340,7 @@
               "courses": [
                 {
                   "code": "ECON 1670",
-                  "name": "ECON 1670"
+                  "name": "Advanced Topics in Econometrics"
                 }
               ],
               "count": null,
@@ -1351,7 +1352,7 @@
               "courses": [
                 {
                   "code": "ECON 1680",
-                  "name": "ECON 1680"
+                  "name": "Machine Learning, Text Analysis, and Economics"
                 }
               ],
               "count": null,
@@ -1363,7 +1364,7 @@
               "courses": [
                 {
                   "code": "ECON 1750",
-                  "name": "ECON 1750"
+                  "name": "Investments II"
                 }
               ],
               "count": null,
@@ -1375,7 +1376,7 @@
               "courses": [
                 {
                   "code": "ECON 1770",
-                  "name": "ECON 1770"
+                  "name": "Crisis Economics"
                 }
               ],
               "count": null,
@@ -1387,7 +1388,7 @@
               "courses": [
                 {
                   "code": "ECON 1805",
-                  "name": "ECON 1805"
+                  "name": "Experimental and Behavioral Economics"
                 }
               ],
               "count": null,
@@ -1399,7 +1400,7 @@
               "courses": [
                 {
                   "code": "ECON 1820",
-                  "name": "ECON 1820"
+                  "name": "Theory of Behavioral Economics"
                 }
               ],
               "count": null,
@@ -1411,7 +1412,7 @@
               "courses": [
                 {
                   "code": "ECON 1860",
-                  "name": "ECON 1860"
+                  "name": "The Theory of General Equilibrium"
                 }
               ],
               "count": null,
@@ -1423,7 +1424,7 @@
               "courses": [
                 {
                   "code": "ECON 1870",
-                  "name": "ECON 1870"
+                  "name": "Game Theory and Applications to Economics"
                 }
               ],
               "count": null,
@@ -1433,7 +1434,7 @@
           "notes": []
         },
         {
-          "name": "or any graduate Economics course 3",
+          "name": "or any graduate Economics course",
           "type": "label",
           "courses": [],
           "count": null,
@@ -1445,56 +1446,56 @@
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0530",
-            "name": "CSCI 0530"
+            "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "ECON 0110"
+            "name": "Principles of Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
@@ -1502,11 +1503,11 @@
           "options": [
             {
               "code": "CSCI 0150",
-              "name": "CSCI 0150"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -1515,11 +1516,11 @@
           "options": [
             {
               "code": "CSCI 0170",
-              "name": "CSCI 0170"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -1527,7 +1528,7 @@
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science (and an additional CS course numbered 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course)"
           }
         },
         {
@@ -1535,11 +1536,11 @@
           "options": [
             {
               "code": "CSCI 0111",
-              "name": "CSCI 0111"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -1547,168 +1548,168 @@
           "type": "required",
           "course": {
             "code": "CSCI 0500",
-            "name": "CSCI 0500"
+            "name": "Data Structures, Algorithms, and Intractability: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0300",
-            "name": "CSCI 0300"
+            "name": "Fundamentals of Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0320",
-            "name": "CSCI 0320"
+            "name": "Introduction to Software Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0330",
-            "name": "CSCI 0330"
+            "name": "Introduction to Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1130",
-            "name": "ECON 1130"
+            "name": "Intermediate Microeconomics (Mathematical)1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1210",
-            "name": "ECON 1210"
+            "name": "Intermediate Macroeconomics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1170",
-            "name": "ECON 1170"
+            "name": "Welfare Economics and Social Choice Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1225",
-            "name": "ECON 1225"
+            "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1255",
-            "name": "ECON 1255"
+            "name": "Unemployment: Models and Policies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1470",
-            "name": "ECON 1470"
+            "name": "Bargaining Theory and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1490",
-            "name": "ECON 1490"
+            "name": "Designing Internet Marketplaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1545",
-            "name": "ECON 1545"
+            "name": "Topics in Macroeconomics, Development and International Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1640",
-            "name": "ECON 1640"
+            "name": "Mathematical Econometrics II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1660",
-            "name": "ECON 1660"
+            "name": "Big Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1670",
-            "name": "ECON 1670"
+            "name": "Advanced Topics in Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1680",
-            "name": "ECON 1680"
+            "name": "Machine Learning, Text Analysis, and Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1750",
-            "name": "ECON 1750"
+            "name": "Investments II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1770",
-            "name": "ECON 1770"
+            "name": "Crisis Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1805",
-            "name": "ECON 1805"
+            "name": "Experimental and Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1820",
-            "name": "ECON 1820"
+            "name": "Theory of Behavioral Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1860",
-            "name": "ECON 1860"
+            "name": "The Theory of General Equilibrium"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1870",
-            "name": "ECON 1870"
+            "name": "Game Theory and Applications to Economics"
           }
         }
       ],
@@ -1718,87 +1719,87 @@
   "all_courses": [
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "CSCI 0530",
-      "name": "CSCI 0530"
+      "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
     },
     {
       "code": "ECON 0110",
-      "name": "ECON 0110"
+      "name": "Principles of Economics"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science1"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science (and an additional CS course not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations CS course, or a 1000-level course.)"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0500",
-      "name": "CSCI 0500"
+      "name": "Data Structures, Algorithms, and Intractability: An Introduction"
     },
     {
       "code": "CSCI 0410",
-      "name": "CSCI 0410"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 0300",
-      "name": "CSCI 0300"
+      "name": "Fundamentals of Computer Systems"
     },
     {
       "code": "CSCI 0320",
-      "name": "CSCI 0320"
+      "name": "Introduction to Software Engineering"
     },
     {
       "code": "CSCI 0330",
-      "name": "CSCI 0330"
+      "name": "Introduction to Computer Systems"
     },
     {
       "code": "ECON 1130",
-      "name": "ECON 1130"
+      "name": "Intermediate Microeconomics (Mathematical)2"
     },
     {
       "code": "ECON 1210",
-      "name": "ECON 1210"
+      "name": "Intermediate Macroeconomics"
     },
     {
       "code": "ECON 1630",
-      "name": "ECON 1630"
+      "name": "Mathematical Econometrics I"
     },
     {
       "code": "ECON 1470",
@@ -1810,63 +1811,63 @@
     },
     {
       "code": "ECON 1170",
-      "name": "ECON 1170"
+      "name": "Welfare Economics and Social Choice Theory"
     },
     {
       "code": "ECON 1225",
-      "name": "ECON 1225"
+      "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
     },
     {
       "code": "ECON 1255",
-      "name": "ECON 1255"
+      "name": "Unemployment: Models and Policies"
     },
     {
       "code": "ECON 1490",
-      "name": "ECON 1490"
+      "name": "Designing Internet Marketplaces"
     },
     {
       "code": "ECON 1545",
-      "name": "ECON 1545"
+      "name": "Topics in Macroeconomics, Development and International Economics"
     },
     {
       "code": "ECON 1560",
-      "name": "ECON 1560"
+      "name": "Economic Growth"
     },
     {
       "code": "ECON 1640",
-      "name": "ECON 1640"
+      "name": "Mathematical Econometrics II"
     },
     {
       "code": "ECON 1660",
-      "name": "ECON 1660"
+      "name": "Big Data"
     },
     {
       "code": "ECON 1670",
-      "name": "ECON 1670"
+      "name": "Advanced Topics in Econometrics"
     },
     {
       "code": "ECON 1680",
-      "name": "ECON 1680"
+      "name": "Machine Learning, Text Analysis, and Economics"
     },
     {
       "code": "ECON 1750",
-      "name": "ECON 1750"
+      "name": "Investments II"
     },
     {
       "code": "ECON 1770",
-      "name": "ECON 1770"
+      "name": "Crisis Economics"
     },
     {
       "code": "ECON 1805",
-      "name": "ECON 1805"
+      "name": "Experimental and Behavioral Economics"
     },
     {
       "code": "ECON 1820",
-      "name": "ECON 1820"
+      "name": "Theory of Behavioral Economics"
     },
     {
       "code": "ECON 1860",
-      "name": "ECON 1860"
+      "name": "The Theory of General Equilibrium"
     },
     {
       "code": "ECON 1110",

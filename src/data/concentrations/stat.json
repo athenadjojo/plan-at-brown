@@ -2,6 +2,7 @@
   "concentration": "Statistics",
   "slug": "stat",
   "url": "https://bulletin.brown.edu/the-college/concentrations/stat/",
+  "description": "The Bachelor of Science degree in Statistics is designed to provide foundations that include basic statistical concepts and methodologies, and to expose students to the role of statistical thinking and analysis in interdisciplinary research and in the public sphere. To ensure deep rigorous understanding of the foundations and main methods of analysis in statistics, the program is composed of three parts: a) foundations in mathematics and computing, combined with an introduction to statistical thinking and practice; b) four core courses on the fundamentals of statistical theory and data analysis; and c) more advanced material covering important areas of statistical methodology. A capstone project involving substantial data analysis or focused on methodology/theory is required. Students also have opportunities to acquire practical experience in study design, data management, and statistical analysis by working as undergraduate research assistants in projects in one of the participating academic departments or Research Centers at Brown. Statistics equips individuals with the ability to analyze and interpret complex data, a skill essential in a wide range of industries including healthcare, finance, technology, and social sciences. With a solid foundation in statistical methods, students can solve real-world problems using quantitative evidence, making the concentration an excellent choice for those who want to apply mathematical reasoning to diverse and impactful fields.",
   "tracks": [
     {
       "id": "health_data_science_track",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "EPI 0850",
-                  "name": "EPI 0850"
+                  "name": "Fundamentals of Epidemiology"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "HSP 1480",
-                  "name": "HSP 1480"
+                  "name": "Foundations of Health Economics"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "EPI 1855",
-                  "name": "EPI 1855"
+                  "name": "Infectious Disease Modeling"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "EPI 1854",
-                  "name": "EPI 1854"
+                  "name": "The Epidemiology and Control of Infectious Diseases"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "STAT 2514",
-                  "name": "STAT 2514"
+                  "name": "Applied Generalized Linear Models"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "STAT 2516",
-                  "name": "STAT 2516"
+                  "name": "Applied Longitudinal Data Analysis"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "STAT 2517",
-                  "name": "STAT 2517"
+                  "name": "Applied Multilevel Data Analysis"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "STAT 2650",
-                  "name": "STAT 2650"
+                  "name": "Statistical Learning and Big Data"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "STAT 2602",
-                  "name": "STAT 2602"
+                  "name": "Analysis of Lifetime Data"
                 }
               ],
               "count": null,
@@ -129,63 +130,63 @@
           "type": "required",
           "course": {
             "code": "EPI 0850",
-            "name": "EPI 0850"
+            "name": "Fundamentals of Epidemiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HSP 1480",
-            "name": "HSP 1480"
+            "name": "Foundations of Health Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EPI 1855",
-            "name": "EPI 1855"
+            "name": "Infectious Disease Modeling"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EPI 1854",
-            "name": "EPI 1854"
+            "name": "The Epidemiology and Control of Infectious Diseases"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2514",
-            "name": "STAT 2514"
+            "name": "Applied Generalized Linear Models"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2516",
-            "name": "STAT 2516"
+            "name": "Applied Longitudinal Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2517",
-            "name": "STAT 2517"
+            "name": "Applied Multilevel Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2650",
-            "name": "STAT 2650"
+            "name": "Statistical Learning and Big Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2602",
-            "name": "STAT 2602"
+            "name": "Analysis of Lifetime Data"
           }
         }
       ],
@@ -206,7 +207,7 @@
               "courses": [
                 {
                   "code": "HSP 1480",
-                  "name": "HSP 1480"
+                  "name": "Foundations of Health Economics"
                 }
               ],
               "count": null,
@@ -218,7 +219,7 @@
               "courses": [
                 {
                   "code": "ECON 1630",
-                  "name": "ECON 1630"
+                  "name": "Mathematical Econometrics I"
                 }
               ],
               "count": null,
@@ -230,7 +231,7 @@
               "courses": [
                 {
                   "code": "ECON 1640",
-                  "name": "ECON 1640"
+                  "name": "Mathematical Econometrics II"
                 }
               ],
               "count": null,
@@ -242,7 +243,7 @@
               "courses": [
                 {
                   "code": "ECON 1360",
-                  "name": "ECON 1360"
+                  "name": "Research Seminar in Health Economics"
                 }
               ],
               "count": null,
@@ -254,7 +255,7 @@
               "courses": [
                 {
                   "code": "ECON 1629",
-                  "name": "ECON 1629"
+                  "name": "Applied Research Methods for Economists"
                 }
               ],
               "count": null,
@@ -266,7 +267,7 @@
               "courses": [
                 {
                   "code": "ECON 1670",
-                  "name": "ECON 1670"
+                  "name": "Advanced Topics in Econometrics"
                 }
               ],
               "count": null,
@@ -278,7 +279,7 @@
               "courses": [
                 {
                   "code": "APMA 1200",
-                  "name": "APMA 1200"
+                  "name": "Operations Research: Probabilistic Models"
                 }
               ],
               "count": null,
@@ -290,7 +291,7 @@
               "courses": [
                 {
                   "code": "APMA 1720",
-                  "name": "APMA 1720"
+                  "name": "Monte Carlo Simulation with Applications to Finance"
                 }
               ],
               "count": null,
@@ -305,56 +306,56 @@
           "type": "required",
           "course": {
             "code": "HSP 1480",
-            "name": "HSP 1480"
+            "name": "Foundations of Health Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1630",
-            "name": "ECON 1630"
+            "name": "Mathematical Econometrics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1640",
-            "name": "ECON 1640"
+            "name": "Mathematical Econometrics II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1360",
-            "name": "ECON 1360"
+            "name": "Research Seminar in Health Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1629",
-            "name": "ECON 1629"
+            "name": "Applied Research Methods for Economists"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 1670",
-            "name": "ECON 1670"
+            "name": "Advanced Topics in Econometrics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1200",
-            "name": "APMA 1200"
+            "name": "Operations Research: Probabilistic Models"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1720",
-            "name": "APMA 1720"
+            "name": "Monte Carlo Simulation with Applications to Finance"
           }
         }
       ],
@@ -375,7 +376,7 @@
               "courses": [
                 {
                   "code": "APMA 1740",
-                  "name": "APMA 1740"
+                  "name": "Recent Applications of Probability and Statistics"
                 }
               ],
               "count": null,
@@ -387,7 +388,7 @@
               "courses": [
                 {
                   "code": "APMA 1670",
-                  "name": "APMA 1670"
+                  "name": "Statistical Analysis of Time Series"
                 }
               ],
               "count": null,
@@ -399,7 +400,7 @@
               "courses": [
                 {
                   "code": "APMA 1680",
-                  "name": "APMA 1680"
+                  "name": "Nonparametric Statistics"
                 }
               ],
               "count": null,
@@ -411,7 +412,7 @@
               "courses": [
                 {
                   "code": "APMA 1690",
-                  "name": "APMA 1690"
+                  "name": "Computational Probability and Statistics"
                 }
               ],
               "count": null,
@@ -423,7 +424,7 @@
               "courses": [
                 {
                   "code": "MATH 1630",
-                  "name": "MATH 1630"
+                  "name": "Real Analysis I"
                 }
               ],
               "count": null,
@@ -435,7 +436,7 @@
               "courses": [
                 {
                   "code": "STAT 2515",
-                  "name": "STAT 2515"
+                  "name": "Fundamentals of Probability and Statistical Inference"
                 }
               ],
               "count": null,
@@ -447,7 +448,7 @@
               "courses": [
                 {
                   "code": "STAT 2520",
-                  "name": "STAT 2520"
+                  "name": "Statistical Inference I"
                 }
               ],
               "count": null,
@@ -459,7 +460,7 @@
               "courses": [
                 {
                   "code": "STAT 2610",
-                  "name": "STAT 2610"
+                  "name": "Causal Inference and Missing Data"
                 }
               ],
               "count": null,
@@ -471,7 +472,7 @@
               "courses": [
                 {
                   "code": "STAT 2530",
-                  "name": "STAT 2530"
+                  "name": "Bayesian Statistical Methods"
                 }
               ],
               "count": null,
@@ -486,63 +487,63 @@
           "type": "required",
           "course": {
             "code": "APMA 1740",
-            "name": "APMA 1740"
+            "name": "Recent Applications of Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1670",
-            "name": "APMA 1670"
+            "name": "Statistical Analysis of Time Series"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1680",
-            "name": "APMA 1680"
+            "name": "Nonparametric Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1690",
-            "name": "APMA 1690"
+            "name": "Computational Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1630",
-            "name": "MATH 1630"
+            "name": "Real Analysis I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2515",
-            "name": "STAT 2515"
+            "name": "Fundamentals of Probability and Statistical Inference"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2520",
-            "name": "STAT 2520"
+            "name": "Statistical Inference I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2610",
-            "name": "STAT 2610"
+            "name": "Causal Inference and Missing Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 2530",
-            "name": "STAT 2530"
+            "name": "Bayesian Statistical Methods"
           }
         }
       ],
@@ -568,231 +569,231 @@
     },
     {
       "code": "STAT 1501",
-      "name": "STAT 1501"
+      "name": "Essentials of Data Analysis (AP Statistics with a score of 5 or another approved introductory statistics course may substitute for PHP 1501. )"
     },
     {
       "code": "APMA 0260",
-      "name": "APMA 0260"
+      "name": "Linear Algebra and Multivariable Calculus for Applied MathematiciansStudents may opt to take both Multivariable Calculus (MATH 0180, MATH 0200, or MATH 0350) and Linear Algebra (MATH 0520 or MATH 0540) to meet this requirement and count one of these courses towards their general elective requirements."
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "MATH 1210",
-      "name": "MATH 1210"
+      "name": "Probability"
     },
     {
       "code": "APMA 1660",
-      "name": "APMA 1660"
+      "name": "Statistical Inference II"
     },
     {
       "code": "MATH 1620",
-      "name": "MATH 1620"
+      "name": "Mathematical Statistics"
     },
     {
       "code": "STAT 1560",
-      "name": "STAT 1560"
+      "name": "Using R for Data Analysis"
     },
     {
       "code": "STAT 2560",
-      "name": "STAT 2560"
+      "name": "Statistical Programming with R"
     },
     {
       "code": "STAT 1511",
-      "name": "STAT 1511"
+      "name": "Applied Regression Analysis"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "APMA 1690",
-      "name": "APMA 1690"
+      "name": "Computational Probability and Statistics"
     },
     {
       "code": "ENGN 1950",
-      "name": "ENGN 1950"
+      "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
     },
     {
       "code": "APMA 1080",
-      "name": "APMA 1080"
+      "name": "Inference in Genomics and Molecular Biology"
     },
     {
       "code": "APMA 1160",
-      "name": "APMA 1160"
+      "name": "An Introduction to Numerical Optimization"
     },
     {
       "code": "APMA 1210",
-      "name": "APMA 1210"
+      "name": "Operations Research: Deterministic Models"
     },
     {
       "code": "APMA 1710",
-      "name": "APMA 1710"
+      "name": "Information Theory"
     },
     {
       "code": "APMA 1860",
-      "name": "APMA 1860"
+      "name": "Graphs and Networks"
     },
     {
       "code": "BIOL 1435",
-      "name": "BIOL 1435"
+      "name": "Computational Methods for Studying Demographic History with Molecular Data"
     },
     {
       "code": "CSCI 1420",
-      "name": "CSCI 1420"
+      "name": "Machine Learning"
     },
     {
       "code": "CSCI 1430",
-      "name": "CSCI 1430"
+      "name": "Computer Vision"
     },
     {
       "code": "CSCI 1470",
-      "name": "CSCI 1470"
+      "name": "Deep Learning"
     },
     {
       "code": "CSCI 1491",
-      "name": "CSCI 1491"
+      "name": "Fairness in Automated Decision Making"
     },
     {
       "code": "CSCI 1520",
-      "name": "CSCI 1520"
+      "name": "Algorithmic Aspects of Machine Learning"
     },
     {
       "code": "CSCI 1810",
-      "name": "CSCI 1810"
+      "name": "Computational Molecular Biology"
     },
     {
       "code": "CSCI 1820",
-      "name": "CSCI 1820"
+      "name": "Algorithmic Foundations of Computational Biology"
     },
     {
       "code": "CSCI 1951A",
-      "name": "CSCI 1951A"
+      "name": "Data Science"
     },
     {
       "code": "ENGN 2520",
-      "name": "ENGN 2520"
+      "name": "Pattern Recognition and Machine Learning"
     },
     {
       "code": "SOC 1120",
-      "name": "SOC 1120"
+      "name": "Market and Social Surveys"
     },
     {
       "code": "SOC 1340",
-      "name": "SOC 1340"
+      "name": "Principles and Methods of Geographic Information Systems"
     },
     {
       "code": "SOC 2230",
-      "name": "SOC 2230"
+      "name": "Techniques of Demographic Analysis"
     },
     {
       "code": "SOC 2960G",
-      "name": "SOC 2960G"
+      "name": "Spatial Data Analysis Techniques in the Social Sciences"
     },
     {
       "code": "PHP 1970",
-      "name": "PHP 1970"
+      "name": "Independent Study"
     },
     {
       "code": "PHP 1980",
-      "name": "PHP 1980"
+      "name": "Honors Thesis Preparation"
     },
     {
       "code": "EPI 0850",
-      "name": "EPI 0850"
+      "name": "Fundamentals of Epidemiology"
     },
     {
       "code": "HSP 1480",
-      "name": "HSP 1480"
+      "name": "Foundations of Health Economics"
     },
     {
       "code": "EPI 1855",
-      "name": "EPI 1855"
+      "name": "Infectious Disease Modeling"
     },
     {
       "code": "EPI 1854",
-      "name": "EPI 1854"
+      "name": "The Epidemiology and Control of Infectious Diseases"
     },
     {
       "code": "STAT 2514",
-      "name": "STAT 2514"
+      "name": "Applied Generalized Linear Models"
     },
     {
       "code": "STAT 2516",
-      "name": "STAT 2516"
+      "name": "Applied Longitudinal Data Analysis"
     },
     {
       "code": "STAT 2517",
-      "name": "STAT 2517"
+      "name": "Applied Multilevel Data Analysis"
     },
     {
       "code": "STAT 2650",
-      "name": "STAT 2650"
+      "name": "Statistical Learning and Big Data"
     },
     {
       "code": "STAT 2602",
-      "name": "STAT 2602"
+      "name": "Analysis of Lifetime Data"
     },
     {
       "code": "ECON 1630",
-      "name": "ECON 1630"
+      "name": "Mathematical Econometrics I"
     },
     {
       "code": "ECON 1640",
-      "name": "ECON 1640"
+      "name": "Mathematical Econometrics II"
     },
     {
       "code": "ECON 1360",
-      "name": "ECON 1360"
+      "name": "Research Seminar in Health Economics"
     },
     {
       "code": "ECON 1629",
-      "name": "ECON 1629"
+      "name": "Applied Research Methods for Economists"
     },
     {
       "code": "ECON 1670",
-      "name": "ECON 1670"
+      "name": "Advanced Topics in Econometrics"
     },
     {
       "code": "APMA 1200",
-      "name": "APMA 1200"
+      "name": "Operations Research: Probabilistic Models"
     },
     {
       "code": "APMA 1720",
-      "name": "APMA 1720"
+      "name": "Monte Carlo Simulation with Applications to Finance"
     },
     {
       "code": "APMA 1740",
-      "name": "APMA 1740"
+      "name": "Recent Applications of Probability and Statistics"
     },
     {
       "code": "APMA 1670",
-      "name": "APMA 1670"
+      "name": "Statistical Analysis of Time Series"
     },
     {
       "code": "APMA 1680",
-      "name": "APMA 1680"
+      "name": "Nonparametric Statistics"
     },
     {
       "code": "MATH 1630",
-      "name": "MATH 1630"
+      "name": "Real Analysis I"
     },
     {
       "code": "STAT 2515",
-      "name": "STAT 2515"
+      "name": "Fundamentals of Probability and Statistical Inference"
     },
     {
       "code": "STAT 2520",
-      "name": "STAT 2520"
+      "name": "Statistical Inference I"
     },
     {
       "code": "STAT 2610",
-      "name": "STAT 2610"
+      "name": "Causal Inference and Missing Data"
     },
     {
       "code": "STAT 2530",
-      "name": "STAT 2530"
+      "name": "Bayesian Statistical Methods"
     }
   ]
 }

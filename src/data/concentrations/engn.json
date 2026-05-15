@@ -2,6 +2,7 @@
   "concentration": "Engineering",
   "slug": "engn",
   "url": "https://bulletin.brown.edu/the-college/concentrations/engn/",
+  "description": "Engineers make decisions, by collecting and analyzing data; using scientific principles to formulate analytical models of a process; and predicting the outcome of candidate solutions to a problem. They use their creativity to identify innovative solutions to challenging problems. These skills are valuable not only in technical careers, but also in fields such as public service, environmental policy, architecture, teaching, technology management, finance, entrepreneurship or patent law. A foundation in engineering will help prepare you for the future, regardless of your aspirations. The School of Engineering offers the Engineering A.B. degree to enable students to combine a rigorous and interdisciplinary foundation in engineering with the diverse opportunities provided by Brown's liberal arts curriculum. With only 11 required courses, it has the greatest flexibility of all of the School's undergraduate degree programs. Please note that all students concentrating in Engineering need to file a concentration declaration using the University\u2019s ASK advising system. This declaration must be first reviewed by the relevant Concentration Advisor and then approved by the Director of Undergraduate Studies after assuring compliance with all relevant program and accreditation requirements.",
   "tracks": [
     {
       "id": "mathematics_requirements",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "ENGN 0020",
-              "name": "ENGN 0020"
+              "name": "Transforming Society-Technology and Choices for the Future"
             }
           ],
           "count": null,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "ENGN 0090",
-              "name": "ENGN 0090"
+              "name": "Management of Industrial and Nonprofit Organizations"
             }
           ],
           "count": null,
@@ -37,7 +38,7 @@
           "courses": [
             {
               "code": "ENGN 0130",
-              "name": "ENGN 0130"
+              "name": "The Engineer's Burden: Why Changing the World is Difficult"
             }
           ],
           "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0350",
-                  "name": "ENGN 0350"
+                  "name": "Art Fluid Engineering"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ENGN 0900",
-                  "name": "ENGN 0900"
+                  "name": "Managerial Decision Making"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930A",
-                  "name": "ENGN 0930A"
+                  "name": "Appropriate Technology"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930C",
-                  "name": "ENGN 0930C"
+                  "name": "DesignStudio"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "ENGN 1010",
-                  "name": "ENGN 1010"
+                  "name": "The Entrepreneurial Process"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "ENGN 1820",
-                  "name": "ENGN 1820"
+                  "name": "Future of Work"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Q",
-                  "name": "ENGN 1931Q"
+                  "name": "Entrepreneurial Management in Adversity"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931W",
-                  "name": "ENGN 1931W"
+                  "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932M",
-                  "name": "ENGN 1932M"
+                  "name": "Foundations of Internet Communication Systems"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932R",
-                  "name": "ENGN 1932R"
+                  "name": "Leadership in Organizations"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "ENGN 2110",
-                  "name": "ENGN 2110"
+                  "name": "Business Engineering Fundamentals I"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "ENGN 2120",
-                  "name": "ENGN 2120"
+                  "name": "Business Engineering Fundamentals II"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "ENGN 2130",
-                  "name": "ENGN 2130"
+                  "name": "Innovation and Technology Management"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "ENGN 2140",
-                  "name": "ENGN 2140"
+                  "name": "Innovation and Technology Management II"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "ENGN 2150",
-                  "name": "ENGN 2150"
+                  "name": "Technology Entrepreneurship and Commercialization I"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "ENGN 2180",
-                  "name": "ENGN 2180"
+                  "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "ENGN 2160",
-                  "name": "ENGN 2160"
+                  "name": "Technology Entrepreneurship and Commercialization II"
                 }
               ],
               "count": null,
@@ -297,161 +298,161 @@
           "type": "required",
           "course": {
             "code": "ENGN 0020",
-            "name": "ENGN 0020"
+            "name": "Transforming Society-Technology and Choices for the Future"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0090",
-            "name": "ENGN 0090"
+            "name": "Management of Industrial and Nonprofit Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0130",
-            "name": "ENGN 0130"
+            "name": "The Engineer's Burden: Why Changing the World is Difficult"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0350",
-            "name": "ENGN 0350"
+            "name": "Art Fluid Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0900",
-            "name": "ENGN 0900"
+            "name": "Managerial Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930A",
-            "name": "ENGN 0930A"
+            "name": "Appropriate Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930C",
-            "name": "ENGN 0930C"
+            "name": "DesignStudio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1010",
-            "name": "ENGN 1010"
+            "name": "The Entrepreneurial Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1820",
-            "name": "ENGN 1820"
+            "name": "Future of Work"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Q",
-            "name": "ENGN 1931Q"
+            "name": "Entrepreneurial Management in Adversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931W",
-            "name": "ENGN 1931W"
+            "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932M",
-            "name": "ENGN 1932M"
+            "name": "Foundations of Internet Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932R",
-            "name": "ENGN 1932R"
+            "name": "Leadership in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2110",
-            "name": "ENGN 2110"
+            "name": "Business Engineering Fundamentals I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2120",
-            "name": "ENGN 2120"
+            "name": "Business Engineering Fundamentals II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2130",
-            "name": "ENGN 2130"
+            "name": "Innovation and Technology Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2140",
-            "name": "ENGN 2140"
+            "name": "Innovation and Technology Management II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2150",
-            "name": "ENGN 2150"
+            "name": "Technology Entrepreneurship and Commercialization I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2180",
-            "name": "ENGN 2180"
+            "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2160",
-            "name": "ENGN 2160"
+            "name": "Technology Entrepreneurship and Commercialization II"
           }
         }
       ],
@@ -467,7 +468,7 @@
           "courses": [
             {
               "code": "ENGN 0020",
-              "name": "ENGN 0020"
+              "name": "Transforming Society-Technology and Choices for the Future"
             }
           ],
           "count": null,
@@ -479,7 +480,7 @@
           "courses": [
             {
               "code": "ENGN 0090",
-              "name": "ENGN 0090"
+              "name": "Management of Industrial and Nonprofit Organizations"
             }
           ],
           "count": null,
@@ -491,7 +492,7 @@
           "courses": [
             {
               "code": "ENGN 0130",
-              "name": "ENGN 0130"
+              "name": "The Engineer's Burden: Why Changing the World is Difficult"
             }
           ],
           "count": null,
@@ -508,7 +509,7 @@
               "courses": [
                 {
                   "code": "ENGN 0350",
-                  "name": "ENGN 0350"
+                  "name": "Art Fluid Engineering"
                 }
               ],
               "count": null,
@@ -520,7 +521,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": null,
@@ -532,7 +533,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": null,
@@ -544,7 +545,7 @@
               "courses": [
                 {
                   "code": "ENGN 0900",
-                  "name": "ENGN 0900"
+                  "name": "Managerial Decision Making"
                 }
               ],
               "count": null,
@@ -556,7 +557,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930A",
-                  "name": "ENGN 0930A"
+                  "name": "Appropriate Technology"
                 }
               ],
               "count": null,
@@ -568,7 +569,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930C",
-                  "name": "ENGN 0930C"
+                  "name": "DesignStudio"
                 }
               ],
               "count": null,
@@ -580,7 +581,7 @@
               "courses": [
                 {
                   "code": "ENGN 1010",
-                  "name": "ENGN 1010"
+                  "name": "The Entrepreneurial Process"
                 }
               ],
               "count": null,
@@ -592,7 +593,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -604,7 +605,7 @@
               "courses": [
                 {
                   "code": "ENGN 1820",
-                  "name": "ENGN 1820"
+                  "name": "Future of Work"
                 }
               ],
               "count": null,
@@ -616,7 +617,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Q",
-                  "name": "ENGN 1931Q"
+                  "name": "Entrepreneurial Management in Adversity"
                 }
               ],
               "count": null,
@@ -628,7 +629,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931W",
-                  "name": "ENGN 1931W"
+                  "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
                 }
               ],
               "count": null,
@@ -640,7 +641,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932M",
-                  "name": "ENGN 1932M"
+                  "name": "Foundations of Internet Communication Systems"
                 }
               ],
               "count": null,
@@ -652,7 +653,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932R",
-                  "name": "ENGN 1932R"
+                  "name": "Leadership in Organizations"
                 }
               ],
               "count": null,
@@ -664,7 +665,7 @@
               "courses": [
                 {
                   "code": "ENGN 2110",
-                  "name": "ENGN 2110"
+                  "name": "Business Engineering Fundamentals I"
                 }
               ],
               "count": null,
@@ -676,7 +677,7 @@
               "courses": [
                 {
                   "code": "ENGN 2120",
-                  "name": "ENGN 2120"
+                  "name": "Business Engineering Fundamentals II"
                 }
               ],
               "count": null,
@@ -688,7 +689,7 @@
               "courses": [
                 {
                   "code": "ENGN 2130",
-                  "name": "ENGN 2130"
+                  "name": "Innovation and Technology Management"
                 }
               ],
               "count": null,
@@ -700,7 +701,7 @@
               "courses": [
                 {
                   "code": "ENGN 2140",
-                  "name": "ENGN 2140"
+                  "name": "Innovation and Technology Management II"
                 }
               ],
               "count": null,
@@ -712,7 +713,7 @@
               "courses": [
                 {
                   "code": "ENGN 2150",
-                  "name": "ENGN 2150"
+                  "name": "Technology Entrepreneurship and Commercialization I"
                 }
               ],
               "count": null,
@@ -724,7 +725,7 @@
               "courses": [
                 {
                   "code": "ENGN 2180",
-                  "name": "ENGN 2180"
+                  "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
                 }
               ],
               "count": null,
@@ -736,7 +737,7 @@
               "courses": [
                 {
                   "code": "ENGN 2160",
-                  "name": "ENGN 2160"
+                  "name": "Technology Entrepreneurship and Commercialization II"
                 }
               ],
               "count": null,
@@ -751,161 +752,161 @@
           "type": "required",
           "course": {
             "code": "ENGN 0020",
-            "name": "ENGN 0020"
+            "name": "Transforming Society-Technology and Choices for the Future"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0090",
-            "name": "ENGN 0090"
+            "name": "Management of Industrial and Nonprofit Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0130",
-            "name": "ENGN 0130"
+            "name": "The Engineer's Burden: Why Changing the World is Difficult"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0350",
-            "name": "ENGN 0350"
+            "name": "Art Fluid Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0900",
-            "name": "ENGN 0900"
+            "name": "Managerial Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930A",
-            "name": "ENGN 0930A"
+            "name": "Appropriate Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930C",
-            "name": "ENGN 0930C"
+            "name": "DesignStudio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1010",
-            "name": "ENGN 1010"
+            "name": "The Entrepreneurial Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1820",
-            "name": "ENGN 1820"
+            "name": "Future of Work"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Q",
-            "name": "ENGN 1931Q"
+            "name": "Entrepreneurial Management in Adversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931W",
-            "name": "ENGN 1931W"
+            "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932M",
-            "name": "ENGN 1932M"
+            "name": "Foundations of Internet Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932R",
-            "name": "ENGN 1932R"
+            "name": "Leadership in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2110",
-            "name": "ENGN 2110"
+            "name": "Business Engineering Fundamentals I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2120",
-            "name": "ENGN 2120"
+            "name": "Business Engineering Fundamentals II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2130",
-            "name": "ENGN 2130"
+            "name": "Innovation and Technology Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2140",
-            "name": "ENGN 2140"
+            "name": "Innovation and Technology Management II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2150",
-            "name": "ENGN 2150"
+            "name": "Technology Entrepreneurship and Commercialization I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2180",
-            "name": "ENGN 2180"
+            "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2160",
-            "name": "ENGN 2160"
+            "name": "Technology Entrepreneurship and Commercialization II"
           }
         }
       ],
@@ -921,7 +922,7 @@
           "courses": [
             {
               "code": "ENGN 0020",
-              "name": "ENGN 0020"
+              "name": "Transforming Society-Technology and Choices for the Future"
             }
           ],
           "count": null,
@@ -933,7 +934,7 @@
           "courses": [
             {
               "code": "ENGN 0090",
-              "name": "ENGN 0090"
+              "name": "Management of Industrial and Nonprofit Organizations"
             }
           ],
           "count": null,
@@ -945,7 +946,7 @@
           "courses": [
             {
               "code": "ENGN 0130",
-              "name": "ENGN 0130"
+              "name": "The Engineer's Burden: Why Changing the World is Difficult"
             }
           ],
           "count": null,
@@ -962,7 +963,7 @@
               "courses": [
                 {
                   "code": "ENGN 0350",
-                  "name": "ENGN 0350"
+                  "name": "Art Fluid Engineering"
                 }
               ],
               "count": null,
@@ -974,7 +975,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": null,
@@ -986,7 +987,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": null,
@@ -998,7 +999,7 @@
               "courses": [
                 {
                   "code": "ENGN 0900",
-                  "name": "ENGN 0900"
+                  "name": "Managerial Decision Making"
                 }
               ],
               "count": null,
@@ -1010,7 +1011,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930A",
-                  "name": "ENGN 0930A"
+                  "name": "Appropriate Technology"
                 }
               ],
               "count": null,
@@ -1022,7 +1023,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930C",
-                  "name": "ENGN 0930C"
+                  "name": "DesignStudio"
                 }
               ],
               "count": null,
@@ -1034,7 +1035,7 @@
               "courses": [
                 {
                   "code": "ENGN 1010",
-                  "name": "ENGN 1010"
+                  "name": "The Entrepreneurial Process"
                 }
               ],
               "count": null,
@@ -1046,7 +1047,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -1058,7 +1059,7 @@
               "courses": [
                 {
                   "code": "ENGN 1820",
-                  "name": "ENGN 1820"
+                  "name": "Future of Work"
                 }
               ],
               "count": null,
@@ -1070,7 +1071,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Q",
-                  "name": "ENGN 1931Q"
+                  "name": "Entrepreneurial Management in Adversity"
                 }
               ],
               "count": null,
@@ -1082,7 +1083,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931W",
-                  "name": "ENGN 1931W"
+                  "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
                 }
               ],
               "count": null,
@@ -1094,7 +1095,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932M",
-                  "name": "ENGN 1932M"
+                  "name": "Foundations of Internet Communication Systems"
                 }
               ],
               "count": null,
@@ -1106,7 +1107,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932R",
-                  "name": "ENGN 1932R"
+                  "name": "Leadership in Organizations"
                 }
               ],
               "count": null,
@@ -1118,7 +1119,7 @@
               "courses": [
                 {
                   "code": "ENGN 2110",
-                  "name": "ENGN 2110"
+                  "name": "Business Engineering Fundamentals I"
                 }
               ],
               "count": null,
@@ -1130,7 +1131,7 @@
               "courses": [
                 {
                   "code": "ENGN 2120",
-                  "name": "ENGN 2120"
+                  "name": "Business Engineering Fundamentals II"
                 }
               ],
               "count": null,
@@ -1142,7 +1143,7 @@
               "courses": [
                 {
                   "code": "ENGN 2130",
-                  "name": "ENGN 2130"
+                  "name": "Innovation and Technology Management"
                 }
               ],
               "count": null,
@@ -1154,7 +1155,7 @@
               "courses": [
                 {
                   "code": "ENGN 2140",
-                  "name": "ENGN 2140"
+                  "name": "Innovation and Technology Management II"
                 }
               ],
               "count": null,
@@ -1166,7 +1167,7 @@
               "courses": [
                 {
                   "code": "ENGN 2150",
-                  "name": "ENGN 2150"
+                  "name": "Technology Entrepreneurship and Commercialization I"
                 }
               ],
               "count": null,
@@ -1178,7 +1179,7 @@
               "courses": [
                 {
                   "code": "ENGN 2180",
-                  "name": "ENGN 2180"
+                  "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
                 }
               ],
               "count": null,
@@ -1190,7 +1191,7 @@
               "courses": [
                 {
                   "code": "ENGN 2160",
-                  "name": "ENGN 2160"
+                  "name": "Technology Entrepreneurship and Commercialization II"
                 }
               ],
               "count": null,
@@ -1205,161 +1206,161 @@
           "type": "required",
           "course": {
             "code": "ENGN 0020",
-            "name": "ENGN 0020"
+            "name": "Transforming Society-Technology and Choices for the Future"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0090",
-            "name": "ENGN 0090"
+            "name": "Management of Industrial and Nonprofit Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0130",
-            "name": "ENGN 0130"
+            "name": "The Engineer's Burden: Why Changing the World is Difficult"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0350",
-            "name": "ENGN 0350"
+            "name": "Art Fluid Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0900",
-            "name": "ENGN 0900"
+            "name": "Managerial Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930A",
-            "name": "ENGN 0930A"
+            "name": "Appropriate Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930C",
-            "name": "ENGN 0930C"
+            "name": "DesignStudio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1010",
-            "name": "ENGN 1010"
+            "name": "The Entrepreneurial Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1820",
-            "name": "ENGN 1820"
+            "name": "Future of Work"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Q",
-            "name": "ENGN 1931Q"
+            "name": "Entrepreneurial Management in Adversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931W",
-            "name": "ENGN 1931W"
+            "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932M",
-            "name": "ENGN 1932M"
+            "name": "Foundations of Internet Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932R",
-            "name": "ENGN 1932R"
+            "name": "Leadership in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2110",
-            "name": "ENGN 2110"
+            "name": "Business Engineering Fundamentals I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2120",
-            "name": "ENGN 2120"
+            "name": "Business Engineering Fundamentals II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2130",
-            "name": "ENGN 2130"
+            "name": "Innovation and Technology Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2140",
-            "name": "ENGN 2140"
+            "name": "Innovation and Technology Management II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2150",
-            "name": "ENGN 2150"
+            "name": "Technology Entrepreneurship and Commercialization I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2180",
-            "name": "ENGN 2180"
+            "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2160",
-            "name": "ENGN 2160"
+            "name": "Technology Entrepreneurship and Commercialization II"
           }
         }
       ],
@@ -1375,7 +1376,7 @@
           "courses": [
             {
               "code": "ENGN 0020",
-              "name": "ENGN 0020"
+              "name": "Transforming Society-Technology and Choices for the Future"
             }
           ],
           "count": null,
@@ -1387,7 +1388,7 @@
           "courses": [
             {
               "code": "ENGN 0090",
-              "name": "ENGN 0090"
+              "name": "Management of Industrial and Nonprofit Organizations"
             }
           ],
           "count": null,
@@ -1399,7 +1400,7 @@
           "courses": [
             {
               "code": "ENGN 0130",
-              "name": "ENGN 0130"
+              "name": "The Engineer's Burden: Why Changing the World is Difficult"
             }
           ],
           "count": null,
@@ -1416,7 +1417,7 @@
               "courses": [
                 {
                   "code": "ENGN 0350",
-                  "name": "ENGN 0350"
+                  "name": "Art Fluid Engineering"
                 }
               ],
               "count": null,
@@ -1428,7 +1429,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": null,
@@ -1440,7 +1441,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": null,
@@ -1452,7 +1453,7 @@
               "courses": [
                 {
                   "code": "ENGN 0900",
-                  "name": "ENGN 0900"
+                  "name": "Managerial Decision Making"
                 }
               ],
               "count": null,
@@ -1464,7 +1465,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930A",
-                  "name": "ENGN 0930A"
+                  "name": "Appropriate Technology"
                 }
               ],
               "count": null,
@@ -1476,7 +1477,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930C",
-                  "name": "ENGN 0930C"
+                  "name": "DesignStudio"
                 }
               ],
               "count": null,
@@ -1488,7 +1489,7 @@
               "courses": [
                 {
                   "code": "ENGN 1010",
-                  "name": "ENGN 1010"
+                  "name": "The Entrepreneurial Process"
                 }
               ],
               "count": null,
@@ -1500,7 +1501,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -1512,7 +1513,7 @@
               "courses": [
                 {
                   "code": "ENGN 1820",
-                  "name": "ENGN 1820"
+                  "name": "Future of Work"
                 }
               ],
               "count": null,
@@ -1524,7 +1525,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Q",
-                  "name": "ENGN 1931Q"
+                  "name": "Entrepreneurial Management in Adversity"
                 }
               ],
               "count": null,
@@ -1536,7 +1537,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931W",
-                  "name": "ENGN 1931W"
+                  "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
                 }
               ],
               "count": null,
@@ -1548,7 +1549,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932M",
-                  "name": "ENGN 1932M"
+                  "name": "Foundations of Internet Communication Systems"
                 }
               ],
               "count": null,
@@ -1560,7 +1561,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932R",
-                  "name": "ENGN 1932R"
+                  "name": "Leadership in Organizations"
                 }
               ],
               "count": null,
@@ -1572,7 +1573,7 @@
               "courses": [
                 {
                   "code": "ENGN 2110",
-                  "name": "ENGN 2110"
+                  "name": "Business Engineering Fundamentals I"
                 }
               ],
               "count": null,
@@ -1584,7 +1585,7 @@
               "courses": [
                 {
                   "code": "ENGN 2120",
-                  "name": "ENGN 2120"
+                  "name": "Business Engineering Fundamentals II"
                 }
               ],
               "count": null,
@@ -1596,7 +1597,7 @@
               "courses": [
                 {
                   "code": "ENGN 2130",
-                  "name": "ENGN 2130"
+                  "name": "Innovation and Technology Management"
                 }
               ],
               "count": null,
@@ -1608,7 +1609,7 @@
               "courses": [
                 {
                   "code": "ENGN 2140",
-                  "name": "ENGN 2140"
+                  "name": "Innovation and Technology Management II"
                 }
               ],
               "count": null,
@@ -1620,7 +1621,7 @@
               "courses": [
                 {
                   "code": "ENGN 2150",
-                  "name": "ENGN 2150"
+                  "name": "Technology Entrepreneurship and Commercialization I"
                 }
               ],
               "count": null,
@@ -1632,7 +1633,7 @@
               "courses": [
                 {
                   "code": "ENGN 2180",
-                  "name": "ENGN 2180"
+                  "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
                 }
               ],
               "count": null,
@@ -1644,7 +1645,7 @@
               "courses": [
                 {
                   "code": "ENGN 2160",
-                  "name": "ENGN 2160"
+                  "name": "Technology Entrepreneurship and Commercialization II"
                 }
               ],
               "count": null,
@@ -1659,161 +1660,161 @@
           "type": "required",
           "course": {
             "code": "ENGN 0020",
-            "name": "ENGN 0020"
+            "name": "Transforming Society-Technology and Choices for the Future"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0090",
-            "name": "ENGN 0090"
+            "name": "Management of Industrial and Nonprofit Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0130",
-            "name": "ENGN 0130"
+            "name": "The Engineer's Burden: Why Changing the World is Difficult"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0350",
-            "name": "ENGN 0350"
+            "name": "Art Fluid Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0900",
-            "name": "ENGN 0900"
+            "name": "Managerial Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930A",
-            "name": "ENGN 0930A"
+            "name": "Appropriate Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930C",
-            "name": "ENGN 0930C"
+            "name": "DesignStudio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1010",
-            "name": "ENGN 1010"
+            "name": "The Entrepreneurial Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1820",
-            "name": "ENGN 1820"
+            "name": "Future of Work"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Q",
-            "name": "ENGN 1931Q"
+            "name": "Entrepreneurial Management in Adversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931W",
-            "name": "ENGN 1931W"
+            "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932M",
-            "name": "ENGN 1932M"
+            "name": "Foundations of Internet Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932R",
-            "name": "ENGN 1932R"
+            "name": "Leadership in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2110",
-            "name": "ENGN 2110"
+            "name": "Business Engineering Fundamentals I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2120",
-            "name": "ENGN 2120"
+            "name": "Business Engineering Fundamentals II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2130",
-            "name": "ENGN 2130"
+            "name": "Innovation and Technology Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2140",
-            "name": "ENGN 2140"
+            "name": "Innovation and Technology Management II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2150",
-            "name": "ENGN 2150"
+            "name": "Technology Entrepreneurship and Commercialization I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2180",
-            "name": "ENGN 2180"
+            "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2160",
-            "name": "ENGN 2160"
+            "name": "Technology Entrepreneurship and Commercialization II"
           }
         }
       ],
@@ -1829,7 +1830,7 @@
           "courses": [
             {
               "code": "ENGN 0020",
-              "name": "ENGN 0020"
+              "name": "Transforming Society-Technology and Choices for the Future"
             }
           ],
           "count": null,
@@ -1841,7 +1842,7 @@
           "courses": [
             {
               "code": "ENGN 0090",
-              "name": "ENGN 0090"
+              "name": "Management of Industrial and Nonprofit Organizations"
             }
           ],
           "count": null,
@@ -1853,7 +1854,7 @@
           "courses": [
             {
               "code": "ENGN 0130",
-              "name": "ENGN 0130"
+              "name": "The Engineer's Burden: Why Changing the World is Difficult"
             }
           ],
           "count": null,
@@ -1870,7 +1871,7 @@
               "courses": [
                 {
                   "code": "ENGN 0350",
-                  "name": "ENGN 0350"
+                  "name": "Art Fluid Engineering"
                 }
               ],
               "count": null,
@@ -1882,7 +1883,7 @@
               "courses": [
                 {
                   "code": "ENGN 0610",
-                  "name": "ENGN 0610"
+                  "name": "Systems Thinking"
                 }
               ],
               "count": null,
@@ -1894,7 +1895,7 @@
               "courses": [
                 {
                   "code": "ENGN 0620",
-                  "name": "ENGN 0620"
+                  "name": "Design Brief"
                 }
               ],
               "count": null,
@@ -1906,7 +1907,7 @@
               "courses": [
                 {
                   "code": "ENGN 0900",
-                  "name": "ENGN 0900"
+                  "name": "Managerial Decision Making"
                 }
               ],
               "count": null,
@@ -1918,7 +1919,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930A",
-                  "name": "ENGN 0930A"
+                  "name": "Appropriate Technology"
                 }
               ],
               "count": null,
@@ -1930,7 +1931,7 @@
               "courses": [
                 {
                   "code": "ENGN 0930C",
-                  "name": "ENGN 0930C"
+                  "name": "DesignStudio"
                 }
               ],
               "count": null,
@@ -1942,7 +1943,7 @@
               "courses": [
                 {
                   "code": "ENGN 1010",
-                  "name": "ENGN 1010"
+                  "name": "The Entrepreneurial Process"
                 }
               ],
               "count": null,
@@ -1954,7 +1955,7 @@
               "courses": [
                 {
                   "code": "ENGN 1800",
-                  "name": "ENGN 1800"
+                  "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
                 }
               ],
               "count": null,
@@ -1966,7 +1967,7 @@
               "courses": [
                 {
                   "code": "ENGN 1820",
-                  "name": "ENGN 1820"
+                  "name": "Future of Work"
                 }
               ],
               "count": null,
@@ -1978,7 +1979,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Q",
-                  "name": "ENGN 1931Q"
+                  "name": "Entrepreneurial Management in Adversity"
                 }
               ],
               "count": null,
@@ -1990,7 +1991,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931W",
-                  "name": "ENGN 1931W"
+                  "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
                 }
               ],
               "count": null,
@@ -2002,7 +2003,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932M",
-                  "name": "ENGN 1932M"
+                  "name": "Foundations of Internet Communication Systems"
                 }
               ],
               "count": null,
@@ -2014,7 +2015,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932R",
-                  "name": "ENGN 1932R"
+                  "name": "Leadership in Organizations"
                 }
               ],
               "count": null,
@@ -2026,7 +2027,7 @@
               "courses": [
                 {
                   "code": "ENGN 2110",
-                  "name": "ENGN 2110"
+                  "name": "Business Engineering Fundamentals I"
                 }
               ],
               "count": null,
@@ -2038,7 +2039,7 @@
               "courses": [
                 {
                   "code": "ENGN 2120",
-                  "name": "ENGN 2120"
+                  "name": "Business Engineering Fundamentals II"
                 }
               ],
               "count": null,
@@ -2050,7 +2051,7 @@
               "courses": [
                 {
                   "code": "ENGN 2130",
-                  "name": "ENGN 2130"
+                  "name": "Innovation and Technology Management"
                 }
               ],
               "count": null,
@@ -2062,7 +2063,7 @@
               "courses": [
                 {
                   "code": "ENGN 2140",
-                  "name": "ENGN 2140"
+                  "name": "Innovation and Technology Management II"
                 }
               ],
               "count": null,
@@ -2074,7 +2075,7 @@
               "courses": [
                 {
                   "code": "ENGN 2150",
-                  "name": "ENGN 2150"
+                  "name": "Technology Entrepreneurship and Commercialization I"
                 }
               ],
               "count": null,
@@ -2086,7 +2087,7 @@
               "courses": [
                 {
                   "code": "ENGN 2180",
-                  "name": "ENGN 2180"
+                  "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
                 }
               ],
               "count": null,
@@ -2098,7 +2099,7 @@
               "courses": [
                 {
                   "code": "ENGN 2160",
-                  "name": "ENGN 2160"
+                  "name": "Technology Entrepreneurship and Commercialization II"
                 }
               ],
               "count": null,
@@ -2113,161 +2114,161 @@
           "type": "required",
           "course": {
             "code": "ENGN 0020",
-            "name": "ENGN 0020"
+            "name": "Transforming Society-Technology and Choices for the Future"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0090",
-            "name": "ENGN 0090"
+            "name": "Management of Industrial and Nonprofit Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0130",
-            "name": "ENGN 0130"
+            "name": "The Engineer's Burden: Why Changing the World is Difficult"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0350",
-            "name": "ENGN 0350"
+            "name": "Art Fluid Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0610",
-            "name": "ENGN 0610"
+            "name": "Systems Thinking"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0620",
-            "name": "ENGN 0620"
+            "name": "Design Brief"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0900",
-            "name": "ENGN 0900"
+            "name": "Managerial Decision Making"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930A",
-            "name": "ENGN 0930A"
+            "name": "Appropriate Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0930C",
-            "name": "ENGN 0930C"
+            "name": "DesignStudio"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1010",
-            "name": "ENGN 1010"
+            "name": "The Entrepreneurial Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1800",
-            "name": "ENGN 1800"
+            "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1820",
-            "name": "ENGN 1820"
+            "name": "Future of Work"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Q",
-            "name": "ENGN 1931Q"
+            "name": "Entrepreneurial Management in Adversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931W",
-            "name": "ENGN 1931W"
+            "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932M",
-            "name": "ENGN 1932M"
+            "name": "Foundations of Internet Communication Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932R",
-            "name": "ENGN 1932R"
+            "name": "Leadership in Organizations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2110",
-            "name": "ENGN 2110"
+            "name": "Business Engineering Fundamentals I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2120",
-            "name": "ENGN 2120"
+            "name": "Business Engineering Fundamentals II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2130",
-            "name": "ENGN 2130"
+            "name": "Innovation and Technology Management"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2140",
-            "name": "ENGN 2140"
+            "name": "Innovation and Technology Management II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2150",
-            "name": "ENGN 2150"
+            "name": "Technology Entrepreneurship and Commercialization I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2180",
-            "name": "ENGN 2180"
+            "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2160",
-            "name": "ENGN 2160"
+            "name": "Technology Entrepreneurship and Commercialization II"
           }
         }
       ],
@@ -2349,95 +2350,95 @@
     },
     {
       "code": "ENGN 0020",
-      "name": "ENGN 0020"
+      "name": "Transforming Society-Technology and Choices for the Future"
     },
     {
       "code": "ENGN 0090",
-      "name": "ENGN 0090"
+      "name": "Management of Industrial and Nonprofit Organizations"
     },
     {
       "code": "ENGN 0130",
-      "name": "ENGN 0130"
+      "name": "The Engineer's Burden: Why Changing the World is Difficult"
     },
     {
       "code": "ENGN 0350",
-      "name": "ENGN 0350"
+      "name": "Art Fluid Engineering"
     },
     {
       "code": "ENGN 0610",
-      "name": "ENGN 0610"
+      "name": "Systems Thinking"
     },
     {
       "code": "ENGN 0620",
-      "name": "ENGN 0620"
+      "name": "Design Brief"
     },
     {
       "code": "ENGN 0900",
-      "name": "ENGN 0900"
+      "name": "Managerial Decision Making"
     },
     {
       "code": "ENGN 0930A",
-      "name": "ENGN 0930A"
+      "name": "Appropriate Technology"
     },
     {
       "code": "ENGN 0930C",
-      "name": "ENGN 0930C"
+      "name": "DesignStudio"
     },
     {
       "code": "ENGN 1010",
-      "name": "ENGN 1010"
+      "name": "The Entrepreneurial Process"
     },
     {
       "code": "ENGN 1800",
-      "name": "ENGN 1800"
+      "name": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers"
     },
     {
       "code": "ENGN 1820",
-      "name": "ENGN 1820"
+      "name": "Future of Work"
     },
     {
       "code": "ENGN 1931Q",
-      "name": "ENGN 1931Q"
+      "name": "Entrepreneurial Management in Adversity"
     },
     {
       "code": "ENGN 1931W",
-      "name": "ENGN 1931W"
+      "name": "Selling & Sales Leadership in the Entrepreneurial Environment"
     },
     {
       "code": "ENGN 1932M",
-      "name": "ENGN 1932M"
+      "name": "Foundations of Internet Communication Systems"
     },
     {
       "code": "ENGN 1932R",
-      "name": "ENGN 1932R"
+      "name": "Leadership in Organizations"
     },
     {
       "code": "ENGN 2110",
-      "name": "ENGN 2110"
+      "name": "Business Engineering Fundamentals I"
     },
     {
       "code": "ENGN 2120",
-      "name": "ENGN 2120"
+      "name": "Business Engineering Fundamentals II"
     },
     {
       "code": "ENGN 2130",
-      "name": "ENGN 2130"
+      "name": "Innovation and Technology Management"
     },
     {
       "code": "ENGN 2140",
-      "name": "ENGN 2140"
+      "name": "Innovation and Technology Management II"
     },
     {
       "code": "ENGN 2150",
-      "name": "ENGN 2150"
+      "name": "Technology Entrepreneurship and Commercialization I"
     },
     {
       "code": "ENGN 2180",
-      "name": "ENGN 2180"
+      "name": "Globalization Immersion Experience and Entrepreneurship Laboratory"
     },
     {
       "code": "ENGN 2160",
-      "name": "ENGN 2160"
+      "name": "Technology Entrepreneurship and Commercialization II"
     },
     {
       "code": "CHEM 0100",

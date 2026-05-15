@@ -2,6 +2,7 @@
   "concentration": "Philosophy",
   "slug": "phil",
   "url": "https://bulletin.brown.edu/the-college/concentrations/phil/",
+  "description": "The Philosophy concentration offers a broad range of courses, covering contemporary subject areas such as ethics, metaphysics, epistemology, the philosophies of science, religion, language, literature, and more, as well as courses covering various periods and figures in the history of philosophy. Concentrators can expect to acquire a broad competence in philosophy, including ancient European and early modern philosophy, logic, ethics or political philosophy, and epistemology or metaphysics. The concentration also teaches, and stresses, skills in critical thinking and writing. There is also a related, but separate concentration in physics and philosophy. 10 courses total, of which no more than one may be below PHIL 0100, and at least three must be at or above PHIL 0990.",
   "tracks": [
     {
       "id": "standard_concentration",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "One course in Ancient Philosophy, e.g. 1",
+          "name": "One course in Ancient Philosophy, e.g.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "PHIL 0110",
-                  "name": "PHIL 0110"
+                  "name": "Ancient Greek Philosophy"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "PHIL 1110",
-                  "name": "PHIL 1110"
+                  "name": "Plato"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "PHIL 1120",
-                  "name": "PHIL 1120"
+                  "name": "Aristotle"
                 }
               ],
               "count": null,
@@ -59,7 +60,7 @@
           "notes": []
         },
         {
-          "name": "One course in Early Modern Philosophy, e.g. 1",
+          "name": "One course in Early Modern Philosophy, e.g.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -69,7 +70,7 @@
               "courses": [
                 {
                   "code": "PHIL 0210",
-                  "name": "PHIL 0210"
+                  "name": "Early Modern Philosophy"
                 }
               ],
               "count": null,
@@ -81,7 +82,7 @@
               "courses": [
                 {
                   "code": "PHIL 1210",
-                  "name": "PHIL 1210"
+                  "name": "Locke, Berkeley, Hume and Others"
                 }
               ],
               "count": null,
@@ -93,7 +94,7 @@
               "courses": [
                 {
                   "code": "PHIL 1220",
-                  "name": "PHIL 1220"
+                  "name": "17th Century Continental Rationalism"
                 }
               ],
               "count": null,
@@ -105,7 +106,7 @@
               "courses": [
                 {
                   "code": "PHIL 1230",
-                  "name": "PHIL 1230"
+                  "name": "Kant: The Critique of Pure Reason"
                 }
               ],
               "count": null,
@@ -115,7 +116,7 @@
           "notes": []
         },
         {
-          "name": "One course in Epistemology or Metaphysics, e.g. 1",
+          "name": "One course in Epistemology or Metaphysics, e.g.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -125,7 +126,7 @@
               "courses": [
                 {
                   "code": "PHIL 1735",
-                  "name": "PHIL 1735"
+                  "name": "Metaphysics"
                 }
               ],
               "count": null,
@@ -137,7 +138,7 @@
               "courses": [
                 {
                   "code": "PHIL 1705",
-                  "name": "PHIL 1705"
+                  "name": "Epistemology"
                 }
               ],
               "count": null,
@@ -149,7 +150,7 @@
               "courses": [
                 {
                   "code": "PHIL 1800",
-                  "name": "PHIL 1800"
+                  "name": "Philosophy of Mind"
                 }
               ],
               "count": null,
@@ -161,7 +162,7 @@
               "courses": [
                 {
                   "code": "PHIL 1850",
-                  "name": "PHIL 1850"
+                  "name": "Philosophy of Language"
                 }
               ],
               "count": null,
@@ -171,7 +172,7 @@
           "notes": []
         },
         {
-          "name": "One course in Ethics or Political Philosophy, e.g. 1",
+          "name": "One course in Ethics or Political Philosophy, e.g.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -181,7 +182,7 @@
               "courses": [
                 {
                   "code": "PHIL 0410",
-                  "name": "PHIL 0410"
+                  "name": "Moral Philosophy"
                 }
               ],
               "count": null,
@@ -193,7 +194,7 @@
               "courses": [
                 {
                   "code": "PHIL 0560",
-                  "name": "PHIL 0560"
+                  "name": "Political Philosophy"
                 }
               ],
               "count": null,
@@ -205,7 +206,7 @@
               "courses": [
                 {
                   "code": "PHIL 1470",
-                  "name": "PHIL 1470"
+                  "name": "Ethics in the Novel"
                 }
               ],
               "count": null,
@@ -217,7 +218,7 @@
               "courses": [
                 {
                   "code": "PHIL 1430",
-                  "name": "PHIL 1430"
+                  "name": "Moral Theories"
                 }
               ],
               "count": null,
@@ -229,7 +230,7 @@
               "courses": [
                 {
                   "code": "PHIL 1440",
-                  "name": "PHIL 1440"
+                  "name": "The Nature of Morality"
                 }
               ],
               "count": null,
@@ -239,7 +240,7 @@
           "notes": []
         },
         {
-          "name": "One course in Logic, e.g. 1",
+          "name": "One course in Logic, e.g.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -249,7 +250,7 @@
               "courses": [
                 {
                   "code": "PHIL 0640",
-                  "name": "PHIL 0640"
+                  "name": "Logic"
                 }
               ],
               "count": null,
@@ -261,7 +262,7 @@
               "courses": [
                 {
                   "code": "PHIL 1630",
-                  "name": "PHIL 1630"
+                  "name": "Mathematical Logic"
                 }
               ],
               "count": null,
@@ -273,7 +274,7 @@
               "courses": [
                 {
                   "code": "PHIL 1635",
-                  "name": "PHIL 1635"
+                  "name": "Advanced Deductive Logic"
                 }
               ],
               "count": null,
@@ -283,14 +284,14 @@
           "notes": []
         },
         {
-          "name": "One Seminar: either an undergraduate seminar from the 099X series, a course numbered 1XXX that is designated as a seminar, or a graduate seminar numbered 2XXX. 1",
+          "name": "One Seminar: either an undergraduate seminar from the 099X series, a course numbered 1XXX that is designated as a seminar, or a graduate seminar numbered 2XXX.",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Four additional courses 4",
+          "name": "Four additional courses",
           "type": "label",
           "courses": [],
           "count": 4,
@@ -302,133 +303,133 @@
           "type": "required",
           "course": {
             "code": "PHIL 0110",
-            "name": "PHIL 0110"
+            "name": "Ancient Greek Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1110",
-            "name": "PHIL 1110"
+            "name": "Plato"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1120",
-            "name": "PHIL 1120"
+            "name": "Aristotle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0210",
-            "name": "PHIL 0210"
+            "name": "Early Modern Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1210",
-            "name": "PHIL 1210"
+            "name": "Locke, Berkeley, Hume and Others"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1220",
-            "name": "PHIL 1220"
+            "name": "17th Century Continental Rationalism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1230",
-            "name": "PHIL 1230"
+            "name": "Kant: The Critique of Pure Reason"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1735",
-            "name": "PHIL 1735"
+            "name": "Metaphysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1705",
-            "name": "PHIL 1705"
+            "name": "Epistemology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1800",
-            "name": "PHIL 1800"
+            "name": "Philosophy of Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1850",
-            "name": "PHIL 1850"
+            "name": "Philosophy of Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0410",
-            "name": "PHIL 0410"
+            "name": "Moral Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0560",
-            "name": "PHIL 0560"
+            "name": "Political Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1470",
-            "name": "PHIL 1470"
+            "name": "Ethics in the Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1430",
-            "name": "PHIL 1430"
+            "name": "Moral Theories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1440",
-            "name": "PHIL 1440"
+            "name": "The Nature of Morality"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0640",
-            "name": "PHIL 0640"
+            "name": "Logic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1630",
-            "name": "PHIL 1630"
+            "name": "Mathematical Logic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1635",
-            "name": "PHIL 1635"
+            "name": "Advanced Deductive Logic"
           }
         }
       ],
@@ -438,79 +439,79 @@
   "all_courses": [
     {
       "code": "PHIL 0110",
-      "name": "PHIL 0110"
+      "name": "Ancient Greek Philosophy"
     },
     {
       "code": "PHIL 1110",
-      "name": "PHIL 1110"
+      "name": "Plato"
     },
     {
       "code": "PHIL 1120",
-      "name": "PHIL 1120"
+      "name": "Aristotle"
     },
     {
       "code": "PHIL 0210",
-      "name": "PHIL 0210"
+      "name": "Early Modern Philosophy"
     },
     {
       "code": "PHIL 1210",
-      "name": "PHIL 1210"
+      "name": "Locke, Berkeley, Hume and Others"
     },
     {
       "code": "PHIL 1220",
-      "name": "PHIL 1220"
+      "name": "17th Century Continental Rationalism"
     },
     {
       "code": "PHIL 1230",
-      "name": "PHIL 1230"
+      "name": "Kant: The Critique of Pure Reason"
     },
     {
       "code": "PHIL 1735",
-      "name": "PHIL 1735"
+      "name": "Metaphysics"
     },
     {
       "code": "PHIL 1705",
-      "name": "PHIL 1705"
+      "name": "Epistemology"
     },
     {
       "code": "PHIL 1800",
-      "name": "PHIL 1800"
+      "name": "Philosophy of Mind"
     },
     {
       "code": "PHIL 1850",
-      "name": "PHIL 1850"
+      "name": "Philosophy of Language"
     },
     {
       "code": "PHIL 0410",
-      "name": "PHIL 0410"
+      "name": "Moral Philosophy"
     },
     {
       "code": "PHIL 0560",
-      "name": "PHIL 0560"
+      "name": "Political Philosophy"
     },
     {
       "code": "PHIL 1470",
-      "name": "PHIL 1470"
+      "name": "Ethics in the Novel"
     },
     {
       "code": "PHIL 1430",
-      "name": "PHIL 1430"
+      "name": "Moral Theories"
     },
     {
       "code": "PHIL 1440",
-      "name": "PHIL 1440"
+      "name": "The Nature of Morality"
     },
     {
       "code": "PHIL 0640",
-      "name": "PHIL 0640"
+      "name": "Logic"
     },
     {
       "code": "PHIL 1630",
-      "name": "PHIL 1630"
+      "name": "Mathematical Logic"
     },
     {
       "code": "PHIL 1635",
-      "name": "PHIL 1635"
+      "name": "Advanced Deductive Logic"
     },
     {
       "code": "PHIL 1995",

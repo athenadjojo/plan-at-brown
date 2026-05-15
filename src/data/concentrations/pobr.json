@@ -2,6 +2,7 @@
   "concentration": "Portuguese and Brazilian Studies",
   "slug": "pobr",
   "url": "https://bulletin.brown.edu/the-college/concentrations/pobr/",
+  "description": "Portuguese and Brazilian Studies examines the Portuguese-speaking world, a large and diverse geographical and cultural area spread over five continents. Inhabited by two hundred fifty million people, this area includes Brazil, Continental and Insular Portugal, Lusophone Africa and Luso-America. Although concentrators are encouraged to examine the global nature of the Portuguese-speaking world, typically they focus on one of the specific geographical entities mentioned above.\u00a0 Concentrators will strengthen their Portuguese language skills (Portuguese 400 or the equivalent is a pre-requisite) and explore relevant Lusophone literature, education, history and social science. The concentration offers one program in language and literature and another that is interdisciplinary. Some concentrators study abroad in either Brazil or Portugal. Up to two courses in the POBS 0630 series may be counted toward concentration requirements, provided they are on different topics.",
   "tracks": [
     {
       "id": "requirements",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "POBS 1030 Portuguese Stylistics: Advanced Language Study and Creative Writing 1",
+          "name": "POBS 1030 Portuguese Stylistics: Advanced Language Study and Creative Writing",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "POBS 1800B",
-                  "name": "POBS 1800B"
+                  "name": "Lusofonia: National Identities and Transnational Challenges2"
                 }
               ],
               "count": 1,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "POBS 1800C",
-                  "name": "POBS 1800C"
+                  "name": "Constructing Men, Projecting Masculinity: Questioning Gender, Sex, and Sexuality in Brazil"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "POBS 1800E",
-                  "name": "POBS 1800E"
+                  "name": "The Brazilian Puzzle: Confronting the Post-Colonial Legacy"
                 }
               ],
               "count": null,
@@ -61,7 +62,7 @@
               "courses": [
                 {
                   "code": "POBS 1800F",
-                  "name": "POBS 1800F"
+                  "name": "The Lusophone World and the Struggle for Modernity"
                 }
               ],
               "count": null,
@@ -83,28 +84,28 @@
           "type": "required",
           "course": {
             "code": "POBS 1800B",
-            "name": "POBS 1800B"
+            "name": "Lusofonia: National Identities and Transnational Challenges2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POBS 1800C",
-            "name": "POBS 1800C"
+            "name": "Constructing Men, Projecting Masculinity: Questioning Gender, Sex, and Sexuality in Brazil"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POBS 1800E",
-            "name": "POBS 1800E"
+            "name": "The Brazilian Puzzle: Confronting the Post-Colonial Legacy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POBS 1800F",
-            "name": "POBS 1800F"
+            "name": "The Lusophone World and the Struggle for Modernity"
           }
         }
       ],
@@ -114,19 +115,19 @@
   "all_courses": [
     {
       "code": "POBS 1800B",
-      "name": "POBS 1800B"
+      "name": "Lusofonia: National Identities and Transnational Challenges2"
     },
     {
       "code": "POBS 1800C",
-      "name": "POBS 1800C"
+      "name": "Constructing Men, Projecting Masculinity: Questioning Gender, Sex, and Sexuality in Brazil"
     },
     {
       "code": "POBS 1800E",
-      "name": "POBS 1800E"
+      "name": "The Brazilian Puzzle: Confronting the Post-Colonial Legacy"
     },
     {
       "code": "POBS 1800F",
-      "name": "POBS 1800F"
+      "name": "The Lusophone World and the Struggle for Modernity"
     }
   ]
 }

@@ -2,6 +2,7 @@
   "concentration": "Slavic Studies",
   "slug": "slav",
   "url": "https://bulletin.brown.edu/the-college/concentrations/slav/",
+  "description": "Slavic Studies is concerned with the languages, literatures, and civilizations of the Slavic world. Built on sound knowledge of one or two Slavic languages (normally Russian or Czech) the program allows students to develop an in-depth appreciation and understanding of East European cultures and civilizations through a broad spectrum of interdisciplinary fields. Students take courses in literature, history, culture, theater, political science, economics, and international relations. Concentrators focusing on Russia learn one of the world\u2019s most commonly spoken languages and study some of the world\u2019s best-regarded authors and composers: Tolstoy and Dostoevsky, Gogol and Bulgakov, Tchaikovsky and Mussorgsky, and Rachmaninoff and Stravinsky. Focusing on Czech allows students to explore, for example, how Czechs distinguished themselves by peacefully transitioning from communism to capitalism (the \u201cVelvet Revolution\u201d) and separating peacefully with the Slovak Republic (the \u201cVelvet Divorce\u201d). Most concentrators study abroad in a Slavic country, either during the academic year or the summer. Honors candidacy in Slavic studies assumes an excellent academic record, particularly in the concentration. Additional requirements are the same as those for a standard concentration, plus the writing of a senior thesis (SLAV\u00a01990). For procedures and schedule for writing a senior thesis, please refer to the department guidelines.",
   "tracks": [
     {
       "id": "requirements_for_the_ab_degree",
@@ -18,11 +19,11 @@
               "courses": [
                 {
                   "code": "RUSS 0100",
-                  "name": "RUSS 0100"
+                  "name": "Introductory Russianand Introductory Russian"
                 },
                 {
                   "code": "RUSS 0200",
-                  "name": "RUSS 0200"
+                  "name": "Introductory Russianand Introductory Russian"
                 }
               ],
               "count": null,
@@ -34,7 +35,7 @@
               "courses": [
                 {
                   "code": "RUSS 0110",
-                  "name": "RUSS 0110"
+                  "name": "Intensive Russian"
                 }
               ],
               "count": null,
@@ -46,11 +47,11 @@
               "courses": [
                 {
                   "code": "RUSS 0300",
-                  "name": "RUSS 0300"
+                  "name": "Intermediate Russianand Intermediate Russian"
                 },
                 {
                   "code": "RUSS 0400",
-                  "name": "RUSS 0400"
+                  "name": "Intermediate Russianand Intermediate Russian"
                 }
               ],
               "count": null,
@@ -62,11 +63,11 @@
               "courses": [
                 {
                   "code": "RUSS 0500",
-                  "name": "RUSS 0500"
+                  "name": "Advanced Russianand Advanced Russian"
                 },
                 {
                   "code": "RUSS 0600",
-                  "name": "RUSS 0600"
+                  "name": "Advanced Russianand Advanced Russian"
                 }
               ],
               "count": null,
@@ -86,11 +87,11 @@
               "courses": [
                 {
                   "code": "CZCH 0100",
-                  "name": "CZCH 0100"
+                  "name": "Introductory Czechand Introductory Czech"
                 },
                 {
                   "code": "CZCH 0200",
-                  "name": "CZCH 0200"
+                  "name": "Introductory Czechand Introductory Czech"
                 }
               ],
               "count": null,
@@ -102,11 +103,11 @@
               "courses": [
                 {
                   "code": "CZCH 0400",
-                  "name": "CZCH 0400"
+                  "name": "Intermediate Czechand Intermediate Russian"
                 },
                 {
                   "code": "RUSS 0300",
-                  "name": "RUSS 0300"
+                  "name": "Intermediate Czechand Intermediate Russian"
                 }
               ],
               "count": null,
@@ -118,11 +119,11 @@
               "courses": [
                 {
                   "code": "PLSH 0100",
-                  "name": "PLSH 0100"
+                  "name": "Introductory Polishand Introductory Polish"
                 },
                 {
                   "code": "PLSH 0200",
-                  "name": "PLSH 0200"
+                  "name": "Introductory Polishand Introductory Polish"
                 }
               ],
               "count": null,
@@ -134,11 +135,11 @@
               "courses": [
                 {
                   "code": "PLSH 0300",
-                  "name": "PLSH 0300"
+                  "name": "Intermediate Polishand Intermediate Polish"
                 },
                 {
                   "code": "PLSH 0400",
-                  "name": "PLSH 0400"
+                  "name": "Intermediate Polishand Intermediate Polish"
                 }
               ],
               "count": null,
@@ -165,7 +166,7 @@
               "courses": [
                 {
                   "code": "CZCH 1000",
-                  "name": "CZCH 1000"
+                  "name": "Dimensions of Czech Animation: Contexts, Interpretations, and Dialogs with the East"
                 }
               ],
               "count": null,
@@ -177,7 +178,7 @@
               "courses": [
                 {
                   "code": "RUSS 1110",
-                  "name": "RUSS 1110"
+                  "name": "Special Topics in Russian Studies I: Advanced Reading and Conversation"
                 }
               ],
               "count": null,
@@ -189,7 +190,7 @@
               "courses": [
                 {
                   "code": "RUSS 1120",
-                  "name": "RUSS 1120"
+                  "name": "Special Topics in Russian Studies II: Advanced Reading and Conversation"
                 }
               ],
               "count": null,
@@ -201,7 +202,7 @@
               "courses": [
                 {
                   "code": "RUSS 1200",
-                  "name": "RUSS 1200"
+                  "name": "Russian Fantasy and Science Fiction"
                 }
               ],
               "count": null,
@@ -213,7 +214,7 @@
               "courses": [
                 {
                   "code": "RUSS 1220",
-                  "name": "RUSS 1220"
+                  "name": "Nationalism and Nationalities"
                 }
               ],
               "count": null,
@@ -225,7 +226,7 @@
               "courses": [
                 {
                   "code": "RUSS 1250",
-                  "name": "RUSS 1250"
+                  "name": "Russian Cinema"
                 }
               ],
               "count": null,
@@ -237,7 +238,7 @@
               "courses": [
                 {
                   "code": "RUSS 1290",
-                  "name": "RUSS 1290"
+                  "name": "Russian Literature in Translation I: Pushkin to Dostoevsky"
                 }
               ],
               "count": null,
@@ -249,7 +250,7 @@
               "courses": [
                 {
                   "code": "RUSS 1300",
-                  "name": "RUSS 1300"
+                  "name": "Russian Literature in Translation II: Tolstoy to Solzhenitsyn"
                 }
               ],
               "count": null,
@@ -261,7 +262,7 @@
               "courses": [
                 {
                   "code": "RUSS 1330",
-                  "name": "RUSS 1330"
+                  "name": "Soviet Culture: Propaganda, Dissidence, Underground"
                 }
               ],
               "count": null,
@@ -273,7 +274,7 @@
               "courses": [
                 {
                   "code": "RUSS 1340",
-                  "name": "RUSS 1340"
+                  "name": "The Russian Novel"
                 }
               ],
               "count": null,
@@ -285,7 +286,7 @@
               "courses": [
                 {
                   "code": "RUSS 1440",
-                  "name": "RUSS 1440"
+                  "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
                 }
               ],
               "count": null,
@@ -297,7 +298,7 @@
               "courses": [
                 {
                   "code": "RUSS 1450",
-                  "name": "RUSS 1450"
+                  "name": "Love, Adultery, and Sexuality"
                 }
               ],
               "count": null,
@@ -309,7 +310,7 @@
               "courses": [
                 {
                   "code": "RUSS 1500",
-                  "name": "RUSS 1500"
+                  "name": "Approaches to Russian Literature"
                 }
               ],
               "count": null,
@@ -321,7 +322,7 @@
               "courses": [
                 {
                   "code": "RUSS 1550",
-                  "name": "RUSS 1550"
+                  "name": "Beyond the Kremlin: Russian Culture and Politics in the Twenty-First Century"
                 }
               ],
               "count": null,
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "RUSS 1600",
-                  "name": "RUSS 1600"
+                  "name": "Literature and History: Russian Historical Imagination in the European Context"
                 }
               ],
               "count": null,
@@ -345,7 +346,7 @@
               "courses": [
                 {
                   "code": "RUSS 1660",
-                  "name": "RUSS 1660"
+                  "name": "Sexuality and Revolution in 20th-Century Russian Culture"
                 }
               ],
               "count": null,
@@ -357,7 +358,7 @@
               "courses": [
                 {
                   "code": "RUSS 1800",
-                  "name": "RUSS 1800"
+                  "name": "Pushkin"
                 }
               ],
               "count": null,
@@ -369,7 +370,7 @@
               "courses": [
                 {
                   "code": "RUSS 1810",
-                  "name": "RUSS 1810"
+                  "name": "Tolstoy"
                 }
               ],
               "count": null,
@@ -381,7 +382,7 @@
               "courses": [
                 {
                   "code": "RUSS 1820",
-                  "name": "RUSS 1820"
+                  "name": "Dostoevsky"
                 }
               ],
               "count": null,
@@ -393,7 +394,7 @@
               "courses": [
                 {
                   "code": "RUSS 1840",
-                  "name": "RUSS 1840"
+                  "name": "Nabokov"
                 }
               ],
               "count": null,
@@ -405,7 +406,7 @@
               "courses": [
                 {
                   "code": "RUSS 1860",
-                  "name": "RUSS 1860"
+                  "name": "Chekhov"
                 }
               ],
               "count": null,
@@ -417,7 +418,7 @@
               "courses": [
                 {
                   "code": "RUSS 1848",
-                  "name": "RUSS 1848"
+                  "name": "Central Europe: An Idea and its Literature"
                 }
               ],
               "count": null,
@@ -429,7 +430,7 @@
               "courses": [
                 {
                   "code": "RUSS 1870",
-                  "name": "RUSS 1870"
+                  "name": "Gogol"
                 }
               ],
               "count": null,
@@ -441,7 +442,7 @@
               "courses": [
                 {
                   "code": "RUSS 1967",
-                  "name": "RUSS 1967"
+                  "name": "Russian Postmodernism"
                 }
               ],
               "count": null,
@@ -453,7 +454,7 @@
               "courses": [
                 {
                   "code": "SLAV 1250",
-                  "name": "SLAV 1250"
+                  "name": "Polish Culture Through Film"
                 }
               ],
               "count": null,
@@ -465,7 +466,7 @@
               "courses": [
                 {
                   "code": "SLAV 1300",
-                  "name": "SLAV 1300"
+                  "name": "Language and Politics in East Europe and Russia"
                 }
               ],
               "count": null,
@@ -485,7 +486,7 @@
               "courses": [
                 {
                   "code": "HIST 1268A",
-                  "name": "HIST 1268A"
+                  "name": "The Rise of the Russian Empire"
                 }
               ],
               "count": null,
@@ -497,7 +498,7 @@
               "courses": [
                 {
                   "code": "HIST 1268B",
-                  "name": "HIST 1268B"
+                  "name": "Russia in the Era of Reforms, Revolutions, and World Wars"
                 }
               ],
               "count": null,
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "HIST 1268C",
-                  "name": "HIST 1268C"
+                  "name": "The Collapse of Socialism and the Rise of New Russia"
                 }
               ],
               "count": null,
@@ -525,11 +526,11 @@
           "options": [
             {
               "code": "RUSS 0100",
-              "name": "RUSS 0100"
+              "name": "Introductory Russianand Introductory Russian"
             },
             {
               "code": "RUSS 0200",
-              "name": "RUSS 0200"
+              "name": "Introductory Russianand Introductory Russian"
             }
           ]
         },
@@ -537,7 +538,7 @@
           "type": "required",
           "course": {
             "code": "RUSS 0110",
-            "name": "RUSS 0110"
+            "name": "Intensive Russian"
           }
         },
         {
@@ -545,11 +546,11 @@
           "options": [
             {
               "code": "RUSS 0300",
-              "name": "RUSS 0300"
+              "name": "Intermediate Russianand Intermediate Russian"
             },
             {
               "code": "RUSS 0400",
-              "name": "RUSS 0400"
+              "name": "Intermediate Russianand Intermediate Russian"
             }
           ]
         },
@@ -558,11 +559,11 @@
           "options": [
             {
               "code": "RUSS 0500",
-              "name": "RUSS 0500"
+              "name": "Advanced Russianand Advanced Russian"
             },
             {
               "code": "RUSS 0600",
-              "name": "RUSS 0600"
+              "name": "Advanced Russianand Advanced Russian"
             }
           ]
         },
@@ -571,11 +572,11 @@
           "options": [
             {
               "code": "CZCH 0100",
-              "name": "CZCH 0100"
+              "name": "Introductory Czechand Introductory Czech"
             },
             {
               "code": "CZCH 0200",
-              "name": "CZCH 0200"
+              "name": "Introductory Czechand Introductory Czech"
             }
           ]
         },
@@ -584,11 +585,11 @@
           "options": [
             {
               "code": "CZCH 0400",
-              "name": "CZCH 0400"
+              "name": "Intermediate Czechand Intermediate Russian"
             },
             {
               "code": "RUSS 0300",
-              "name": "RUSS 0300"
+              "name": "Intermediate Czechand Intermediate Russian"
             }
           ]
         },
@@ -597,11 +598,11 @@
           "options": [
             {
               "code": "PLSH 0100",
-              "name": "PLSH 0100"
+              "name": "Introductory Polishand Introductory Polish"
             },
             {
               "code": "PLSH 0200",
-              "name": "PLSH 0200"
+              "name": "Introductory Polishand Introductory Polish"
             }
           ]
         },
@@ -610,11 +611,11 @@
           "options": [
             {
               "code": "PLSH 0300",
-              "name": "PLSH 0300"
+              "name": "Intermediate Polishand Intermediate Polish"
             },
             {
               "code": "PLSH 0400",
-              "name": "PLSH 0400"
+              "name": "Intermediate Polishand Intermediate Polish"
             }
           ]
         },
@@ -622,203 +623,203 @@
           "type": "required",
           "course": {
             "code": "CZCH 1000",
-            "name": "CZCH 1000"
+            "name": "Dimensions of Czech Animation: Contexts, Interpretations, and Dialogs with the East"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1110",
-            "name": "RUSS 1110"
+            "name": "Special Topics in Russian Studies I: Advanced Reading and Conversation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1120",
-            "name": "RUSS 1120"
+            "name": "Special Topics in Russian Studies II: Advanced Reading and Conversation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1200",
-            "name": "RUSS 1200"
+            "name": "Russian Fantasy and Science Fiction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1220",
-            "name": "RUSS 1220"
+            "name": "Nationalism and Nationalities"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1250",
-            "name": "RUSS 1250"
+            "name": "Russian Cinema"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1290",
-            "name": "RUSS 1290"
+            "name": "Russian Literature in Translation I: Pushkin to Dostoevsky"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1300",
-            "name": "RUSS 1300"
+            "name": "Russian Literature in Translation II: Tolstoy to Solzhenitsyn"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1330",
-            "name": "RUSS 1330"
+            "name": "Soviet Culture: Propaganda, Dissidence, Underground"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1340",
-            "name": "RUSS 1340"
+            "name": "The Russian Novel"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1440",
-            "name": "RUSS 1440"
+            "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1450",
-            "name": "RUSS 1450"
+            "name": "Love, Adultery, and Sexuality"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1500",
-            "name": "RUSS 1500"
+            "name": "Approaches to Russian Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1550",
-            "name": "RUSS 1550"
+            "name": "Beyond the Kremlin: Russian Culture and Politics in the Twenty-First Century"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1600",
-            "name": "RUSS 1600"
+            "name": "Literature and History: Russian Historical Imagination in the European Context"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1660",
-            "name": "RUSS 1660"
+            "name": "Sexuality and Revolution in 20th-Century Russian Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1800",
-            "name": "RUSS 1800"
+            "name": "Pushkin"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1810",
-            "name": "RUSS 1810"
+            "name": "Tolstoy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1820",
-            "name": "RUSS 1820"
+            "name": "Dostoevsky"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1840",
-            "name": "RUSS 1840"
+            "name": "Nabokov"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1860",
-            "name": "RUSS 1860"
+            "name": "Chekhov"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1848",
-            "name": "RUSS 1848"
+            "name": "Central Europe: An Idea and its Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1870",
-            "name": "RUSS 1870"
+            "name": "Gogol"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RUSS 1967",
-            "name": "RUSS 1967"
+            "name": "Russian Postmodernism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SLAV 1250",
-            "name": "SLAV 1250"
+            "name": "Polish Culture Through Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "SLAV 1300",
-            "name": "SLAV 1300"
+            "name": "Language and Politics in East Europe and Russia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1268A",
-            "name": "HIST 1268A"
+            "name": "The Rise of the Russian Empire"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1268B",
-            "name": "HIST 1268B"
+            "name": "Russia in the Era of Reforms, Revolutions, and World Wars"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 1268C",
-            "name": "HIST 1268C"
+            "name": "The Collapse of Socialism and the Rise of New Russia"
           }
         }
       ],
@@ -828,175 +829,175 @@
   "all_courses": [
     {
       "code": "RUSS 0100",
-      "name": "RUSS 0100"
+      "name": "Introductory Russianand Introductory Russian"
     },
     {
       "code": "RUSS 0200",
-      "name": "RUSS 0200"
+      "name": "Introductory Russianand Introductory Russian"
     },
     {
       "code": "RUSS 0110",
-      "name": "RUSS 0110"
+      "name": "Intensive Russian"
     },
     {
       "code": "RUSS 0300",
-      "name": "RUSS 0300"
+      "name": "Intermediate Russianand Intermediate Russian"
     },
     {
       "code": "RUSS 0400",
-      "name": "RUSS 0400"
+      "name": "Intermediate Russianand Intermediate Russian"
     },
     {
       "code": "RUSS 0500",
-      "name": "RUSS 0500"
+      "name": "Advanced Russianand Advanced Russian"
     },
     {
       "code": "RUSS 0600",
-      "name": "RUSS 0600"
+      "name": "Advanced Russianand Advanced Russian"
     },
     {
       "code": "CZCH 0100",
-      "name": "CZCH 0100"
+      "name": "Introductory Czechand Introductory Czech"
     },
     {
       "code": "CZCH 0200",
-      "name": "CZCH 0200"
+      "name": "Introductory Czechand Introductory Czech"
     },
     {
       "code": "CZCH 0400",
-      "name": "CZCH 0400"
+      "name": "Intermediate Czechand Intermediate Russian"
     },
     {
       "code": "PLSH 0100",
-      "name": "PLSH 0100"
+      "name": "Introductory Polishand Introductory Polish"
     },
     {
       "code": "PLSH 0200",
-      "name": "PLSH 0200"
+      "name": "Introductory Polishand Introductory Polish"
     },
     {
       "code": "PLSH 0300",
-      "name": "PLSH 0300"
+      "name": "Intermediate Polishand Intermediate Polish"
     },
     {
       "code": "PLSH 0400",
-      "name": "PLSH 0400"
+      "name": "Intermediate Polishand Intermediate Polish"
     },
     {
       "code": "CZCH 1000",
-      "name": "CZCH 1000"
+      "name": "Dimensions of Czech Animation: Contexts, Interpretations, and Dialogs with the East"
     },
     {
       "code": "RUSS 1110",
-      "name": "RUSS 1110"
+      "name": "Special Topics in Russian Studies I: Advanced Reading and Conversation"
     },
     {
       "code": "RUSS 1120",
-      "name": "RUSS 1120"
+      "name": "Special Topics in Russian Studies II: Advanced Reading and Conversation"
     },
     {
       "code": "RUSS 1200",
-      "name": "RUSS 1200"
+      "name": "Russian Fantasy and Science Fiction"
     },
     {
       "code": "RUSS 1220",
-      "name": "RUSS 1220"
+      "name": "Nationalism and Nationalities"
     },
     {
       "code": "RUSS 1250",
-      "name": "RUSS 1250"
+      "name": "Russian Cinema"
     },
     {
       "code": "RUSS 1290",
-      "name": "RUSS 1290"
+      "name": "Russian Literature in Translation I: Pushkin to Dostoevsky"
     },
     {
       "code": "RUSS 1300",
-      "name": "RUSS 1300"
+      "name": "Russian Literature in Translation II: Tolstoy to Solzhenitsyn"
     },
     {
       "code": "RUSS 1330",
-      "name": "RUSS 1330"
+      "name": "Soviet Culture: Propaganda, Dissidence, Underground"
     },
     {
       "code": "RUSS 1340",
-      "name": "RUSS 1340"
+      "name": "The Russian Novel"
     },
     {
       "code": "RUSS 1440",
-      "name": "RUSS 1440"
+      "name": "Imagining Moscow: Utopia and Urban Spaces in 20th-Century Russian Culture"
     },
     {
       "code": "RUSS 1450",
-      "name": "RUSS 1450"
+      "name": "Love, Adultery, and Sexuality"
     },
     {
       "code": "RUSS 1500",
-      "name": "RUSS 1500"
+      "name": "Approaches to Russian Literature"
     },
     {
       "code": "RUSS 1550",
-      "name": "RUSS 1550"
+      "name": "Beyond the Kremlin: Russian Culture and Politics in the Twenty-First Century"
     },
     {
       "code": "RUSS 1600",
-      "name": "RUSS 1600"
+      "name": "Literature and History: Russian Historical Imagination in the European Context"
     },
     {
       "code": "RUSS 1660",
-      "name": "RUSS 1660"
+      "name": "Sexuality and Revolution in 20th-Century Russian Culture"
     },
     {
       "code": "RUSS 1800",
-      "name": "RUSS 1800"
+      "name": "Pushkin"
     },
     {
       "code": "RUSS 1810",
-      "name": "RUSS 1810"
+      "name": "Tolstoy"
     },
     {
       "code": "RUSS 1820",
-      "name": "RUSS 1820"
+      "name": "Dostoevsky"
     },
     {
       "code": "RUSS 1840",
-      "name": "RUSS 1840"
+      "name": "Nabokov"
     },
     {
       "code": "RUSS 1860",
-      "name": "RUSS 1860"
+      "name": "Chekhov"
     },
     {
       "code": "RUSS 1848",
-      "name": "RUSS 1848"
+      "name": "Central Europe: An Idea and its Literature"
     },
     {
       "code": "RUSS 1870",
-      "name": "RUSS 1870"
+      "name": "Gogol"
     },
     {
       "code": "RUSS 1967",
-      "name": "RUSS 1967"
+      "name": "Russian Postmodernism"
     },
     {
       "code": "SLAV 1250",
-      "name": "SLAV 1250"
+      "name": "Polish Culture Through Film"
     },
     {
       "code": "SLAV 1300",
-      "name": "SLAV 1300"
+      "name": "Language and Politics in East Europe and Russia"
     },
     {
       "code": "HIST 1268A",
-      "name": "HIST 1268A"
+      "name": "The Rise of the Russian Empire"
     },
     {
       "code": "HIST 1268B",
-      "name": "HIST 1268B"
+      "name": "Russia in the Era of Reforms, Revolutions, and World Wars"
     },
     {
       "code": "HIST 1268C",
-      "name": "HIST 1268C"
+      "name": "The Collapse of Socialism and the Rise of New Russia"
     },
     {
       "code": "SLAV 1990",

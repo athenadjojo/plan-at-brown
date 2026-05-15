@@ -2,6 +2,7 @@
   "concentration": "Applied Mathematics-Computer Science",
   "slug": "apmc",
   "url": "https://bulletin.brown.edu/the-college/concentrations/apmc/",
+  "description": "The Sc.B. concentration in Applied Math-Computer Science provides a foundation of basic concepts and methodology of mathematical analysis and computation and prepares students for advanced work in applied mathematics, computer science, and data science. Concentrators must complete courses in mathematics, applied math, computer science, and an approved English writing course. While the concentration in Applied Math-Computer Science allows students to develop the use of quantitative methods in thinking about and solving problems, knowledge that is valuable in all walks of life, students who have completed the concentration have pursued graduate study, computer consulting and information industries, and scientific and statistical analysis careers in industry or government. This degree offers a standard track and a professional track. A required course may be replaced by a more advanced course with concentration advisor approval.No course may be used to satisfy more than one of the required 17 concentration credits. Transfer credits and courses receiving placement credit notation can satisfy concentration credit as long as they appear on the Brown internal transcript. At most 3 post-matriculation transfer credits (such as study abroad courses or summer courses at another institution) can be used for concentration credit. Pursuing honors will require 18 courses \u2013 these 17 along with two semesters of independent study courses for the honors research project, one of which can be used to satisfy the capstone concentration requirement. For students with multiple concentrations: calculus, linear algebra, one intro CSCI course, and at most two additional courses can be used for concentration credit in the other concentration(s).",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree_",
@@ -36,7 +37,7 @@
           "notes": []
         },
         {
-          "name": "Requirements \u2013 17 courses 1",
+          "name": "Requirements \u2013 17 courses",
           "type": "label",
           "courses": [],
           "count": null,
@@ -53,7 +54,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus2"
                 }
               ],
               "count": 1,
@@ -65,7 +66,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -77,7 +78,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -89,7 +90,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra2"
                 }
               ],
               "count": 1,
@@ -101,7 +102,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -113,7 +114,7 @@
               "courses": [
                 {
                   "code": "CSCI 0530",
-                  "name": "CSCI 0530"
+                  "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
                 }
               ],
               "count": null,
@@ -125,7 +126,7 @@
               "courses": [
                 {
                   "code": "APMA 1170",
-                  "name": "APMA 1170"
+                  "name": "Introduction to Computational Linear Algebra"
                 }
               ],
               "count": null,
@@ -135,14 +136,14 @@
           "notes": []
         },
         {
-          "name": "APMA 0355 Applied Ordinary Differential Equations with Theory 3 1",
+          "name": "APMA 0355 Applied Ordinary Differential Equations with Theory",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "APMA 0365 Applied Partial Differential Equations I with Theory 4 1",
+          "name": "APMA 0365 Applied Partial Differential Equations I with Theory",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -152,7 +153,7 @@
               "courses": [
                 {
                   "code": "APMA 1160",
-                  "name": "APMA 1160"
+                  "name": "An Introduction to Numerical Optimization"
                 }
               ],
               "count": 1,
@@ -164,7 +165,7 @@
               "courses": [
                 {
                   "code": "APMA 1170",
-                  "name": "APMA 1170"
+                  "name": "Introduction to Computational Linear Algebra"
                 }
               ],
               "count": null,
@@ -176,7 +177,7 @@
               "courses": [
                 {
                   "code": "APMA 1180",
-                  "name": "APMA 1180"
+                  "name": "Introduction to Numerical Solution of Differential Equations"
                 }
               ],
               "count": null,
@@ -188,7 +189,7 @@
               "courses": [
                 {
                   "code": "APMA 1690",
-                  "name": "APMA 1690"
+                  "name": "Computational Probability and Statistics"
                 }
               ],
               "count": null,
@@ -200,7 +201,7 @@
               "courses": [
                 {
                   "code": "APMA 1740",
-                  "name": "APMA 1740"
+                  "name": "Recent Applications of Probability and Statistics"
                 }
               ],
               "count": null,
@@ -210,14 +211,14 @@
           "notes": []
         },
         {
-          "name": "Two approved 1000-level or higher APMA courses. 5,6 2",
+          "name": "Two approved 1000-level or higher APMA courses.",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One 1000-level or higher APMA or MATH course 5,6 1",
+          "name": "One 1000-level or higher APMA or MATH course",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -231,7 +232,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following introductory course sequences: 2",
+          "name": "Select one of the following introductory course sequences:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -241,11 +242,11 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -257,11 +258,11 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -273,11 +274,11 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms7"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms7"
                 }
               ],
               "count": null,
@@ -303,7 +304,7 @@
           "notes": []
         },
         {
-          "name": "Select one foundational course in each of three of the following four clusters: 3",
+          "name": "Select one foundational course in each of three of the following four clusters:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -320,7 +321,7 @@
               "courses": [
                 {
                   "code": "CSCI 0500",
-                  "name": "CSCI 0500"
+                  "name": "Data Structures, Algorithms, and Intractability: An Introduction"
                 }
               ],
               "count": null,
@@ -340,7 +341,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -360,7 +361,7 @@
               "courses": [
                 {
                   "code": "CSCI 0300",
-                  "name": "CSCI 0300"
+                  "name": "Fundamentals of Computer Systems8"
                 }
               ],
               "count": null,
@@ -372,7 +373,7 @@
               "courses": [
                 {
                   "code": "CSCI 0320",
-                  "name": "CSCI 0320"
+                  "name": "Introduction to Software Engineering"
                 }
               ],
               "count": null,
@@ -384,7 +385,7 @@
               "courses": [
                 {
                   "code": "CSCI 0330",
-                  "name": "CSCI 0330"
+                  "name": "Introduction to Computer Systems"
                 }
               ],
               "count": null,
@@ -404,7 +405,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory6,9"
                 }
               ],
               "count": null,
@@ -416,7 +417,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -428,7 +429,7 @@
               "courses": [
                 {
                   "code": "CSCI 1450",
-                  "name": "CSCI 1450"
+                  "name": "Advanced Introduction to Probability for Computing and Data Science"
                 }
               ],
               "count": null,
@@ -440,7 +441,7 @@
               "courses": [
                 {
                   "code": "MATH 1210",
-                  "name": "MATH 1210"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -452,7 +453,7 @@
               "courses": [
                 {
                   "code": "MATH 1610",
-                  "name": "MATH 1610"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -462,21 +463,21 @@
           "notes": []
         },
         {
-          "name": "Three approved 1000-level or higher CSCI courses, which must be technical CS courses. 10 3",
+          "name": "Three approved 1000-level or higher CSCI courses, which must be technical CS courses.",
           "type": "label",
           "courses": [],
           "count": 3,
           "notes": []
         },
         {
-          "name": "Additional Requirements \u2013 1 course 1",
+          "name": "Additional Requirements \u2013 1 course",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One capstone in computer science or applied mathematics, taken in the student\u2019s senior year, and approved by the concentration advisor (or on the list of approved CS capstone courses). 11",
+          "name": "One capstone in computer science or applied mathematics, taken in the student\u2019s senior year, and approved by the concentration advisor (or on the list of approved CS capstone courses).",
           "type": "label",
           "courses": [],
           "count": null,
@@ -505,84 +506,84 @@
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0530",
-            "name": "CSCI 0530"
+            "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1170",
-            "name": "APMA 1170"
+            "name": "Introduction to Computational Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1160",
-            "name": "APMA 1160"
+            "name": "An Introduction to Numerical Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1170",
-            "name": "APMA 1170"
+            "name": "Introduction to Computational Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1180",
-            "name": "APMA 1180"
+            "name": "Introduction to Numerical Solution of Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1690",
-            "name": "APMA 1690"
+            "name": "Computational Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1740",
-            "name": "APMA 1740"
+            "name": "Recent Applications of Probability and Statistics"
           }
         },
         {
@@ -590,11 +591,11 @@
           "options": [
             {
               "code": "CSCI 0150",
-              "name": "CSCI 0150"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -603,11 +604,11 @@
           "options": [
             {
               "code": "CSCI 0170",
-              "name": "CSCI 0170"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -616,11 +617,11 @@
           "options": [
             {
               "code": "CSCI 0111",
-              "name": "CSCI 0111"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms7"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms7"
             }
           ]
         },
@@ -641,70 +642,70 @@
           "type": "required",
           "course": {
             "code": "CSCI 0500",
-            "name": "CSCI 0500"
+            "name": "Data Structures, Algorithms, and Intractability: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0300",
-            "name": "CSCI 0300"
+            "name": "Fundamentals of Computer Systems8"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0320",
-            "name": "CSCI 0320"
+            "name": "Introduction to Software Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0330",
-            "name": "CSCI 0330"
+            "name": "Introduction to Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory6,9"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1450",
-            "name": "CSCI 1450"
+            "name": "Advanced Introduction to Probability for Computing and Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1210",
-            "name": "MATH 1210"
+            "name": "Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1610",
-            "name": "MATH 1610"
+            "name": "Probability"
           }
         }
       ],
@@ -726,63 +727,63 @@
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculus2"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theory"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra2"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "CSCI 0530",
-      "name": "CSCI 0530"
+      "name": "Coding the Matrix: An Introduction to Linear Algebra for Computer Science"
     },
     {
       "code": "APMA 1170",
-      "name": "APMA 1170"
+      "name": "Introduction to Computational Linear Algebra"
     },
     {
       "code": "APMA 1160",
-      "name": "APMA 1160"
+      "name": "An Introduction to Numerical Optimization"
     },
     {
       "code": "APMA 1180",
-      "name": "APMA 1180"
+      "name": "Introduction to Numerical Solution of Differential Equations"
     },
     {
       "code": "APMA 1690",
-      "name": "APMA 1690"
+      "name": "Computational Probability and Statistics"
     },
     {
       "code": "APMA 1740",
-      "name": "APMA 1740"
+      "name": "Recent Applications of Probability and Statistics"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms7"
     },
     {
       "code": "CSCI 0190",
@@ -790,43 +791,43 @@
     },
     {
       "code": "CSCI 0500",
-      "name": "CSCI 0500"
+      "name": "Data Structures, Algorithms, and Intractability: An Introduction"
     },
     {
       "code": "CSCI 0410",
-      "name": "CSCI 0410"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 0300",
-      "name": "CSCI 0300"
+      "name": "Fundamentals of Computer Systems8"
     },
     {
       "code": "CSCI 0320",
-      "name": "CSCI 0320"
+      "name": "Introduction to Software Engineering"
     },
     {
       "code": "CSCI 0330",
-      "name": "CSCI 0330"
+      "name": "Introduction to Computer Systems"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory6,9"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "CSCI 1450",
-      "name": "CSCI 1450"
+      "name": "Advanced Introduction to Probability for Computing and Data Science"
     },
     {
       "code": "MATH 1210",
-      "name": "MATH 1210"
+      "name": "Probability"
     },
     {
       "code": "MATH 1610",
-      "name": "MATH 1610"
+      "name": "Probability"
     },
     {
       "code": "APMA 0260",

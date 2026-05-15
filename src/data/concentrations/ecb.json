@@ -2,6 +2,7 @@
   "concentration": "Earth, Climate, and Biology",
   "slug": "ecb",
   "url": "https://bulletin.brown.edu/the-college/concentrations/ecb/",
+  "description": "Students in Earth, Climate and Biology apply principles from Earth science, biology, chemistry, and physics to understand how major components of the Earth system, such as its atmosphere and oceans, interact with and sustain life over time. Many courses emphasize climate change, environmental quality, and biogeochemistry, so this concentration is a good match for students interested in studying the environment. Courses also investigate Earth history, including past climate, extinction events, and using the Earth\u2019s sedimentary record to investigate environmental change. Both A.B. and Sc.B. degrees are offered, requiring 12 and 19 courses, respectively.\u00a0 These degrees build skills in critical thinking, data analysis and modeling, finding solutions to complex problems, and written and oral communication.\u00a0\u00a0 DEEPS provides a highly collaborative learning environment that emphasizes process-oriented, hands-on approaches in the classroom, in labs and on field trips. There are many opportunities for students to do paid research during the summer or academic year.",
   "tracks": [
     {
       "id": "standard_program_for_the_ab_degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems (or equivalent)"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "BIOL 0210",
-                  "name": "BIOL 0210"
+                  "name": "Diversity of Life"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure (or equivalent)"
                 }
               ],
               "count": 1,
@@ -52,7 +53,7 @@
           "notes": []
         },
         {
-          "name": "A course to build quantitative skills: 1",
+          "name": "A course to build quantitative skills:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I (or higher)"
                 }
               ],
               "count": null,
@@ -74,7 +75,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data (or higher)"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or higher)"
                 }
               ],
               "count": null,
@@ -122,7 +123,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics (or higher)"
                 }
               ],
               "count": null,
@@ -134,7 +135,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations (or higher)"
                 }
               ],
               "count": null,
@@ -151,7 +152,7 @@
           "notes": []
         },
         {
-          "name": "Two of these four fundamentals courses: 2",
+          "name": "Two of these four fundamentals courses:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -161,7 +162,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": null,
@@ -173,7 +174,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": null,
@@ -185,7 +186,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": null,
@@ -197,7 +198,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": null,
@@ -209,7 +210,7 @@
               "courses": [
                 {
                   "code": "EEPS 1240",
-                  "name": "EEPS 1240"
+                  "name": "Stratigraphy and Sedimentation"
                 }
               ],
               "count": 1,
@@ -219,7 +220,7 @@
           "notes": []
         },
         {
-          "name": "Select three upper level Biology courses such as: 3",
+          "name": "Select three upper level Biology courses such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -229,7 +230,7 @@
               "courses": [
                 {
                   "code": "BIOL 0410",
-                  "name": "BIOL 0410"
+                  "name": "Invertebrate Zoology"
                 }
               ],
               "count": null,
@@ -241,7 +242,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": null,
@@ -253,7 +254,7 @@
               "courses": [
                 {
                   "code": "BIOL 0430",
-                  "name": "BIOL 0430"
+                  "name": "The Evolution of Plant Diversity"
                 }
               ],
               "count": null,
@@ -265,7 +266,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -277,7 +278,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -287,7 +288,7 @@
           "notes": []
         },
         {
-          "name": "Three EEPS courses such as: 3",
+          "name": "Three EEPS courses such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -321,7 +322,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "EEPS 1120",
-                  "name": "EEPS 1120"
+                  "name": "Paleoceanography"
                 }
               ],
               "count": null,
@@ -345,7 +346,7 @@
               "courses": [
                 {
                   "code": "EEPS 1130",
-                  "name": "EEPS 1130"
+                  "name": "Ocean Biogeochemical Cycles"
                 }
               ],
               "count": null,
@@ -357,7 +358,7 @@
               "courses": [
                 {
                   "code": "EEPS 1150",
-                  "name": "EEPS 1150"
+                  "name": "Limnology: The Study of Lakes"
                 }
               ],
               "count": null,
@@ -369,7 +370,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -381,7 +382,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -393,7 +394,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -405,7 +406,7 @@
               "courses": [
                 {
                   "code": "EEPS 1615",
-                  "name": "EEPS 1615"
+                  "name": "Climate Change, Human Rights, and the Policy Process"
                 }
               ],
               "count": null,
@@ -417,7 +418,7 @@
               "courses": [
                 {
                   "code": "EEPS 1970",
-                  "name": "EEPS 1970"
+                  "name": "Undergraduate Senior Thesis Course"
                 }
               ],
               "count": null,
@@ -432,140 +433,140 @@
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0210",
-            "name": "BIOL 0210"
+            "name": "Diversity of Life"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1240",
-            "name": "EEPS 1240"
+            "name": "Stratigraphy and Sedimentation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0410",
-            "name": "BIOL 0410"
+            "name": "Invertebrate Zoology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0430",
-            "name": "BIOL 0430"
+            "name": "The Evolution of Plant Diversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
@@ -593,63 +594,63 @@
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1120",
-            "name": "EEPS 1120"
+            "name": "Paleoceanography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1130",
-            "name": "EEPS 1130"
+            "name": "Ocean Biogeochemical Cycles"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1150",
-            "name": "EEPS 1150"
+            "name": "Limnology: The Study of Lakes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1615",
-            "name": "EEPS 1615"
+            "name": "Climate Change, Human Rights, and the Policy Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1970",
-            "name": "EEPS 1970"
+            "name": "Undergraduate Senior Thesis Course"
           }
         }
       ],
@@ -670,7 +671,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems (or equivalent)"
                 }
               ],
               "count": 1,
@@ -682,7 +683,7 @@
               "courses": [
                 {
                   "code": "BIOL 0210",
-                  "name": "BIOL 0210"
+                  "name": "Diversity of Life"
                 }
               ],
               "count": null,
@@ -694,7 +695,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure (or equivalent)"
                 }
               ],
               "count": 1,
@@ -704,7 +705,7 @@
           "notes": []
         },
         {
-          "name": "Three courses to build quantitative skills: 3",
+          "name": "Three courses to build quantitative skills:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -714,7 +715,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I (or higher)"
                 }
               ],
               "count": null,
@@ -726,7 +727,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -738,7 +739,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -750,7 +751,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data (or higher)"
                 }
               ],
               "count": null,
@@ -762,7 +763,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or higher)"
                 }
               ],
               "count": null,
@@ -774,7 +775,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations (or higher)"
                 }
               ],
               "count": null,
@@ -786,7 +787,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics (or higher)"
                 }
               ],
               "count": null,
@@ -806,7 +807,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": 1,
@@ -818,7 +819,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": 1,
@@ -830,7 +831,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": 1,
@@ -842,7 +843,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": null,
@@ -854,7 +855,7 @@
               "courses": [
                 {
                   "code": "EEPS 1240",
-                  "name": "EEPS 1240"
+                  "name": "Stratigraphy and Sedimentation"
                 }
               ],
               "count": 1,
@@ -864,7 +865,7 @@
           "notes": []
         },
         {
-          "name": "Three upper level Biology courses such as: 3",
+          "name": "Three upper level Biology courses such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -874,7 +875,7 @@
               "courses": [
                 {
                   "code": "BIOL 0410",
-                  "name": "BIOL 0410"
+                  "name": "Invertebrate Zoology"
                 }
               ],
               "count": null,
@@ -886,7 +887,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": null,
@@ -898,7 +899,7 @@
               "courses": [
                 {
                   "code": "BIOL 0430",
-                  "name": "BIOL 0430"
+                  "name": "The Evolution of Plant Diversity"
                 }
               ],
               "count": null,
@@ -910,7 +911,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -922,7 +923,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -932,7 +933,7 @@
           "notes": []
         },
         {
-          "name": "Three upper level EEPS courses such as: 3",
+          "name": "Three upper level EEPS courses such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -942,7 +943,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -954,7 +955,7 @@
               "courses": [
                 {
                   "code": "EEPS 1120",
-                  "name": "EEPS 1120"
+                  "name": "Paleoceanography"
                 }
               ],
               "count": null,
@@ -966,7 +967,7 @@
               "courses": [
                 {
                   "code": "EEPS 1130",
-                  "name": "EEPS 1130"
+                  "name": "Ocean Biogeochemical Cycles"
                 }
               ],
               "count": null,
@@ -978,7 +979,7 @@
               "courses": [
                 {
                   "code": "EEPS 1150",
-                  "name": "EEPS 1150"
+                  "name": "Limnology: The Study of Lakes"
                 }
               ],
               "count": null,
@@ -990,7 +991,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -1002,7 +1003,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -1014,7 +1015,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -1026,7 +1027,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -1038,7 +1039,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -1050,7 +1051,7 @@
               "courses": [
                 {
                   "code": "EEPS 1615",
-                  "name": "EEPS 1615"
+                  "name": "Climate Change, Human Rights, and the Policy Process"
                 }
               ],
               "count": null,
@@ -1060,7 +1061,7 @@
           "notes": []
         },
         {
-          "name": "Three upper level science or math courses with approval from the concentration advisor 3",
+          "name": "Three upper level science or math courses with approval from the concentration advisor",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -1070,7 +1071,7 @@
               "courses": [
                 {
                   "code": "EEPS 1970",
-                  "name": "EEPS 1970"
+                  "name": "Undergraduate Senior Thesis Course (Senior Research Thesis)"
                 }
               ],
               "count": 1,
@@ -1085,217 +1086,217 @@
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0210",
-            "name": "BIOL 0210"
+            "name": "Diversity of Life"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics (or higher)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1240",
-            "name": "EEPS 1240"
+            "name": "Stratigraphy and Sedimentation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0410",
-            "name": "BIOL 0410"
+            "name": "Invertebrate Zoology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0430",
-            "name": "BIOL 0430"
+            "name": "The Evolution of Plant Diversity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1120",
-            "name": "EEPS 1120"
+            "name": "Paleoceanography"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1130",
-            "name": "EEPS 1130"
+            "name": "Ocean Biogeochemical Cycles"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1150",
-            "name": "EEPS 1150"
+            "name": "Limnology: The Study of Lakes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1615",
-            "name": "EEPS 1615"
+            "name": "Climate Change, Human Rights, and the Policy Process"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1970",
-            "name": "EEPS 1970"
+            "name": "Undergraduate Senior Thesis Course (Senior Research Thesis)"
           }
         }
       ],
@@ -1305,127 +1306,127 @@
   "all_courses": [
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems (or equivalent)"
     },
     {
       "code": "BIOL 0210",
-      "name": "BIOL 0210"
+      "name": "Diversity of Life"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure (or equivalent)"
     },
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I (or higher)"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data (or higher)"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics (or higher)"
     },
     {
       "code": "PHYS 0050",
-      "name": "PHYS 0050"
+      "name": "Foundations of Mechanics (or higher)"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations (or higher)"
     },
     {
       "code": "EEPS 0220",
-      "name": "EEPS 0220"
+      "name": "Earth and Environmental Processes"
     },
     {
       "code": "EEPS 0230",
-      "name": "EEPS 0230"
+      "name": "Geochemistry: Earth and Planetary Materials and Processes"
     },
     {
       "code": "EEPS 0240",
-      "name": "EEPS 0240"
+      "name": "Earth: Evolution of a Habitable Planet"
     },
     {
       "code": "EEPS 0250",
-      "name": "EEPS 0250"
+      "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
     },
     {
       "code": "EEPS 1240",
-      "name": "EEPS 1240"
+      "name": "Stratigraphy and Sedimentation"
     },
     {
       "code": "BIOL 0410",
-      "name": "BIOL 0410"
+      "name": "Invertebrate Zoology"
     },
     {
       "code": "BIOL 0420",
-      "name": "BIOL 0420"
+      "name": "Principles of Ecology"
     },
     {
       "code": "BIOL 0430",
-      "name": "BIOL 0430"
+      "name": "The Evolution of Plant Diversity"
     },
     {
       "code": "BIOL 0480",
-      "name": "BIOL 0480"
+      "name": "Evolutionary Biology"
     },
     {
       "code": "BIOL 1470",
-      "name": "BIOL 1470"
+      "name": "Conservation Biology"
     },
     {
       "code": "EEPS 0850",
-      "name": "EEPS 0850"
+      "name": "Weather and Climate"
     },
     {
       "code": "EEPS 1120",
-      "name": "EEPS 1120"
+      "name": "Paleoceanography"
     },
     {
       "code": "EEPS 1130",
-      "name": "EEPS 1130"
+      "name": "Ocean Biogeochemical Cycles"
     },
     {
       "code": "EEPS 1150",
-      "name": "EEPS 1150"
+      "name": "Limnology: The Study of Lakes"
     },
     {
       "code": "EEPS 1310",
-      "name": "EEPS 1310"
+      "name": "Global Water Cycle"
     },
     {
       "code": "EEPS 1320",
-      "name": "EEPS 1320"
+      "name": "Introduction to Geographic Information Systems for Environmental Applications"
     },
     {
       "code": "EEPS 1370",
-      "name": "EEPS 1370"
+      "name": "Environmental Geochemistry"
     },
     {
       "code": "EEPS 1615",
-      "name": "EEPS 1615"
+      "name": "Climate Change, Human Rights, and the Policy Process"
     },
     {
       "code": "EEPS 1970",
-      "name": "EEPS 1970"
+      "name": "Undergraduate Senior Thesis Course"
     },
     {
       "code": "EEPS 1330",
-      "name": "EEPS 1330"
+      "name": "Global Environmental Remote Sensing"
     },
     {
       "code": "EEPS 1430",
-      "name": "EEPS 1430"
+      "name": "Atmospheric Circulation and Climate Dynamics"
     }
   ]
 }

@@ -2,6 +2,7 @@
   "concentration": "Cognitive Neuroscience",
   "slug": "cogn",
   "url": "https://bulletin.brown.edu/the-college/concentrations/cogn/",
+  "description": "Cognitive Neuroscience is the study of how neural mechanisms give rise to the mental representations and processes that underlie behavior. Cognitive Neuroscience concentrators integrate research in cognitive science, psychology, and neuroscience. Students in the concentration are exposed to both behavioral and experimental methods as well as computational approaches in order to understand the nature of cognition from a neural perspective. Through the elective requirements, students can focus on one of these two avenues of study, or they can propose a balance between the two. Concentrators must also complete a senior capstone seminar course or conduct an independent program of study with members of the Cognitive and Psychological Sciences department, the Department of Neuroscience, or the Carney Institute for Brain Science.\u00a0 The general goal of the Cognitive Neuroscience requirements is to provide students with the foundational knowledge in Psychology and Neuroscience necessary for an integrative study of the relation between the mind and the brain, while also allowing students to deeply explore one or two areas of focus in Cognitive Neuroscience Careers in Cognitive Neuroscience and related fields require\u00a0familiarity with statistics.Therefore, the Cognitive Neuroscience concentration requires a course in Quantitative Methods (CPSY\u00a00900).CPSY\u00a00900is a prerequisite for research methods and laboratory courses, so concentrators should plan to take this course by their fourth semester. Students may substitute forCPSY\u00a00900a comparable statistics course taught in another department,\u00a0with the approval of a Cognitive Neuroscience concentration advisor. Consult with a concentration advisor for details.\u00a0 The department does not grant concentration credit for AP Statistics, regardless of score. We strongly recommend fulfilling the statistics requirement as a sophomore.",
   "tracks": [
     {
       "id": "standard_program_for_the_ab_degree",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -25,7 +26,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -37,14 +38,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -160,7 +161,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -194,7 +195,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -204,7 +205,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -214,7 +215,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -226,7 +227,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -238,7 +239,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -250,7 +251,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -316,7 +317,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -352,161 +353,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -535,7 +536,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -547,7 +548,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -559,14 +560,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -576,7 +577,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -588,7 +589,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -600,7 +601,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -612,7 +613,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -624,7 +625,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -636,7 +637,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -648,7 +649,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -660,7 +661,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -672,7 +673,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -682,7 +683,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -692,7 +693,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -704,7 +705,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -716,7 +717,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -726,7 +727,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -736,7 +737,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -748,7 +749,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -760,7 +761,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -772,7 +773,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -792,7 +793,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -804,7 +805,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -816,7 +817,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -828,7 +829,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -838,7 +839,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -874,161 +875,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -1057,7 +1058,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -1069,7 +1070,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -1081,14 +1082,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1098,7 +1099,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -1110,7 +1111,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -1122,7 +1123,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -1134,7 +1135,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1146,7 +1147,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -1158,7 +1159,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -1170,7 +1171,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -1182,7 +1183,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -1194,7 +1195,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1204,7 +1205,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1214,7 +1215,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1226,7 +1227,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -1238,7 +1239,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -1248,7 +1249,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1258,7 +1259,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -1270,7 +1271,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -1282,7 +1283,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1294,7 +1295,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -1314,7 +1315,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -1326,7 +1327,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -1338,7 +1339,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1350,7 +1351,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1360,7 +1361,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -1396,161 +1397,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -1579,7 +1580,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -1591,7 +1592,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -1603,14 +1604,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1620,7 +1621,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -1632,7 +1633,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -1644,7 +1645,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -1656,7 +1657,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1668,7 +1669,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -1680,7 +1681,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -1692,7 +1693,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -1704,7 +1705,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -1716,7 +1717,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1726,7 +1727,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1736,7 +1737,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1748,7 +1749,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -1760,7 +1761,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -1770,7 +1771,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1780,7 +1781,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -1792,7 +1793,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -1804,7 +1805,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1816,7 +1817,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -1836,7 +1837,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -1848,7 +1849,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -1860,7 +1861,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1872,7 +1873,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1882,7 +1883,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -1918,161 +1919,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -2101,7 +2102,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -2113,7 +2114,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -2125,14 +2126,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -2142,7 +2143,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -2154,7 +2155,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -2166,7 +2167,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -2178,7 +2179,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2190,7 +2191,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -2202,7 +2203,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -2214,7 +2215,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -2226,7 +2227,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -2238,7 +2239,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -2248,7 +2249,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2258,7 +2259,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2270,7 +2271,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -2282,7 +2283,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -2292,7 +2293,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2302,7 +2303,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -2314,7 +2315,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -2326,7 +2327,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2338,7 +2339,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -2358,7 +2359,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -2370,7 +2371,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -2382,7 +2383,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -2394,7 +2395,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -2404,7 +2405,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -2418,7 +2419,7 @@
           "notes": []
         },
         {
-          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department. 5",
+          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department.",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -2447,161 +2448,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -2630,7 +2631,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -2642,7 +2643,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -2654,14 +2655,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -2671,7 +2672,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -2683,7 +2684,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -2695,7 +2696,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -2707,7 +2708,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2719,7 +2720,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -2731,7 +2732,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -2743,7 +2744,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -2755,7 +2756,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -2767,7 +2768,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -2777,7 +2778,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2787,7 +2788,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2799,7 +2800,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -2811,7 +2812,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -2821,7 +2822,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2831,7 +2832,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -2843,7 +2844,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -2855,7 +2856,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -2867,7 +2868,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -2887,7 +2888,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -2899,7 +2900,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -2911,7 +2912,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -2923,7 +2924,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -2933,7 +2934,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -2947,7 +2948,7 @@
           "notes": []
         },
         {
-          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department. 5",
+          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department.",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -2976,161 +2977,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -3159,7 +3160,7 @@
           "courses": [
             {
               "code": "CPSY 0900",
-              "name": "CPSY 0900"
+              "name": "Statistical Methods"
             }
           ],
           "count": 1,
@@ -3171,7 +3172,7 @@
           "courses": [
             {
               "code": "CPSY 1900",
-              "name": "CPSY 1900"
+              "name": "Research Methods And Design"
             }
           ],
           "count": 1,
@@ -3183,14 +3184,14 @@
           "courses": [
             {
               "code": "CPSY 1901",
-              "name": "CPSY 1901"
+              "name": "Research Methods"
             }
           ],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two Foundation Courses in Cognition from the following: 2",
+          "name": "Two Foundation Courses in Cognition from the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -3200,7 +3201,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -3212,7 +3213,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -3224,7 +3225,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -3236,7 +3237,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -3248,7 +3249,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -3260,7 +3261,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -3272,7 +3273,7 @@
               "courses": [
                 {
                   "code": "CPSY 0550",
-                  "name": "CPSY 0550"
+                  "name": "Science of Consciousness"
                 }
               ],
               "count": null,
@@ -3284,7 +3285,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -3296,7 +3297,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -3306,7 +3307,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Neuroscience from the following: 1",
+          "name": "One Foundation Course in Neuroscience from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -3316,7 +3317,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -3328,7 +3329,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -3340,7 +3341,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -3350,7 +3351,7 @@
           "notes": []
         },
         {
-          "name": "One Foundation Course in Computation from the following: 1",
+          "name": "One Foundation Course in Computation from the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -3360,7 +3361,7 @@
               "courses": [
                 {
                   "code": "CPSY 0950",
-                  "name": "CPSY 0950"
+                  "name": "Introduction to programming"
                 }
               ],
               "count": null,
@@ -3372,7 +3373,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -3384,7 +3385,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -3396,7 +3397,7 @@
               "courses": [
                 {
                   "code": "CPSY 1950",
-                  "name": "CPSY 1950"
+                  "name": "Deep Learning in Brains, Minds and Machines"
                 }
               ],
               "count": null,
@@ -3416,7 +3417,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -3428,7 +3429,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -3440,7 +3441,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -3452,7 +3453,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -3462,7 +3463,7 @@
           "notes": []
         },
         {
-          "name": "Five Approved Electives: 5",
+          "name": "Five Approved Electives:",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -3476,7 +3477,7 @@
           "notes": []
         },
         {
-          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department. 5",
+          "name": "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended).  Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department.",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -3505,161 +3506,161 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1901",
-            "name": "CPSY 1901"
+            "name": "Research Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0550",
-            "name": "CPSY 0550"
+            "name": "Science of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0950",
-            "name": "CPSY 0950"
+            "name": "Introduction to programming"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1950",
-            "name": "CPSY 1950"
+            "name": "Deep Learning in Brains, Minds and Machines"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -3690,79 +3691,79 @@
     },
     {
       "code": "CPSY 1901",
-      "name": "CPSY 1901"
+      "name": "Research Methods"
     },
     {
       "code": "CPSY 0010",
-      "name": "CPSY 0010"
+      "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
     },
     {
       "code": "CPSY 0100",
-      "name": "CPSY 0100"
+      "name": "Learning and Conditioning"
     },
     {
       "code": "CPSY 0200",
-      "name": "CPSY 0200"
+      "name": "Human Cognition"
     },
     {
       "code": "CPSY 0400",
-      "name": "CPSY 0400"
+      "name": "Cognitive Neuroscience"
     },
     {
       "code": "CPSY 0450",
-      "name": "CPSY 0450"
+      "name": "Brain Damage and the Mind"
     },
     {
       "code": "CPSY 0500",
-      "name": "CPSY 0500"
+      "name": "Perception and Mind"
     },
     {
       "code": "CPSY 0550",
-      "name": "CPSY 0550"
+      "name": "Science of Consciousness"
     },
     {
       "code": "CPSY 0610",
-      "name": "CPSY 0610"
+      "name": "Children's Thinking: The Nature of Cognitive Development"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "CPSY 0950",
-      "name": "CPSY 0950"
+      "name": "Introduction to programming"
     },
     {
       "code": "CPSY 1291",
-      "name": "CPSY 1291"
+      "name": "Computational Methods for Mind, Brain and Behavior"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "CPSY 1950",
-      "name": "CPSY 1950"
+      "name": "Deep Learning in Brains, Minds and Machines"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "CPSY 1970",

@@ -2,6 +2,7 @@
   "concentration": "Mechanical Engineering",
   "slug": "mceg",
   "url": "https://bulletin.brown.edu/the-college/concentrations/mceg/",
+  "description": "The Sc.B. program in Mechanical Engineering (ME) has a long tradition of excellence at Brown. ME is one of the most versatile engineering disciplines as it explores a wide range of systems spanning fluids and solids. Students from this concentration learn the science of motion, designing and analyzing systems that shape our world:\u00a0 From high-precision nanomechanical machines to large-scale aerospace systems. At Brown, ME students carve unique paths leveraging computational, analytical, or experimental methodologies with other areas of interest in the spirit of the open curriculum. They become distinguished scholars, engineering innovators, and management leaders. The curriculum in ME is intended to provide students with a broad interdisciplinary foundation complemented by specialized training in mechanical systems and fluid/thermal systems.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science1"
                 }
               ],
               "count": 1,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations2"
                 }
               ],
               "count": 1,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I2"
                 }
               ],
               "count": 1,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -304,7 +305,7 @@
           "notes": []
         },
         {
-          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups: 6",
+          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -321,7 +322,7 @@
               "courses": [
                 {
                   "code": "ENGN 1300",
-                  "name": "ENGN 1300"
+                  "name": "Structural Analysis"
                 }
               ],
               "count": null,
@@ -333,7 +334,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -345,7 +346,7 @@
               "courses": [
                 {
                   "code": "ENGN 1735",
-                  "name": "ENGN 1735"
+                  "name": "Vibration of Mechanical Systems"
                 }
               ],
               "count": null,
@@ -357,7 +358,7 @@
               "courses": [
                 {
                   "code": "ENGN 1750",
-                  "name": "ENGN 1750"
+                  "name": "Advanced Mechanics of Solids"
                 }
               ],
               "count": null,
@@ -377,7 +378,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -389,7 +390,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -401,7 +402,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -411,7 +412,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: At least one course from the following must be taken in the final two semesters: 3",
+          "name": "Capstone: At least one course from the following must be taken in the final two semesters:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -421,7 +422,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -433,7 +434,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -445,7 +446,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -457,7 +458,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -477,7 +478,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -489,7 +490,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": null,
@@ -521,7 +522,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -533,7 +534,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -553,7 +554,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -573,7 +574,7 @@
               "courses": [
                 {
                   "code": "ENGN 1840",
-                  "name": "ENGN 1840"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": null,
@@ -585,7 +586,7 @@
               "courses": [
                 {
                   "code": "ENGN 1950",
-                  "name": "ENGN 1950"
+                  "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
                 }
               ],
               "count": null,
@@ -605,7 +606,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -617,7 +618,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -627,7 +628,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary Electives: Up to one course from: 4",
+          "name": "Interdisciplinary Electives: Up to one course from:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -637,7 +638,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -649,7 +650,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": null,
@@ -661,7 +662,7 @@
               "courses": [
                 {
                   "code": "ENGN 1440",
-                  "name": "ENGN 1440"
+                  "name": "Mechanical Properties of Materials"
                 }
               ],
               "count": null,
@@ -673,7 +674,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials"
                 }
               ],
               "count": null,
@@ -685,7 +686,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": null,
@@ -697,7 +698,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -709,7 +710,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -719,7 +720,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper Level, Advanced Science Course: At least one course from: 5 1",
+          "name": "3. Upper Level, Advanced Science Course: At least one course from:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -729,7 +730,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter"
                 }
               ],
               "count": null,
@@ -741,7 +742,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -753,7 +754,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -765,7 +766,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -777,7 +778,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -789,7 +790,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -811,406 +812,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1300",
-            "name": "ENGN 1300"
+            "name": "Structural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1735",
-            "name": "ENGN 1735"
+            "name": "Vibration of Mechanical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1750",
-            "name": "ENGN 1750"
+            "name": "Advanced Mechanics of Solids"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1840",
-            "name": "ENGN 1840"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1950",
-            "name": "ENGN 1950"
+            "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1440",
-            "name": "ENGN 1440"
+            "name": "Mechanical Properties of Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         }
       ],
@@ -1231,7 +1232,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -1243,7 +1244,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -1255,7 +1256,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -1267,7 +1268,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -1279,7 +1280,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science1"
                 }
               ],
               "count": 1,
@@ -1291,7 +1292,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -1303,7 +1304,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -1315,7 +1316,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -1327,7 +1328,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -1339,7 +1340,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -1351,7 +1352,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1363,7 +1364,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -1375,7 +1376,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1387,7 +1388,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1399,7 +1400,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1411,7 +1412,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations2"
                 }
               ],
               "count": 1,
@@ -1423,7 +1424,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -1435,7 +1436,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I2"
                 }
               ],
               "count": 1,
@@ -1447,7 +1448,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -1459,7 +1460,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -1471,7 +1472,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -1483,7 +1484,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1495,7 +1496,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1507,7 +1508,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -1517,7 +1518,7 @@
           "notes": []
         },
         {
-          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups: 6",
+          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -1534,7 +1535,7 @@
               "courses": [
                 {
                   "code": "ENGN 1300",
-                  "name": "ENGN 1300"
+                  "name": "Structural Analysis"
                 }
               ],
               "count": null,
@@ -1546,7 +1547,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -1558,7 +1559,7 @@
               "courses": [
                 {
                   "code": "ENGN 1735",
-                  "name": "ENGN 1735"
+                  "name": "Vibration of Mechanical Systems"
                 }
               ],
               "count": null,
@@ -1570,7 +1571,7 @@
               "courses": [
                 {
                   "code": "ENGN 1750",
-                  "name": "ENGN 1750"
+                  "name": "Advanced Mechanics of Solids"
                 }
               ],
               "count": null,
@@ -1590,7 +1591,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -1602,7 +1603,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -1614,7 +1615,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -1624,7 +1625,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: At least one course from the following must be taken in the final two semesters: 3",
+          "name": "Capstone: At least one course from the following must be taken in the final two semesters:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1634,7 +1635,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -1646,7 +1647,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -1658,7 +1659,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -1670,7 +1671,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -1690,7 +1691,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -1702,7 +1703,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -1722,7 +1723,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": null,
@@ -1734,7 +1735,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -1746,7 +1747,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -1766,7 +1767,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -1786,7 +1787,7 @@
               "courses": [
                 {
                   "code": "ENGN 1840",
-                  "name": "ENGN 1840"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": null,
@@ -1798,7 +1799,7 @@
               "courses": [
                 {
                   "code": "ENGN 1950",
-                  "name": "ENGN 1950"
+                  "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
                 }
               ],
               "count": null,
@@ -1818,7 +1819,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -1830,7 +1831,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -1840,7 +1841,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary Electives: Up to one course from: 4",
+          "name": "Interdisciplinary Electives: Up to one course from:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1850,7 +1851,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -1862,7 +1863,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": null,
@@ -1874,7 +1875,7 @@
               "courses": [
                 {
                   "code": "ENGN 1440",
-                  "name": "ENGN 1440"
+                  "name": "Mechanical Properties of Materials"
                 }
               ],
               "count": null,
@@ -1886,7 +1887,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials"
                 }
               ],
               "count": null,
@@ -1898,7 +1899,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": null,
@@ -1910,7 +1911,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -1922,7 +1923,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -1932,7 +1933,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper Level, Advanced Science Course: At least one course from: 5 1",
+          "name": "3. Upper Level, Advanced Science Course: At least one course from:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1942,7 +1943,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter"
                 }
               ],
               "count": null,
@@ -1954,7 +1955,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -1966,7 +1967,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -1978,7 +1979,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -1990,7 +1991,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -2002,7 +2003,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -2024,406 +2025,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1300",
-            "name": "ENGN 1300"
+            "name": "Structural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1735",
-            "name": "ENGN 1735"
+            "name": "Vibration of Mechanical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1750",
-            "name": "ENGN 1750"
+            "name": "Advanced Mechanics of Solids"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1840",
-            "name": "ENGN 1840"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1950",
-            "name": "ENGN 1950"
+            "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1440",
-            "name": "ENGN 1440"
+            "name": "Mechanical Properties of Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         }
       ],
@@ -2444,7 +2445,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -2456,7 +2457,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -2468,7 +2469,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -2480,7 +2481,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -2492,7 +2493,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science1"
                 }
               ],
               "count": 1,
@@ -2504,7 +2505,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2516,7 +2517,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -2528,7 +2529,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -2540,7 +2541,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -2552,7 +2553,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -2564,7 +2565,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2576,7 +2577,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2588,7 +2589,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2600,7 +2601,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -2612,7 +2613,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2624,7 +2625,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations2"
                 }
               ],
               "count": 1,
@@ -2636,7 +2637,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -2648,7 +2649,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I2"
                 }
               ],
               "count": 1,
@@ -2660,7 +2661,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -2672,7 +2673,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -2684,7 +2685,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -2696,7 +2697,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -2708,7 +2709,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -2720,7 +2721,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -2730,7 +2731,7 @@
           "notes": []
         },
         {
-          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups: 6",
+          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -2747,7 +2748,7 @@
               "courses": [
                 {
                   "code": "ENGN 1300",
-                  "name": "ENGN 1300"
+                  "name": "Structural Analysis"
                 }
               ],
               "count": null,
@@ -2759,7 +2760,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -2771,7 +2772,7 @@
               "courses": [
                 {
                   "code": "ENGN 1735",
-                  "name": "ENGN 1735"
+                  "name": "Vibration of Mechanical Systems"
                 }
               ],
               "count": null,
@@ -2783,7 +2784,7 @@
               "courses": [
                 {
                   "code": "ENGN 1750",
-                  "name": "ENGN 1750"
+                  "name": "Advanced Mechanics of Solids"
                 }
               ],
               "count": null,
@@ -2803,7 +2804,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -2815,7 +2816,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -2827,7 +2828,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -2837,7 +2838,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: At least one course from the following must be taken in the final two semesters: 3",
+          "name": "Capstone: At least one course from the following must be taken in the final two semesters:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2847,7 +2848,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -2859,7 +2860,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -2871,7 +2872,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -2883,7 +2884,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -2903,7 +2904,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -2915,7 +2916,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -2935,7 +2936,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": null,
@@ -2947,7 +2948,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -2959,7 +2960,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -2979,7 +2980,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -2999,7 +3000,7 @@
               "courses": [
                 {
                   "code": "ENGN 1840",
-                  "name": "ENGN 1840"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": null,
@@ -3011,7 +3012,7 @@
               "courses": [
                 {
                   "code": "ENGN 1950",
-                  "name": "ENGN 1950"
+                  "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
                 }
               ],
               "count": null,
@@ -3031,7 +3032,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -3043,7 +3044,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -3053,7 +3054,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary Electives: Up to one course from: 4",
+          "name": "Interdisciplinary Electives: Up to one course from:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -3063,7 +3064,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -3075,7 +3076,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": null,
@@ -3087,7 +3088,7 @@
               "courses": [
                 {
                   "code": "ENGN 1440",
-                  "name": "ENGN 1440"
+                  "name": "Mechanical Properties of Materials"
                 }
               ],
               "count": null,
@@ -3099,7 +3100,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials"
                 }
               ],
               "count": null,
@@ -3111,7 +3112,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": null,
@@ -3123,7 +3124,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -3135,7 +3136,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -3145,7 +3146,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper Level, Advanced Science Course: At least one course from: 5 1",
+          "name": "3. Upper Level, Advanced Science Course: At least one course from:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -3155,7 +3156,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter"
                 }
               ],
               "count": null,
@@ -3167,7 +3168,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -3179,7 +3180,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -3191,7 +3192,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -3203,7 +3204,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -3215,7 +3216,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -3237,406 +3238,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1300",
-            "name": "ENGN 1300"
+            "name": "Structural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1735",
-            "name": "ENGN 1735"
+            "name": "Vibration of Mechanical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1750",
-            "name": "ENGN 1750"
+            "name": "Advanced Mechanics of Solids"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1840",
-            "name": "ENGN 1840"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1950",
-            "name": "ENGN 1950"
+            "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1440",
-            "name": "ENGN 1440"
+            "name": "Mechanical Properties of Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         }
       ],
@@ -3657,7 +3658,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -3669,7 +3670,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -3681,7 +3682,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -3693,7 +3694,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -3705,7 +3706,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science1"
                 }
               ],
               "count": 1,
@@ -3717,7 +3718,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -3729,7 +3730,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -3741,7 +3742,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -3753,7 +3754,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -3765,7 +3766,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -3777,7 +3778,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -3789,7 +3790,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -3801,7 +3802,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -3813,7 +3814,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -3825,7 +3826,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -3837,7 +3838,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations2"
                 }
               ],
               "count": 1,
@@ -3849,7 +3850,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -3861,7 +3862,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I2"
                 }
               ],
               "count": 1,
@@ -3873,7 +3874,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -3885,7 +3886,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -3897,7 +3898,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -3909,7 +3910,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -3921,7 +3922,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -3933,7 +3934,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -3943,7 +3944,7 @@
           "notes": []
         },
         {
-          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups: 6",
+          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -3960,7 +3961,7 @@
               "courses": [
                 {
                   "code": "ENGN 1300",
-                  "name": "ENGN 1300"
+                  "name": "Structural Analysis"
                 }
               ],
               "count": null,
@@ -3972,7 +3973,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -3984,7 +3985,7 @@
               "courses": [
                 {
                   "code": "ENGN 1735",
-                  "name": "ENGN 1735"
+                  "name": "Vibration of Mechanical Systems"
                 }
               ],
               "count": null,
@@ -3996,7 +3997,7 @@
               "courses": [
                 {
                   "code": "ENGN 1750",
-                  "name": "ENGN 1750"
+                  "name": "Advanced Mechanics of Solids"
                 }
               ],
               "count": null,
@@ -4016,7 +4017,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -4028,7 +4029,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -4040,7 +4041,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -4050,7 +4051,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: At least one course from the following must be taken in the final two semesters: 3",
+          "name": "Capstone: At least one course from the following must be taken in the final two semesters:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -4060,7 +4061,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -4072,7 +4073,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -4084,7 +4085,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -4096,7 +4097,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -4116,7 +4117,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -4128,7 +4129,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -4148,7 +4149,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": null,
@@ -4160,7 +4161,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -4172,7 +4173,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -4192,7 +4193,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -4212,7 +4213,7 @@
               "courses": [
                 {
                   "code": "ENGN 1840",
-                  "name": "ENGN 1840"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": null,
@@ -4224,7 +4225,7 @@
               "courses": [
                 {
                   "code": "ENGN 1950",
-                  "name": "ENGN 1950"
+                  "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
                 }
               ],
               "count": null,
@@ -4244,7 +4245,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -4256,7 +4257,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -4266,7 +4267,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary Electives: Up to one course from: 4",
+          "name": "Interdisciplinary Electives: Up to one course from:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -4276,7 +4277,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -4288,7 +4289,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": null,
@@ -4300,7 +4301,7 @@
               "courses": [
                 {
                   "code": "ENGN 1440",
-                  "name": "ENGN 1440"
+                  "name": "Mechanical Properties of Materials"
                 }
               ],
               "count": null,
@@ -4312,7 +4313,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials"
                 }
               ],
               "count": null,
@@ -4324,7 +4325,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": null,
@@ -4336,7 +4337,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -4348,7 +4349,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -4358,7 +4359,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper Level, Advanced Science Course: At least one course from: 5 1",
+          "name": "3. Upper Level, Advanced Science Course: At least one course from:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -4368,7 +4369,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter"
                 }
               ],
               "count": null,
@@ -4380,7 +4381,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -4392,7 +4393,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -4404,7 +4405,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -4416,7 +4417,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -4428,7 +4429,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -4450,406 +4451,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1300",
-            "name": "ENGN 1300"
+            "name": "Structural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1735",
-            "name": "ENGN 1735"
+            "name": "Vibration of Mechanical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1750",
-            "name": "ENGN 1750"
+            "name": "Advanced Mechanics of Solids"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1840",
-            "name": "ENGN 1840"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1950",
-            "name": "ENGN 1950"
+            "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1440",
-            "name": "ENGN 1440"
+            "name": "Mechanical Properties of Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         }
       ],
@@ -4870,7 +4871,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -4882,7 +4883,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -4894,7 +4895,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -4906,7 +4907,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": 1,
@@ -4918,7 +4919,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science1"
                 }
               ],
               "count": 1,
@@ -4930,7 +4931,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -4942,7 +4943,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": 1,
@@ -4954,7 +4955,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -4966,7 +4967,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -4978,7 +4979,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -4990,7 +4991,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -5002,7 +5003,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -5014,7 +5015,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -5026,7 +5027,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -5038,7 +5039,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -5050,7 +5051,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations2"
                 }
               ],
               "count": 1,
@@ -5062,7 +5063,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -5074,7 +5075,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I2"
                 }
               ],
               "count": 1,
@@ -5086,7 +5087,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -5098,7 +5099,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -5110,7 +5111,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -5122,7 +5123,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -5134,7 +5135,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -5146,7 +5147,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -5156,7 +5157,7 @@
           "notes": []
         },
         {
-          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups: 6",
+          "name": "2. Upper-Level Mechanical Engineering Curriculum: Complete at least 6 courses from the following groups:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -5173,7 +5174,7 @@
               "courses": [
                 {
                   "code": "ENGN 1300",
-                  "name": "ENGN 1300"
+                  "name": "Structural Analysis"
                 }
               ],
               "count": null,
@@ -5185,7 +5186,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -5197,7 +5198,7 @@
               "courses": [
                 {
                   "code": "ENGN 1735",
-                  "name": "ENGN 1735"
+                  "name": "Vibration of Mechanical Systems"
                 }
               ],
               "count": null,
@@ -5209,7 +5210,7 @@
               "courses": [
                 {
                   "code": "ENGN 1750",
-                  "name": "ENGN 1750"
+                  "name": "Advanced Mechanics of Solids"
                 }
               ],
               "count": null,
@@ -5229,7 +5230,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -5241,7 +5242,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -5253,7 +5254,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -5263,7 +5264,7 @@
           "notes": []
         },
         {
-          "name": "Capstone: At least one course from the following must be taken in the final two semesters: 3",
+          "name": "Capstone: At least one course from the following must be taken in the final two semesters:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -5273,7 +5274,7 @@
               "courses": [
                 {
                   "code": "ENGN 1000",
-                  "name": "ENGN 1000"
+                  "name": "Projects in Engineering Design I"
                 }
               ],
               "count": null,
@@ -5285,7 +5286,7 @@
               "courses": [
                 {
                   "code": "ENGN 1001",
-                  "name": "ENGN 1001"
+                  "name": "Projects in Engineering Design II"
                 }
               ],
               "count": null,
@@ -5297,7 +5298,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931D",
-                  "name": "ENGN 1931D"
+                  "name": "Design of Mechanical Assemblies"
                 }
               ],
               "count": null,
@@ -5309,7 +5310,7 @@
               "courses": [
                 {
                   "code": "ENGN 1760",
-                  "name": "ENGN 1760"
+                  "name": "Design of Space Systems"
                 }
               ],
               "count": null,
@@ -5329,7 +5330,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": null,
@@ -5341,7 +5342,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -5361,7 +5362,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": null,
@@ -5373,7 +5374,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -5385,7 +5386,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -5405,7 +5406,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Y",
-                  "name": "ENGN 1931Y"
+                  "name": "Control Systems Engineering"
                 }
               ],
               "count": null,
@@ -5425,7 +5426,7 @@
               "courses": [
                 {
                   "code": "ENGN 1840",
-                  "name": "ENGN 1840"
+                  "name": "Numerical Methods in Engineering"
                 }
               ],
               "count": null,
@@ -5437,7 +5438,7 @@
               "courses": [
                 {
                   "code": "ENGN 1950",
-                  "name": "ENGN 1950"
+                  "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
                 }
               ],
               "count": null,
@@ -5457,7 +5458,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -5469,7 +5470,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -5479,7 +5480,7 @@
           "notes": []
         },
         {
-          "name": "Interdisciplinary Electives: Up to one course from: 4",
+          "name": "Interdisciplinary Electives: Up to one course from:",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -5489,7 +5490,7 @@
               "courses": [
                 {
                   "code": "ENGN 1620",
-                  "name": "ENGN 1620"
+                  "name": "Analysis and Design of Electronic Circuits"
                 }
               ],
               "count": null,
@@ -5501,7 +5502,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": null,
@@ -5513,7 +5514,7 @@
               "courses": [
                 {
                   "code": "ENGN 1440",
-                  "name": "ENGN 1440"
+                  "name": "Mechanical Properties of Materials"
                 }
               ],
               "count": null,
@@ -5525,7 +5526,7 @@
               "courses": [
                 {
                   "code": "ENGN 1470",
-                  "name": "ENGN 1470"
+                  "name": "Composite Materials"
                 }
               ],
               "count": null,
@@ -5537,7 +5538,7 @@
               "courses": [
                 {
                   "code": "ENGN 1570",
-                  "name": "ENGN 1570"
+                  "name": "Linear System Analysis"
                 }
               ],
               "count": null,
@@ -5549,7 +5550,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931F",
-                  "name": "ENGN 1931F"
+                  "name": "Introduction to Power Engineering"
                 }
               ],
               "count": null,
@@ -5561,7 +5562,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931Z",
-                  "name": "ENGN 1931Z"
+                  "name": "Interfaces, Information and Automation"
                 }
               ],
               "count": null,
@@ -5571,7 +5572,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper Level, Advanced Science Course: At least one course from: 5 1",
+          "name": "3. Upper Level, Advanced Science Course: At least one course from:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -5581,7 +5582,7 @@
               "courses": [
                 {
                   "code": "PHYS 0790",
-                  "name": "PHYS 0790"
+                  "name": "Physics of Matter"
                 }
               ],
               "count": null,
@@ -5593,7 +5594,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -5605,7 +5606,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -5617,7 +5618,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry"
                 }
               ],
               "count": null,
@@ -5629,7 +5630,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -5641,7 +5642,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": null,
@@ -5663,406 +5664,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1300",
-            "name": "ENGN 1300"
+            "name": "Structural Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1735",
-            "name": "ENGN 1735"
+            "name": "Vibration of Mechanical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1750",
-            "name": "ENGN 1750"
+            "name": "Advanced Mechanics of Solids"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1000",
-            "name": "ENGN 1000"
+            "name": "Projects in Engineering Design I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1001",
-            "name": "ENGN 1001"
+            "name": "Projects in Engineering Design II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931D",
-            "name": "ENGN 1931D"
+            "name": "Design of Mechanical Assemblies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1760",
-            "name": "ENGN 1760"
+            "name": "Design of Space Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Y",
-            "name": "ENGN 1931Y"
+            "name": "Control Systems Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1840",
-            "name": "ENGN 1840"
+            "name": "Numerical Methods in Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1950",
-            "name": "ENGN 1950"
+            "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1620",
-            "name": "ENGN 1620"
+            "name": "Analysis and Design of Electronic Circuits"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1440",
-            "name": "ENGN 1440"
+            "name": "Mechanical Properties of Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1470",
-            "name": "ENGN 1470"
+            "name": "Composite Materials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1570",
-            "name": "ENGN 1570"
+            "name": "Linear System Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931F",
-            "name": "ENGN 1931F"
+            "name": "Introduction to Power Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931Z",
-            "name": "ENGN 1931Z"
+            "name": "Interfaces, Information and Automation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0790",
-            "name": "PHYS 0790"
+            "name": "Physics of Matter"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         }
       ],
@@ -6132,199 +6133,199 @@
     },
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0310",
-      "name": "ENGN 0310"
+      "name": "Mechanics of Solids and Structures"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science1"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0520",
-      "name": "ENGN 0520"
+      "name": "Electrical Circuits and Signals"
     },
     {
       "code": "ENGN 0720",
-      "name": "ENGN 0720"
+      "name": "Thermodynamics"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "ENGN 1300",
-      "name": "ENGN 1300"
+      "name": "Structural Analysis"
     },
     {
       "code": "ENGN 1370",
-      "name": "ENGN 1370"
+      "name": "Advanced Engineering Mechanics"
     },
     {
       "code": "ENGN 1735",
-      "name": "ENGN 1735"
+      "name": "Vibration of Mechanical Systems"
     },
     {
       "code": "ENGN 1750",
-      "name": "ENGN 1750"
+      "name": "Advanced Mechanics of Solids"
     },
     {
       "code": "ENGN 1860",
-      "name": "ENGN 1860"
+      "name": "Advanced Fluid Mechanics"
     },
     {
       "code": "ENGN 1700",
-      "name": "ENGN 1700"
+      "name": "Fluid Mechanics of Aerospace and Energy Systems"
     },
     {
       "code": "ENGN 1115",
-      "name": "ENGN 1115"
+      "name": "Principles of Heat and Mass Transfer"
     },
     {
       "code": "ENGN 1000",
-      "name": "ENGN 1000"
+      "name": "Projects in Engineering Design I"
     },
     {
       "code": "ENGN 1001",
-      "name": "ENGN 1001"
+      "name": "Projects in Engineering Design II"
     },
     {
       "code": "ENGN 1931D",
-      "name": "ENGN 1931D"
+      "name": "Design of Mechanical Assemblies"
     },
     {
       "code": "ENGN 1760",
-      "name": "ENGN 1760"
+      "name": "Design of Space Systems"
     },
     {
       "code": "ENGN 1230",
-      "name": "ENGN 1230"
+      "name": "Instrumentation Design"
     },
     {
       "code": "ENGN 1740",
-      "name": "ENGN 1740"
+      "name": "Computer Aided Visualization and Design"
     },
     {
       "code": "ENGN 1210",
-      "name": "ENGN 1210"
+      "name": "Biomechanics"
     },
     {
       "code": "ENGN 1220",
-      "name": "ENGN 1220"
+      "name": "Neuroengineering"
     },
     {
       "code": "ENGN 1200",
-      "name": "ENGN 1200"
+      "name": "Biomaterials"
     },
     {
       "code": "ENGN 1931Y",
-      "name": "ENGN 1931Y"
+      "name": "Control Systems Engineering"
     },
     {
       "code": "ENGN 1840",
-      "name": "ENGN 1840"
+      "name": "Numerical Methods in Engineering"
     },
     {
       "code": "ENGN 1950",
-      "name": "ENGN 1950"
+      "name": "Advanced Numerical Methods for Data, Simulation, and Optimization"
     },
     {
       "code": "ENGN 1932P",
-      "name": "ENGN 1932P"
+      "name": "Sustainable Energy: Science and Technology"
     },
     {
       "code": "ENGN 1931P",
-      "name": "ENGN 1931P"
+      "name": "Energy and the Environment"
     },
     {
       "code": "ENGN 1620",
-      "name": "ENGN 1620"
+      "name": "Analysis and Design of Electronic Circuits"
     },
     {
       "code": "ENGN 1745",
-      "name": "ENGN 1745"
+      "name": "Water Supply and Treatment Systems: Technology and Sustainability"
     },
     {
       "code": "ENGN 1440",
-      "name": "ENGN 1440"
+      "name": "Mechanical Properties of Materials"
     },
     {
       "code": "ENGN 1470",
-      "name": "ENGN 1470"
+      "name": "Composite Materials"
     },
     {
       "code": "ENGN 1570",
-      "name": "ENGN 1570"
+      "name": "Linear System Analysis"
     },
     {
       "code": "ENGN 1931F",
-      "name": "ENGN 1931F"
+      "name": "Introduction to Power Engineering"
     },
     {
       "code": "ENGN 1931Z",
-      "name": "ENGN 1931Z"
+      "name": "Interfaces, Information and Automation"
     },
     {
       "code": "PHYS 0790",
-      "name": "PHYS 0790"
+      "name": "Physics of Matter"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry"
     },
     {
       "code": "EEPS 1450",
-      "name": "EEPS 1450"
+      "name": "Structural Geology"
     },
     {
       "code": "EEPS 1370",
-      "name": "EEPS 1370"
+      "name": "Environmental Geochemistry"
     },
     {
       "code": "APMA 0330",

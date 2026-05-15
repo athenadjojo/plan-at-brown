@@ -2,13 +2,14 @@
   "concentration": "Computational Chemistry and Chemical Physics",
   "slug": "cccp",
   "url": "https://bulletin.brown.edu/the-college/concentrations/cccp/",
+  "description": "The Computational Chemistry &\u00a0Chemical Physics\u00a0concentration\u00a0is an interdisciplinary field at the crossroads of\u00a0chemistry and physics\u00a0and is administered jointly by\u00a0the Chemistry and Physics Departments. The concentration provides students with a broad-based understanding in fundamental molecular sciences,\u00a0as well as a background for graduate studies in physical chemistry, chemical physics, or molecular engineering. Concentrators are required to take twenty courses in chemistry, physics,\u00a0computational science,\u00a0and mathematics, although approved courses in applied mathematics, biology, geological sciences, or engineering may be substitutes.\u00a0Computational Chemistry &\u00a0Chemical Physics concentrators are also advised to take at least six courses in the humanities and social sciences.\u00a0Computational Chemistry &\u00a0Chemical Physics concentrators at all levels (first-year through seniors) are actively involved in research with faculty members in both departments. Twenty semester courses\u00a0in chemistry, physics, and mathematics, with a minimum of three semester courses in mathematics. Core courses are:",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
       "name": "Standard program for the Sc.B. degree",
       "groups": [
         {
-          "name": "Foundational Coursework 1",
+          "name": "Foundational Coursework",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "CHEM 0500",
-                  "name": "CHEM 0500"
+                  "name": "Inorganic Chemistry"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -76,7 +77,7 @@
           "notes": []
         },
         {
-          "name": "One Foundational Computation Course 1",
+          "name": "One Foundational Computation Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -86,7 +87,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": null,
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -122,7 +123,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -134,7 +135,7 @@
               "courses": [
                 {
                   "code": "DATA 0250",
-                  "name": "DATA 0250"
+                  "name": "Applied Statistics in Python"
                 }
               ],
               "count": null,
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "DATA 1030",
-                  "name": "DATA 1030"
+                  "name": "Hands-on Data Science"
                 }
               ],
               "count": null,
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "DATA 1050",
-                  "name": "DATA 1050"
+                  "name": "Data Engineering"
                 }
               ],
               "count": null,
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "APMA 0160",
-                  "name": "APMA 0160"
+                  "name": "Introduction to Scientific Computing"
                 }
               ],
               "count": null,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "APMA 0200",
-                  "name": "APMA 0200"
+                  "name": "Introduction to Modeling"
                 }
               ],
               "count": null,
@@ -192,7 +193,7 @@
           "notes": []
         },
         {
-          "name": "One Experimental or Computational Laboratory Course 1",
+          "name": "One Experimental or Computational Laboratory Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -202,7 +203,7 @@
               "courses": [
                 {
                   "code": "CHEM 1560K",
-                  "name": "CHEM 1560K"
+                  "name": "Computational Chemistry2"
                 }
               ],
               "count": null,
@@ -214,7 +215,7 @@
               "courses": [
                 {
                   "code": "CHEM 1560Q",
-                  "name": "CHEM 1560Q"
+                  "name": "Accelerating Chemical Discovery2"
                 }
               ],
               "count": null,
@@ -226,7 +227,7 @@
               "courses": [
                 {
                   "code": "PHYS 1600",
-                  "name": "PHYS 1600"
+                  "name": "Computational Physics2"
                 }
               ],
               "count": null,
@@ -238,7 +239,7 @@
               "courses": [
                 {
                   "code": "PHYS 1640",
-                  "name": "PHYS 1640"
+                  "name": "Introduction to Computational Physics and Data Analysis2"
                 }
               ],
               "count": null,
@@ -250,7 +251,7 @@
               "courses": [
                 {
                   "code": "CHEM 1160",
-                  "name": "CHEM 1160"
+                  "name": "Physical Chemistry Laboratory3"
                 }
               ],
               "count": null,
@@ -262,7 +263,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics3"
                 }
               ],
               "count": null,
@@ -274,7 +275,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory3"
                 }
               ],
               "count": null,
@@ -284,7 +285,7 @@
           "notes": []
         },
         {
-          "name": "One Quantum Mechanics Course 1",
+          "name": "One Quantum Mechanics Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A (Select One: Quantum Mechanics)"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "CHEM 1140",
-                  "name": "CHEM 1140"
+                  "name": "Physical Chemistry: Quantum Chemistry (Select one: Quantum Mechanics)"
                 }
               ],
               "count": null,
@@ -316,7 +317,7 @@
           "notes": []
         },
         {
-          "name": "One Statistical Mechanics Course 1",
+          "name": "One Statistical Mechanics Course",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -326,7 +327,7 @@
               "courses": [
                 {
                   "code": "CHEM 1150",
-                  "name": "CHEM 1150"
+                  "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -338,7 +339,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -348,7 +349,7 @@
           "notes": []
         },
         {
-          "name": "Three Mathematics Courses 4 3",
+          "name": "Three Mathematics Courses",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -358,7 +359,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -370,7 +371,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -382,7 +383,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -392,14 +393,14 @@
           "notes": []
         },
         {
-          "name": "Six courses, primarily at the 1000 or 2000 level, in chemistry, physics or computer science. 6",
+          "name": "Six courses, primarily at the 1000 or 2000 level, in chemistry, physics or computer science.",
           "type": "label",
           "courses": [],
           "count": 6,
           "notes": []
         },
         {
-          "name": "Two Semesters of Independent Study 2",
+          "name": "Two Semesters of Independent Study",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -409,7 +410,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": null,
@@ -421,7 +422,7 @@
               "courses": [
                 {
                   "code": "CHEM 0980",
-                  "name": "CHEM 0980"
+                  "name": "Undergraduate Research"
                 }
               ],
               "count": null,
@@ -436,210 +437,210 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0500",
-            "name": "CHEM 0500"
+            "name": "Inorganic Chemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 0250",
-            "name": "DATA 0250"
+            "name": "Applied Statistics in Python"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 1030",
-            "name": "DATA 1030"
+            "name": "Hands-on Data Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "DATA 1050",
-            "name": "DATA 1050"
+            "name": "Data Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0160",
-            "name": "APMA 0160"
+            "name": "Introduction to Scientific Computing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0200",
-            "name": "APMA 0200"
+            "name": "Introduction to Modeling"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1560K",
-            "name": "CHEM 1560K"
+            "name": "Computational Chemistry2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1560Q",
-            "name": "CHEM 1560Q"
+            "name": "Accelerating Chemical Discovery2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1600",
-            "name": "PHYS 1600"
+            "name": "Computational Physics2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1640",
-            "name": "PHYS 1640"
+            "name": "Introduction to Computational Physics and Data Analysis2"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1160",
-            "name": "CHEM 1160"
+            "name": "Physical Chemistry Laboratory3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory3"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A (Select One: Quantum Mechanics)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1140",
-            "name": "CHEM 1140"
+            "name": "Physical Chemistry: Quantum Chemistry (Select one: Quantum Mechanics)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 1150",
-            "name": "CHEM 1150"
+            "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0980",
-            "name": "CHEM 0980"
+            "name": "Undergraduate Research"
           }
         }
       ],
@@ -649,123 +650,123 @@
   "all_courses": [
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0500",
-      "name": "CHEM 0500"
+      "name": "Inorganic Chemistry"
     },
     {
       "code": "PHYS 0070",
-      "name": "PHYS 0070"
+      "name": "Analytical Mechanics"
     },
     {
       "code": "PHYS 0470",
-      "name": "PHYS 0470"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "DATA 0250",
-      "name": "DATA 0250"
+      "name": "Applied Statistics in Python"
     },
     {
       "code": "DATA 1030",
-      "name": "DATA 1030"
+      "name": "Hands-on Data Science"
     },
     {
       "code": "DATA 1050",
-      "name": "DATA 1050"
+      "name": "Data Engineering"
     },
     {
       "code": "APMA 0160",
-      "name": "APMA 0160"
+      "name": "Introduction to Scientific Computing"
     },
     {
       "code": "APMA 0200",
-      "name": "APMA 0200"
+      "name": "Introduction to Modeling"
     },
     {
       "code": "CHEM 1560K",
-      "name": "CHEM 1560K"
+      "name": "Computational Chemistry2"
     },
     {
       "code": "CHEM 1560Q",
-      "name": "CHEM 1560Q"
+      "name": "Accelerating Chemical Discovery2"
     },
     {
       "code": "PHYS 1600",
-      "name": "PHYS 1600"
+      "name": "Computational Physics2"
     },
     {
       "code": "PHYS 1640",
-      "name": "PHYS 1640"
+      "name": "Introduction to Computational Physics and Data Analysis2"
     },
     {
       "code": "CHEM 1160",
-      "name": "CHEM 1160"
+      "name": "Physical Chemistry Laboratory3"
     },
     {
       "code": "PHYS 0560",
-      "name": "PHYS 0560"
+      "name": "Experiments in Modern Physics3"
     },
     {
       "code": "PHYS 1560",
-      "name": "PHYS 1560"
+      "name": "Modern Physics Laboratory3"
     },
     {
       "code": "PHYS 1410",
-      "name": "PHYS 1410"
+      "name": "Quantum Mechanics A (Select One: Quantum Mechanics)"
     },
     {
       "code": "CHEM 1140",
-      "name": "CHEM 1140"
+      "name": "Physical Chemistry: Quantum Chemistry (Select one: Quantum Mechanics)"
     },
     {
       "code": "CHEM 1150",
-      "name": "CHEM 1150"
+      "name": "Physical Chemistry: Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "PHYS 1530",
-      "name": "PHYS 1530"
+      "name": "Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "PHYS 1990",
-      "name": "PHYS 1990"
+      "name": "Senior Conference Course"
     },
     {
       "code": "CHEM 0980",
-      "name": "CHEM 0980"
+      "name": "Undergraduate Research"
     }
   ]
 }

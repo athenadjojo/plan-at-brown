@@ -2,6 +2,7 @@
   "concentration": "Biomedical Engineering",
   "slug": "enbi",
   "url": "https://bulletin.brown.edu/the-college/concentrations/enbi/",
+  "description": "Biomedical Engineering (https://engineering.brown.edu/undergraduate/concentrations/biomedical-engineering/) is a dynamic and growing field based upon the application of the tools of engineering to the subject matter of biology and medicine. The undergraduate program in biomedical engineering is an interdisciplinary concentration structured as a joint\u00a0program between the Division of Biology and Medicine and the School of Engineering. Students can take courses from and do research with faculty from engineering, the various departments of biology, and the Brown-affiliated hospitals in Rhode Island. The Biomedical Engineering (BME) concentration shares much of the core with the other engineering programs, but the program\u2019s primary emphasis is on the fundamentals of biomedical engineering, while also allowing students to personalize their curriculum. Biomedical engineers design new drugs, genetically engineer organisms, and devise new medical devices and instruments. They also use their understanding of biology to advance synthetic and naturally-derived materials and products. BME students learn to apply the principles of engineering and science, along with problem solving skills and critical thinking to a broad spectrum of engineering problems. Further, BME is a sound foundation for lifelong education with its emphasis on the use of teamwork, effective communication skills, and an understanding of broad social, ethical, economic and environmental consequences. The biomedical engineering curriculum at Brown prepares students for careers in biomedical engineering and biotechnology, as well as careers in diverse areas such as medicine, law, business, and health care delivery. The Sc.B. program in Biomedical Engineering is accredited by the Engineering Accreditation Commission of ABEThttp://www.abet.org/. It is jointly offered by the School of Engineering and the Division of Biology and Medicine as an interdisciplinary concentration designed for students interested in applying the methods and tools of engineering to the life sciences and medicine. Alumni of the Biomedical Engineering (BME) program will achieve one or more of these program educational objectives (PEOs) within five (5) years of graduation: (1) Serve society through work or advanced study in a broad range of fields including, but not limited to, medicine, healthcare, industry, government, and academia; (2) Apply their deeply creative and versatile biomedical engineering education to solve a broad spectrum of engineering and societal challenges; and (3) Contribute as role models, mentors, or leaders in their fields. The student outcomes of this program are the ABET (1) - (7) Student Outcomes as defined by the ABET Criteria for Accrediting Engineering Programs, available online athttp://www.abet.org/accreditation-criteria-policies-documents/. The Biomedical Engineering concentration shares much of the core with the other engineering programs and is structured to include more science courses and electives that introduce cutting edge areas in the field of BME.",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": 1,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "STAT 1510",
-                  "name": "STAT 1510"
+                  "name": "Principles of Biostatistics and Data Analysis"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -254,7 +255,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": 1,
@@ -266,7 +267,7 @@
               "courses": [
                 {
                   "code": "ENGN 1210",
-                  "name": "ENGN 1210"
+                  "name": "Biomechanics"
                 }
               ],
               "count": 1,
@@ -278,7 +279,7 @@
               "courses": [
                 {
                   "code": "ENGN 1230",
-                  "name": "ENGN 1230"
+                  "name": "Instrumentation Design"
                 }
               ],
               "count": 1,
@@ -290,7 +291,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": 1,
@@ -302,7 +303,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": 1,
@@ -312,7 +313,7 @@
           "notes": []
         },
         {
-          "name": "3. Additional Biomedical Engineering Electives: Complete at least 3 courses from the following groups; other upper-level courses are subject to Concentration Advisor approval. 3",
+          "name": "3. Additional Biomedical Engineering Electives: Complete at least 3 courses from the following groups; other upper-level courses are subject to Concentration Advisor approval.",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -329,7 +330,7 @@
               "courses": [
                 {
                   "code": "CSCI 1810",
-                  "name": "CSCI 1810"
+                  "name": "Computational Molecular Biology"
                 }
               ],
               "count": null,
@@ -341,7 +342,7 @@
               "courses": [
                 {
                   "code": "CSCI 1820",
-                  "name": "CSCI 1820"
+                  "name": "Algorithmic Foundations of Computational Biology"
                 }
               ],
               "count": null,
@@ -353,7 +354,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -365,7 +366,7 @@
               "courses": [
                 {
                   "code": "ENGN 1220",
-                  "name": "ENGN 1220"
+                  "name": "Neuroengineering"
                 }
               ],
               "count": null,
@@ -377,7 +378,7 @@
               "courses": [
                 {
                   "code": "ENGN 1221",
-                  "name": "ENGN 1221"
+                  "name": "Cardiovascular Engineering"
                 }
               ],
               "count": null,
@@ -389,7 +390,7 @@
               "courses": [
                 {
                   "code": "ENGN 1222",
-                  "name": "ENGN 1222"
+                  "name": "Immunoengineering"
                 }
               ],
               "count": null,
@@ -401,7 +402,7 @@
               "courses": [
                 {
                   "code": "ENGN 1223",
-                  "name": "ENGN 1223"
+                  "name": "Recent Advances in Biomedical Engineering"
                 }
               ],
               "count": null,
@@ -413,7 +414,7 @@
               "courses": [
                 {
                   "code": "ENGN 1224",
-                  "name": "ENGN 1224"
+                  "name": "Nanoengineering and Nanomedicine"
                 }
               ],
               "count": null,
@@ -425,7 +426,7 @@
               "courses": [
                 {
                   "code": "ENGN 1225",
-                  "name": "ENGN 1225"
+                  "name": "Biomedical Optics"
                 }
               ],
               "count": null,
@@ -437,7 +438,7 @@
               "courses": [
                 {
                   "code": "ENGN 1740",
-                  "name": "ENGN 1740"
+                  "name": "Computer Aided Visualization and Design"
                 }
               ],
               "count": null,
@@ -449,7 +450,7 @@
               "courses": [
                 {
                   "code": "ENGN 2221",
-                  "name": "ENGN 2221"
+                  "name": "Implantable Devices"
                 }
               ],
               "count": null,
@@ -461,7 +462,7 @@
               "courses": [
                 {
                   "code": "ENGN 2222",
-                  "name": "ENGN 2222"
+                  "name": "Cancer Nanotechnology"
                 }
               ],
               "count": null,
@@ -473,7 +474,7 @@
               "courses": [
                 {
                   "code": "ENGN 2625",
-                  "name": "ENGN 2625"
+                  "name": "Optical Microscopy: Fundamentals and Applications"
                 }
               ],
               "count": null,
@@ -485,7 +486,7 @@
               "courses": [
                 {
                   "code": "ENGN 2911R",
-                  "name": "ENGN 2911R"
+                  "name": "Analytical Modeling for Biomechanical and Biomedical Systems"
                 }
               ],
               "count": null,
@@ -497,7 +498,7 @@
               "courses": [
                 {
                   "code": "BIOL 1140",
-                  "name": "BIOL 1140"
+                  "name": "Tissue Engineering"
                 }
               ],
               "count": null,
@@ -509,7 +510,7 @@
               "courses": [
                 {
                   "code": "BIOL 1150",
-                  "name": "BIOL 1150"
+                  "name": "Stem Cell Engineering"
                 }
               ],
               "count": null,
@@ -521,7 +522,7 @@
               "courses": [
                 {
                   "code": "BIOL 2110",
-                  "name": "BIOL 2110"
+                  "name": "Drug and Gene Delivery"
                 }
               ],
               "count": null,
@@ -541,7 +542,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry"
                 }
               ],
               "count": null,
@@ -553,7 +554,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -565,7 +566,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -577,7 +578,7 @@
               "courses": [
                 {
                   "code": "BIOL 0510",
-                  "name": "BIOL 0510"
+                  "name": "Introductory Microbiology"
                 }
               ],
               "count": null,
@@ -589,7 +590,7 @@
               "courses": [
                 {
                   "code": "BIOL 0530",
-                  "name": "BIOL 0530"
+                  "name": "Principles of Immunology"
                 }
               ],
               "count": null,
@@ -601,7 +602,7 @@
               "courses": [
                 {
                   "code": "BIOL 1090",
-                  "name": "BIOL 1090"
+                  "name": "Polymer Science for Biomaterials"
                 }
               ],
               "count": null,
@@ -613,7 +614,7 @@
               "courses": [
                 {
                   "code": "BIOL 1100",
-                  "name": "BIOL 1100"
+                  "name": "Cell Physiology and Biophysics"
                 }
               ],
               "count": null,
@@ -625,7 +626,7 @@
               "courses": [
                 {
                   "code": "BIOL 1555",
-                  "name": "BIOL 1555"
+                  "name": "Methods in Informatics and Data Science for Health"
                 }
               ],
               "count": null,
@@ -637,7 +638,7 @@
               "courses": [
                 {
                   "code": "APMA 1070",
-                  "name": "APMA 1070"
+                  "name": "Quantitative Models of Biological Systems"
                 }
               ],
               "count": null,
@@ -649,7 +650,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": null,
@@ -661,7 +662,7 @@
               "courses": [
                 {
                   "code": "ENGN 2910G",
-                  "name": "ENGN 2910G"
+                  "name": "Topics in Translational Research and Technologies"
                 }
               ],
               "count": null,
@@ -673,7 +674,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": null,
@@ -685,7 +686,7 @@
               "courses": [
                 {
                   "code": "NEUR 1440",
-                  "name": "NEUR 1440"
+                  "name": "Mechanisms and Meaning of Neural Dynamics"
                 }
               ],
               "count": null,
@@ -697,7 +698,7 @@
               "courses": [
                 {
                   "code": "PHYS 1610",
-                  "name": "PHYS 1610"
+                  "name": "Biological Physics"
                 }
               ],
               "count": null,
@@ -709,7 +710,7 @@
               "courses": [
                 {
                   "code": "BIOL 1810",
-                  "name": "BIOL 1810"
+                  "name": "21st Century Applications in Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -719,7 +720,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 2",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -729,7 +730,7 @@
               "courses": [
                 {
                   "code": "ENGN 1240",
-                  "name": "ENGN 1240"
+                  "name": "Biomedical Engineering Design and Innovation I"
                 }
               ],
               "count": 1,
@@ -741,7 +742,7 @@
               "courses": [
                 {
                   "code": "ENGN 1250",
-                  "name": "ENGN 1250"
+                  "name": "Biomedical Engineering Design and Innovation II"
                 }
               ],
               "count": 1,
@@ -763,406 +764,406 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1510",
-            "name": "STAT 1510"
+            "name": "Principles of Biostatistics and Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1210",
-            "name": "ENGN 1210"
+            "name": "Biomechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1230",
-            "name": "ENGN 1230"
+            "name": "Instrumentation Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1810",
-            "name": "CSCI 1810"
+            "name": "Computational Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1820",
-            "name": "CSCI 1820"
+            "name": "Algorithmic Foundations of Computational Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1220",
-            "name": "ENGN 1220"
+            "name": "Neuroengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1221",
-            "name": "ENGN 1221"
+            "name": "Cardiovascular Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1222",
-            "name": "ENGN 1222"
+            "name": "Immunoengineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1223",
-            "name": "ENGN 1223"
+            "name": "Recent Advances in Biomedical Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1224",
-            "name": "ENGN 1224"
+            "name": "Nanoengineering and Nanomedicine"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1225",
-            "name": "ENGN 1225"
+            "name": "Biomedical Optics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1740",
-            "name": "ENGN 1740"
+            "name": "Computer Aided Visualization and Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2221",
-            "name": "ENGN 2221"
+            "name": "Implantable Devices"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2222",
-            "name": "ENGN 2222"
+            "name": "Cancer Nanotechnology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2625",
-            "name": "ENGN 2625"
+            "name": "Optical Microscopy: Fundamentals and Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2911R",
-            "name": "ENGN 2911R"
+            "name": "Analytical Modeling for Biomechanical and Biomedical Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1140",
-            "name": "BIOL 1140"
+            "name": "Tissue Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1150",
-            "name": "BIOL 1150"
+            "name": "Stem Cell Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 2110",
-            "name": "BIOL 2110"
+            "name": "Drug and Gene Delivery"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0510",
-            "name": "BIOL 0510"
+            "name": "Introductory Microbiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0530",
-            "name": "BIOL 0530"
+            "name": "Principles of Immunology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1090",
-            "name": "BIOL 1090"
+            "name": "Polymer Science for Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1100",
-            "name": "BIOL 1100"
+            "name": "Cell Physiology and Biophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1555",
-            "name": "BIOL 1555"
+            "name": "Methods in Informatics and Data Science for Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1070",
-            "name": "APMA 1070"
+            "name": "Quantitative Models of Biological Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2910G",
-            "name": "ENGN 2910G"
+            "name": "Topics in Translational Research and Technologies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1440",
-            "name": "NEUR 1440"
+            "name": "Mechanisms and Meaning of Neural Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1610",
-            "name": "PHYS 1610"
+            "name": "Biological Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1810",
-            "name": "BIOL 1810"
+            "name": "21st Century Applications in Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1240",
-            "name": "ENGN 1240"
+            "name": "Biomedical Engineering Design and Innovation I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1250",
-            "name": "ENGN 1250"
+            "name": "Biomedical Engineering Design and Innovation II"
           }
         }
       ],
@@ -1172,235 +1173,235 @@
   "all_courses": [
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0520",
-      "name": "ENGN 0520"
+      "name": "Electrical Circuits and Signals"
     },
     {
       "code": "ENGN 0720",
-      "name": "ENGN 0720"
+      "name": "Thermodynamics"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Multivariable Calculus"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theory"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations1"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "STAT 1510",
-      "name": "STAT 1510"
+      "name": "Principles of Biostatistics and Data Analysis"
     },
     {
       "code": "APMA 1655",
-      "name": "APMA 1655"
+      "name": "Introduction to Probability and Statistics with Theory"
     },
     {
       "code": "ENGN 1205",
-      "name": "ENGN 1205"
+      "name": "Transport and Biotransport Processes"
     },
     {
       "code": "ENGN 1210",
-      "name": "ENGN 1210"
+      "name": "Biomechanics"
     },
     {
       "code": "ENGN 1230",
-      "name": "ENGN 1230"
+      "name": "Instrumentation Design"
     },
     {
       "code": "ENGN 1200",
-      "name": "ENGN 1200"
+      "name": "Biomaterials"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "CSCI 1810",
-      "name": "CSCI 1810"
+      "name": "Computational Molecular Biology"
     },
     {
       "code": "CSCI 1820",
-      "name": "CSCI 1820"
+      "name": "Algorithmic Foundations of Computational Biology"
     },
     {
       "code": "ENGN 0500",
-      "name": "ENGN 0500"
+      "name": "Digital Computing Systems"
     },
     {
       "code": "ENGN 1220",
-      "name": "ENGN 1220"
+      "name": "Neuroengineering"
     },
     {
       "code": "ENGN 1221",
-      "name": "ENGN 1221"
+      "name": "Cardiovascular Engineering"
     },
     {
       "code": "ENGN 1222",
-      "name": "ENGN 1222"
+      "name": "Immunoengineering"
     },
     {
       "code": "ENGN 1223",
-      "name": "ENGN 1223"
+      "name": "Recent Advances in Biomedical Engineering"
     },
     {
       "code": "ENGN 1224",
-      "name": "ENGN 1224"
+      "name": "Nanoengineering and Nanomedicine"
     },
     {
       "code": "ENGN 1225",
-      "name": "ENGN 1225"
+      "name": "Biomedical Optics"
     },
     {
       "code": "ENGN 1740",
-      "name": "ENGN 1740"
+      "name": "Computer Aided Visualization and Design"
     },
     {
       "code": "ENGN 2221",
-      "name": "ENGN 2221"
+      "name": "Implantable Devices"
     },
     {
       "code": "ENGN 2222",
-      "name": "ENGN 2222"
+      "name": "Cancer Nanotechnology"
     },
     {
       "code": "ENGN 2625",
-      "name": "ENGN 2625"
+      "name": "Optical Microscopy: Fundamentals and Applications"
     },
     {
       "code": "ENGN 2911R",
-      "name": "ENGN 2911R"
+      "name": "Analytical Modeling for Biomechanical and Biomedical Systems"
     },
     {
       "code": "BIOL 1140",
-      "name": "BIOL 1140"
+      "name": "Tissue Engineering"
     },
     {
       "code": "BIOL 1150",
-      "name": "BIOL 1150"
+      "name": "Stem Cell Engineering"
     },
     {
       "code": "BIOL 2110",
-      "name": "BIOL 2110"
+      "name": "Drug and Gene Delivery"
     },
     {
       "code": "BIOL 0280",
-      "name": "BIOL 0280"
+      "name": "Biochemistry"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0510",
-      "name": "BIOL 0510"
+      "name": "Introductory Microbiology"
     },
     {
       "code": "BIOL 0530",
-      "name": "BIOL 0530"
+      "name": "Principles of Immunology"
     },
     {
       "code": "BIOL 1090",
-      "name": "BIOL 1090"
+      "name": "Polymer Science for Biomaterials"
     },
     {
       "code": "BIOL 1100",
-      "name": "BIOL 1100"
+      "name": "Cell Physiology and Biophysics"
     },
     {
       "code": "BIOL 1555",
-      "name": "BIOL 1555"
+      "name": "Methods in Informatics and Data Science for Health"
     },
     {
       "code": "APMA 1070",
-      "name": "APMA 1070"
+      "name": "Quantitative Models of Biological Systems"
     },
     {
       "code": "CHEM 0360",
-      "name": "CHEM 0360"
+      "name": "Organic Chemistry II"
     },
     {
       "code": "ENGN 2910G",
-      "name": "ENGN 2910G"
+      "name": "Topics in Translational Research and Technologies"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "NEUR 1440",
-      "name": "NEUR 1440"
+      "name": "Mechanisms and Meaning of Neural Dynamics"
     },
     {
       "code": "PHYS 1610",
-      "name": "PHYS 1610"
+      "name": "Biological Physics"
     },
     {
       "code": "BIOL 1810",
-      "name": "BIOL 1810"
+      "name": "21st Century Applications in Cell and Molecular Biology"
     },
     {
       "code": "ENGN 1240",
-      "name": "ENGN 1240"
+      "name": "Biomedical Engineering Design and Innovation I"
     },
     {
       "code": "ENGN 1250",
-      "name": "ENGN 1250"
+      "name": "Biomedical Engineering Design and Innovation II"
     },
     {
       "code": "APMA 0330",

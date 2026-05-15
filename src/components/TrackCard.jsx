@@ -186,51 +186,36 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
   
   // ── SCRAPED SECTION RENDERER ──────────────────────────────────────
   
-  function SectionBlock({ group, isCompleted, onAdd, onRemove }) {
+  function SectionBlock({ group, isCompleted, onAdd, onRemove, locked = false }) {
     if (!group) return null
   
     if (group.type === 'section') {
-      // Calculate completion for this section
       const allCourses = getAllCoursesInGroup(group)
-      const requiredCount = group.count ?? null
+      const requiredCount = group.count ?? allCourses.length
       const completedCount = allCourses.filter(c => isCompleted(c.code)).length
+      const isMet = completedCount >= requiredCount
   
       let sectionStatus = 'incomplete'
-      if (requiredCount !== null) {
-        if (completedCount >= requiredCount) sectionStatus = 'complete'
-        else if (completedCount > 0) sectionStatus = 'in-progress'
-      } else {
-        if (completedCount === allCourses.length && allCourses.length > 0) sectionStatus = 'complete'
-        else if (completedCount > 0) sectionStatus = 'in-progress'
-      }
-  
-      const sectionBadge = {
-        complete:      { icon: '✓', cls: 'bg-green-50 text-green-700 border border-green-200' },
-        'in-progress': { icon: '◑', cls: 'bg-yellow-50 text-yellow-700 border border-yellow-200' },
-        incomplete:    { icon: '○', cls: 'bg-gray-100 text-gray-400' },
-      }[sectionStatus]
+      if (completedCount >= requiredCount) sectionStatus = 'complete'
+      else if (completedCount > 0) sectionStatus = 'in-progress'
   
       return (
         <div className="rounded-lg border border-gray-100 overflow-hidden">
           <div className="bg-gray-50 px-3 py-2 border-b border-gray-100 flex items-center justify-between">
             <p className="text-xs font-medium text-gray-600">
-                {group.name.replace(/\s*\d+$/, '')}
+              {group.name.replace(/\s*\d+$/, '')}
             </p>
-            <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${
-                sectionStatus === 'complete'
+            <span className={
+              'text-xs font-medium px-2 py-0.5 rounded-full ' +
+              (sectionStatus === 'complete'
                 ? 'bg-green-50 text-green-700 border border-green-200'
                 : sectionStatus === 'in-progress'
                 ? 'bg-yellow-50 text-yellow-700 border border-yellow-200'
-                : 'bg-gray-100 text-gray-400'
-            }`}>
-                {requiredCount
-                ? `${completedCount} / ${requiredCount}`
-                : allCourses.length > 0
-                ? `${completedCount} / ${allCourses.length}`
-                : null
-                }
+                : 'bg-gray-100 text-gray-400')
+            }>
+              {completedCount} / {requiredCount}
             </span>
-            </div>
+          </div>
           <div className="p-3 flex flex-col gap-2">
             {(group.sub_groups ?? []).map((sub, i) => (
               <SectionBlock
@@ -239,20 +224,30 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
                 isCompleted={isCompleted}
                 onAdd={onAdd}
                 onRemove={onRemove}
+                locked={isMet && !isCompleted(getAllCoursesInGroup(sub)[0]?.code)}
               />
             ))}
           </div>
+          {isMet && requiredCount > 0 && (
+            <div className="px-3 py-1.5 bg-green-50 border-t border-green-100">
+              <p className="text-xs text-green-600 font-medium">
+                Requirement met
+              </p>
+            </div>
+          )}
         </div>
       )
     }
   
     if (group.type === 'required' && group.courses?.length > 0) {
       const course = group.courses[0]
+      const done = isCompleted(course.code)
       return (
         <Row
           course={course}
-          done={isCompleted(course.code)}
-          onAdd={() => onAdd(course)}
+          done={done}
+          locked={locked && !done}
+          onAdd={() => !locked && onAdd(course)}
           onRemove={() => onRemove(course.code)}
         />
       )
@@ -267,10 +262,15 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
           </p>
           <div className="flex flex-wrap gap-2">
             {group.courses.map(c => (
-              <Pill key={c.code} code={c.code} name={c.name}
+              <Pill
+                key={c.code}
+                code={c.code}
+                name={c.name}
                 done={isCompleted(c.code)}
-                onAdd={() => onAdd(c)}
-                onRemove={() => onRemove(c.code)} />
+                locked={locked && !isCompleted(c.code)}
+                onAdd={() => !locked && onAdd(c)}
+                onRemove={() => onRemove(c.code)}
+              />
             ))}
           </div>
         </div>
@@ -302,45 +302,65 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
   
   // ── PRIMITIVES ────────────────────────────────────────────────────
   
-  function Row({ course, done, onAdd, onRemove }) {
+  function Row({ course, done, locked, onAdd, onRemove }) {
     return (
       <button
         onClick={done ? onRemove : onAdd}
-        title={course.name}
-        className={`flex items-center gap-3 w-full text-left px-3 py-2 rounded-lg border transition-all ${
-          done
+        disabled={locked}
+        title={locked ? 'Requirement already met' : course.name}
+        className={
+          'flex items-center gap-3 w-full text-left px-3 py-2 rounded-lg border transition-all ' +
+          (locked
+            ? 'bg-gray-50 border-gray-100 opacity-40 cursor-not-allowed'
+            : done
             ? 'bg-green-50 border-green-200 hover:bg-red-50 hover:border-red-200'
-            : 'bg-gray-50 border-gray-200 hover:border-red-200 hover:bg-red-50'
-        }`}
+            : 'bg-gray-50 border-gray-200 hover:bg-green-50 hover:border-green-300')
+        }
       >
-        <span className={`flex-shrink-0 w-4 h-4 rounded-full border flex items-center justify-center text-xs font-bold ${
-          done ? 'bg-green-500 border-green-500 text-white' : 'border-gray-300 bg-white'
-        }`}>
+        <span className={
+          'flex-shrink-0 w-4 h-4 rounded-full border flex items-center justify-center text-xs font-bold ' +
+          (done
+            ? 'bg-green-500 border-green-500 text-white'
+            : 'border-gray-300 bg-white')
+        }>
           {done && '✓'}
         </span>
-        <span className={`text-xs font-medium ${done ? 'text-green-700' : 'text-gray-700'}`}>
+        <span className={
+          'text-xs font-medium ' +
+          (done ? 'text-green-700' : 'text-gray-700')
+        }>
           {course.code}
         </span>
-        {course.name && course.name !== course.code && (
+        {course.name && (
           <span className="text-xs text-gray-400 truncate">{course.name}</span>
+        )}
+        {locked && (
+          <span className="ml-auto text-xs text-gray-300 whitespace-nowrap">req. met</span>
         )}
       </button>
     )
   }
   
-  function Pill({ code, name, done, onAdd, onRemove }) {
+  function Pill({ code, name, done, locked, onAdd, onRemove }) {
     return (
       <button
         onClick={done ? onRemove : onAdd}
-        title={name}
-        className={`text-xs px-3 py-1.5 rounded-full border transition-all ${
-          done
+        disabled={locked}
+        title={locked ? 'Requirement already met' : name}
+        className={
+          'text-xs px-3 py-1.5 rounded-full border transition-all flex items-center gap-1.5 ' +
+          (locked
+            ? 'opacity-40 cursor-not-allowed bg-gray-50 border-gray-200 text-gray-400'
+            : done
             ? 'bg-green-50 text-green-700 border-green-200 hover:bg-red-50 hover:text-red-600 hover:border-red-200'
-            : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-red-300 hover:text-red-700 hover:bg-red-50'
-        }`}
+            : 'bg-gray-50 text-gray-600 border-gray-200 hover:bg-green-50 hover:text-green-700 hover:border-green-300')
+        }
       >
-        {done && <span className="mr-1">✓</span>}
-        {code}
+        {done && <span>✓</span>}
+        <span className="font-medium">{code}</span>
+        {name && name !== code && (
+          <span className="text-gray-400 font-normal">{name}</span>
+        )}
       </button>
     )
   }

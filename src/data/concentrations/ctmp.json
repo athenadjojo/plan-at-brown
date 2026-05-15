@@ -2,6 +2,7 @@
   "concentration": "Contemplative Studies",
   "slug": "ctmp",
   "url": "https://bulletin.brown.edu/the-college/concentrations/ctmp/",
+  "description": "The concentration in Contemplative Studies investigates the underlying philosophical, psychological, and scientific bases of human contemplative experience. Students pursue a \"third person\" academic approach drawn from the humanities and sciences to analyze the cultural, historical, and scientific underpinnings of contemplative experiences in religion, art, music, and literature. This is developed in combination with a \"critical first-person\" approach based in practical experience of contemplative techniques and methods to provide an integrated understanding of the role of contemplative thought and experience in societies and on the individuals who constitute them. Students must complete either a Science or Humanities track in addition to the concentration core.",
   "tracks": [
     {
       "id": "concentration_core__6_courses_including_the_senior",
@@ -13,7 +14,7 @@
           "courses": [
             {
               "code": "COST 0100",
-              "name": "COST 0100"
+              "name": "Introduction to Contemplative Studies"
             }
           ],
           "count": 1,
@@ -27,7 +28,7 @@
           "notes": []
         },
         {
-          "name": "Select one from the following list: 1",
+          "name": "Select one from the following list:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -61,7 +62,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -73,7 +74,7 @@
               "courses": [
                 {
                   "code": "NEUR 0010",
-                  "name": "NEUR 0010"
+                  "name": "The Brain: An Introduction to Neuroscience"
                 }
               ],
               "count": null,
@@ -90,7 +91,7 @@
           "notes": []
         },
         {
-          "name": "Select one from following list: 1",
+          "name": "Select one from following list:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -100,7 +101,7 @@
               "courses": [
                 {
                   "code": "COST 0200",
-                  "name": "COST 0200"
+                  "name": "Meditation and the Brain"
                 }
               ],
               "count": null,
@@ -112,7 +113,7 @@
               "courses": [
                 {
                   "code": "COST 1020",
-                  "name": "COST 1020"
+                  "name": "Cognitive Neuroscience of Meditation"
                 }
               ],
               "count": null,
@@ -122,7 +123,7 @@
           "notes": []
         },
         {
-          "name": "Two humanities courses that present important themes that can emerge from bringing a Contemplative Studies perspective to the study of contemplative religious traditions and to the philosophical analysis of the key questions of human existence. 2",
+          "name": "Two humanities courses that present important themes that can emerge from bringing a Contemplative Studies perspective to the study of contemplative religious traditions and to the philosophical analysis of the key questions of human existence.",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -132,7 +133,7 @@
               "courses": [
                 {
                   "code": "ANTH 1240",
-                  "name": "ANTH 1240"
+                  "name": "Religion and Culture"
                 }
               ],
               "count": null,
@@ -144,7 +145,7 @@
               "courses": [
                 {
                   "code": "CLAS 0990",
-                  "name": "CLAS 0990"
+                  "name": "Karma and Free Will: The Self in Indian Philosophy"
                 }
               ],
               "count": null,
@@ -156,7 +157,7 @@
               "courses": [
                 {
                   "code": "CLAS 1120G",
-                  "name": "CLAS 1120G"
+                  "name": "The Idea of Self"
                 }
               ],
               "count": null,
@@ -168,7 +169,7 @@
               "courses": [
                 {
                   "code": "COST 0040",
-                  "name": "COST 0040"
+                  "name": "Great Contemplative Traditions of Asia"
                 }
               ],
               "count": null,
@@ -180,7 +181,7 @@
               "courses": [
                 {
                   "code": "RELS 0040",
-                  "name": "RELS 0040"
+                  "name": "Great Contemplative Traditions of Asia"
                 }
               ],
               "count": null,
@@ -192,7 +193,7 @@
               "courses": [
                 {
                   "code": "COST 0145",
-                  "name": "COST 0145"
+                  "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
                 }
               ],
               "count": null,
@@ -204,7 +205,7 @@
               "courses": [
                 {
                   "code": "RELS 0145",
-                  "name": "RELS 0145"
+                  "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
                 }
               ],
               "count": null,
@@ -216,7 +217,7 @@
               "courses": [
                 {
                   "code": "COST 0450",
-                  "name": "COST 0450"
+                  "name": "Stages of the Contemplative Path"
                 }
               ],
               "count": null,
@@ -228,7 +229,7 @@
               "courses": [
                 {
                   "code": "PHIL 0010",
-                  "name": "PHIL 0010"
+                  "name": "The Place of Persons"
                 }
               ],
               "count": null,
@@ -240,7 +241,7 @@
               "courses": [
                 {
                   "code": "PHIL 0015",
-                  "name": "PHIL 0015"
+                  "name": "Introduction to Philosophy"
                 }
               ],
               "count": null,
@@ -252,7 +253,7 @@
               "courses": [
                 {
                   "code": "PHIL 0510",
-                  "name": "PHIL 0510"
+                  "name": "Psychology and Philosophy of Happiness"
                 }
               ],
               "count": null,
@@ -264,7 +265,7 @@
               "courses": [
                 {
                   "code": "PHIL 1800",
-                  "name": "PHIL 1800"
+                  "name": "Philosophy of Mind"
                 }
               ],
               "count": null,
@@ -276,7 +277,7 @@
               "courses": [
                 {
                   "code": "PHIL 1825",
-                  "name": "PHIL 1825"
+                  "name": "Consciousness"
                 }
               ],
               "count": null,
@@ -288,7 +289,7 @@
               "courses": [
                 {
                   "code": "RELS 0056",
-                  "name": "RELS 0056"
+                  "name": "Spiritual But Not Religious: Making Spirituality in America"
                 }
               ],
               "count": null,
@@ -300,7 +301,7 @@
               "courses": [
                 {
                   "code": "RELS 0065",
-                  "name": "RELS 0065"
+                  "name": "On Being Human: Religious and Philosophical Conceptions of Self"
                 }
               ],
               "count": null,
@@ -312,7 +313,7 @@
               "courses": [
                 {
                   "code": "RELS 1370B",
-                  "name": "RELS 1370B"
+                  "name": "Philosophy of Mysticism"
                 }
               ],
               "count": null,
@@ -332,7 +333,7 @@
               "courses": [
                 {
                   "code": "COST 1950",
-                  "name": "COST 1950"
+                  "name": "Senior Concentrators' Seminar"
                 }
               ],
               "count": 1,
@@ -342,7 +343,7 @@
           "notes": []
         },
         {
-          "name": "Students must complete six addtional courses in either a Science or Humanities track. 6",
+          "name": "Students must complete six addtional courses in either a Science or Humanities track.",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -354,168 +355,168 @@
           "type": "required",
           "course": {
             "code": "COST 0100",
-            "name": "COST 0100"
+            "name": "Introduction to Contemplative Studies"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 0010",
-            "name": "NEUR 0010"
+            "name": "The Brain: An Introduction to Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0200",
-            "name": "COST 0200"
+            "name": "Meditation and the Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1020",
-            "name": "COST 1020"
+            "name": "Cognitive Neuroscience of Meditation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ANTH 1240",
-            "name": "ANTH 1240"
+            "name": "Religion and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0990",
-            "name": "CLAS 0990"
+            "name": "Karma and Free Will: The Self in Indian Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1120G",
-            "name": "CLAS 1120G"
+            "name": "The Idea of Self"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0040",
-            "name": "COST 0040"
+            "name": "Great Contemplative Traditions of Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0040",
-            "name": "RELS 0040"
+            "name": "Great Contemplative Traditions of Asia"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0145",
-            "name": "COST 0145"
+            "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0145",
-            "name": "RELS 0145"
+            "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0450",
-            "name": "COST 0450"
+            "name": "Stages of the Contemplative Path"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0010",
-            "name": "PHIL 0010"
+            "name": "The Place of Persons"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0015",
-            "name": "PHIL 0015"
+            "name": "Introduction to Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0510",
-            "name": "PHIL 0510"
+            "name": "Psychology and Philosophy of Happiness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1800",
-            "name": "PHIL 1800"
+            "name": "Philosophy of Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1825",
-            "name": "PHIL 1825"
+            "name": "Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0056",
-            "name": "RELS 0056"
+            "name": "Spiritual But Not Religious: Making Spirituality in America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0065",
-            "name": "RELS 0065"
+            "name": "On Being Human: Religious and Philosophical Conceptions of Self"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1370B",
-            "name": "RELS 1370B"
+            "name": "Philosophy of Mysticism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1950",
-            "name": "COST 1950"
+            "name": "Senior Concentrators' Seminar"
           }
         }
       ],
@@ -526,7 +527,7 @@
       "name": "Track Requirements (6 additional courses Including a Capstone Course)",
       "groups": [
         {
-          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses. 5",
+          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses.",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -575,7 +576,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry (lab)"
                 }
               ],
               "count": null,
@@ -587,7 +588,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics (lab)"
                 }
               ],
               "count": null,
@@ -599,7 +600,7 @@
               "courses": [
                 {
                   "code": "BIOL 0530",
-                  "name": "BIOL 0530"
+                  "name": "Principles of Immunology"
                 }
               ],
               "count": null,
@@ -611,7 +612,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology (lab)"
                 }
               ],
               "count": null,
@@ -623,7 +624,7 @@
               "courses": [
                 {
                   "code": "BIOL 1880",
-                  "name": "BIOL 1880"
+                  "name": "Comparative Biology of the Vertebrates"
                 }
               ],
               "count": null,
@@ -635,7 +636,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -647,7 +648,7 @@
               "courses": [
                 {
                   "code": "CPSY 0710",
-                  "name": "CPSY 0710"
+                  "name": "The Psychology and Philosophy of Happiness"
                 }
               ],
               "count": null,
@@ -659,7 +660,7 @@
               "courses": [
                 {
                   "code": "CPSY 1193",
-                  "name": "CPSY 1193"
+                  "name": "Laboratory in Genes and Behavior"
                 }
               ],
               "count": null,
@@ -671,7 +672,7 @@
               "courses": [
                 {
                   "code": "CPSY 1194",
-                  "name": "CPSY 1194"
+                  "name": "Sleep and Chronobiology Research"
                 }
               ],
               "count": null,
@@ -683,7 +684,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -695,7 +696,7 @@
               "courses": [
                 {
                   "code": "CPSY 1400",
-                  "name": "CPSY 1400"
+                  "name": "The Neural Bases of Cognition"
                 }
               ],
               "count": null,
@@ -707,7 +708,7 @@
               "courses": [
                 {
                   "code": "CPSY 1490",
-                  "name": "CPSY 1490"
+                  "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
                 }
               ],
               "count": null,
@@ -719,7 +720,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -731,7 +732,7 @@
               "courses": [
                 {
                   "code": "CPSY 1570",
-                  "name": "CPSY 1570"
+                  "name": "Perceptual Learning"
                 }
               ],
               "count": null,
@@ -743,7 +744,7 @@
               "courses": [
                 {
                   "code": "CPSY 1590",
-                  "name": "CPSY 1590"
+                  "name": "Visualizing Vision"
                 }
               ],
               "count": null,
@@ -755,7 +756,7 @@
               "courses": [
                 {
                   "code": "CPSY 1791",
-                  "name": "CPSY 1791"
+                  "name": "Laboratory in Social Cognition"
                 }
               ],
               "count": null,
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "COST 0200",
-                  "name": "COST 0200"
+                  "name": "Meditation and the Brain"
                 }
               ],
               "count": null,
@@ -779,7 +780,7 @@
               "courses": [
                 {
                   "code": "COST 1020",
-                  "name": "COST 1020"
+                  "name": "Cognitive Neuroscience of Meditation"
                 }
               ],
               "count": null,
@@ -791,7 +792,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": null,
@@ -803,7 +804,7 @@
               "courses": [
                 {
                   "code": "NEUR 1030",
-                  "name": "NEUR 1030"
+                  "name": "Neural Systems"
                 }
               ],
               "count": null,
@@ -815,7 +816,7 @@
               "courses": [
                 {
                   "code": "NEUR 1540",
-                  "name": "NEUR 1540"
+                  "name": "Neurobiology of Learning and Memory"
                 }
               ],
               "count": null,
@@ -827,7 +828,7 @@
               "courses": [
                 {
                   "code": "NEUR 1600",
-                  "name": "NEUR 1600"
+                  "name": "Experimental Neurobiology"
                 }
               ],
               "count": null,
@@ -839,7 +840,7 @@
               "courses": [
                 {
                   "code": "NEUR 1940I",
-                  "name": "NEUR 1940I"
+                  "name": "Neural Correlates of Consciousness"
                 }
               ],
               "count": null,
@@ -851,7 +852,7 @@
               "courses": [
                 {
                   "code": "PHP 1600",
-                  "name": "PHP 1600"
+                  "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures"
                 }
               ],
               "count": null,
@@ -863,7 +864,7 @@
               "courses": [
                 {
                   "code": "PHP 1920",
-                  "name": "PHP 1920"
+                  "name": "Social Determinants of Health"
                 }
               ],
               "count": null,
@@ -880,7 +881,7 @@
           "notes": []
         },
         {
-          "name": "One statistics course (others with approval) 1",
+          "name": "One statistics course (others with approval)",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -890,7 +891,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -902,7 +903,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -914,7 +915,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -926,7 +927,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -938,7 +939,7 @@
               "courses": [
                 {
                   "code": "STAT 1501",
-                  "name": "STAT 1501"
+                  "name": "Essentials of Data Analysis"
                 }
               ],
               "count": null,
@@ -974,210 +975,210 @@
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0530",
-            "name": "BIOL 0530"
+            "name": "Principles of Immunology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1880",
-            "name": "BIOL 1880"
+            "name": "Comparative Biology of the Vertebrates"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0710",
-            "name": "CPSY 0710"
+            "name": "The Psychology and Philosophy of Happiness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1193",
-            "name": "CPSY 1193"
+            "name": "Laboratory in Genes and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1194",
-            "name": "CPSY 1194"
+            "name": "Sleep and Chronobiology Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1400",
-            "name": "CPSY 1400"
+            "name": "The Neural Bases of Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1490",
-            "name": "CPSY 1490"
+            "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1570",
-            "name": "CPSY 1570"
+            "name": "Perceptual Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1590",
-            "name": "CPSY 1590"
+            "name": "Visualizing Vision"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1791",
-            "name": "CPSY 1791"
+            "name": "Laboratory in Social Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0200",
-            "name": "COST 0200"
+            "name": "Meditation and the Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1020",
-            "name": "COST 1020"
+            "name": "Cognitive Neuroscience of Meditation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1030",
-            "name": "NEUR 1030"
+            "name": "Neural Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1540",
-            "name": "NEUR 1540"
+            "name": "Neurobiology of Learning and Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1600",
-            "name": "NEUR 1600"
+            "name": "Experimental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1940I",
-            "name": "NEUR 1940I"
+            "name": "Neural Correlates of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHP 1600",
-            "name": "PHP 1600"
+            "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHP 1920",
-            "name": "PHP 1920"
+            "name": "Social Determinants of Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1501",
-            "name": "STAT 1501"
+            "name": "Essentials of Data Analysis"
           }
         }
       ],
@@ -1188,7 +1189,7 @@
       "name": "Science Track",
       "groups": [
         {
-          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses. 5",
+          "name": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses.",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -1237,7 +1238,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry (lab)"
                 }
               ],
               "count": null,
@@ -1249,7 +1250,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics (lab)"
                 }
               ],
               "count": null,
@@ -1261,7 +1262,7 @@
               "courses": [
                 {
                   "code": "BIOL 0530",
-                  "name": "BIOL 0530"
+                  "name": "Principles of Immunology"
                 }
               ],
               "count": null,
@@ -1273,7 +1274,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology (lab)"
                 }
               ],
               "count": null,
@@ -1285,7 +1286,7 @@
               "courses": [
                 {
                   "code": "BIOL 1880",
-                  "name": "BIOL 1880"
+                  "name": "Comparative Biology of the Vertebrates"
                 }
               ],
               "count": null,
@@ -1297,7 +1298,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1309,7 +1310,7 @@
               "courses": [
                 {
                   "code": "CPSY 0710",
-                  "name": "CPSY 0710"
+                  "name": "The Psychology and Philosophy of Happiness"
                 }
               ],
               "count": null,
@@ -1321,7 +1322,7 @@
               "courses": [
                 {
                   "code": "CPSY 1193",
-                  "name": "CPSY 1193"
+                  "name": "Laboratory in Genes and Behavior"
                 }
               ],
               "count": null,
@@ -1333,7 +1334,7 @@
               "courses": [
                 {
                   "code": "CPSY 1194",
-                  "name": "CPSY 1194"
+                  "name": "Sleep and Chronobiology Research"
                 }
               ],
               "count": null,
@@ -1345,7 +1346,7 @@
               "courses": [
                 {
                   "code": "CPSY 1291",
-                  "name": "CPSY 1291"
+                  "name": "Computational Methods for Mind, Brain and Behavior"
                 }
               ],
               "count": null,
@@ -1357,7 +1358,7 @@
               "courses": [
                 {
                   "code": "CPSY 1400",
-                  "name": "CPSY 1400"
+                  "name": "The Neural Bases of Cognition"
                 }
               ],
               "count": null,
@@ -1369,7 +1370,7 @@
               "courses": [
                 {
                   "code": "CPSY 1490",
-                  "name": "CPSY 1490"
+                  "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
                 }
               ],
               "count": null,
@@ -1381,7 +1382,7 @@
               "courses": [
                 {
                   "code": "CPSY 1492",
-                  "name": "CPSY 1492"
+                  "name": "Computational Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1393,7 +1394,7 @@
               "courses": [
                 {
                   "code": "CPSY 1570",
-                  "name": "CPSY 1570"
+                  "name": "Perceptual Learning"
                 }
               ],
               "count": null,
@@ -1405,7 +1406,7 @@
               "courses": [
                 {
                   "code": "CPSY 1590",
-                  "name": "CPSY 1590"
+                  "name": "Visualizing Vision"
                 }
               ],
               "count": null,
@@ -1417,7 +1418,7 @@
               "courses": [
                 {
                   "code": "CPSY 1791",
-                  "name": "CPSY 1791"
+                  "name": "Laboratory in Social Cognition"
                 }
               ],
               "count": null,
@@ -1429,7 +1430,7 @@
               "courses": [
                 {
                   "code": "COST 0200",
-                  "name": "COST 0200"
+                  "name": "Meditation and the Brain"
                 }
               ],
               "count": null,
@@ -1441,7 +1442,7 @@
               "courses": [
                 {
                   "code": "COST 1020",
-                  "name": "COST 1020"
+                  "name": "Cognitive Neuroscience of Meditation"
                 }
               ],
               "count": null,
@@ -1453,7 +1454,7 @@
               "courses": [
                 {
                   "code": "NEUR 1020",
-                  "name": "NEUR 1020"
+                  "name": "Principles of Neurobiology"
                 }
               ],
               "count": null,
@@ -1465,7 +1466,7 @@
               "courses": [
                 {
                   "code": "NEUR 1030",
-                  "name": "NEUR 1030"
+                  "name": "Neural Systems"
                 }
               ],
               "count": null,
@@ -1477,7 +1478,7 @@
               "courses": [
                 {
                   "code": "NEUR 1540",
-                  "name": "NEUR 1540"
+                  "name": "Neurobiology of Learning and Memory"
                 }
               ],
               "count": null,
@@ -1489,7 +1490,7 @@
               "courses": [
                 {
                   "code": "NEUR 1600",
-                  "name": "NEUR 1600"
+                  "name": "Experimental Neurobiology"
                 }
               ],
               "count": null,
@@ -1501,7 +1502,7 @@
               "courses": [
                 {
                   "code": "NEUR 1940I",
-                  "name": "NEUR 1940I"
+                  "name": "Neural Correlates of Consciousness"
                 }
               ],
               "count": null,
@@ -1513,7 +1514,7 @@
               "courses": [
                 {
                   "code": "PHP 1600",
-                  "name": "PHP 1600"
+                  "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures"
                 }
               ],
               "count": null,
@@ -1525,7 +1526,7 @@
               "courses": [
                 {
                   "code": "PHP 1920",
-                  "name": "PHP 1920"
+                  "name": "Social Determinants of Health"
                 }
               ],
               "count": null,
@@ -1542,7 +1543,7 @@
           "notes": []
         },
         {
-          "name": "One statistics course (others with approval) 1",
+          "name": "One statistics course (others with approval)",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1552,7 +1553,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -1564,7 +1565,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": null,
@@ -1576,7 +1577,7 @@
               "courses": [
                 {
                   "code": "BIOL 0495",
-                  "name": "BIOL 0495"
+                  "name": "Statistical Analysis of Biological Data"
                 }
               ],
               "count": null,
@@ -1588,7 +1589,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": null,
@@ -1600,7 +1601,7 @@
               "courses": [
                 {
                   "code": "STAT 1501",
-                  "name": "STAT 1501"
+                  "name": "Essentials of Data Analysis"
                 }
               ],
               "count": null,
@@ -1636,210 +1637,210 @@
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0530",
-            "name": "BIOL 0530"
+            "name": "Principles of Immunology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology (lab)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1880",
-            "name": "BIOL 1880"
+            "name": "Comparative Biology of the Vertebrates"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0710",
-            "name": "CPSY 0710"
+            "name": "The Psychology and Philosophy of Happiness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1193",
-            "name": "CPSY 1193"
+            "name": "Laboratory in Genes and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1194",
-            "name": "CPSY 1194"
+            "name": "Sleep and Chronobiology Research"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1291",
-            "name": "CPSY 1291"
+            "name": "Computational Methods for Mind, Brain and Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1400",
-            "name": "CPSY 1400"
+            "name": "The Neural Bases of Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1490",
-            "name": "CPSY 1490"
+            "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1492",
-            "name": "CPSY 1492"
+            "name": "Computational Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1570",
-            "name": "CPSY 1570"
+            "name": "Perceptual Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1590",
-            "name": "CPSY 1590"
+            "name": "Visualizing Vision"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1791",
-            "name": "CPSY 1791"
+            "name": "Laboratory in Social Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0200",
-            "name": "COST 0200"
+            "name": "Meditation and the Brain"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1020",
-            "name": "COST 1020"
+            "name": "Cognitive Neuroscience of Meditation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1020",
-            "name": "NEUR 1020"
+            "name": "Principles of Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1030",
-            "name": "NEUR 1030"
+            "name": "Neural Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1540",
-            "name": "NEUR 1540"
+            "name": "Neurobiology of Learning and Memory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1600",
-            "name": "NEUR 1600"
+            "name": "Experimental Neurobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NEUR 1940I",
-            "name": "NEUR 1940I"
+            "name": "Neural Correlates of Consciousness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHP 1600",
-            "name": "PHP 1600"
+            "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHP 1920",
-            "name": "PHP 1920"
+            "name": "Social Determinants of Health"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0495",
-            "name": "BIOL 0495"
+            "name": "Statistical Analysis of Biological Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "STAT 1501",
-            "name": "STAT 1501"
+            "name": "Essentials of Data Analysis"
           }
         }
       ],
@@ -1850,7 +1851,7 @@
       "name": "Humanities Track",
       "groups": [
         {
-          "name": "Six courses, including a Capstone Course, from across the two areas below: 6",
+          "name": "Six courses, including a Capstone Course, from across the two areas below:",
           "type": "label",
           "courses": [],
           "count": 6,
@@ -1906,7 +1907,7 @@
               "courses": [
                 {
                   "code": "CLAS 0210Y",
-                  "name": "CLAS 0210Y"
+                  "name": "The Philosophy of Classical Indian Yoga"
                 }
               ],
               "count": null,
@@ -1918,7 +1919,7 @@
               "courses": [
                 {
                   "code": "CLAS 0820",
-                  "name": "CLAS 0820"
+                  "name": "Epics of India"
                 }
               ],
               "count": null,
@@ -1930,7 +1931,7 @@
               "courses": [
                 {
                   "code": "CLAS 0850",
-                  "name": "CLAS 0850"
+                  "name": "Mythology of India"
                 }
               ],
               "count": null,
@@ -1942,7 +1943,7 @@
               "courses": [
                 {
                   "code": "CLAS 0990",
-                  "name": "CLAS 0990"
+                  "name": "Karma and Free Will: The Self in Indian Philosophy"
                 }
               ],
               "count": null,
@@ -1954,7 +1955,7 @@
               "courses": [
                 {
                   "code": "CLAS 0995",
-                  "name": "CLAS 0995"
+                  "name": "India\u2019s Classical Performing Arts"
                 }
               ],
               "count": null,
@@ -1966,7 +1967,7 @@
               "courses": [
                 {
                   "code": "CLAS 1140",
-                  "name": "CLAS 1140"
+                  "name": "Classical Philosophy of India"
                 }
               ],
               "count": null,
@@ -1978,7 +1979,7 @@
               "courses": [
                 {
                   "code": "CLAS 1160",
-                  "name": "CLAS 1160"
+                  "name": "Love and Devotion, Power and Poverty: India's Literary Classics"
                 }
               ],
               "count": null,
@@ -1990,7 +1991,7 @@
               "courses": [
                 {
                   "code": "COST 0145",
-                  "name": "COST 0145"
+                  "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
                 }
               ],
               "count": null,
@@ -2002,7 +2003,7 @@
               "courses": [
                 {
                   "code": "COST 0535",
-                  "name": "COST 0535"
+                  "name": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions"
                 }
               ],
               "count": null,
@@ -2014,7 +2015,7 @@
               "courses": [
                 {
                   "code": "COST 0550",
-                  "name": "COST 0550"
+                  "name": "Tibetan Buddhism and the West"
                 }
               ],
               "count": null,
@@ -2026,7 +2027,7 @@
               "courses": [
                 {
                   "code": "COST 1420",
-                  "name": "COST 1420"
+                  "name": "The Contemplative Foundations of Classical Daoism"
                 }
               ],
               "count": null,
@@ -2038,7 +2039,7 @@
               "courses": [
                 {
                   "code": "EAST 1420",
-                  "name": "EAST 1420"
+                  "name": "The Confucian Mind"
                 }
               ],
               "count": null,
@@ -2050,7 +2051,7 @@
               "courses": [
                 {
                   "code": "RELS 0045",
-                  "name": "RELS 0045"
+                  "name": "Buddhism and Death"
                 }
               ],
               "count": null,
@@ -2062,7 +2063,7 @@
               "courses": [
                 {
                   "code": "RELS 0100",
-                  "name": "RELS 0100"
+                  "name": "Buddhist Thought, Practice, and Society"
                 }
               ],
               "count": null,
@@ -2074,7 +2075,7 @@
               "courses": [
                 {
                   "code": "RELS 0120",
-                  "name": "RELS 0120"
+                  "name": "The Classical Chinese Philosophy of Life"
                 }
               ],
               "count": null,
@@ -2086,7 +2087,7 @@
               "courses": [
                 {
                   "code": "RELS 1441",
-                  "name": "RELS 1441"
+                  "name": "Zen Meditation in China, Korea, and Japan"
                 }
               ],
               "count": null,
@@ -2098,7 +2099,7 @@
               "courses": [
                 {
                   "code": "RELS 0570",
-                  "name": "RELS 0570"
+                  "name": "Science, Religion, and the Search for Happiness in Traditional Asian Thought"
                 }
               ],
               "count": null,
@@ -2110,7 +2111,7 @@
               "courses": [
                 {
                   "code": "RELS 0580",
-                  "name": "RELS 0580"
+                  "name": "Experiencing the Sacred: Embodiment and Aesthetics in South Asian Religions"
                 }
               ],
               "count": null,
@@ -2122,7 +2123,7 @@
               "courses": [
                 {
                   "code": "RELS 1370B",
-                  "name": "RELS 1370B"
+                  "name": "Philosophy of Mysticism"
                 }
               ],
               "count": null,
@@ -2134,7 +2135,7 @@
               "courses": [
                 {
                   "code": "RELS 1425",
-                  "name": "RELS 1425"
+                  "name": "Buddhist Poetry"
                 }
               ],
               "count": null,
@@ -2146,7 +2147,7 @@
               "courses": [
                 {
                   "code": "RELS 1442",
-                  "name": "RELS 1442"
+                  "name": "The History, Philosophy, and Practice of Rinzai Zen Buddhism"
                 }
               ],
               "count": null,
@@ -2166,7 +2167,7 @@
               "courses": [
                 {
                   "code": "PHIL 0110",
-                  "name": "PHIL 0110"
+                  "name": "Ancient Greek Philosophy"
                 }
               ],
               "count": null,
@@ -2178,7 +2179,7 @@
               "courses": [
                 {
                   "code": "PHIL 0510",
-                  "name": "PHIL 0510"
+                  "name": "Psychology and Philosophy of Happiness"
                 }
               ],
               "count": null,
@@ -2190,7 +2191,7 @@
               "courses": [
                 {
                   "code": "PHIL 1230",
-                  "name": "PHIL 1230"
+                  "name": "Kant: The Critique of Pure Reason"
                 }
               ],
               "count": null,
@@ -2202,7 +2203,7 @@
               "courses": [
                 {
                   "code": "PHIL 1240",
-                  "name": "PHIL 1240"
+                  "name": "Kant's Moral Philosophy"
                 }
               ],
               "count": null,
@@ -2214,7 +2215,7 @@
               "courses": [
                 {
                   "code": "PHIL 1430",
-                  "name": "PHIL 1430"
+                  "name": "Moral Theories"
                 }
               ],
               "count": null,
@@ -2226,7 +2227,7 @@
               "courses": [
                 {
                   "code": "PHIL 1705",
-                  "name": "PHIL 1705"
+                  "name": "Epistemology"
                 }
               ],
               "count": null,
@@ -2238,7 +2239,7 @@
               "courses": [
                 {
                   "code": "PHIL 1735",
-                  "name": "PHIL 1735"
+                  "name": "Metaphysics"
                 }
               ],
               "count": null,
@@ -2250,7 +2251,7 @@
               "courses": [
                 {
                   "code": "PHIL 1755",
-                  "name": "PHIL 1755"
+                  "name": "Philosophy of Science"
                 }
               ],
               "count": null,
@@ -2262,7 +2263,7 @@
               "courses": [
                 {
                   "code": "PHIL 1800",
-                  "name": "PHIL 1800"
+                  "name": "Philosophy of Mind"
                 }
               ],
               "count": null,
@@ -2305,210 +2306,210 @@
           "type": "required",
           "course": {
             "code": "CLAS 0210Y",
-            "name": "CLAS 0210Y"
+            "name": "The Philosophy of Classical Indian Yoga"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0820",
-            "name": "CLAS 0820"
+            "name": "Epics of India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0850",
-            "name": "CLAS 0850"
+            "name": "Mythology of India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0990",
-            "name": "CLAS 0990"
+            "name": "Karma and Free Will: The Self in Indian Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 0995",
-            "name": "CLAS 0995"
+            "name": "India\u2019s Classical Performing Arts"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1140",
-            "name": "CLAS 1140"
+            "name": "Classical Philosophy of India"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1160",
-            "name": "CLAS 1160"
+            "name": "Love and Devotion, Power and Poverty: India's Literary Classics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0145",
-            "name": "COST 0145"
+            "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0535",
-            "name": "COST 0535"
+            "name": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 0550",
-            "name": "COST 0550"
+            "name": "Tibetan Buddhism and the West"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "COST 1420",
-            "name": "COST 1420"
+            "name": "The Contemplative Foundations of Classical Daoism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EAST 1420",
-            "name": "EAST 1420"
+            "name": "The Confucian Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0045",
-            "name": "RELS 0045"
+            "name": "Buddhism and Death"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0100",
-            "name": "RELS 0100"
+            "name": "Buddhist Thought, Practice, and Society"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0120",
-            "name": "RELS 0120"
+            "name": "The Classical Chinese Philosophy of Life"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1441",
-            "name": "RELS 1441"
+            "name": "Zen Meditation in China, Korea, and Japan"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0570",
-            "name": "RELS 0570"
+            "name": "Science, Religion, and the Search for Happiness in Traditional Asian Thought"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 0580",
-            "name": "RELS 0580"
+            "name": "Experiencing the Sacred: Embodiment and Aesthetics in South Asian Religions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1370B",
-            "name": "RELS 1370B"
+            "name": "Philosophy of Mysticism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1425",
-            "name": "RELS 1425"
+            "name": "Buddhist Poetry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "RELS 1442",
-            "name": "RELS 1442"
+            "name": "The History, Philosophy, and Practice of Rinzai Zen Buddhism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0110",
-            "name": "PHIL 0110"
+            "name": "Ancient Greek Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 0510",
-            "name": "PHIL 0510"
+            "name": "Psychology and Philosophy of Happiness"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1230",
-            "name": "PHIL 1230"
+            "name": "Kant: The Critique of Pure Reason"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1240",
-            "name": "PHIL 1240"
+            "name": "Kant's Moral Philosophy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1430",
-            "name": "PHIL 1430"
+            "name": "Moral Theories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1705",
-            "name": "PHIL 1705"
+            "name": "Epistemology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1735",
-            "name": "PHIL 1735"
+            "name": "Metaphysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1755",
-            "name": "PHIL 1755"
+            "name": "Philosophy of Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHIL 1800",
-            "name": "PHIL 1800"
+            "name": "Philosophy of Mind"
           }
         }
       ],
@@ -2518,99 +2519,99 @@
   "all_courses": [
     {
       "code": "COST 0100",
-      "name": "COST 0100"
+      "name": "Introduction to Contemplative Studies"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "CPSY 0200",
-      "name": "CPSY 0200"
+      "name": "Human Cognition"
     },
     {
       "code": "CPSY 0500",
-      "name": "CPSY 0500"
+      "name": "Perception and Mind"
     },
     {
       "code": "NEUR 0010",
-      "name": "NEUR 0010"
+      "name": "The Brain: An Introduction to Neuroscience"
     },
     {
       "code": "COST 0200",
-      "name": "COST 0200"
+      "name": "Meditation and the Brain"
     },
     {
       "code": "COST 1020",
-      "name": "COST 1020"
+      "name": "Cognitive Neuroscience of Meditation"
     },
     {
       "code": "ANTH 1240",
-      "name": "ANTH 1240"
+      "name": "Religion and Culture"
     },
     {
       "code": "CLAS 0990",
-      "name": "CLAS 0990"
+      "name": "Karma and Free Will: The Self in Indian Philosophy"
     },
     {
       "code": "CLAS 1120G",
-      "name": "CLAS 1120G"
+      "name": "The Idea of Self"
     },
     {
       "code": "COST 0040",
-      "name": "COST 0040"
+      "name": "Great Contemplative Traditions of Asia"
     },
     {
       "code": "RELS 0040",
-      "name": "RELS 0040"
+      "name": "Great Contemplative Traditions of Asia"
     },
     {
       "code": "COST 0145",
-      "name": "COST 0145"
+      "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
     },
     {
       "code": "RELS 0145",
-      "name": "RELS 0145"
+      "name": "Karma, Rebirth and Liberation: Life and Death in South Asian Religions"
     },
     {
       "code": "COST 0450",
-      "name": "COST 0450"
+      "name": "Stages of the Contemplative Path"
     },
     {
       "code": "PHIL 0010",
-      "name": "PHIL 0010"
+      "name": "The Place of Persons"
     },
     {
       "code": "PHIL 0015",
-      "name": "PHIL 0015"
+      "name": "Introduction to Philosophy"
     },
     {
       "code": "PHIL 0510",
-      "name": "PHIL 0510"
+      "name": "Psychology and Philosophy of Happiness"
     },
     {
       "code": "PHIL 1800",
-      "name": "PHIL 1800"
+      "name": "Philosophy of Mind"
     },
     {
       "code": "PHIL 1825",
-      "name": "PHIL 1825"
+      "name": "Consciousness"
     },
     {
       "code": "RELS 0056",
-      "name": "RELS 0056"
+      "name": "Spiritual But Not Religious: Making Spirituality in America"
     },
     {
       "code": "RELS 0065",
-      "name": "RELS 0065"
+      "name": "On Being Human: Religious and Philosophical Conceptions of Self"
     },
     {
       "code": "RELS 1370B",
-      "name": "RELS 1370B"
+      "name": "Philosophy of Mysticism"
     },
     {
       "code": "COST 1950",
-      "name": "COST 1950"
+      "name": "Senior Concentrators' Seminar"
     },
     {
       "code": "COST 1910",
@@ -2630,215 +2631,215 @@
     },
     {
       "code": "BIOL 0280",
-      "name": "BIOL 0280"
+      "name": "Biochemistry (lab)"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics (lab)"
     },
     {
       "code": "BIOL 0530",
-      "name": "BIOL 0530"
+      "name": "Principles of Immunology"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology (lab)"
     },
     {
       "code": "BIOL 1880",
-      "name": "BIOL 1880"
+      "name": "Comparative Biology of the Vertebrates"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "CPSY 0710",
-      "name": "CPSY 0710"
+      "name": "The Psychology and Philosophy of Happiness"
     },
     {
       "code": "CPSY 1193",
-      "name": "CPSY 1193"
+      "name": "Laboratory in Genes and Behavior"
     },
     {
       "code": "CPSY 1194",
-      "name": "CPSY 1194"
+      "name": "Sleep and Chronobiology Research"
     },
     {
       "code": "CPSY 1291",
-      "name": "CPSY 1291"
+      "name": "Computational Methods for Mind, Brain and Behavior"
     },
     {
       "code": "CPSY 1400",
-      "name": "CPSY 1400"
+      "name": "The Neural Bases of Cognition"
     },
     {
       "code": "CPSY 1490",
-      "name": "CPSY 1490"
+      "name": "Functional Magnetic Resonance Imaging: Theory and Practice"
     },
     {
       "code": "CPSY 1492",
-      "name": "CPSY 1492"
+      "name": "Computational Cognitive Neuroscience"
     },
     {
       "code": "CPSY 1570",
-      "name": "CPSY 1570"
+      "name": "Perceptual Learning"
     },
     {
       "code": "CPSY 1590",
-      "name": "CPSY 1590"
+      "name": "Visualizing Vision"
     },
     {
       "code": "CPSY 1791",
-      "name": "CPSY 1791"
+      "name": "Laboratory in Social Cognition"
     },
     {
       "code": "NEUR 1020",
-      "name": "NEUR 1020"
+      "name": "Principles of Neurobiology"
     },
     {
       "code": "NEUR 1030",
-      "name": "NEUR 1030"
+      "name": "Neural Systems"
     },
     {
       "code": "NEUR 1540",
-      "name": "NEUR 1540"
+      "name": "Neurobiology of Learning and Memory"
     },
     {
       "code": "NEUR 1600",
-      "name": "NEUR 1600"
+      "name": "Experimental Neurobiology"
     },
     {
       "code": "NEUR 1940I",
-      "name": "NEUR 1940I"
+      "name": "Neural Correlates of Consciousness"
     },
     {
       "code": "PHP 1600",
-      "name": "PHP 1600"
+      "name": "Obesity in the 21st Century: Causes, Consequences and Countermeasures"
     },
     {
       "code": "PHP 1920",
-      "name": "PHP 1920"
+      "name": "Social Determinants of Health"
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "BIOL 0495",
-      "name": "BIOL 0495"
+      "name": "Statistical Analysis of Biological Data"
     },
     {
       "code": "CPSY 0900",
-      "name": "CPSY 0900"
+      "name": "Statistical Methods"
     },
     {
       "code": "STAT 1501",
-      "name": "STAT 1501"
+      "name": "Essentials of Data Analysis"
     },
     {
       "code": "CLAS 0210Y",
-      "name": "CLAS 0210Y"
+      "name": "The Philosophy of Classical Indian Yoga"
     },
     {
       "code": "CLAS 0820",
-      "name": "CLAS 0820"
+      "name": "Epics of India"
     },
     {
       "code": "CLAS 0850",
-      "name": "CLAS 0850"
+      "name": "Mythology of India"
     },
     {
       "code": "CLAS 0995",
-      "name": "CLAS 0995"
+      "name": "India\u2019s Classical Performing Arts"
     },
     {
       "code": "CLAS 1140",
-      "name": "CLAS 1140"
+      "name": "Classical Philosophy of India"
     },
     {
       "code": "CLAS 1160",
-      "name": "CLAS 1160"
+      "name": "Love and Devotion, Power and Poverty: India's Literary Classics"
     },
     {
       "code": "COST 0535",
-      "name": "COST 0535"
+      "name": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions"
     },
     {
       "code": "COST 0550",
-      "name": "COST 0550"
+      "name": "Tibetan Buddhism and the West"
     },
     {
       "code": "COST 1420",
-      "name": "COST 1420"
+      "name": "The Contemplative Foundations of Classical Daoism"
     },
     {
       "code": "EAST 1420",
-      "name": "EAST 1420"
+      "name": "The Confucian Mind"
     },
     {
       "code": "RELS 0045",
-      "name": "RELS 0045"
+      "name": "Buddhism and Death"
     },
     {
       "code": "RELS 0100",
-      "name": "RELS 0100"
+      "name": "Buddhist Thought, Practice, and Society"
     },
     {
       "code": "RELS 0120",
-      "name": "RELS 0120"
+      "name": "The Classical Chinese Philosophy of Life"
     },
     {
       "code": "RELS 1441",
-      "name": "RELS 1441"
+      "name": "Zen Meditation in China, Korea, and Japan"
     },
     {
       "code": "RELS 0570",
-      "name": "RELS 0570"
+      "name": "Science, Religion, and the Search for Happiness in Traditional Asian Thought"
     },
     {
       "code": "RELS 0580",
-      "name": "RELS 0580"
+      "name": "Experiencing the Sacred: Embodiment and Aesthetics in South Asian Religions"
     },
     {
       "code": "RELS 1425",
-      "name": "RELS 1425"
+      "name": "Buddhist Poetry"
     },
     {
       "code": "RELS 1442",
-      "name": "RELS 1442"
+      "name": "The History, Philosophy, and Practice of Rinzai Zen Buddhism"
     },
     {
       "code": "PHIL 0110",
-      "name": "PHIL 0110"
+      "name": "Ancient Greek Philosophy"
     },
     {
       "code": "PHIL 1230",
-      "name": "PHIL 1230"
+      "name": "Kant: The Critique of Pure Reason"
     },
     {
       "code": "PHIL 1240",
-      "name": "PHIL 1240"
+      "name": "Kant's Moral Philosophy"
     },
     {
       "code": "PHIL 1430",
-      "name": "PHIL 1430"
+      "name": "Moral Theories"
     },
     {
       "code": "PHIL 1705",
-      "name": "PHIL 1705"
+      "name": "Epistemology"
     },
     {
       "code": "PHIL 1735",
-      "name": "PHIL 1735"
+      "name": "Metaphysics"
     },
     {
       "code": "PHIL 1755",
-      "name": "PHIL 1755"
+      "name": "Philosophy of Science"
     }
   ]
 }

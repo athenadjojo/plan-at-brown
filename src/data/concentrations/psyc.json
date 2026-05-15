@@ -2,6 +2,7 @@
   "concentration": "Psychology",
   "slug": "psyc",
   "url": "https://bulletin.brown.edu/the-college/concentrations/psyc/",
+  "description": "Psychology is the scientific study of the mind and behavior. Fundamental to the study of psychology is analytic methods and critical thinking about the relation between theory and evidence. Studying psychology allows students to understand human and animal behavior, cognitive, perceptual, and developmental processes, motivation, identity, and the relations between well-being and society. Studying psychology also allows students insight into clinical applications of psychological science. Students in the concentration are required to take courses in quantitative methods and experimental design, become familiar with a set of foundational topics in the psychological sciences, and participate in seminars and laboratory courses on specialized topics and state-of-the-art experimental techniques. The concentration in psychology can prepare students for careers in research, teaching, clinical practice, business, law, marketing, and education, among many other professions. The general goal of the psychology concentration requirements is to provide students with a broad exposure to the different areas within psychological science, while also allowing students to explore some of those areas deeply. Careers in Psychology and related fields require\u00a0familiarity with statistics. Therefore, the Psychology concentration requires a course in Statistics (CPSY\u00a00900).CPSY\u00a00900is a prerequisite for research methods and laboratory courses, so concentrators should plan to take this course by their fourth semester.\u00a0 Students may substitute forCPSY\u00a00900a comparable statistics course taught in another department, but only with the approval of a Psychology concentration advisor.\u00a0 Consult with a concentration advisor for details. The department does not grant concentration credit for AP Statistics, regardless of score.\u00a0\u00a0We strongly recommend fulfilling the statistics requirement as a sophomore.",
   "tracks": [
     {
       "id": "requirements_for_the_a_b__degree",
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": 1,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design (or approved laboratory course)"
                 }
               ],
               "count": 1,
@@ -47,7 +48,7 @@
           "notes": []
         },
         {
-          "name": "Five courses from the following: 5",
+          "name": "Five courses from the following:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -57,7 +58,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -69,7 +70,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -81,7 +82,7 @@
               "courses": [
                 {
                   "code": "CPSY 0110",
-                  "name": "CPSY 0110"
+                  "name": "Animal Behavior"
                 }
               ],
               "count": null,
@@ -93,7 +94,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -105,7 +106,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -117,7 +118,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -129,7 +130,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -141,7 +142,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -153,7 +154,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -165,7 +166,7 @@
               "courses": [
                 {
                   "code": "CPSY 0620",
-                  "name": "CPSY 0620"
+                  "name": "Social and Moral Development"
                 }
               ],
               "count": null,
@@ -177,7 +178,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -189,7 +190,7 @@
               "courses": [
                 {
                   "code": "CPSY 0702",
-                  "name": "CPSY 0702"
+                  "name": "Introduction to Clinical Psychology"
                 }
               ],
               "count": null,
@@ -201,7 +202,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -211,7 +212,7 @@
           "notes": []
         },
         {
-          "name": "Four approved Electives related to Psychology 4",
+          "name": "Four approved Electives related to Psychology",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -240,105 +241,105 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design (or approved laboratory course)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0110",
-            "name": "CPSY 0110"
+            "name": "Animal Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0620",
-            "name": "CPSY 0620"
+            "name": "Social and Moral Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0702",
-            "name": "CPSY 0702"
+            "name": "Introduction to Clinical Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
@@ -379,7 +380,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": 1,
@@ -391,7 +392,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design (or approved laboratory course)"
                 }
               ],
               "count": 1,
@@ -401,7 +402,7 @@
           "notes": []
         },
         {
-          "name": "Five courses from the following: 5",
+          "name": "Five courses from the following:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -411,7 +412,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -423,7 +424,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -435,7 +436,7 @@
               "courses": [
                 {
                   "code": "CPSY 0110",
-                  "name": "CPSY 0110"
+                  "name": "Animal Behavior"
                 }
               ],
               "count": null,
@@ -447,7 +448,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -459,7 +460,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -471,7 +472,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -483,7 +484,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -495,7 +496,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -507,7 +508,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -519,7 +520,7 @@
               "courses": [
                 {
                   "code": "CPSY 0620",
-                  "name": "CPSY 0620"
+                  "name": "Social and Moral Development"
                 }
               ],
               "count": null,
@@ -531,7 +532,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -543,7 +544,7 @@
               "courses": [
                 {
                   "code": "CPSY 0702",
-                  "name": "CPSY 0702"
+                  "name": "Introduction to Clinical Psychology"
                 }
               ],
               "count": null,
@@ -555,7 +556,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -565,7 +566,7 @@
           "notes": []
         },
         {
-          "name": "Four approved Electives related to Psychology 4",
+          "name": "Four approved Electives related to Psychology",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -589,7 +590,7 @@
           "notes": []
         },
         {
-          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -601,105 +602,105 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design (or approved laboratory course)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0110",
-            "name": "CPSY 0110"
+            "name": "Animal Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0620",
-            "name": "CPSY 0620"
+            "name": "Social and Moral Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0702",
-            "name": "CPSY 0702"
+            "name": "Introduction to Clinical Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
@@ -740,7 +741,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": 1,
@@ -752,7 +753,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design (or approved laboratory course)"
                 }
               ],
               "count": 1,
@@ -762,7 +763,7 @@
           "notes": []
         },
         {
-          "name": "Five courses from the following: 5",
+          "name": "Five courses from the following:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -772,7 +773,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -784,7 +785,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -796,7 +797,7 @@
               "courses": [
                 {
                   "code": "CPSY 0110",
-                  "name": "CPSY 0110"
+                  "name": "Animal Behavior"
                 }
               ],
               "count": null,
@@ -808,7 +809,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -820,7 +821,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -832,7 +833,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -844,7 +845,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -856,7 +857,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -868,7 +869,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -880,7 +881,7 @@
               "courses": [
                 {
                   "code": "CPSY 0620",
-                  "name": "CPSY 0620"
+                  "name": "Social and Moral Development"
                 }
               ],
               "count": null,
@@ -892,7 +893,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -904,7 +905,7 @@
               "courses": [
                 {
                   "code": "CPSY 0702",
-                  "name": "CPSY 0702"
+                  "name": "Introduction to Clinical Psychology"
                 }
               ],
               "count": null,
@@ -916,7 +917,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -926,7 +927,7 @@
           "notes": []
         },
         {
-          "name": "Four approved Electives related to Psychology 4",
+          "name": "Four approved Electives related to Psychology",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -950,7 +951,7 @@
           "notes": []
         },
         {
-          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -962,105 +963,105 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design (or approved laboratory course)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0110",
-            "name": "CPSY 0110"
+            "name": "Animal Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0620",
-            "name": "CPSY 0620"
+            "name": "Social and Moral Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0702",
-            "name": "CPSY 0702"
+            "name": "Introduction to Clinical Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
@@ -1101,7 +1102,7 @@
               "courses": [
                 {
                   "code": "CPSY 0900",
-                  "name": "CPSY 0900"
+                  "name": "Statistical Methods"
                 }
               ],
               "count": 1,
@@ -1113,7 +1114,7 @@
               "courses": [
                 {
                   "code": "CPSY 1900",
-                  "name": "CPSY 1900"
+                  "name": "Research Methods And Design (or approved laboratory course)"
                 }
               ],
               "count": 1,
@@ -1123,7 +1124,7 @@
           "notes": []
         },
         {
-          "name": "Five courses from the following: 5",
+          "name": "Five courses from the following:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -1133,7 +1134,7 @@
               "courses": [
                 {
                   "code": "CPSY 0010",
-                  "name": "CPSY 0010"
+                  "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
                 }
               ],
               "count": null,
@@ -1145,7 +1146,7 @@
               "courses": [
                 {
                   "code": "CPSY 0100",
-                  "name": "CPSY 0100"
+                  "name": "Learning and Conditioning"
                 }
               ],
               "count": null,
@@ -1157,7 +1158,7 @@
               "courses": [
                 {
                   "code": "CPSY 0110",
-                  "name": "CPSY 0110"
+                  "name": "Animal Behavior"
                 }
               ],
               "count": null,
@@ -1169,7 +1170,7 @@
               "courses": [
                 {
                   "code": "CPSY 0200",
-                  "name": "CPSY 0200"
+                  "name": "Human Cognition"
                 }
               ],
               "count": null,
@@ -1181,7 +1182,7 @@
               "courses": [
                 {
                   "code": "CPSY 0220",
-                  "name": "CPSY 0220"
+                  "name": "Making Decisions"
                 }
               ],
               "count": null,
@@ -1193,7 +1194,7 @@
               "courses": [
                 {
                   "code": "CPSY 0400",
-                  "name": "CPSY 0400"
+                  "name": "Cognitive Neuroscience"
                 }
               ],
               "count": null,
@@ -1205,7 +1206,7 @@
               "courses": [
                 {
                   "code": "CPSY 0450",
-                  "name": "CPSY 0450"
+                  "name": "Brain Damage and the Mind"
                 }
               ],
               "count": null,
@@ -1217,7 +1218,7 @@
               "courses": [
                 {
                   "code": "CPSY 0500",
-                  "name": "CPSY 0500"
+                  "name": "Perception and Mind"
                 }
               ],
               "count": null,
@@ -1229,7 +1230,7 @@
               "courses": [
                 {
                   "code": "CPSY 0610",
-                  "name": "CPSY 0610"
+                  "name": "Children's Thinking: The Nature of Cognitive Development"
                 }
               ],
               "count": null,
@@ -1241,7 +1242,7 @@
               "courses": [
                 {
                   "code": "CPSY 0620",
-                  "name": "CPSY 0620"
+                  "name": "Social and Moral Development"
                 }
               ],
               "count": null,
@@ -1253,7 +1254,7 @@
               "courses": [
                 {
                   "code": "CPSY 0700",
-                  "name": "CPSY 0700"
+                  "name": "Social Psychology"
                 }
               ],
               "count": null,
@@ -1265,7 +1266,7 @@
               "courses": [
                 {
                   "code": "CPSY 0702",
-                  "name": "CPSY 0702"
+                  "name": "Introduction to Clinical Psychology"
                 }
               ],
               "count": null,
@@ -1277,7 +1278,7 @@
               "courses": [
                 {
                   "code": "CPSY 0800",
-                  "name": "CPSY 0800"
+                  "name": "Language and the Mind"
                 }
               ],
               "count": null,
@@ -1287,7 +1288,7 @@
           "notes": []
         },
         {
-          "name": "Four approved Electives related to Psychology 4",
+          "name": "Four approved Electives related to Psychology",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -1311,7 +1312,7 @@
           "notes": []
         },
         {
-          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department 5",
+          "name": "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department",
           "type": "label",
           "courses": [],
           "count": 5,
@@ -1323,105 +1324,105 @@
           "type": "required",
           "course": {
             "code": "CPSY 0900",
-            "name": "CPSY 0900"
+            "name": "Statistical Methods"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 1900",
-            "name": "CPSY 1900"
+            "name": "Research Methods And Design (or approved laboratory course)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0010",
-            "name": "CPSY 0010"
+            "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0100",
-            "name": "CPSY 0100"
+            "name": "Learning and Conditioning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0110",
-            "name": "CPSY 0110"
+            "name": "Animal Behavior"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0200",
-            "name": "CPSY 0200"
+            "name": "Human Cognition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0220",
-            "name": "CPSY 0220"
+            "name": "Making Decisions"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0400",
-            "name": "CPSY 0400"
+            "name": "Cognitive Neuroscience"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0450",
-            "name": "CPSY 0450"
+            "name": "Brain Damage and the Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0500",
-            "name": "CPSY 0500"
+            "name": "Perception and Mind"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0610",
-            "name": "CPSY 0610"
+            "name": "Children's Thinking: The Nature of Cognitive Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0620",
-            "name": "CPSY 0620"
+            "name": "Social and Moral Development"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0700",
-            "name": "CPSY 0700"
+            "name": "Social Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0702",
-            "name": "CPSY 0702"
+            "name": "Introduction to Clinical Psychology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CPSY 0800",
-            "name": "CPSY 0800"
+            "name": "Language and the Mind"
           }
         },
         {
@@ -1452,55 +1453,55 @@
     },
     {
       "code": "CPSY 0010",
-      "name": "CPSY 0010"
+      "name": "Mind, Brain and Behavior: An Interdisciplinary Approach"
     },
     {
       "code": "CPSY 0100",
-      "name": "CPSY 0100"
+      "name": "Learning and Conditioning"
     },
     {
       "code": "CPSY 0110",
-      "name": "CPSY 0110"
+      "name": "Animal Behavior"
     },
     {
       "code": "CPSY 0200",
-      "name": "CPSY 0200"
+      "name": "Human Cognition"
     },
     {
       "code": "CPSY 0220",
-      "name": "CPSY 0220"
+      "name": "Making Decisions"
     },
     {
       "code": "CPSY 0400",
-      "name": "CPSY 0400"
+      "name": "Cognitive Neuroscience"
     },
     {
       "code": "CPSY 0450",
-      "name": "CPSY 0450"
+      "name": "Brain Damage and the Mind"
     },
     {
       "code": "CPSY 0500",
-      "name": "CPSY 0500"
+      "name": "Perception and Mind"
     },
     {
       "code": "CPSY 0610",
-      "name": "CPSY 0610"
+      "name": "Children's Thinking: The Nature of Cognitive Development"
     },
     {
       "code": "CPSY 0620",
-      "name": "CPSY 0620"
+      "name": "Social and Moral Development"
     },
     {
       "code": "CPSY 0700",
-      "name": "CPSY 0700"
+      "name": "Social Psychology"
     },
     {
       "code": "CPSY 0702",
-      "name": "CPSY 0702"
+      "name": "Introduction to Clinical Psychology"
     },
     {
       "code": "CPSY 0800",
-      "name": "CPSY 0800"
+      "name": "Language and the Mind"
     },
     {
       "code": "CPSY 1970",

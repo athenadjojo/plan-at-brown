@@ -2,6 +2,7 @@
   "concentration": "Hispanic Literatures and Cultures",
   "slug": "hslc",
   "url": "https://bulletin.brown.edu/the-college/concentrations/hslc/",
+  "description": "Spanish is the second most widely spoken language in the world and the second language of the United States. In our society, knowing Spanish is not just an asset; it is increasingly a necessity. The Spanish language program offers a sequence of courses ranging from basic to advanced. Students at all levels develop proficiency in speaking, listening, reading, and writing while also studying the cultures and societies of the contemporary Spanish-speaking world. The Hispanic Literatures and Cultures concentration enables students to develop advanced Spanish skills while acquiring a solid background in the complex history, literature, cultures, and intellectual traditions of Spain, Latin America, and the Latinx-U.S. The department offers a variety of courses on topics related to literary history and theory; multicultural contact; linguistics and the history of the language; visual culture, film, and performance studies. Interdisciplinarity is a hallmark of the department, and students in this concentration are encouraged to broaden their perspectives by taking relevant courses in other departments. Most choose to strengthen their academic preparation by participating in a study abroad program in Spain or Latin America and by engaging with Latin American and Latinx communities in the United States. The concentration requires a minimum of ten courses: one required course,HISP\u00a00650Advanced Spanish through Literature and Film(unless waived1);\u00a0up to six courses fromHISP\u00a00550,HISP\u00a00600or at the 700 level; and at least three courses at the 1000 level (or equivalent with the approval of the concentration advisor).HISP\u00a00650gives students fundamental tools for critical analysis while also specifically targeting the development of advanced grammar and writing skills. The 700 level encompasses panoramic courses in the literary and cultural histories of Spain, Latin America, and\u00a0 the Latinx USA,\u00a0 as well as introductory courses on professional and literary translation and Spanish linguistics, all of which place emphasis on continued refinement of written and oral expression in Spanish. Courses at the 1000 level focus on particular authors, genres, periods, or special topics and introduce students to major critical voices and scholarly perspectives on the materials studied.\u00a0 Concentrators must take at least one Hispanic Studies course with the WRIT designation.",
   "tracks": [
     {
       "id": "concentration_requirements_and_overview_of_the_cur",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "HISP 0650",
-                  "name": "HISP 0650"
+                  "name": "Advanced Spanish Through Literature & Film"
                 }
               ],
               "count": null,
@@ -46,7 +47,7 @@
               "courses": [
                 {
                   "code": "HISP 0550",
-                  "name": "HISP 0550"
+                  "name": "Spanish for Heritage Speakers"
                 }
               ],
               "count": null,
@@ -58,7 +59,7 @@
               "courses": [
                 {
                   "code": "HISP 0600",
-                  "name": "HISP 0600"
+                  "name": "Advanced Spanish II"
                 }
               ],
               "count": null,
@@ -70,7 +71,7 @@
               "courses": [
                 {
                   "code": "HISP 0710B",
-                  "name": "HISP 0710B"
+                  "name": "Hispanic Culture Through Cinema"
                 }
               ],
               "count": null,
@@ -82,7 +83,7 @@
               "courses": [
                 {
                   "code": "HISP 0710C",
-                  "name": "HISP 0710C"
+                  "name": "Introducci\u00f3n a la ling\u00fc\u00edstica hisp\u00e1nica"
                 }
               ],
               "count": null,
@@ -94,7 +95,7 @@
               "courses": [
                 {
                   "code": "HISP 0710E",
-                  "name": "HISP 0710E"
+                  "name": "Introduction to Professional Translation and Interpretation"
                 }
               ],
               "count": null,
@@ -106,7 +107,7 @@
               "courses": [
                 {
                   "code": "HISP 0730",
-                  "name": "HISP 0730"
+                  "name": "Encounters: Latin America in Its Literature and Culture"
                 }
               ],
               "count": null,
@@ -118,7 +119,7 @@
               "courses": [
                 {
                   "code": "HISP 0740",
-                  "name": "HISP 0740"
+                  "name": "Intensive Survey of Spanish Literature"
                 }
               ],
               "count": null,
@@ -130,7 +131,7 @@
               "courses": [
                 {
                   "code": "HISP 0750B",
-                  "name": "HISP 0750B"
+                  "name": "The Latin American Diaspora in the US"
                 }
               ],
               "count": null,
@@ -142,7 +143,7 @@
               "courses": [
                 {
                   "code": "HISP 0750G",
-                  "name": "HISP 0750G"
+                  "name": "Wildeyed Stories"
                 }
               ],
               "count": null,
@@ -154,7 +155,7 @@
               "courses": [
                 {
                   "code": "HISP 0750Q",
-                  "name": "HISP 0750Q"
+                  "name": "Health, Illness and Medicine in Spanish and Spanish American Literature and Film"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "HISP 1240A",
-                  "name": "HISP 1240A"
+                  "name": "Fashion and Fiction in the Early Modern Hispanic World"
                 }
               ],
               "count": null,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "HISP 1210F",
-                  "name": "HISP 1210F"
+                  "name": "History of the Spanish Language"
                 }
               ],
               "count": null,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "HISP 1240L",
-                  "name": "HISP 1240L"
+                  "name": "Don Quijote de la Mancha"
                 }
               ],
               "count": null,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "HISP 1290W",
-                  "name": "HISP 1290W"
+                  "name": "De abuelas a nietas: escritoras espa\u00f1olas y latinoamericanas de 1925 a 2025"
                 }
               ],
               "count": null,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "HISP 1330Q",
-                  "name": "HISP 1330Q"
+                  "name": "Short Forms: Major Works in a Minor Key"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "HISP 1330W",
-                  "name": "HISP 1330W"
+                  "name": "War, Revolution and the Cult of the Hero in Latin American Culture"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "HISP 1330Z",
-                  "name": "HISP 1330Z"
+                  "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
                 }
               ],
               "count": null,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "HISP 1331E",
-                  "name": "HISP 1331E"
+                  "name": "Visions and Voices of Indigenous Mexico"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "HISP 1331J",
-                  "name": "HISP 1331J"
+                  "name": "Hablan los hijos: A New Generation of Latin American Writers"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "HISP 1331U",
-                  "name": "HISP 1331U"
+                  "name": "\u201cYou Are Here\u201d: Mapas, Pueblos Ind\u00edgenas y Mundos Nuevos"
                 }
               ],
               "count": null,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "HISP 1371T",
-                  "name": "HISP 1371T"
+                  "name": "Reimagining the Line:  Contemporary Arts and Political Imagination at the Mexico-US Border"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "HISP 1500L",
-                  "name": "HISP 1500L"
+                  "name": "Theory and Practice of Translation"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "HISP 1666",
-                  "name": "HISP 1666"
+                  "name": "\u00a1Qu\u00e9 miedo! El cine hisp\u00e1nico de horror"
                 }
               ],
               "count": null,
@@ -338,7 +339,7 @@
               "courses": [
                 {
                   "code": "ETHN 1200D",
-                  "name": "ETHN 1200D"
+                  "name": "Latinx Literature"
                 }
               ],
               "count": null,
@@ -350,7 +351,7 @@
               "courses": [
                 {
                   "code": "HIST 0234",
-                  "name": "HIST 0234"
+                  "name": "Modern Latin America"
                 }
               ],
               "count": null,
@@ -362,7 +363,7 @@
               "courses": [
                 {
                   "code": "NAHU 0100",
-                  "name": "NAHU 0100"
+                  "name": "Beginning Nahuatl"
                 }
               ],
               "count": null,
@@ -374,7 +375,7 @@
               "courses": [
                 {
                   "code": "POBS 0400",
-                  "name": "POBS 0400"
+                  "name": "Writing and Speaking Portuguese"
                 }
               ],
               "count": null,
@@ -389,7 +390,7 @@
           "type": "required",
           "course": {
             "code": "HISP 0650",
-            "name": "HISP 0650"
+            "name": "Advanced Spanish Through Literature & Film"
           }
         },
         {
@@ -409,189 +410,189 @@
           "type": "required",
           "course": {
             "code": "HISP 0550",
-            "name": "HISP 0550"
+            "name": "Spanish for Heritage Speakers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0600",
-            "name": "HISP 0600"
+            "name": "Advanced Spanish II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0710B",
-            "name": "HISP 0710B"
+            "name": "Hispanic Culture Through Cinema"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0710C",
-            "name": "HISP 0710C"
+            "name": "Introducci\u00f3n a la ling\u00fc\u00edstica hisp\u00e1nica"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0710E",
-            "name": "HISP 0710E"
+            "name": "Introduction to Professional Translation and Interpretation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0730",
-            "name": "HISP 0730"
+            "name": "Encounters: Latin America in Its Literature and Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0740",
-            "name": "HISP 0740"
+            "name": "Intensive Survey of Spanish Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0750B",
-            "name": "HISP 0750B"
+            "name": "The Latin American Diaspora in the US"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0750G",
-            "name": "HISP 0750G"
+            "name": "Wildeyed Stories"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 0750Q",
-            "name": "HISP 0750Q"
+            "name": "Health, Illness and Medicine in Spanish and Spanish American Literature and Film"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1240A",
-            "name": "HISP 1240A"
+            "name": "Fashion and Fiction in the Early Modern Hispanic World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1210F",
-            "name": "HISP 1210F"
+            "name": "History of the Spanish Language"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1240L",
-            "name": "HISP 1240L"
+            "name": "Don Quijote de la Mancha"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1290W",
-            "name": "HISP 1290W"
+            "name": "De abuelas a nietas: escritoras espa\u00f1olas y latinoamericanas de 1925 a 2025"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1330Q",
-            "name": "HISP 1330Q"
+            "name": "Short Forms: Major Works in a Minor Key"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1330W",
-            "name": "HISP 1330W"
+            "name": "War, Revolution and the Cult of the Hero in Latin American Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1330Z",
-            "name": "HISP 1330Z"
+            "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1331E",
-            "name": "HISP 1331E"
+            "name": "Visions and Voices of Indigenous Mexico"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1331J",
-            "name": "HISP 1331J"
+            "name": "Hablan los hijos: A New Generation of Latin American Writers"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1331U",
-            "name": "HISP 1331U"
+            "name": "\u201cYou Are Here\u201d: Mapas, Pueblos Ind\u00edgenas y Mundos Nuevos"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1371T",
-            "name": "HISP 1371T"
+            "name": "Reimagining the Line:  Contemporary Arts and Political Imagination at the Mexico-US Border"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1500L",
-            "name": "HISP 1500L"
+            "name": "Theory and Practice of Translation"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HISP 1666",
-            "name": "HISP 1666"
+            "name": "\u00a1Qu\u00e9 miedo! El cine hisp\u00e1nico de horror"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ETHN 1200D",
-            "name": "ETHN 1200D"
+            "name": "Latinx Literature"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "HIST 0234",
-            "name": "HIST 0234"
+            "name": "Modern Latin America"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "NAHU 0100",
-            "name": "NAHU 0100"
+            "name": "Beginning Nahuatl"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "POBS 0400",
-            "name": "POBS 0400"
+            "name": "Writing and Speaking Portuguese"
           }
         }
       ],
@@ -613,103 +614,103 @@
     },
     {
       "code": "HISP 0710B",
-      "name": "HISP 0710B"
+      "name": "Hispanic Culture Through Cinema"
     },
     {
       "code": "HISP 0710C",
-      "name": "HISP 0710C"
+      "name": "Introducci\u00f3n a la ling\u00fc\u00edstica hisp\u00e1nica"
     },
     {
       "code": "HISP 0710E",
-      "name": "HISP 0710E"
+      "name": "Introduction to Professional Translation and Interpretation"
     },
     {
       "code": "HISP 0730",
-      "name": "HISP 0730"
+      "name": "Encounters: Latin America in Its Literature and Culture"
     },
     {
       "code": "HISP 0740",
-      "name": "HISP 0740"
+      "name": "Intensive Survey of Spanish Literature"
     },
     {
       "code": "HISP 0750B",
-      "name": "HISP 0750B"
+      "name": "The Latin American Diaspora in the US"
     },
     {
       "code": "HISP 0750G",
-      "name": "HISP 0750G"
+      "name": "Wildeyed Stories"
     },
     {
       "code": "HISP 0750Q",
-      "name": "HISP 0750Q"
+      "name": "Health, Illness and Medicine in Spanish and Spanish American Literature and Film"
     },
     {
       "code": "HISP 1240A",
-      "name": "HISP 1240A"
+      "name": "Fashion and Fiction in the Early Modern Hispanic World"
     },
     {
       "code": "HISP 1210F",
-      "name": "HISP 1210F"
+      "name": "History of the Spanish Language"
     },
     {
       "code": "HISP 1240L",
-      "name": "HISP 1240L"
+      "name": "Don Quijote de la Mancha"
     },
     {
       "code": "HISP 1290W",
-      "name": "HISP 1290W"
+      "name": "De abuelas a nietas: escritoras espa\u00f1olas y latinoamericanas de 1925 a 2025"
     },
     {
       "code": "HISP 1330Q",
-      "name": "HISP 1330Q"
+      "name": "Short Forms: Major Works in a Minor Key"
     },
     {
       "code": "HISP 1330W",
-      "name": "HISP 1330W"
+      "name": "War, Revolution and the Cult of the Hero in Latin American Culture"
     },
     {
       "code": "HISP 1330Z",
-      "name": "HISP 1330Z"
+      "name": "Tropical Fictions: Geography and Literature in Latin American Culture"
     },
     {
       "code": "HISP 1331E",
-      "name": "HISP 1331E"
+      "name": "Visions and Voices of Indigenous Mexico"
     },
     {
       "code": "HISP 1331J",
-      "name": "HISP 1331J"
+      "name": "Hablan los hijos: A New Generation of Latin American Writers"
     },
     {
       "code": "HISP 1331U",
-      "name": "HISP 1331U"
+      "name": "\u201cYou Are Here\u201d: Mapas, Pueblos Ind\u00edgenas y Mundos Nuevos"
     },
     {
       "code": "HISP 1371T",
-      "name": "HISP 1371T"
+      "name": "Reimagining the Line:  Contemporary Arts and Political Imagination at the Mexico-US Border"
     },
     {
       "code": "HISP 1500L",
-      "name": "HISP 1500L"
+      "name": "Theory and Practice of Translation"
     },
     {
       "code": "HISP 1666",
-      "name": "HISP 1666"
+      "name": "\u00a1Qu\u00e9 miedo! El cine hisp\u00e1nico de horror"
     },
     {
       "code": "ETHN 1200D",
-      "name": "ETHN 1200D"
+      "name": "Latinx Literature"
     },
     {
       "code": "HIST 0234",
-      "name": "HIST 0234"
+      "name": "Modern Latin America"
     },
     {
       "code": "NAHU 0100",
-      "name": "NAHU 0100"
+      "name": "Beginning Nahuatl"
     },
     {
       "code": "POBS 0400",
-      "name": "POBS 0400"
+      "name": "Writing and Speaking Portuguese"
     }
   ]
 }

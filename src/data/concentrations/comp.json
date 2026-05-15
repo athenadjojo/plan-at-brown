@@ -2,6 +2,7 @@
   "concentration": "Computer Science",
   "slug": "comp",
   "url": "https://bulletin.brown.edu/the-college/concentrations/comp/",
+  "description": "Computer science is now a critical tool for pursuing an ever-broadening range of topics, from outer space to the workings of the human mind. In most areas of science and in many liberal arts fields, cutting-edge work depends increasingly on computational approaches. The undergraduate program at Brown is designed to combine breadth in practical and theoretical computer science with depth in specialized areas. These areas range from traditional topics, such as analysis of algorithms, artificial intelligence, databases, distributed systems, graphics, mobile computing, networks, operating systems, programming languages, robotics and security, to novel areas including games and scientific visualization. Our requirements are built on a core set of foundation courses,each representing an essential area within computer science.\u00a0 Concentrators choose the upper-level courses that align with their interests. Students may not use more than two CSCI 1970 courses to complete the requirements for the Sc.B. or A.B. requirements.",
   "tracks": [
     {
       "id": "requirements_for_the_standard_track_of_the_a_b__de",
@@ -22,7 +23,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following series: 2",
+          "name": "Select one of the following series:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -39,11 +40,11 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -63,11 +64,11 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -87,7 +88,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -117,7 +118,7 @@
           "notes": []
         },
         {
-          "name": "Series D 1",
+          "name": "Series D",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -127,11 +128,11 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 },
                 {
                   "code": "CSCI 0200",
-                  "name": "CSCI 0200"
+                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
                 }
               ],
               "count": null,
@@ -141,7 +142,7 @@
           "notes": []
         },
         {
-          "name": "Introductory Math Foundations 2 1",
+          "name": "Introductory Math Foundations",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -151,7 +152,7 @@
               "courses": [
                 {
                   "code": "CSCI 0220",
-                  "name": "CSCI 0220"
+                  "name": "Introduction to Discrete Structures and Probability"
                 }
               ],
               "count": null,
@@ -163,7 +164,7 @@
               "courses": [
                 {
                   "code": "MATH 1530",
-                  "name": "MATH 1530"
+                  "name": "Abstract Algebra"
                 }
               ],
               "count": null,
@@ -194,7 +195,7 @@
           "notes": []
         },
         {
-          "name": "a. Algorithms/Theory Foundations 1",
+          "name": "a. Algorithms/Theory Foundations",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -204,7 +205,7 @@
               "courses": [
                 {
                   "code": "CSCI 0500",
-                  "name": "CSCI 0500"
+                  "name": "Data Structures, Algorithms, and Intractability: An Introduction"
                 }
               ],
               "count": null,
@@ -214,7 +215,7 @@
           "notes": []
         },
         {
-          "name": "b. AI/Machine Learning/Data Science Foundations 1",
+          "name": "b. AI/Machine Learning/Data Science Foundations",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -224,7 +225,7 @@
               "courses": [
                 {
                   "code": "CSCI 0410",
-                  "name": "CSCI 0410"
+                  "name": "Foundations of AI and Machine Learning"
                 }
               ],
               "count": null,
@@ -234,7 +235,7 @@
           "notes": []
         },
         {
-          "name": "c. Systems Foundations 1",
+          "name": "c. Systems Foundations",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -244,7 +245,7 @@
               "courses": [
                 {
                   "code": "CSCI 0300",
-                  "name": "CSCI 0300"
+                  "name": "Fundamentals of Computer Systems"
                 }
               ],
               "count": null,
@@ -256,7 +257,7 @@
               "courses": [
                 {
                   "code": "CSCI 0320",
-                  "name": "CSCI 0320"
+                  "name": "Introduction to Software Engineering"
                 }
               ],
               "count": null,
@@ -268,7 +269,7 @@
               "courses": [
                 {
                   "code": "CSCI 0330",
-                  "name": "CSCI 0330"
+                  "name": "Introduction to Computer Systems"
                 }
               ],
               "count": null,
@@ -278,21 +279,21 @@
           "notes": []
         },
         {
-          "name": "CSCI Technical Electives 2",
+          "name": "CSCI Technical Electives",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Two CSCI courses at the 1000 level. 3",
+          "name": "Two CSCI courses at the 1000 level.",
           "type": "label",
           "courses": [],
           "count": null,
           "notes": []
         },
         {
-          "name": "Two additional electives.  These can include: 2",
+          "name": "Two additional electives.  These can include:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -302,7 +303,7 @@
               "courses": [
                 {
                   "code": "CSCI 0320",
-                  "name": "CSCI 0320"
+                  "name": "Introduction to Software Engineering (if not used towards System Foundations)"
                 }
               ],
               "count": null,
@@ -350,7 +351,7 @@
               "courses": [
                 {
                   "code": "CSCI 1970",
-                  "name": "CSCI 1970"
+                  "name": "Individual Independent Study4"
                 }
               ],
               "count": null,
@@ -362,7 +363,7 @@
               "courses": [
                 {
                   "code": "CSCI 1973",
-                  "name": "CSCI 1973"
+                  "name": "Independent Study"
                 }
               ],
               "count": null,
@@ -392,11 +393,11 @@
           "options": [
             {
               "code": "CSCI 0150",
-              "name": "CSCI 0150"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -405,11 +406,11 @@
           "options": [
             {
               "code": "CSCI 0170",
-              "name": "CSCI 0170"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -417,7 +418,7 @@
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
@@ -432,11 +433,11 @@
           "options": [
             {
               "code": "CSCI 0111",
-              "name": "CSCI 0111"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             },
             {
               "code": "CSCI 0200",
-              "name": "CSCI 0200"
+              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
             }
           ]
         },
@@ -444,56 +445,56 @@
           "type": "required",
           "course": {
             "code": "CSCI 0220",
-            "name": "CSCI 0220"
+            "name": "Introduction to Discrete Structures and Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1530",
-            "name": "MATH 1530"
+            "name": "Abstract Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0500",
-            "name": "CSCI 0500"
+            "name": "Data Structures, Algorithms, and Intractability: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0410",
-            "name": "CSCI 0410"
+            "name": "Foundations of AI and Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0300",
-            "name": "CSCI 0300"
+            "name": "Fundamentals of Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0320",
-            "name": "CSCI 0320"
+            "name": "Introduction to Software Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0330",
-            "name": "CSCI 0330"
+            "name": "Introduction to Computer Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0320",
-            "name": "CSCI 0320"
+            "name": "Introduction to Software Engineering (if not used towards System Foundations)"
           }
         },
         {
@@ -517,14 +518,14 @@
           "type": "required",
           "course": {
             "code": "CSCI 1970",
-            "name": "CSCI 1970"
+            "name": "Individual Independent Study4"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 1973",
-            "name": "CSCI 1973"
+            "name": "Independent Study"
           }
         }
       ],
@@ -534,63 +535,63 @@
   "all_courses": [
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "MATH 0170",
-      "name": "MATH 0170"
+      "name": "Single Variable Calculus, Part II (Accelerated)"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0200",
-      "name": "CSCI 0200"
+      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
     },
     {
       "code": "CSCI 0220",
-      "name": "CSCI 0220"
+      "name": "Introduction to Discrete Structures and Probability"
     },
     {
       "code": "MATH 1530",
-      "name": "MATH 1530"
+      "name": "Abstract Algebra"
     },
     {
       "code": "CSCI 0500",
-      "name": "CSCI 0500"
+      "name": "Data Structures, Algorithms, and Intractability: An Introduction"
     },
     {
       "code": "CSCI 0410",
-      "name": "CSCI 0410"
+      "name": "Foundations of AI and Machine Learning"
     },
     {
       "code": "CSCI 0300",
-      "name": "CSCI 0300"
+      "name": "Fundamentals of Computer Systems"
     },
     {
       "code": "CSCI 0330",
-      "name": "CSCI 0330"
+      "name": "Introduction to Computer Systems"
     },
     {
       "code": "CSCI 0320",
-      "name": "CSCI 0320"
+      "name": "Introduction to Software Engineering"
     },
     {
       "code": "MATH 0520",
@@ -614,11 +615,11 @@
     },
     {
       "code": "CSCI 1970",
-      "name": "CSCI 1970"
+      "name": "Individual Independent Study4"
     },
     {
       "code": "CSCI 1973",
-      "name": "CSCI 1973"
+      "name": "Independent Study"
     }
   ]
 }

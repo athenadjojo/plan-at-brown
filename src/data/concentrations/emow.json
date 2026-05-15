@@ -2,187 +2,1061 @@
   "concentration": "Early Modern World",
   "slug": "emow",
   "url": "https://bulletin.brown.edu/the-college/concentrations/emow/",
-  "tracks": [],
+  "description": "The Center for the Study of the Early Modern World promotes interdisciplinary and multidisciplinary approaches to historical cultures around the world between the waning of feudalism and the arrival of global industrial capitalism, from the 1300s to the end of the 1800s. Characterized by new global aspirations as well as new modes of domination, resistance, and conflict, this period yielded significant technological transformations and cultural inventions whose study contributes to the historical understanding of the modern world. Students take courses in a wide range of departments in the humanities and social sciences and from faculty affiliated with the Center. Students are invited to take advantage of this breadth of offerings in order to enhance their understanding of the period as well as to gain a sense of the uses, limitations, and interrelationships of particular disciplinary approaches.",
+  "tracks": [
+    {
+      "id": "requirements_0",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "Under the supervision of the director of the program, students may choose courses from the following:",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0062",
+                  "name": "Dutch and Flemish Art:  Visual Culture of the Netherlands in the Seventeenth Century"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0100C",
+                  "name": "Altered States"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0150D",
+                  "name": "Shakespeare's Present Tense"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 0286A",
+                  "name": "History of Medicine I: Medical Traditions in the Old World Before 1700"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0310A",
+                  "name": "Shakespeare"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 0310E",
+                  "name": "Shakespeare: The Screenplays"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0550",
+                  "name": "Painters, Builders, and Bankers in Early Modern Italy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0560",
+                  "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 0630",
+                  "name": "Cultural History of the Netherlands in a Golden Age and a Global Age"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 0710I",
+                  "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 0720A",
+                  "name": "De l'Amour courtois au d\u00e9sir postmoderne"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "POBS 0910",
+                  "name": "On the Dawn of Modernity"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 0981",
+                  "name": "When Leaders Lie: Machiavelli in International Context"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1030A",
+                  "name": "L'univers de la Renaissance: XVe et XVIe si\u00e8cles"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1030B",
+                  "name": "The French Renaissance: The Birth of Modernity?"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1040B",
+                  "name": "Pouvoirs de la sc\u00e8ne: le th\u00e9\u00e2tre du XVIIe si\u00e8cle"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1040C",
+                  "name": "Le Grand Si\u00e8cle \u00e0 l'\u00e9cran"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 1040D",
+                  "name": "Moli\u00e8re et son monde"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310A",
+                  "name": "Firing the Canon: Early Modern Women's Writing"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310H",
+                  "name": "The Origins of American Literature"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310J",
+                  "name": "Imagining the Individual in Renaissance England"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1310O",
+                  "name": "Restoration and Early Eighteenth-Century Literature"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1360K",
+                  "name": "Shakespeare and Company"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1360P",
+                  "name": "Shakespearean Tragedy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1360S",
+                  "name": "Between Gods and Beasts: The Renaissance Ovid"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1360Z",
+                  "name": "Shakespeare and Embodiment"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "COLT 1410P",
+                  "name": "Shakespeare"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1560A",
+                  "name": "Italy and the Mediterranean"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 1580",
+                  "name": "Word, Image and Power in Early Modern Italy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIAA 1600I",
+                  "name": "Collections and Visual Knowledge in Early Modern Europe: 1400-1800"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "JUDS 1751",
+                  "name": "Jews Between Christians and Muslims in the Early Modern World"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1825H",
+                  "name": "Science, Medicine and Technology in the 17th Century"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 1950A",
+                  "name": "Form and Feeling in Renaissance Poetry"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1964A",
+                  "name": "Age of Impostors: Fraud, Identification, and the Self in Early Modern Europe"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HIST 1974M",
+                  "name": "Early Modern Globalization"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "EMOW 1980",
+                  "name": "Independent Study in EMOW"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "LATN 2000A",
+                  "name": "Senecan Tragedy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 2130E",
+                  "name": "Corps et esprits libertins"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "FREN 2130F",
+                  "name": "Fa\u00e7ons d'aimer: Discourses of Sexuality in Early Modern France"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 2160G",
+                  "name": "Don Quixote: Contexts and Constructions"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2360O",
+                  "name": "Irony and Satire"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2360P",
+                  "name": "Thinking with Romance in the Renaissance"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ENGL 2360S",
+                  "name": "Alternative Miltons"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "HISP 2520I",
+                  "name": "Sor Juana In\u00e9s de la Cruz in Her Literary Context"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ITAL 2550",
+                  "name": "Gender Matters"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0062",
+            "name": "Dutch and Flemish Art:  Visual Culture of the Netherlands in the Seventeenth Century"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0100C",
+            "name": "Altered States"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0150D",
+            "name": "Shakespeare's Present Tense"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 0286A",
+            "name": "History of Medicine I: Medical Traditions in the Old World Before 1700"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0310A",
+            "name": "Shakespeare"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 0310E",
+            "name": "Shakespeare: The Screenplays"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0550",
+            "name": "Painters, Builders, and Bankers in Early Modern Italy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0560",
+            "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 0630",
+            "name": "Cultural History of the Netherlands in a Golden Age and a Global Age"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 0710I",
+            "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 0720A",
+            "name": "De l'Amour courtois au d\u00e9sir postmoderne"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "POBS 0910",
+            "name": "On the Dawn of Modernity"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 0981",
+            "name": "When Leaders Lie: Machiavelli in International Context"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1030A",
+            "name": "L'univers de la Renaissance: XVe et XVIe si\u00e8cles"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1030B",
+            "name": "The French Renaissance: The Birth of Modernity?"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1040B",
+            "name": "Pouvoirs de la sc\u00e8ne: le th\u00e9\u00e2tre du XVIIe si\u00e8cle"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1040C",
+            "name": "Le Grand Si\u00e8cle \u00e0 l'\u00e9cran"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 1040D",
+            "name": "Moli\u00e8re et son monde"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310A",
+            "name": "Firing the Canon: Early Modern Women's Writing"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310H",
+            "name": "The Origins of American Literature"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310J",
+            "name": "Imagining the Individual in Renaissance England"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1310O",
+            "name": "Restoration and Early Eighteenth-Century Literature"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1360K",
+            "name": "Shakespeare and Company"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1360P",
+            "name": "Shakespearean Tragedy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1360S",
+            "name": "Between Gods and Beasts: The Renaissance Ovid"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1360Z",
+            "name": "Shakespeare and Embodiment"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "COLT 1410P",
+            "name": "Shakespeare"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1560A",
+            "name": "Italy and the Mediterranean"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 1580",
+            "name": "Word, Image and Power in Early Modern Italy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIAA 1600I",
+            "name": "Collections and Visual Knowledge in Early Modern Europe: 1400-1800"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "JUDS 1751",
+            "name": "Jews Between Christians and Muslims in the Early Modern World"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1825H",
+            "name": "Science, Medicine and Technology in the 17th Century"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 1950A",
+            "name": "Form and Feeling in Renaissance Poetry"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1964A",
+            "name": "Age of Impostors: Fraud, Identification, and the Self in Early Modern Europe"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HIST 1974M",
+            "name": "Early Modern Globalization"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "EMOW 1980",
+            "name": "Independent Study in EMOW"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "LATN 2000A",
+            "name": "Senecan Tragedy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 2130E",
+            "name": "Corps et esprits libertins"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "FREN 2130F",
+            "name": "Fa\u00e7ons d'aimer: Discourses of Sexuality in Early Modern France"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 2160G",
+            "name": "Don Quixote: Contexts and Constructions"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2360O",
+            "name": "Irony and Satire"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2360P",
+            "name": "Thinking with Romance in the Renaissance"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ENGL 2360S",
+            "name": "Alternative Miltons"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "HISP 2520I",
+            "name": "Sor Juana In\u00e9s de la Cruz in Her Literary Context"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ITAL 2550",
+            "name": "Gender Matters"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
   "all_courses": [
     {
       "code": "HIAA 0062",
-      "name": "HIAA 0062"
+      "name": "Dutch and Flemish Art:  Visual Culture of the Netherlands in the Seventeenth Century"
     },
     {
       "code": "ENGL 0100C",
-      "name": "ENGL 0100C"
+      "name": "Altered States"
     },
     {
       "code": "ENGL 0150D",
-      "name": "ENGL 0150D"
+      "name": "Shakespeare's Present Tense"
     },
     {
       "code": "HIST 0286A",
-      "name": "HIST 0286A"
+      "name": "History of Medicine I: Medical Traditions in the Old World Before 1700"
     },
     {
       "code": "ENGL 0310A",
-      "name": "ENGL 0310A"
+      "name": "Shakespeare"
     },
     {
       "code": "ENGL 0310E",
-      "name": "ENGL 0310E"
+      "name": "Shakespeare: The Screenplays"
     },
     {
       "code": "HIAA 0550",
-      "name": "HIAA 0550"
+      "name": "Painters, Builders, and Bankers in Early Modern Italy"
     },
     {
       "code": "HIAA 0560",
-      "name": "HIAA 0560"
+      "name": "Constructing the Eternal City: Popes and Pilgrims in Early Modern Rome"
     },
     {
       "code": "HIAA 0630",
-      "name": "HIAA 0630"
+      "name": "Cultural History of the Netherlands in a Golden Age and a Global Age"
     },
     {
       "code": "COLT 0710I",
-      "name": "COLT 0710I"
+      "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
     },
     {
       "code": "FREN 0720A",
-      "name": "FREN 0720A"
+      "name": "De l'Amour courtois au d\u00e9sir postmoderne"
     },
     {
       "code": "POBS 0910",
-      "name": "POBS 0910"
+      "name": "On the Dawn of Modernity"
     },
     {
       "code": "ITAL 0981",
-      "name": "ITAL 0981"
+      "name": "When Leaders Lie: Machiavelli in International Context"
     },
     {
       "code": "FREN 1030A",
-      "name": "FREN 1030A"
+      "name": "L'univers de la Renaissance: XVe et XVIe si\u00e8cles"
     },
     {
       "code": "FREN 1030B",
-      "name": "FREN 1030B"
+      "name": "The French Renaissance: The Birth of Modernity?"
     },
     {
       "code": "FREN 1040B",
-      "name": "FREN 1040B"
+      "name": "Pouvoirs de la sc\u00e8ne: le th\u00e9\u00e2tre du XVIIe si\u00e8cle"
     },
     {
       "code": "FREN 1040C",
-      "name": "FREN 1040C"
+      "name": "Le Grand Si\u00e8cle \u00e0 l'\u00e9cran"
     },
     {
       "code": "FREN 1040D",
-      "name": "FREN 1040D"
+      "name": "Moli\u00e8re et son monde"
     },
     {
       "code": "ENGL 1310A",
-      "name": "ENGL 1310A"
+      "name": "Firing the Canon: Early Modern Women's Writing"
     },
     {
       "code": "ENGL 1310H",
-      "name": "ENGL 1310H"
+      "name": "The Origins of American Literature"
     },
     {
       "code": "ENGL 1310J",
-      "name": "ENGL 1310J"
+      "name": "Imagining the Individual in Renaissance England"
     },
     {
       "code": "ENGL 1310O",
-      "name": "ENGL 1310O"
+      "name": "Restoration and Early Eighteenth-Century Literature"
     },
     {
       "code": "ENGL 1360K",
-      "name": "ENGL 1360K"
+      "name": "Shakespeare and Company"
     },
     {
       "code": "ENGL 1360P",
-      "name": "ENGL 1360P"
+      "name": "Shakespearean Tragedy"
     },
     {
       "code": "ENGL 1360S",
-      "name": "ENGL 1360S"
+      "name": "Between Gods and Beasts: The Renaissance Ovid"
     },
     {
       "code": "ENGL 1360Z",
-      "name": "ENGL 1360Z"
+      "name": "Shakespeare and Embodiment"
     },
     {
       "code": "COLT 1410P",
-      "name": "COLT 1410P"
+      "name": "Shakespeare"
     },
     {
       "code": "HIAA 1560A",
-      "name": "HIAA 1560A"
+      "name": "Italy and the Mediterranean"
     },
     {
       "code": "ITAL 1580",
-      "name": "ITAL 1580"
+      "name": "Word, Image and Power in Early Modern Italy"
     },
     {
       "code": "HIAA 1600I",
-      "name": "HIAA 1600I"
+      "name": "Collections and Visual Knowledge in Early Modern Europe: 1400-1800"
     },
     {
       "code": "JUDS 1751",
-      "name": "JUDS 1751"
+      "name": "Jews Between Christians and Muslims in the Early Modern World"
     },
     {
       "code": "HIST 1825H",
-      "name": "HIST 1825H"
+      "name": "Science, Medicine and Technology in the 17th Century"
     },
     {
       "code": "ENGL 1950A",
-      "name": "ENGL 1950A"
+      "name": "Form and Feeling in Renaissance Poetry"
     },
     {
       "code": "HIST 1964A",
-      "name": "HIST 1964A"
+      "name": "Age of Impostors: Fraud, Identification, and the Self in Early Modern Europe"
     },
     {
       "code": "HIST 1974M",
-      "name": "HIST 1974M"
+      "name": "Early Modern Globalization"
     },
     {
       "code": "EMOW 1980",
-      "name": "EMOW 1980"
+      "name": "Independent Study in EMOW"
     },
     {
       "code": "LATN 2000A",
-      "name": "LATN 2000A"
+      "name": "Senecan Tragedy"
     },
     {
       "code": "FREN 2130E",
-      "name": "FREN 2130E"
+      "name": "Corps et esprits libertins"
     },
     {
       "code": "FREN 2130F",
-      "name": "FREN 2130F"
+      "name": "Fa\u00e7ons d'aimer: Discourses of Sexuality in Early Modern France"
     },
     {
       "code": "HISP 2160G",
-      "name": "HISP 2160G"
+      "name": "Don Quixote: Contexts and Constructions"
     },
     {
       "code": "ENGL 2360O",
-      "name": "ENGL 2360O"
+      "name": "Irony and Satire"
     },
     {
       "code": "ENGL 2360P",
-      "name": "ENGL 2360P"
+      "name": "Thinking with Romance in the Renaissance"
     },
     {
       "code": "ENGL 2360S",
-      "name": "ENGL 2360S"
+      "name": "Alternative Miltons"
     },
     {
       "code": "HISP 2520I",
-      "name": "HISP 2520I"
+      "name": "Sor Juana In\u00e9s de la Cruz in Her Literary Context"
     },
     {
       "code": "ITAL 2550",
-      "name": "ITAL 2550"
+      "name": "Gender Matters"
     }
   ]
 }

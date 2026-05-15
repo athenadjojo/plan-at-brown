@@ -2,159 +2,1255 @@
   "concentration": "Mathematics-Economics",
   "slug": "mtec",
   "url": "https://bulletin.brown.edu/the-college/concentrations/mtec/",
-  "tracks": [],
+  "description": "The Mathematics Economics concentration is designed to give a background in economic theory plus the mathematical tools needed to analyze and develop additional theoretical constructions. The emphasis is on the abstract theory itself. Students may choose either the standard or the professional track, both award a Bachelor of Arts degree. If you are interested in declaring a concentration in Mathematics Economics, please refer to this page for more information regarding the process. OrECON\u00a01110with permission. For students matriculating at Brown in Fall 2021 or later, note that ifECON\u00a01110is used, then one additional course from the mathematical-economics group will be required",
+  "tracks": [
+    {
+      "id": "requirements_0",
+      "name": "Concentration Requirements",
+      "groups": [
+        {
+          "name": "Economics",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1130",
+                  "name": "Intermediate Microeconomics (Mathematical)1"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1210",
+                  "name": "Intermediate Macroeconomics"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1630",
+                  "name": "Mathematical Econometrics I"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two courses from the \"mathematical-economics\" group:",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1170",
+                  "name": "Welfare Economics and Social Choice Theory"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1225",
+                  "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1255",
+                  "name": "Unemployment: Models and Policies"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1470",
+                  "name": "Bargaining Theory and Applications"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1490",
+                  "name": "Designing Internet Marketplaces"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1545",
+                  "name": "Topics in Macroeconomics, Development and International Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1560",
+                  "name": "Economic Growth"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "Mathematical Econometrics II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "Big Data"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "Advanced Topics in Econometrics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "Machine Learning, Text Analysis, and Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1750",
+                  "name": "Investments II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1770",
+                  "name": "Crisis Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1805",
+                  "name": "Experimental and Behavioral Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1820",
+                  "name": "Theory of Behavioral Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1860",
+                  "name": "The Theory of General Equilibrium"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1870",
+                  "name": "Game Theory and Applications to Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course from the \"data methods\" group:",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1301",
+                  "name": "Economics of Education I"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1310",
+                  "name": "Labor Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1315",
+                  "name": "Health, Education, and Social Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1330",
+                  "name": "Gender and Development"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1340",
+                  "name": "Economics of Global Warming"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1345",
+                  "name": "Climate Change and the Commons"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1355",
+                  "name": "Environmental Issues in Development Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1360",
+                  "name": "Research Seminar in Health Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1375",
+                  "name": "Inequality of Opportunity in the US"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1385",
+                  "name": "Intergenerational Poverty in America"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1400",
+                  "name": "The Economics of Mass Media"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1410",
+                  "name": "Urban Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1430",
+                  "name": "The Economics of Social Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1510",
+                  "name": "Economic Development"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1530",
+                  "name": "Health, Hunger and the Household in Developing Countries"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1629",
+                  "name": "Applied Research Methods for Economists"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1640",
+                  "name": "Mathematical Econometrics II"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1660",
+                  "name": "Big Data"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1670",
+                  "name": "Advanced Topics in Econometrics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1680",
+                  "name": "Machine Learning, Text Analysis, and Economics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1825",
+                  "name": "Behavioral Economics and Public Policy"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "ECON 1830",
+                  "name": "Behavioral Finance"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two additional 1000-level economics courses",
+          "type": "label",
+          "courses": [],
+          "count": 2,
+          "notes": []
+        },
+        {
+          "name": "Mathematics",
+          "type": "section",
+          "count": null,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0180",
+                  "name": "MATH 0180"
+                }
+              ],
+              "count": 1,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Linear Algebra - one of the following:",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0520",
+                  "name": "Linear Algebra"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 0540",
+                  "name": "Linear Algebra With Theory"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Probability Theory - one of the following:",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1210",
+                  "name": "Probability (Formerly MATH 1610)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1620",
+                  "name": "Mathematical Statistics"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "APMA 1650",
+                  "name": "Introduction to Probability and Statistics with Calculus"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Analysis - one of the following:",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1010",
+                  "name": "Analysis: Functions of One Variable"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1630",
+                  "name": "Real Analysis I (Formerly MATH 1130)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1640",
+                  "name": "Real Analysis II (Formerly MATH 1140)"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Differential Equations - one of the following:",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1110",
+                  "name": "Ordinary Differential Equations"
+                }
+              ],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [
+                {
+                  "code": "MATH 1120",
+                  "name": "Partial Differential Equations"
+                }
+              ],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional course from the Probability, Analysis, and Differential Equations courses listed above",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": []
+        }
+      ],
+      "courses": [
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1130",
+            "name": "Intermediate Microeconomics (Mathematical)1"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1210",
+            "name": "Intermediate Macroeconomics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1630",
+            "name": "Mathematical Econometrics I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1170",
+            "name": "Welfare Economics and Social Choice Theory"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1225",
+            "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1255",
+            "name": "Unemployment: Models and Policies"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1470",
+            "name": "Bargaining Theory and Applications"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1490",
+            "name": "Designing Internet Marketplaces"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1545",
+            "name": "Topics in Macroeconomics, Development and International Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1560",
+            "name": "Economic Growth"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "Mathematical Econometrics II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "Big Data"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "Advanced Topics in Econometrics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "Machine Learning, Text Analysis, and Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1750",
+            "name": "Investments II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1770",
+            "name": "Crisis Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1805",
+            "name": "Experimental and Behavioral Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1820",
+            "name": "Theory of Behavioral Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1860",
+            "name": "The Theory of General Equilibrium"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1870",
+            "name": "Game Theory and Applications to Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1301",
+            "name": "Economics of Education I"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1310",
+            "name": "Labor Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1315",
+            "name": "Health, Education, and Social Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1330",
+            "name": "Gender and Development"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1340",
+            "name": "Economics of Global Warming"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1345",
+            "name": "Climate Change and the Commons"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1355",
+            "name": "Environmental Issues in Development Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1360",
+            "name": "Research Seminar in Health Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1375",
+            "name": "Inequality of Opportunity in the US"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1385",
+            "name": "Intergenerational Poverty in America"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1400",
+            "name": "The Economics of Mass Media"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1410",
+            "name": "Urban Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1430",
+            "name": "The Economics of Social Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1510",
+            "name": "Economic Development"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1530",
+            "name": "Health, Hunger and the Household in Developing Countries"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1629",
+            "name": "Applied Research Methods for Economists"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1640",
+            "name": "Mathematical Econometrics II"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1660",
+            "name": "Big Data"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1670",
+            "name": "Advanced Topics in Econometrics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1680",
+            "name": "Machine Learning, Text Analysis, and Economics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1825",
+            "name": "Behavioral Economics and Public Policy"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "ECON 1830",
+            "name": "Behavioral Finance"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0180",
+            "name": "MATH 0180"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0520",
+            "name": "Linear Algebra"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 0540",
+            "name": "Linear Algebra With Theory"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1210",
+            "name": "Probability (Formerly MATH 1610)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1620",
+            "name": "Mathematical Statistics"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "APMA 1650",
+            "name": "Introduction to Probability and Statistics with Calculus"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1010",
+            "name": "Analysis: Functions of One Variable"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1630",
+            "name": "Real Analysis I (Formerly MATH 1130)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1640",
+            "name": "Real Analysis II (Formerly MATH 1140)"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1110",
+            "name": "Ordinary Differential Equations"
+          }
+        },
+        {
+          "type": "required",
+          "course": {
+            "code": "MATH 1120",
+            "name": "Partial Differential Equations"
+          }
+        }
+      ],
+      "notes": []
+    }
+  ],
   "all_courses": [
     {
       "code": "ECON 1130",
-      "name": "ECON 1130"
+      "name": "Intermediate Microeconomics (Mathematical)1"
     },
     {
       "code": "ECON 1210",
-      "name": "ECON 1210"
+      "name": "Intermediate Macroeconomics"
     },
     {
       "code": "ECON 1630",
-      "name": "ECON 1630"
+      "name": "Mathematical Econometrics I"
     },
     {
       "code": "ECON 1170",
-      "name": "ECON 1170"
+      "name": "Welfare Economics and Social Choice Theory"
     },
     {
       "code": "ECON 1225",
-      "name": "ECON 1225"
+      "name": "Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies"
     },
     {
       "code": "ECON 1255",
-      "name": "ECON 1255"
+      "name": "Unemployment: Models and Policies"
     },
     {
       "code": "ECON 1470",
-      "name": "ECON 1470"
+      "name": "Bargaining Theory and Applications"
     },
     {
       "code": "ECON 1490",
-      "name": "ECON 1490"
+      "name": "Designing Internet Marketplaces"
     },
     {
       "code": "ECON 1545",
-      "name": "ECON 1545"
+      "name": "Topics in Macroeconomics, Development and International Economics"
     },
     {
       "code": "ECON 1560",
-      "name": "ECON 1560"
+      "name": "Economic Growth"
     },
     {
       "code": "ECON 1640",
-      "name": "ECON 1640"
+      "name": "Mathematical Econometrics II"
     },
     {
       "code": "ECON 1660",
-      "name": "ECON 1660"
+      "name": "Big Data"
     },
     {
       "code": "ECON 1670",
-      "name": "ECON 1670"
+      "name": "Advanced Topics in Econometrics"
     },
     {
       "code": "ECON 1680",
-      "name": "ECON 1680"
+      "name": "Machine Learning, Text Analysis, and Economics"
     },
     {
       "code": "ECON 1750",
-      "name": "ECON 1750"
+      "name": "Investments II"
     },
     {
       "code": "ECON 1770",
-      "name": "ECON 1770"
+      "name": "Crisis Economics"
     },
     {
       "code": "ECON 1805",
-      "name": "ECON 1805"
+      "name": "Experimental and Behavioral Economics"
     },
     {
       "code": "ECON 1820",
-      "name": "ECON 1820"
+      "name": "Theory of Behavioral Economics"
     },
     {
       "code": "ECON 1860",
-      "name": "ECON 1860"
+      "name": "The Theory of General Equilibrium"
     },
     {
       "code": "ECON 1870",
-      "name": "ECON 1870"
+      "name": "Game Theory and Applications to Economics"
     },
     {
       "code": "ECON 1301",
-      "name": "ECON 1301"
+      "name": "Economics of Education I"
     },
     {
       "code": "ECON 1310",
-      "name": "ECON 1310"
+      "name": "Labor Economics"
     },
     {
       "code": "ECON 1315",
-      "name": "ECON 1315"
+      "name": "Health, Education, and Social Policy"
     },
     {
       "code": "ECON 1330",
-      "name": "ECON 1330"
+      "name": "Gender and Development"
     },
     {
       "code": "ECON 1340",
-      "name": "ECON 1340"
+      "name": "Economics of Global Warming"
     },
     {
       "code": "ECON 1345",
-      "name": "ECON 1345"
+      "name": "Climate Change and the Commons"
     },
     {
       "code": "ECON 1355",
-      "name": "ECON 1355"
+      "name": "Environmental Issues in Development Economics"
     },
     {
       "code": "ECON 1360",
-      "name": "ECON 1360"
+      "name": "Research Seminar in Health Economics"
     },
     {
       "code": "ECON 1375",
-      "name": "ECON 1375"
+      "name": "Inequality of Opportunity in the US"
     },
     {
       "code": "ECON 1385",
-      "name": "ECON 1385"
+      "name": "Intergenerational Poverty in America"
     },
     {
       "code": "ECON 1400",
-      "name": "ECON 1400"
+      "name": "The Economics of Mass Media"
     },
     {
       "code": "ECON 1410",
-      "name": "ECON 1410"
+      "name": "Urban Economics"
     },
     {
       "code": "ECON 1430",
-      "name": "ECON 1430"
+      "name": "The Economics of Social Policy"
     },
     {
       "code": "ECON 1510",
-      "name": "ECON 1510"
+      "name": "Economic Development"
     },
     {
       "code": "ECON 1530",
-      "name": "ECON 1530"
+      "name": "Health, Hunger and the Household in Developing Countries"
     },
     {
       "code": "ECON 1629",
-      "name": "ECON 1629"
+      "name": "Applied Research Methods for Economists"
     },
     {
       "code": "ECON 1825",
-      "name": "ECON 1825"
+      "name": "Behavioral Economics and Public Policy"
     },
     {
       "code": "ECON 1830",
-      "name": "ECON 1830"
+      "name": "Behavioral Finance"
     },
     {
       "code": "MATH 0180",
@@ -162,43 +1258,43 @@
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "MATH 1210",
-      "name": "MATH 1210"
+      "name": "Probability (Formerly MATH 1610)"
     },
     {
       "code": "MATH 1620",
-      "name": "MATH 1620"
+      "name": "Mathematical Statistics"
     },
     {
       "code": "APMA 1650",
-      "name": "APMA 1650"
+      "name": "Introduction to Probability and Statistics with Calculus"
     },
     {
       "code": "MATH 1010",
-      "name": "MATH 1010"
+      "name": "Analysis: Functions of One Variable"
     },
     {
       "code": "MATH 1630",
-      "name": "MATH 1630"
+      "name": "Real Analysis I (Formerly MATH 1130)"
     },
     {
       "code": "MATH 1640",
-      "name": "MATH 1640"
+      "name": "Real Analysis II (Formerly MATH 1140)"
     },
     {
       "code": "MATH 1110",
-      "name": "MATH 1110"
+      "name": "Ordinary Differential Equations"
     },
     {
       "code": "MATH 1120",
-      "name": "MATH 1120"
+      "name": "Partial Differential Equations"
     },
     {
       "code": "ECON 1110",

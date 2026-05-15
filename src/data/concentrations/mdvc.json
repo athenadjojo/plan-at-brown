@@ -2,27 +2,28 @@
   "concentration": "Medieval Cultures",
   "slug": "mdvc",
   "url": "https://bulletin.brown.edu/the-college/concentrations/mdvc/",
+  "description": "The program in Medieval Studies offers a concentration in Medieval Cultures with two tracks with distinct foci: one in Medieval Cultures and the other in Late Antique Cultures. Medieval Cultures focuses on the 6th-15th centuries, combining interdisciplinary perspectives with in-depth study of one or two related disciplines. Late Antique Cultures deals with the 3rd-9th centuries, when ancient cultural forms were still in place but medieval cultures were beginning to take shape simultaneously. The first undergraduate degree of its kind in this country, Late Antique Cultures studies the changing relation of cultural practices, social patterns, political and economics forms, and artistic and literary traditions in this important transition period.",
   "tracks": [
     {
       "id": "medieval_cultures_track",
       "name": "Medieval Cultures Track",
       "groups": [
         {
-          "name": "Two courses in medieval history 2",
+          "name": "Two courses in medieval history",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest",
           "type": "label",
           "courses": [],
           "count": 7,
@@ -37,21 +38,21 @@
       "name": "Requirements",
       "groups": [
         {
-          "name": "Two courses in medieval history 2",
+          "name": "Two courses in medieval history",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest",
           "type": "label",
           "courses": [],
           "count": 7,
@@ -66,21 +67,21 @@
       "name": "Requirements for the A.B. degree",
       "groups": [
         {
-          "name": "Two courses in medieval history 2",
+          "name": "Two courses in medieval history",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1",
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest 7",
+          "name": "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest",
           "type": "label",
           "courses": [],
           "count": 7,
@@ -95,7 +96,7 @@
       "name": "Late Antique Cultures Track",
       "groups": [
         {
-          "name": "One course in Roman history: 1",
+          "name": "One course in Roman history:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -105,7 +106,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -117,7 +118,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact (recommended)"
                 }
               ],
               "count": null,
@@ -127,21 +128,21 @@
           "notes": []
         },
         {
-          "name": "One class in medieval history 1",
+          "name": "One class in medieval history",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1 1",
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest. 7",
+          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest.",
           "type": "label",
           "courses": [],
           "count": 7,
@@ -153,14 +154,14 @@
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact (recommended)"
           }
         }
       ],
@@ -171,7 +172,7 @@
       "name": "Requirements for the A.B. degree",
       "groups": [
         {
-          "name": "One course in Roman history: 1",
+          "name": "One course in Roman history:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -181,7 +182,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -193,7 +194,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact (recommended)"
                 }
               ],
               "count": null,
@@ -203,21 +204,21 @@
           "notes": []
         },
         {
-          "name": "One class in medieval history 1",
+          "name": "One class in medieval history",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "One course at the advanced level (numbered at least 1000) in one approved language 1 1",
+          "name": "One course at the advanced level (numbered at least 1000) in one approved language",
           "type": "label",
           "courses": [],
           "count": 1,
           "notes": []
         },
         {
-          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest. 7",
+          "name": "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest.",
           "type": "label",
           "courses": [],
           "count": 7,
@@ -229,14 +230,14 @@
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact (recommended)"
           }
         }
       ],
@@ -246,235 +247,235 @@
   "all_courses": [
     {
       "code": "ASYR 1600",
-      "name": "ASYR 1600"
+      "name": "Astronomy Before the Telescope"
     },
     {
       "code": "CLAS 0600",
-      "name": "CLAS 0600"
+      "name": "The Literary Worlds of Late Antiquity"
     },
     {
       "code": "CLAS 1120G",
-      "name": "CLAS 1120G"
+      "name": "The Idea of Self"
     },
     {
       "code": "COLT 0510K",
-      "name": "COLT 0510K"
+      "name": "The 1001 Nights"
     },
     {
       "code": "COLT 0710B",
-      "name": "COLT 0710B"
+      "name": "Very Short Poetry: From Tanka to Twitter"
     },
     {
       "code": "COLT 0711L",
-      "name": "COLT 0711L"
+      "name": "The Quran and its Readers"
     },
     {
       "code": "COLT 1310E",
-      "name": "COLT 1310E"
+      "name": "A Classical Islamic Education: Readings in Arabic Literature"
     },
     {
       "code": "COLT 1430B",
-      "name": "COLT 1430B"
+      "name": "Art and Exemplarity in Medieval and Early Modern Literature"
     },
     {
       "code": "COLT 1813P",
-      "name": "COLT 1813P"
+      "name": "Captive Imaginations: Writing Prison in the Middle Ages"
     },
     {
       "code": "EAST 0406",
-      "name": "EAST 0406"
+      "name": "Foreign Bodies in Japan, 600\u20131600"
     },
     {
       "code": "ENGL 0300M",
-      "name": "ENGL 0300M"
+      "name": "Gender in Medieval Literature"
     },
     {
       "code": "ENGL 1311P",
-      "name": "ENGL 1311P"
+      "name": "Medieval Drama"
     },
     {
       "code": "ENGL 1360H",
-      "name": "ENGL 1360H"
+      "name": "Introduction to the Old English Language"
     },
     {
       "code": "ENGL 1361K",
-      "name": "ENGL 1361K"
+      "name": "Seminar in the Old English Language II"
     },
     {
       "code": "ENGL 1361Q",
-      "name": "ENGL 1361Q"
+      "name": "Medieval Race"
     },
     {
       "code": "FREN 1020C",
-      "name": "FREN 1020C"
+      "name": "Le Mariage dans la litt\u00e9rature m\u00e9di\u00e9vale: la violence et le \"probl\u00e8me\" du corps"
     },
     {
       "code": "HIAA 1051",
-      "name": "HIAA 1051"
+      "name": "Codicology Compared"
     },
     {
       "code": "HIAA 1213",
-      "name": "HIAA 1213"
+      "name": "The Bureaucracy of Hell: Envisioning Death in East Asian Art"
     },
     {
       "code": "HIST 0521A",
-      "name": "HIST 0521A"
+      "name": "Christianity in Conflict in the Medieval Mediterranean"
     },
     {
       "code": "HIST 1205",
-      "name": "HIST 1205"
+      "name": "The Long Fall of the Roman Empire"
     },
     {
       "code": "HIST 1210A",
-      "name": "HIST 1210A"
+      "name": "The Viking Age"
     },
     {
       "code": "HIST 1211",
-      "name": "HIST 1211"
+      "name": "Becoming Medieval: Self, Other, and the World"
     },
     {
       "code": "HIST 1440",
-      "name": "HIST 1440"
+      "name": "The Ottomans: Faith, Law, Empire"
     },
     {
       "code": "HIST 1835A",
-      "name": "HIST 1835A"
+      "name": "Unearthing the Body: History, Archaeology, and Biology at the End of Antiquity"
     },
     {
       "code": "HIST 1963Q",
-      "name": "HIST 1963Q"
+      "name": "Sex, Power, and God: A Medieval Perspective"
     },
     {
       "code": "ITAL 1010",
-      "name": "ITAL 1010"
+      "name": "Dante in English Translation: Dante's World and the Invention of Modernity"
     },
     {
       "code": "JAPN 0810",
-      "name": "JAPN 0810"
+      "name": "Classical Japanese"
     },
     {
       "code": "JUDS 0050M",
-      "name": "JUDS 0050M"
+      "name": "Difficult Relations? Judaism and Christianity from the Middle Ages until the Present"
     },
     {
       "code": "JUDS 0681",
-      "name": "JUDS 0681"
+      "name": "Great Jewish Books"
     },
     {
       "code": "JUDS 1630",
-      "name": "JUDS 1630"
+      "name": "The Talmud"
     },
     {
       "code": "LATN 1110F",
-      "name": "LATN 1110F"
+      "name": "Fortunatus"
     },
     {
       "code": "LATN 1110H",
-      "name": "LATN 1110H"
+      "name": "Literature at the Court of Charlemagne"
     },
     {
       "code": "LATN 1110L",
-      "name": "LATN 1110L"
+      "name": "Medieval Latin Lyric"
     },
     {
       "code": "LATN 1120C",
-      "name": "LATN 1120C"
+      "name": "Survey of Late and Medieval Latin"
     },
     {
       "code": "LATN 1120D",
-      "name": "LATN 1120D"
+      "name": "Alcuin"
     },
     {
       "code": "MDVL 0360",
-      "name": "MDVL 0360"
+      "name": "The Body: Medieval Perspectives"
     },
     {
       "code": "MDVL 1970",
-      "name": "MDVL 1970"
+      "name": "Independent Study"
     },
     {
       "code": "MDVL 1990",
-      "name": "MDVL 1990"
+      "name": "Honors Thesis"
     },
     {
       "code": "PRSN 1100",
-      "name": "PRSN 1100"
+      "name": "Reading Persian for Research"
     },
     {
       "code": "RELS 0014",
-      "name": "RELS 0014"
+      "name": "Jesus"
     },
     {
       "code": "RELS 0015",
-      "name": "RELS 0015"
+      "name": "Sacred Stories"
     },
     {
       "code": "RELS 0110",
-      "name": "RELS 0110"
+      "name": "Christians"
     },
     {
       "code": "RELS 0290D",
-      "name": "RELS 0290D"
+      "name": "Islamic Sexualities"
     },
     {
       "code": "RELS 0420",
-      "name": "RELS 0420"
+      "name": "Sacred Bodies"
     },
     {
       "code": "RELS 1325C",
-      "name": "RELS 1325C"
+      "name": "The Virgin Mary in Christian Tradition"
     },
     {
       "code": "RELS 1330A",
-      "name": "RELS 1330A"
+      "name": "The Life and Afterlives of the Apostle Paul"
     },
     {
       "code": "RELS 1425",
-      "name": "RELS 1425"
+      "name": "Buddhist Poetry"
     },
     {
       "code": "RELS 1530A",
-      "name": "RELS 1530A"
+      "name": "Methods and Problems in Islamic Studies"
     },
     {
       "code": "RELS 1530D",
-      "name": "RELS 1530D"
+      "name": "Medieval Islamic Sectarianism"
     },
     {
       "code": "CLAS 1310",
-      "name": "CLAS 1310"
+      "name": "Roman History I: The Rise and Fall of an Imperial Republic"
     },
     {
       "code": "CLAS 1320",
-      "name": "CLAS 1320"
+      "name": "Roman History II: The Roman Empire and Its Impact (recommended)"
     },
     {
       "code": "HIAA 0032",
-      "name": "HIAA 0032"
+      "name": "Art and Architecture of the Roman Empire"
     },
     {
       "code": "HIAA 0322",
-      "name": "HIAA 0322"
+      "name": "The Arts of Religion and Ritual in the Ancient World"
     },
     {
       "code": "HIAA 1307",
-      "name": "HIAA 1307"
+      "name": "Politics and Spectacle in the Arts of Ancient Rome"
     },
     {
       "code": "HIAA 1308",
-      "name": "HIAA 1308"
+      "name": "Arts of Memory in Ancient Rome"
     },
     {
       "code": "JUDS 0608",
-      "name": "JUDS 0608"
+      "name": "The Parting of the Ways?: Questioning Jewish/Christian Difference"
     },
     {
       "code": "RELS 0405",
-      "name": "RELS 0405"
+      "name": "Arts of the Sacred and the Demonic in the Ancient Mediterranean"
     },
     {
       "code": "RELS 1315",
-      "name": "RELS 1315"
+      "name": "Religious Authority in an Age of Empire"
     }
   ]
 }

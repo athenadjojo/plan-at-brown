@@ -2,6 +2,7 @@
   "concentration": "Archaeology and the Ancient World",
   "slug": "aran",
   "url": "https://bulletin.brown.edu/the-college/concentrations/aran/",
+  "description": "The undergraduate concentration in Archaeology and the Ancient World provides students with an opportunity to explore the multi-faceted discipline of archaeology, and encourages an interdisciplinary approach to engaging with the ancient world. While the core focus of Archaeology and the Ancient World at Brown University is archaeology and art of the ancient Mediterranean, Egypt, and the Near East, this concentration encourages students to reach beyond this geographic area, to engage with Brown\u2019s many strengths in history, epigraphy, art, ethics, engineering, religious studies, and the sciences \u2013 to name just a few. The concentration, with its three distinct but overlapping tracks, is intended to allow students flexibility in structuring their own path through this diverse field of study. It is expected that, in completing the requirements for this concentration, students will incorporate courses that offer new perspectives on the complex dynamics of social inequity, exclusion, and difference, and which encourage engagement with the community \u2013 both by enrolling in classes designated as Race, Power, and Privilege (RPP) or\u00a0Community-Based Learning and Research (CBLR), and through other classes that explore similar themes. Research opportunities, through summer fieldwork, internships, museum experience, or independent study projects, are strongly encouraged.",
   "tracks": [
     {
       "id": "fieldwork_and_study_abroad",
@@ -15,7 +16,7 @@
           "notes": []
         },
         {
-          "name": "One course in ancient Greek or Roman history, for example: 1",
+          "name": "One course in ancient Greek or Roman history, for example:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -25,7 +26,7 @@
               "courses": [
                 {
                   "code": "CLAS 1210",
-                  "name": "CLAS 1210"
+                  "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
                 }
               ],
               "count": null,
@@ -37,7 +38,7 @@
               "courses": [
                 {
                   "code": "CLAS 1220",
-                  "name": "CLAS 1220"
+                  "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
                 }
               ],
               "count": null,
@@ -49,7 +50,7 @@
               "courses": [
                 {
                   "code": "CLAS 1310",
-                  "name": "CLAS 1310"
+                  "name": "Roman History I: The Rise and Fall of an Imperial Republic"
                 }
               ],
               "count": null,
@@ -61,7 +62,7 @@
               "courses": [
                 {
                   "code": "CLAS 1320",
-                  "name": "CLAS 1320"
+                  "name": "Roman History II: The Roman Empire and Its Impact"
                 }
               ],
               "count": null,
@@ -71,7 +72,7 @@
           "notes": []
         },
         {
-          "name": "One course in either Ancient Greek or Latin, at a level beyond the first year of study, for example: 1",
+          "name": "One course in either Ancient Greek or Latin, at a level beyond the first year of study, for example:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -92,7 +93,7 @@
           "notes": []
         },
         {
-          "name": "Two courses in Mediterranean (prehistoric, Greek, Roman, medieval) archaeology and art, at the 1000 level (or above), for example: 2",
+          "name": "Two courses in Mediterranean (prehistoric, Greek, Roman, medieval) archaeology and art, at the 1000 level (or above), for example:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "ARCH 1125",
-                  "name": "ARCH 1125"
+                  "name": "Building an Empire: The Sacred and Civic Architecture of Ancient Rome"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "ARCH 1155",
-                  "name": "ARCH 1155"
+                  "name": "Cities, Colonies and Global Networks in the Western Mediterranean"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "ARCH 1250",
-                  "name": "ARCH 1250"
+                  "name": "Minoans and Mycenaeans: Greece in the Bronze Age"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "ARCH 1765",
-                  "name": "ARCH 1765"
+                  "name": "Pandemics, Pathogens, and Plagues in the Greek and Roman Worlds"
                 }
               ],
               "count": null,
@@ -148,7 +149,7 @@
           "notes": []
         },
         {
-          "name": "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern OR focuses on a particular thematic topic pertaining to archaeology, for example: 1",
+          "name": "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern OR focuses on a particular thematic topic pertaining to archaeology, for example:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -158,7 +159,7 @@
               "courses": [
                 {
                   "code": "ARCH 1490",
-                  "name": "ARCH 1490"
+                  "name": "The Archaeology of Central Asia: Alexander in Afghanistan, and Buddhas in Bactria"
                 }
               ],
               "count": null,
@@ -170,7 +171,7 @@
               "courses": [
                 {
                   "code": "ARCH 1515",
-                  "name": "ARCH 1515"
+                  "name": "The Fair Sex: Female Body and Sexuality in the Ancient World"
                 }
               ],
               "count": null,
@@ -182,7 +183,7 @@
               "courses": [
                 {
                   "code": "ARCH 1570",
-                  "name": "ARCH 1570"
+                  "name": "Cold Hard Cash: The Materiality of Money in Ancient and Modern Finance"
                 }
               ],
               "count": null,
@@ -194,7 +195,7 @@
               "courses": [
                 {
                   "code": "ARCH 1710",
-                  "name": "ARCH 1710"
+                  "name": "Architecture and Memory"
                 }
               ],
               "count": null,
@@ -204,7 +205,7 @@
           "notes": []
         },
         {
-          "name": "One non-ARCH course which EITHER relates to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies. 1",
+          "name": "One non-ARCH course which EITHER relates to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -216,84 +217,84 @@
           "type": "required",
           "course": {
             "code": "CLAS 1210",
-            "name": "CLAS 1210"
+            "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1220",
-            "name": "CLAS 1220"
+            "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1310",
-            "name": "CLAS 1310"
+            "name": "Roman History I: The Rise and Fall of an Imperial Republic"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CLAS 1320",
-            "name": "CLAS 1320"
+            "name": "Roman History II: The Roman Empire and Its Impact"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1125",
-            "name": "ARCH 1125"
+            "name": "Building an Empire: The Sacred and Civic Architecture of Ancient Rome"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1155",
-            "name": "ARCH 1155"
+            "name": "Cities, Colonies and Global Networks in the Western Mediterranean"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1250",
-            "name": "ARCH 1250"
+            "name": "Minoans and Mycenaeans: Greece in the Bronze Age"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1765",
-            "name": "ARCH 1765"
+            "name": "Pandemics, Pathogens, and Plagues in the Greek and Roman Worlds"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1490",
-            "name": "ARCH 1490"
+            "name": "The Archaeology of Central Asia: Alexander in Afghanistan, and Buddhas in Bactria"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1515",
-            "name": "ARCH 1515"
+            "name": "The Fair Sex: Female Body and Sexuality in the Ancient World"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1570",
-            "name": "ARCH 1570"
+            "name": "Cold Hard Cash: The Materiality of Money in Ancient and Modern Finance"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ARCH 1710",
-            "name": "ARCH 1710"
+            "name": "Architecture and Memory"
           }
         }
       ],
@@ -303,163 +304,163 @@
   "all_courses": [
     {
       "code": "ARCH 0100",
-      "name": "ARCH 0100"
+      "name": "Field Archaeology in the Ancient World"
     },
     {
       "code": "ANTH 0500",
-      "name": "ANTH 0500"
+      "name": "Past Forward: Discovering Anthropological Archaeology"
     },
     {
       "code": "ARCH 1900",
-      "name": "ARCH 1900"
+      "name": "The Archaeology of College Hill"
     },
     {
       "code": "ARCH 0030",
-      "name": "ARCH 0030"
+      "name": "Art in Antiquity: An Introduction"
     },
     {
       "code": "ARCH 0150",
-      "name": "ARCH 0150"
+      "name": "Introduction to Egyptian Archaeology and Art"
     },
     {
       "code": "ARCH 0520",
-      "name": "ARCH 0520"
+      "name": "Roman Archaeology and Art"
     },
     {
       "code": "ARCH 0440",
-      "name": "ARCH 0440"
+      "name": "Archaeologies of the Ancient \"Middle East\""
     },
     {
       "code": "ARCH 0600",
-      "name": "ARCH 0600"
+      "name": "Archaeologies of the Muslim World"
     },
     {
       "code": "ARCH 1625",
-      "name": "ARCH 1625"
+      "name": "Temples and Tombs: Egyptian Religion and Culture"
     },
     {
       "code": "ARCH 0230",
-      "name": "ARCH 0230"
+      "name": "Myriad Mediterraneans: Archaeology, Representation and Decolonization"
     },
     {
       "code": "ARCH 0270",
-      "name": "ARCH 0270"
+      "name": "Troy Rocks! Archaeology of an Epic"
     },
     {
       "code": "ARCH 0420",
-      "name": "ARCH 0420"
+      "name": "Archaeologies of the Greek Past"
     },
     {
       "code": "ARCH 0315",
-      "name": "ARCH 0315"
+      "name": "Heritage In and Out of Context: Museum and Archaeological Heritage"
     },
     {
       "code": "ARCH 0755",
-      "name": "ARCH 0755"
+      "name": "Engineering and Technology in the Ancient World"
     },
     {
       "code": "ARCH 1774",
-      "name": "ARCH 1774"
+      "name": "Microarchaeology"
     },
     {
       "code": "ARCH 0160",
-      "name": "ARCH 0160"
+      "name": "Buried History, Hidden Wonders: Discovering East Asian Archaeology"
     },
     {
       "code": "ARCH 0330",
-      "name": "ARCH 0330"
+      "name": "Archaeology Under the Volcano"
     },
     {
       "code": "ARCH 0335",
-      "name": "ARCH 0335"
+      "name": "Archaeology of the Andes"
     },
     {
       "code": "ANTH 1720",
-      "name": "ANTH 1720"
+      "name": "The Human Skeleton"
     },
     {
       "code": "ARCH 1792",
-      "name": "ARCH 1792"
+      "name": "The Archaeology of Slavery"
     },
     {
       "code": "ARCH 1870",
-      "name": "ARCH 1870"
+      "name": "Environmental Archaeology"
     },
     {
       "code": "CLAS 1210",
-      "name": "CLAS 1210"
+      "name": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC"
     },
     {
       "code": "CLAS 1220",
-      "name": "CLAS 1220"
+      "name": "The Fall of Empires and Rise of Kings: Greek History 478 to 323 BC"
     },
     {
       "code": "CLAS 1310",
-      "name": "CLAS 1310"
+      "name": "Roman History I: The Rise and Fall of an Imperial Republic"
     },
     {
       "code": "CLAS 1320",
-      "name": "CLAS 1320"
+      "name": "Roman History II: The Roman Empire and Its Impact"
     },
     {
       "code": "ARCH 1125",
-      "name": "ARCH 1125"
+      "name": "Building an Empire: The Sacred and Civic Architecture of Ancient Rome"
     },
     {
       "code": "ARCH 1155",
-      "name": "ARCH 1155"
+      "name": "Cities, Colonies and Global Networks in the Western Mediterranean"
     },
     {
       "code": "ARCH 1250",
-      "name": "ARCH 1250"
+      "name": "Minoans and Mycenaeans: Greece in the Bronze Age"
     },
     {
       "code": "ARCH 1765",
-      "name": "ARCH 1765"
+      "name": "Pandemics, Pathogens, and Plagues in the Greek and Roman Worlds"
     },
     {
       "code": "ARCH 1490",
-      "name": "ARCH 1490"
+      "name": "The Archaeology of Central Asia: Alexander in Afghanistan, and Buddhas in Bactria"
     },
     {
       "code": "ARCH 1515",
-      "name": "ARCH 1515"
+      "name": "The Fair Sex: Female Body and Sexuality in the Ancient World"
     },
     {
       "code": "ARCH 1570",
-      "name": "ARCH 1570"
+      "name": "Cold Hard Cash: The Materiality of Money in Ancient and Modern Finance"
     },
     {
       "code": "ARCH 1710",
-      "name": "ARCH 1710"
+      "name": "Architecture and Memory"
     },
     {
       "code": "ARCH 1616",
-      "name": "ARCH 1616"
+      "name": "Between Sahara and Sea: North Africa from Human Origins to Islam"
     },
     {
       "code": "ARCH 1620",
-      "name": "ARCH 1620"
+      "name": "Conquest to Conversion: The Formation of the Islamic World"
     },
     {
       "code": "ARCH 1630",
-      "name": "ARCH 1630"
+      "name": "Fighting Pharaohs: Ancient Egyptian Warfare"
     },
     {
       "code": "ARCH 1642",
-      "name": "ARCH 1642"
+      "name": "Queering Ancient Egypt"
     },
     {
       "code": "ARCH 0340",
-      "name": "ARCH 0340"
+      "name": "Bad Things: Archaeologies of New World Vices"
     },
     {
       "code": "ARCH 1170",
-      "name": "ARCH 1170"
+      "name": "Community Archaeology in Providence and Beyond"
     },
     {
       "code": "ARCH 1178",
-      "name": "ARCH 1178"
+      "name": "Archaeology and Social Justice: Un-disciplining the Past, Changing the Present"
     },
     {
       "code": "ARCH 1970",

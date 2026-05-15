@@ -2,13 +2,14 @@
   "concentration": "Physics",
   "slug": "phys",
   "url": "https://bulletin.brown.edu/the-college/concentrations/phys/",
+  "description": "Physics is the scientific study of the fundamental principles governing the behavior of matter and the interaction of matter and energy. Mathematics is used to describe fundamental physical principles, the behavior of matter, and the interactions of matter and energy. As the most fundamental of sciences, physics provides a foundation for other scientific fields as well as the underpinnings of modern technology. The Physics department is unique because of the breadth of its faculty expertise and research, and the relatively intimate size of its classes above the introductory level. Physics concentrators may choose to pursue either the A.B. or the more intensive Sc.B. degree. Course work on either path covers a broad base of topics (for example, electricity and magnetism, classical and quantum mechanics, thermodynamics, and statistical mechanics). The Sc.B. degree requires additional advanced topics as well as a senior thesis project. Physics is the scientific study of the fundamental principles governing the behavior of matter and the interaction of matter and energy. Mathematics is used to describe fundamental physical principles, the behavior of matter, and the interactions of matter and energy. As the most fundamental of sciences, physics provides a foundation for other scientific fields as well as the underpinnings of modern technology. The Physics department is unique because of the breadth of its faculty expertise and research, and the relatively intimate size of its classes above the introductory level. Physics concentrators may choose to pursue either the A.B. or the more intensive Sc.B. degree. Course work on either path covers a broad base of topics (for example, electricity and magnetism, classical and quantum mechanics, thermodynamics, and statistical mechanics). The Sc.B. degree requires additional advanced topics as well as a senior thesis project.",
   "tracks": [
     {
       "id": "standard_concentration_for_the_a_b__degree",
       "name": "Standard concentration for the A.B. degree",
       "groups": [
         {
-          "name": "Select one of the following Series: 2",
+          "name": "Select one of the following Series:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "PHYS 0030",
-                  "name": "PHYS 0030"
+                  "name": "Basic Physics A"
                 }
               ],
               "count": null,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "PHYS 0040",
-                  "name": "PHYS 0040"
+                  "name": "Basic Physics B"
                 }
               ],
               "count": null,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -88,7 +89,7 @@
           "notes": []
         },
         {
-          "name": "Take each of the following: 5",
+          "name": "Take each of the following:",
           "type": "section",
           "count": 5,
           "sub_groups": [
@@ -98,7 +99,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -110,7 +111,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -122,7 +123,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -134,7 +135,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -146,7 +147,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -156,7 +157,7 @@
           "notes": []
         },
         {
-          "name": "One additional 1000-level course or a mathematics course beyond the introductory level. 1",
+          "name": "One additional 1000-level course or a mathematics course beyond the introductory level.",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -168,77 +169,77 @@
           "type": "required",
           "course": {
             "code": "PHYS 0030",
-            "name": "PHYS 0030"
+            "name": "Basic Physics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0040",
-            "name": "PHYS 0040"
+            "name": "Basic Physics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         }
       ],
@@ -256,7 +257,7 @@
           "notes": []
         },
         {
-          "name": "Select one of each: 2",
+          "name": "Select one of each:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -266,7 +267,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -278,7 +279,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -290,7 +291,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -302,7 +303,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -312,7 +313,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following: 1",
+          "name": "Select one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -322,7 +323,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -334,7 +335,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I"
                 }
               ],
               "count": null,
@@ -346,7 +347,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -356,7 +357,7 @@
           "notes": []
         },
         {
-          "name": "Program: 8",
+          "name": "Program:",
           "type": "section",
           "count": 8,
           "sub_groups": [
@@ -366,7 +367,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -378,7 +379,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -390,7 +391,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -402,7 +403,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -414,7 +415,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -426,7 +427,7 @@
               "courses": [
                 {
                   "code": "PHYS 1510",
-                  "name": "PHYS 1510"
+                  "name": "Advanced Electromagnetic Theory"
                 }
               ],
               "count": null,
@@ -438,7 +439,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -450,7 +451,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory"
                 }
               ],
               "count": null,
@@ -460,7 +461,7 @@
           "notes": []
         },
         {
-          "name": "Take one additional 1000 or 2000 level Physics course or upper level course in related fields of science chosen by the student with the agreement of his or her advisor. 1",
+          "name": "Take one additional 1000 or 2000 level Physics course or upper level course in related fields of science chosen by the student with the agreement of his or her advisor.",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -490,7 +491,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course2"
                 }
               ],
               "count": 1,
@@ -505,105 +506,105 @@
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1510",
-            "name": "PHYS 1510"
+            "name": "Advanced Electromagnetic Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory"
           }
         },
         {
@@ -627,7 +628,7 @@
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course2"
           }
         }
       ],
@@ -645,7 +646,7 @@
           "notes": []
         },
         {
-          "name": "Select one of each: 2",
+          "name": "Select one of each:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -655,7 +656,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -667,7 +668,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -679,7 +680,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -691,7 +692,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -703,7 +704,7 @@
               "courses": [
                 {
                   "code": "PHYS 0270",
-                  "name": "PHYS 0270"
+                  "name": "Astronomy and Astrophysics"
                 }
               ],
               "count": 1,
@@ -713,7 +714,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following Series: 2",
+          "name": "Select one of the following Series:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -723,11 +724,11 @@
               "courses": [
                 {
                   "code": "MATH 0170",
-                  "name": "MATH 0170"
+                  "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
                 },
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -739,11 +740,11 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
                 },
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -755,7 +756,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory (or equivalent)"
                 }
               ],
               "count": null,
@@ -767,7 +768,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -787,7 +788,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": 1,
@@ -799,7 +800,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -811,7 +812,7 @@
               "courses": [
                 {
                   "code": "PHYS 0720",
-                  "name": "PHYS 0720"
+                  "name": "Methods of Mathematical Physics"
                 }
               ],
               "count": null,
@@ -821,7 +822,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following Math courses: 1",
+          "name": "Select one of the following Math courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -831,7 +832,7 @@
               "courses": [
                 {
                   "code": "APMA 0330",
-                  "name": "APMA 0330"
+                  "name": "Methods of Applied Mathematics I"
                 }
               ],
               "count": null,
@@ -843,7 +844,7 @@
               "courses": [
                 {
                   "code": "APMA 0340",
-                  "name": "APMA 0340"
+                  "name": "Methods of Applied Mathematics II"
                 }
               ],
               "count": null,
@@ -855,7 +856,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": null,
@@ -867,7 +868,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -879,7 +880,7 @@
               "courses": [
                 {
                   "code": "MATH 1110",
-                  "name": "MATH 1110"
+                  "name": "Ordinary Differential Equations"
                 }
               ],
               "count": null,
@@ -891,7 +892,7 @@
               "courses": [
                 {
                   "code": "MATH 1120",
-                  "name": "MATH 1120"
+                  "name": "Partial Differential Equations"
                 }
               ],
               "count": null,
@@ -903,7 +904,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": 1,
@@ -915,7 +916,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": 1,
@@ -927,7 +928,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": 1,
@@ -939,7 +940,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": 1,
@@ -949,7 +950,7 @@
           "notes": []
         },
         {
-          "name": "Three of the following: 3",
+          "name": "Three of the following:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -959,7 +960,7 @@
               "courses": [
                 {
                   "code": "PHYS 1100",
-                  "name": "PHYS 1100"
+                  "name": "General Relativity"
                 }
               ],
               "count": null,
@@ -971,7 +972,7 @@
               "courses": [
                 {
                   "code": "PHYS 1250",
-                  "name": "PHYS 1250"
+                  "name": "Stellar Structure and the Interstellar Medium"
                 }
               ],
               "count": null,
@@ -983,7 +984,7 @@
               "courses": [
                 {
                   "code": "PHYS 1270",
-                  "name": "PHYS 1270"
+                  "name": "Extragalactic Astronomy and High-Energy Astrophysics"
                 }
               ],
               "count": null,
@@ -995,7 +996,7 @@
               "courses": [
                 {
                   "code": "PHYS 1280",
-                  "name": "PHYS 1280"
+                  "name": "Introduction to Cosmology"
                 }
               ],
               "count": null,
@@ -1005,7 +1006,7 @@
           "notes": []
         },
         {
-          "name": "Two additonal 1000- or 2000-level courses in physics or a related field which are not listed as requirements. 2",
+          "name": "Two additonal 1000- or 2000-level courses in physics or a related field which are not listed as requirements.",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -1015,7 +1016,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course1"
                 }
               ],
               "count": 1,
@@ -1030,35 +1031,35 @@
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0270",
-            "name": "PHYS 0270"
+            "name": "Astronomy and Astrophysics"
           }
         },
         {
@@ -1066,11 +1067,11 @@
           "options": [
             {
               "code": "MATH 0170",
-              "name": "MATH 0170"
+              "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
             },
             {
               "code": "MATH 0180",
-              "name": "MATH 0180"
+              "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
             }
           ]
         },
@@ -1079,11 +1080,11 @@
           "options": [
             {
               "code": "MATH 0190",
-              "name": "MATH 0190"
+              "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
             },
             {
               "code": "MATH 0200",
-              "name": "MATH 0200"
+              "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
             }
           ]
         },
@@ -1091,140 +1092,140 @@
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0720",
-            "name": "PHYS 0720"
+            "name": "Methods of Mathematical Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0330",
-            "name": "APMA 0330"
+            "name": "Methods of Applied Mathematics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0340",
-            "name": "APMA 0340"
+            "name": "Methods of Applied Mathematics II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1110",
-            "name": "MATH 1110"
+            "name": "Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1120",
-            "name": "MATH 1120"
+            "name": "Partial Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1100",
-            "name": "PHYS 1100"
+            "name": "General Relativity"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1250",
-            "name": "PHYS 1250"
+            "name": "Stellar Structure and the Interstellar Medium"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1270",
-            "name": "PHYS 1270"
+            "name": "Extragalactic Astronomy and High-Energy Astrophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1280",
-            "name": "PHYS 1280"
+            "name": "Introduction to Cosmology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course1"
           }
         }
       ],
@@ -1245,7 +1246,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": 1,
@@ -1257,7 +1258,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -1269,7 +1270,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": null,
@@ -1281,7 +1282,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": 1,
@@ -1293,7 +1294,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -1305,7 +1306,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -1317,7 +1318,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": 1,
@@ -1329,7 +1330,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": 1,
@@ -1341,7 +1342,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": 1,
@@ -1368,7 +1369,7 @@
               "courses": [
                 {
                   "code": "PHYS 0720",
-                  "name": "PHYS 0720"
+                  "name": "Methods of Mathematical Physics"
                 }
               ],
               "count": null,
@@ -1395,7 +1396,7 @@
               "courses": [
                 {
                   "code": "APMA 0330",
-                  "name": "APMA 0330"
+                  "name": "Methods of Applied Mathematics I"
                 }
               ],
               "count": null,
@@ -1407,7 +1408,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations"
                 }
               ],
               "count": null,
@@ -1419,7 +1420,7 @@
               "courses": [
                 {
                   "code": "MATH 1110",
-                  "name": "MATH 1110"
+                  "name": "Ordinary Differential Equations"
                 }
               ],
               "count": null,
@@ -1439,7 +1440,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1451,7 +1452,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -1463,7 +1464,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1475,7 +1476,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": null,
@@ -1487,7 +1488,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -1507,7 +1508,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems (or placement out of BIOL 0200)"
                 }
               ],
               "count": 1,
@@ -1519,7 +1520,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": 1,
@@ -1531,7 +1532,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -1551,7 +1552,7 @@
               "courses": [
                 {
                   "code": "PHYS 1610",
-                  "name": "PHYS 1610"
+                  "name": "Biological Physics"
                 }
               ],
               "count": 1,
@@ -1563,7 +1564,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course"
                 }
               ],
               "count": 1,
@@ -1573,7 +1574,7 @@
           "notes": []
         },
         {
-          "name": "Elective Courses (four chosen from the following list, with at least two 1000-level courses, or additional courses approved by the concentration advisor: 4",
+          "name": "Elective Courses (four chosen from the following list, with at least two 1000-level courses, or additional courses approved by the concentration advisor:",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -1583,7 +1584,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -1595,7 +1596,7 @@
               "courses": [
                 {
                   "code": "APMA 0410",
-                  "name": "APMA 0410"
+                  "name": "Mathematical Methods in the Brain Sciences"
                 }
               ],
               "count": null,
@@ -1607,7 +1608,7 @@
               "courses": [
                 {
                   "code": "APMA 0650",
-                  "name": "APMA 0650"
+                  "name": "Introduction to Probability and Statistics"
                 }
               ],
               "count": null,
@@ -1619,7 +1620,7 @@
               "courses": [
                 {
                   "code": "APMA 1070",
-                  "name": "APMA 1070"
+                  "name": "Quantitative Models of Biological Systems"
                 }
               ],
               "count": null,
@@ -1631,7 +1632,7 @@
               "courses": [
                 {
                   "code": "APMA 1080",
-                  "name": "APMA 1080"
+                  "name": "Inference in Genomics and Molecular Biology"
                 }
               ],
               "count": null,
@@ -1643,7 +1644,7 @@
               "courses": [
                 {
                   "code": "BIOL 0280",
-                  "name": "BIOL 0280"
+                  "name": "Biochemistry"
                 }
               ],
               "count": null,
@@ -1655,7 +1656,7 @@
               "courses": [
                 {
                   "code": "BIOL 0470",
-                  "name": "BIOL 0470"
+                  "name": "Genetics"
                 }
               ],
               "count": null,
@@ -1667,7 +1668,7 @@
               "courses": [
                 {
                   "code": "BIOL 1050",
-                  "name": "BIOL 1050"
+                  "name": "Biology of the Eukaryotic Cell"
                 }
               ],
               "count": null,
@@ -1679,7 +1680,7 @@
               "courses": [
                 {
                   "code": "BIOL 1200",
-                  "name": "BIOL 1200"
+                  "name": "Protein Biophysics and Structure"
                 }
               ],
               "count": null,
@@ -1691,7 +1692,7 @@
               "courses": [
                 {
                   "code": "BIOL 1270",
-                  "name": "BIOL 1270"
+                  "name": "Advanced Biochemistry"
                 }
               ],
               "count": null,
@@ -1703,7 +1704,7 @@
               "courses": [
                 {
                   "code": "BIOL 1870",
-                  "name": "BIOL 1870"
+                  "name": "Techniques and Clinical Applications in Pathobiology"
                 }
               ],
               "count": null,
@@ -1715,7 +1716,7 @@
               "courses": [
                 {
                   "code": "CHEM 0350",
-                  "name": "CHEM 0350"
+                  "name": "Organic Chemistry I"
                 }
               ],
               "count": null,
@@ -1727,7 +1728,7 @@
               "courses": [
                 {
                   "code": "CHEM 0360",
-                  "name": "CHEM 0360"
+                  "name": "Organic Chemistry II"
                 }
               ],
               "count": null,
@@ -1739,7 +1740,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I"
                 }
               ],
               "count": null,
@@ -1751,7 +1752,7 @@
               "courses": [
                 {
                   "code": "MATH 0170",
-                  "name": "MATH 0170"
+                  "name": "Single Variable Calculus, Part II (Accelerated)"
                 }
               ],
               "count": null,
@@ -1763,7 +1764,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -1775,7 +1776,7 @@
               "courses": [
                 {
                   "code": "MATH 1620",
-                  "name": "MATH 1620"
+                  "name": "Mathematical Statistics"
                 }
               ],
               "count": null,
@@ -1787,7 +1788,7 @@
               "courses": [
                 {
                   "code": "MATH 1210",
-                  "name": "MATH 1210"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -1799,7 +1800,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": null,
@@ -1811,7 +1812,7 @@
               "courses": [
                 {
                   "code": "PHYS 1510",
-                  "name": "PHYS 1510"
+                  "name": "Advanced Electromagnetic Theory"
                 }
               ],
               "count": null,
@@ -1823,7 +1824,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory"
                 }
               ],
               "count": null,
@@ -1835,7 +1836,7 @@
               "courses": [
                 {
                   "code": "PHYS 2620F",
-                  "name": "PHYS 2620F"
+                  "name": "Selected Topics in Molecular Biophysics"
                 }
               ],
               "count": null,
@@ -1847,7 +1848,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course2"
                 }
               ],
               "count": 1,
@@ -1862,322 +1863,322 @@
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0720",
-            "name": "PHYS 0720"
+            "name": "Methods of Mathematical Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0330",
-            "name": "APMA 0330"
+            "name": "Methods of Applied Mathematics I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1110",
-            "name": "MATH 1110"
+            "name": "Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems (or placement out of BIOL 0200)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1610",
-            "name": "PHYS 1610"
+            "name": "Biological Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0410",
-            "name": "APMA 0410"
+            "name": "Mathematical Methods in the Brain Sciences"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0650",
-            "name": "APMA 0650"
+            "name": "Introduction to Probability and Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1070",
-            "name": "APMA 1070"
+            "name": "Quantitative Models of Biological Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1080",
-            "name": "APMA 1080"
+            "name": "Inference in Genomics and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0280",
-            "name": "BIOL 0280"
+            "name": "Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0470",
-            "name": "BIOL 0470"
+            "name": "Genetics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1050",
-            "name": "BIOL 1050"
+            "name": "Biology of the Eukaryotic Cell"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1200",
-            "name": "BIOL 1200"
+            "name": "Protein Biophysics and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1270",
-            "name": "BIOL 1270"
+            "name": "Advanced Biochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1870",
-            "name": "BIOL 1870"
+            "name": "Techniques and Clinical Applications in Pathobiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0350",
-            "name": "CHEM 0350"
+            "name": "Organic Chemistry I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0360",
-            "name": "CHEM 0360"
+            "name": "Organic Chemistry II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0170",
-            "name": "MATH 0170"
+            "name": "Single Variable Calculus, Part II (Accelerated)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1620",
-            "name": "MATH 1620"
+            "name": "Mathematical Statistics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1210",
-            "name": "MATH 1210"
+            "name": "Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1510",
-            "name": "PHYS 1510"
+            "name": "Advanced Electromagnetic Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 2620F",
-            "name": "PHYS 2620F"
+            "name": "Selected Topics in Molecular Biophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course2"
           }
         }
       ],
@@ -2198,7 +2199,7 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part I"
                 }
               ],
               "count": 1,
@@ -2210,7 +2211,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2222,7 +2223,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -2234,7 +2235,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": 1,
@@ -2246,7 +2247,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -2256,7 +2257,7 @@
           "notes": []
         },
         {
-          "name": "Mathematics Courses 1",
+          "name": "Mathematics Courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2266,7 +2267,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": 1,
@@ -2278,7 +2279,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -2290,7 +2291,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2302,7 +2303,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": 1,
@@ -2314,7 +2315,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -2326,7 +2327,7 @@
               "courses": [
                 {
                   "code": "MATH 1110",
-                  "name": "MATH 1110"
+                  "name": "Ordinary Differential Equations"
                 }
               ],
               "count": 1,
@@ -2336,7 +2337,7 @@
           "notes": []
         },
         {
-          "name": "Select at least one of the following: 1",
+          "name": "Select at least one of the following:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2346,7 +2347,7 @@
               "courses": [
                 {
                   "code": "MATH 1060",
-                  "name": "MATH 1060"
+                  "name": "Differential Geometry"
                 }
               ],
               "count": null,
@@ -2358,7 +2359,7 @@
               "courses": [
                 {
                   "code": "MATH 1120",
-                  "name": "MATH 1120"
+                  "name": "Partial Differential Equations"
                 }
               ],
               "count": null,
@@ -2370,7 +2371,7 @@
               "courses": [
                 {
                   "code": "MATH 1210",
-                  "name": "MATH 1210"
+                  "name": "Probability"
                 }
               ],
               "count": null,
@@ -2380,7 +2381,7 @@
           "notes": []
         },
         {
-          "name": "Physics Courses 1",
+          "name": "Physics Courses",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2390,7 +2391,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": 1,
@@ -2402,7 +2403,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -2414,7 +2415,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2426,7 +2427,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": 1,
@@ -2438,7 +2439,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": 1,
@@ -2448,7 +2449,7 @@
           "notes": []
         },
         {
-          "name": "Select at least two of the following: 2",
+          "name": "Select at least two of the following:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -2458,7 +2459,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": null,
@@ -2470,7 +2471,7 @@
               "courses": [
                 {
                   "code": "PHYS 1420",
-                  "name": "PHYS 1420"
+                  "name": "Quantum Mechanics B"
                 }
               ],
               "count": null,
@@ -2482,7 +2483,7 @@
               "courses": [
                 {
                   "code": "PHYS 1510",
-                  "name": "PHYS 1510"
+                  "name": "Advanced Electromagnetic Theory"
                 }
               ],
               "count": null,
@@ -2494,7 +2495,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": null,
@@ -2506,7 +2507,7 @@
               "courses": [
                 {
                   "code": "PHYS 1560",
-                  "name": "PHYS 1560"
+                  "name": "Modern Physics Laboratory"
                 }
               ],
               "count": null,
@@ -2521,168 +2522,168 @@
           "type": "required",
           "course": {
             "code": "MATH 0090",
-            "name": "MATH 0090"
+            "name": "Single Variable Calculus, Part I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1110",
-            "name": "MATH 1110"
+            "name": "Ordinary Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1060",
-            "name": "MATH 1060"
+            "name": "Differential Geometry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1120",
-            "name": "MATH 1120"
+            "name": "Partial Differential Equations"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1210",
-            "name": "MATH 1210"
+            "name": "Probability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1420",
-            "name": "PHYS 1420"
+            "name": "Quantum Mechanics B"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1510",
-            "name": "PHYS 1510"
+            "name": "Advanced Electromagnetic Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1560",
-            "name": "PHYS 1560"
+            "name": "Modern Physics Laboratory"
           }
         }
       ],
@@ -2700,7 +2701,7 @@
           "notes": []
         },
         {
-          "name": "Select one of the following series: 2",
+          "name": "Select one of the following series:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -2710,7 +2711,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -2722,7 +2723,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -2734,7 +2735,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -2746,7 +2747,7 @@
               "courses": [
                 {
                   "code": "PHYS 0160",
-                  "name": "PHYS 0160"
+                  "name": "Introduction to Relativity, Waves and Quantum Physics"
                 }
               ],
               "count": null,
@@ -2766,7 +2767,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -2778,11 +2779,11 @@
               "courses": [
                 {
                   "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "Single Variable Calculus, Part Iand Single Variable Calculus, Part II"
                 },
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part Iand Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2802,7 +2803,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": 1,
@@ -2814,7 +2815,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": 1,
@@ -2826,7 +2827,7 @@
               "courses": [
                 {
                   "code": "PHYS 0560",
-                  "name": "PHYS 0560"
+                  "name": "Experiments in Modern Physics"
                 }
               ],
               "count": 1,
@@ -2838,7 +2839,7 @@
               "courses": [
                 {
                   "code": "PHYS 1410",
-                  "name": "PHYS 1410"
+                  "name": "Quantum Mechanics A"
                 }
               ],
               "count": 1,
@@ -2850,7 +2851,7 @@
               "courses": [
                 {
                   "code": "PHYS 1530",
-                  "name": "PHYS 1530"
+                  "name": "Thermodynamics and Statistical Mechanics"
                 }
               ],
               "count": 1,
@@ -2862,11 +2863,11 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculusand Multivariable Calculus (Physics/Engineering)"
                 },
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculusand Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": null,
@@ -2878,7 +2879,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2890,7 +2891,7 @@
               "courses": [
                 {
                   "code": "MATH 0520",
-                  "name": "MATH 0520"
+                  "name": "Linear Algebra"
                 }
               ],
               "count": 1,
@@ -2902,7 +2903,7 @@
               "courses": [
                 {
                   "code": "MATH 0540",
-                  "name": "MATH 0540"
+                  "name": "Linear Algebra With Theory"
                 }
               ],
               "count": null,
@@ -2914,7 +2915,7 @@
               "courses": [
                 {
                   "code": "PHYS 0720",
-                  "name": "PHYS 0720"
+                  "name": "Methods of Mathematical Physics"
                 }
               ],
               "count": null,
@@ -2926,7 +2927,7 @@
               "courses": [
                 {
                   "code": "MATH 1460",
-                  "name": "MATH 1460"
+                  "name": "Complex Analysis"
                 }
               ],
               "count": 1,
@@ -2936,14 +2937,14 @@
           "notes": []
         },
         {
-          "name": "Four additional 1000 or 2000 level Physics courses 4",
+          "name": "Four additional 1000 or 2000 level Physics courses",
           "type": "label",
           "courses": [],
           "count": 4,
           "notes": []
         },
         {
-          "name": "Two additional 1000 or 2000 level Math courses 2",
+          "name": "Two additional 1000 or 2000 level Math courses",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -2953,7 +2954,7 @@
               "courses": [
                 {
                   "code": "PHYS 1990",
-                  "name": "PHYS 1990"
+                  "name": "Senior Conference Course1"
                 }
               ],
               "count": 1,
@@ -2968,35 +2969,35 @@
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0160",
-            "name": "PHYS 0160"
+            "name": "Introduction to Relativity, Waves and Quantum Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
@@ -3004,11 +3005,11 @@
           "options": [
             {
               "code": "MATH 0090",
-              "name": "MATH 0090"
+              "name": "Single Variable Calculus, Part Iand Single Variable Calculus, Part II"
             },
             {
               "code": "MATH 0100",
-              "name": "MATH 0100"
+              "name": "Single Variable Calculus, Part Iand Single Variable Calculus, Part II"
             }
           ]
         },
@@ -3016,35 +3017,35 @@
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0560",
-            "name": "PHYS 0560"
+            "name": "Experiments in Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1410",
-            "name": "PHYS 1410"
+            "name": "Quantum Mechanics A"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1530",
-            "name": "PHYS 1530"
+            "name": "Thermodynamics and Statistical Mechanics"
           }
         },
         {
@@ -3052,11 +3053,11 @@
           "options": [
             {
               "code": "MATH 0180",
-              "name": "MATH 0180"
+              "name": "Multivariable Calculusand Multivariable Calculus (Physics/Engineering)"
             },
             {
               "code": "MATH 0200",
-              "name": "MATH 0200"
+              "name": "Multivariable Calculusand Multivariable Calculus (Physics/Engineering)"
             }
           ]
         },
@@ -3064,42 +3065,42 @@
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0520",
-            "name": "MATH 0520"
+            "name": "Linear Algebra"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0540",
-            "name": "MATH 0540"
+            "name": "Linear Algebra With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0720",
-            "name": "PHYS 0720"
+            "name": "Methods of Mathematical Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 1460",
-            "name": "MATH 1460"
+            "name": "Complex Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1990",
-            "name": "PHYS 1990"
+            "name": "Senior Conference Course1"
           }
         }
       ],
@@ -3109,235 +3110,235 @@
   "all_courses": [
     {
       "code": "PHYS 0030",
-      "name": "PHYS 0030"
+      "name": "Basic Physics A"
     },
     {
       "code": "PHYS 0050",
-      "name": "PHYS 0050"
+      "name": "Foundations of Mechanics"
     },
     {
       "code": "PHYS 0070",
-      "name": "PHYS 0070"
+      "name": "Analytical Mechanics"
     },
     {
       "code": "PHYS 0040",
-      "name": "PHYS 0040"
+      "name": "Basic Physics B"
     },
     {
       "code": "PHYS 0060",
-      "name": "PHYS 0060"
+      "name": "Foundations of Electromagnetism and Modern Physics"
     },
     {
       "code": "PHYS 0160",
-      "name": "PHYS 0160"
+      "name": "Introduction to Relativity, Waves and Quantum Physics"
     },
     {
       "code": "PHYS 0470",
-      "name": "PHYS 0470"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "PHYS 0500",
-      "name": "PHYS 0500"
+      "name": "Advanced Classical Mechanics"
     },
     {
       "code": "PHYS 0560",
-      "name": "PHYS 0560"
+      "name": "Experiments in Modern Physics"
     },
     {
       "code": "PHYS 1410",
-      "name": "PHYS 1410"
+      "name": "Quantum Mechanics A"
     },
     {
       "code": "PHYS 1530",
-      "name": "PHYS 1530"
+      "name": "Thermodynamics and Statistical Mechanics"
     },
     {
       "code": "MATH 0190",
-      "name": "MATH 0190"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)"
     },
     {
       "code": "MATH 0090",
-      "name": "MATH 0090"
+      "name": "Single Variable Calculus, Part I"
     },
     {
       "code": "MATH 0100",
-      "name": "MATH 0100"
+      "name": "Single Variable Calculus, Part II"
     },
     {
       "code": "PHYS 1420",
-      "name": "PHYS 1420"
+      "name": "Quantum Mechanics B"
     },
     {
       "code": "PHYS 1510",
-      "name": "PHYS 1510"
+      "name": "Advanced Electromagnetic Theory"
     },
     {
       "code": "PHYS 1560",
-      "name": "PHYS 1560"
+      "name": "Modern Physics Laboratory"
     },
     {
       "code": "PHYS 1990",
-      "name": "PHYS 1990"
+      "name": "Senior Conference Course2"
     },
     {
       "code": "PHYS 0270",
-      "name": "PHYS 0270"
+      "name": "Astronomy and Astrophysics"
     },
     {
       "code": "MATH 0170",
-      "name": "MATH 0170"
+      "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
     },
     {
       "code": "MATH 0180",
-      "name": "MATH 0180"
+      "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
     },
     {
       "code": "MATH 0200",
-      "name": "MATH 0200"
+      "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
     },
     {
       "code": "MATH 0350",
-      "name": "MATH 0350"
+      "name": "Multivariable Calculus With Theory (or equivalent)"
     },
     {
       "code": "MATH 0520",
-      "name": "MATH 0520"
+      "name": "Linear Algebra"
     },
     {
       "code": "MATH 0540",
-      "name": "MATH 0540"
+      "name": "Linear Algebra With Theory"
     },
     {
       "code": "PHYS 0720",
-      "name": "PHYS 0720"
+      "name": "Methods of Mathematical Physics"
     },
     {
       "code": "APMA 0330",
-      "name": "APMA 0330"
+      "name": "Methods of Applied Mathematics I"
     },
     {
       "code": "APMA 0340",
-      "name": "APMA 0340"
+      "name": "Methods of Applied Mathematics II"
     },
     {
       "code": "APMA 0350",
-      "name": "APMA 0350"
+      "name": "Applied Ordinary Differential Equations"
     },
     {
       "code": "APMA 0360",
-      "name": "APMA 0360"
+      "name": "Applied Partial Differential Equations I"
     },
     {
       "code": "MATH 1110",
-      "name": "MATH 1110"
+      "name": "Ordinary Differential Equations"
     },
     {
       "code": "MATH 1120",
-      "name": "MATH 1120"
+      "name": "Partial Differential Equations"
     },
     {
       "code": "PHYS 1100",
-      "name": "PHYS 1100"
+      "name": "General Relativity"
     },
     {
       "code": "PHYS 1250",
-      "name": "PHYS 1250"
+      "name": "Stellar Structure and the Interstellar Medium"
     },
     {
       "code": "PHYS 1270",
-      "name": "PHYS 1270"
+      "name": "Extragalactic Astronomy and High-Energy Astrophysics"
     },
     {
       "code": "PHYS 1280",
-      "name": "PHYS 1280"
+      "name": "Introduction to Cosmology"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems (or placement out of BIOL 0200)"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "PHYS 1610",
-      "name": "PHYS 1610"
+      "name": "Biological Physics"
     },
     {
       "code": "APMA 0410",
-      "name": "APMA 0410"
+      "name": "Mathematical Methods in the Brain Sciences"
     },
     {
       "code": "APMA 0650",
-      "name": "APMA 0650"
+      "name": "Introduction to Probability and Statistics"
     },
     {
       "code": "APMA 1070",
-      "name": "APMA 1070"
+      "name": "Quantitative Models of Biological Systems"
     },
     {
       "code": "APMA 1080",
-      "name": "APMA 1080"
+      "name": "Inference in Genomics and Molecular Biology"
     },
     {
       "code": "BIOL 0280",
-      "name": "BIOL 0280"
+      "name": "Biochemistry"
     },
     {
       "code": "BIOL 0470",
-      "name": "BIOL 0470"
+      "name": "Genetics"
     },
     {
       "code": "BIOL 1050",
-      "name": "BIOL 1050"
+      "name": "Biology of the Eukaryotic Cell"
     },
     {
       "code": "BIOL 1200",
-      "name": "BIOL 1200"
+      "name": "Protein Biophysics and Structure"
     },
     {
       "code": "BIOL 1270",
-      "name": "BIOL 1270"
+      "name": "Advanced Biochemistry"
     },
     {
       "code": "BIOL 1870",
-      "name": "BIOL 1870"
+      "name": "Techniques and Clinical Applications in Pathobiology"
     },
     {
       "code": "CHEM 0350",
-      "name": "CHEM 0350"
+      "name": "Organic Chemistry I"
     },
     {
       "code": "CHEM 0360",
-      "name": "CHEM 0360"
+      "name": "Organic Chemistry II"
     },
     {
       "code": "MATH 1620",
-      "name": "MATH 1620"
+      "name": "Mathematical Statistics"
     },
     {
       "code": "MATH 1210",
-      "name": "MATH 1210"
+      "name": "Probability"
     },
     {
       "code": "PHYS 2620F",
-      "name": "PHYS 2620F"
+      "name": "Selected Topics in Molecular Biophysics"
     },
     {
       "code": "MATH 1060",
-      "name": "MATH 1060"
+      "name": "Differential Geometry"
     },
     {
       "code": "MATH 1460",
-      "name": "MATH 1460"
+      "name": "Complex Analysis"
     }
   ]
 }

@@ -2,6 +2,7 @@
   "concentration": "Environmental Engineering",
   "slug": "eveg",
   "url": "https://bulletin.brown.edu/the-college/concentrations/eveg/",
+  "description": "The Sc.B. program in Environmental Engineering provides students with the tools to develop sustainable solutions to complicated environmental problems and design real-world solutions that consider risk, sustainability, life-cycle principles, and environmental impacts. Environmental engineers use the principles of engineering, mathematics, biology, and chemistry to develop and implement engineering solutions to protect human health and the environment from the adverse impacts of environmental pollution. Their work includes water and wastewater treatment, air pollution control, soil and groundwater remediation, site characterization and risk assessment, life cycle assessment, and climate change mitigation. The Environmental Engineering program is accredited by the Engineering Accreditation Commission of ABET: http://www.abet.org. Within a few years of graduation, graduates of the Brown Environmental Engineering (EnvE) Program will: (1) Engage in continued learning through professional development, professional licensure, and service to the profession and society; (2) Achieve leadership positions or roles that advance environmental engineering practice; and (3) Pursue and successfully obtain an advanced graduate or professional degree in environmental engineering or a related discipline. The student outcomes of this program are intended to be those enumerated in items (1) - (7) Student Outcomes as defined by the \"ABET Criteria for Accrediting Engineering Programs\" available online athttp://www.abet.org/accreditation-criteria-policies-documents/",
   "tracks": [
     {
       "id": "standard_program_for_the_sc_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -30,7 +31,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -42,7 +43,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -54,7 +55,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -66,7 +67,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -78,7 +79,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": 1,
@@ -90,7 +91,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -102,7 +103,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -114,7 +115,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -126,7 +127,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -138,7 +139,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -150,7 +151,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -162,7 +163,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -174,7 +175,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -186,7 +187,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -198,7 +199,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -210,7 +211,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -222,7 +223,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -234,7 +235,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -246,7 +247,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -258,7 +259,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -270,7 +271,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -282,7 +283,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -294,7 +295,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -306,7 +307,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -318,7 +319,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -342,7 +343,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -362,7 +363,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": 1,
@@ -374,7 +375,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -386,7 +387,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -398,7 +399,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -410,7 +411,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -422,7 +423,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -434,7 +435,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -446,7 +447,7 @@
               "courses": [
                 {
                   "code": "EEPS 1710",
-                  "name": "EEPS 1710"
+                  "name": "Remote Sensing of Earth and Planetary Surfaces"
                 }
               ],
               "count": null,
@@ -458,7 +459,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": 1,
@@ -470,7 +471,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -482,7 +483,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -494,7 +495,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -506,7 +507,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -516,7 +517,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper-Level Environmental Engineering Curriculum 2",
+          "name": "3. Upper-Level Environmental Engineering Curriculum",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -526,7 +527,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": 1,
@@ -536,7 +537,7 @@
           "notes": []
         },
         {
-          "name": "Plus four advanced engineering courses from the list below 4",
+          "name": "Plus four advanced engineering courses from the list below",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -546,7 +547,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": null,
@@ -558,7 +559,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design"
                 }
               ],
               "count": null,
@@ -570,7 +571,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics"
                 }
               ],
               "count": null,
@@ -582,7 +583,7 @@
               "courses": [
                 {
                   "code": "ENGN 1742",
-                  "name": "ENGN 1742"
+                  "name": "Groundwater Flow and Transport"
                 }
               ],
               "count": null,
@@ -594,7 +595,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -606,7 +607,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -618,7 +619,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -630,7 +631,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -642,7 +643,7 @@
               "courses": [
                 {
                   "code": "ENGN 1723",
-                  "name": "ENGN 1723"
+                  "name": "The Chemistry of Environmental Pollution"
                 }
               ],
               "count": null,
@@ -654,7 +655,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -666,7 +667,7 @@
               "courses": [
                 {
                   "code": "ENGN 2743",
-                  "name": "ENGN 2743"
+                  "name": "Fate and Transport of Environmental Contaminants"
                 }
               ],
               "count": null,
@@ -683,7 +684,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 3 1",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -693,7 +694,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -715,378 +716,378 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1710",
-            "name": "EEPS 1710"
+            "name": "Remote Sensing of Earth and Planetary Surfaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1742",
-            "name": "ENGN 1742"
+            "name": "Groundwater Flow and Transport"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1723",
-            "name": "ENGN 1723"
+            "name": "The Chemistry of Environmental Pollution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2743",
-            "name": "ENGN 2743"
+            "name": "Fate and Transport of Environmental Contaminants"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         }
       ],
@@ -1107,7 +1108,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -1119,7 +1120,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -1131,7 +1132,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -1143,7 +1144,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -1155,7 +1156,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -1167,7 +1168,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": 1,
@@ -1179,7 +1180,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -1191,7 +1192,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -1203,7 +1204,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -1215,7 +1216,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -1227,7 +1228,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -1239,7 +1240,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -1251,7 +1252,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -1263,7 +1264,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -1275,7 +1276,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -1287,7 +1288,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -1299,7 +1300,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -1311,7 +1312,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1323,7 +1324,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -1335,7 +1336,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -1347,7 +1348,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -1359,7 +1360,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -1371,7 +1372,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -1383,7 +1384,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -1395,7 +1396,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -1407,7 +1408,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -1419,7 +1420,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -1431,7 +1432,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -1451,7 +1452,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": 1,
@@ -1463,7 +1464,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -1475,7 +1476,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -1487,7 +1488,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -1499,7 +1500,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -1511,7 +1512,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -1523,7 +1524,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -1535,7 +1536,7 @@
               "courses": [
                 {
                   "code": "EEPS 1710",
-                  "name": "EEPS 1710"
+                  "name": "Remote Sensing of Earth and Planetary Surfaces"
                 }
               ],
               "count": null,
@@ -1547,7 +1548,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": 1,
@@ -1559,7 +1560,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -1571,7 +1572,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -1583,7 +1584,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -1595,7 +1596,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -1605,7 +1606,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper-Level Environmental Engineering Curriculum 2",
+          "name": "3. Upper-Level Environmental Engineering Curriculum",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -1615,7 +1616,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": 1,
@@ -1625,7 +1626,7 @@
           "notes": []
         },
         {
-          "name": "Plus four advanced engineering courses from the list below 4",
+          "name": "Plus four advanced engineering courses from the list below",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -1635,7 +1636,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": null,
@@ -1647,7 +1648,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design"
                 }
               ],
               "count": null,
@@ -1659,7 +1660,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics"
                 }
               ],
               "count": null,
@@ -1671,7 +1672,7 @@
               "courses": [
                 {
                   "code": "ENGN 1742",
-                  "name": "ENGN 1742"
+                  "name": "Groundwater Flow and Transport"
                 }
               ],
               "count": null,
@@ -1683,7 +1684,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -1695,7 +1696,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -1707,7 +1708,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -1719,7 +1720,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -1731,7 +1732,7 @@
               "courses": [
                 {
                   "code": "ENGN 1723",
-                  "name": "ENGN 1723"
+                  "name": "The Chemistry of Environmental Pollution"
                 }
               ],
               "count": null,
@@ -1743,7 +1744,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -1755,7 +1756,7 @@
               "courses": [
                 {
                   "code": "ENGN 2743",
-                  "name": "ENGN 2743"
+                  "name": "Fate and Transport of Environmental Contaminants"
                 }
               ],
               "count": null,
@@ -1772,7 +1773,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 3 1",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1782,7 +1783,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -1804,378 +1805,378 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1710",
-            "name": "EEPS 1710"
+            "name": "Remote Sensing of Earth and Planetary Surfaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1742",
-            "name": "ENGN 1742"
+            "name": "Groundwater Flow and Transport"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1723",
-            "name": "ENGN 1723"
+            "name": "The Chemistry of Environmental Pollution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2743",
-            "name": "ENGN 2743"
+            "name": "Fate and Transport of Environmental Contaminants"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         }
       ],
@@ -2196,7 +2197,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -2208,7 +2209,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -2220,7 +2221,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -2232,7 +2233,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -2244,7 +2245,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -2256,7 +2257,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": 1,
@@ -2268,7 +2269,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -2280,7 +2281,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -2292,7 +2293,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -2304,7 +2305,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -2316,7 +2317,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -2328,7 +2329,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -2340,7 +2341,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -2352,7 +2353,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -2364,7 +2365,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -2376,7 +2377,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -2388,7 +2389,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -2400,7 +2401,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2412,7 +2413,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -2424,7 +2425,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -2436,7 +2437,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -2448,7 +2449,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -2460,7 +2461,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -2472,7 +2473,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -2484,7 +2485,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -2496,7 +2497,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -2508,7 +2509,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -2520,7 +2521,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -2540,7 +2541,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": 1,
@@ -2552,7 +2553,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -2564,7 +2565,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -2576,7 +2577,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -2588,7 +2589,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -2600,7 +2601,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -2612,7 +2613,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -2624,7 +2625,7 @@
               "courses": [
                 {
                   "code": "EEPS 1710",
-                  "name": "EEPS 1710"
+                  "name": "Remote Sensing of Earth and Planetary Surfaces"
                 }
               ],
               "count": null,
@@ -2636,7 +2637,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": 1,
@@ -2648,7 +2649,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -2660,7 +2661,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -2672,7 +2673,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -2684,7 +2685,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -2694,7 +2695,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper-Level Environmental Engineering Curriculum 2",
+          "name": "3. Upper-Level Environmental Engineering Curriculum",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -2704,7 +2705,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": 1,
@@ -2714,7 +2715,7 @@
           "notes": []
         },
         {
-          "name": "Plus four advanced engineering courses from the list below 4",
+          "name": "Plus four advanced engineering courses from the list below",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -2724,7 +2725,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": null,
@@ -2736,7 +2737,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design"
                 }
               ],
               "count": null,
@@ -2748,7 +2749,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics"
                 }
               ],
               "count": null,
@@ -2760,7 +2761,7 @@
               "courses": [
                 {
                   "code": "ENGN 1742",
-                  "name": "ENGN 1742"
+                  "name": "Groundwater Flow and Transport"
                 }
               ],
               "count": null,
@@ -2772,7 +2773,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -2784,7 +2785,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -2796,7 +2797,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -2808,7 +2809,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -2820,7 +2821,7 @@
               "courses": [
                 {
                   "code": "ENGN 1723",
-                  "name": "ENGN 1723"
+                  "name": "The Chemistry of Environmental Pollution"
                 }
               ],
               "count": null,
@@ -2832,7 +2833,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -2844,7 +2845,7 @@
               "courses": [
                 {
                   "code": "ENGN 2743",
-                  "name": "ENGN 2743"
+                  "name": "Fate and Transport of Environmental Contaminants"
                 }
               ],
               "count": null,
@@ -2861,7 +2862,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 3 1",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -2871,7 +2872,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -2893,378 +2894,378 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1710",
-            "name": "EEPS 1710"
+            "name": "Remote Sensing of Earth and Planetary Surfaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1742",
-            "name": "ENGN 1742"
+            "name": "Groundwater Flow and Transport"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1723",
-            "name": "ENGN 1723"
+            "name": "The Chemistry of Environmental Pollution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2743",
-            "name": "ENGN 2743"
+            "name": "Fate and Transport of Environmental Contaminants"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         }
       ],
@@ -3285,7 +3286,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -3297,7 +3298,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -3309,7 +3310,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -3321,7 +3322,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -3333,7 +3334,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -3345,7 +3346,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": 1,
@@ -3357,7 +3358,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -3369,7 +3370,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -3381,7 +3382,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -3393,7 +3394,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -3405,7 +3406,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -3417,7 +3418,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -3429,7 +3430,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -3441,7 +3442,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -3453,7 +3454,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -3465,7 +3466,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -3477,7 +3478,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -3489,7 +3490,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -3501,7 +3502,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -3513,7 +3514,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -3525,7 +3526,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -3537,7 +3538,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -3549,7 +3550,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -3561,7 +3562,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -3573,7 +3574,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -3585,7 +3586,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -3597,7 +3598,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -3609,7 +3610,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -3629,7 +3630,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": 1,
@@ -3641,7 +3642,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -3653,7 +3654,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -3665,7 +3666,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -3677,7 +3678,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -3689,7 +3690,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -3701,7 +3702,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -3713,7 +3714,7 @@
               "courses": [
                 {
                   "code": "EEPS 1710",
-                  "name": "EEPS 1710"
+                  "name": "Remote Sensing of Earth and Planetary Surfaces"
                 }
               ],
               "count": null,
@@ -3725,7 +3726,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": 1,
@@ -3737,7 +3738,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -3749,7 +3750,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -3761,7 +3762,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -3773,7 +3774,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -3783,7 +3784,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper-Level Environmental Engineering Curriculum 2",
+          "name": "3. Upper-Level Environmental Engineering Curriculum",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -3793,7 +3794,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": 1,
@@ -3803,7 +3804,7 @@
           "notes": []
         },
         {
-          "name": "Plus four advanced engineering courses from the list below 4",
+          "name": "Plus four advanced engineering courses from the list below",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -3813,7 +3814,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": null,
@@ -3825,7 +3826,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design"
                 }
               ],
               "count": null,
@@ -3837,7 +3838,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics"
                 }
               ],
               "count": null,
@@ -3849,7 +3850,7 @@
               "courses": [
                 {
                   "code": "ENGN 1742",
-                  "name": "ENGN 1742"
+                  "name": "Groundwater Flow and Transport"
                 }
               ],
               "count": null,
@@ -3861,7 +3862,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -3873,7 +3874,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -3885,7 +3886,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -3897,7 +3898,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -3909,7 +3910,7 @@
               "courses": [
                 {
                   "code": "ENGN 1723",
-                  "name": "ENGN 1723"
+                  "name": "The Chemistry of Environmental Pollution"
                 }
               ],
               "count": null,
@@ -3921,7 +3922,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -3933,7 +3934,7 @@
               "courses": [
                 {
                   "code": "ENGN 2743",
-                  "name": "ENGN 2743"
+                  "name": "Fate and Transport of Environmental Contaminants"
                 }
               ],
               "count": null,
@@ -3950,7 +3951,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 3 1",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -3960,7 +3961,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -3982,378 +3983,378 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1710",
-            "name": "EEPS 1710"
+            "name": "Remote Sensing of Earth and Planetary Surfaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1742",
-            "name": "ENGN 1742"
+            "name": "Groundwater Flow and Transport"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1723",
-            "name": "ENGN 1723"
+            "name": "The Chemistry of Environmental Pollution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2743",
-            "name": "ENGN 2743"
+            "name": "Fate and Transport of Environmental Contaminants"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         }
       ],
@@ -4374,7 +4375,7 @@
               "courses": [
                 {
                   "code": "ENGN 0030",
-                  "name": "ENGN 0030"
+                  "name": "Introduction to Engineering"
                 }
               ],
               "count": 1,
@@ -4386,7 +4387,7 @@
               "courses": [
                 {
                   "code": "ENGN 0032",
-                  "name": "ENGN 0032"
+                  "name": "Introduction to Engineering: Design"
                 }
               ],
               "count": null,
@@ -4398,7 +4399,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics"
                 }
               ],
               "count": 1,
@@ -4410,7 +4411,7 @@
               "courses": [
                 {
                   "code": "ENGN 0410",
-                  "name": "ENGN 0410"
+                  "name": "Materials Science"
                 }
               ],
               "count": 1,
@@ -4422,7 +4423,7 @@
               "courses": [
                 {
                   "code": "ENGN 1200",
-                  "name": "ENGN 1200"
+                  "name": "Biomaterials"
                 }
               ],
               "count": null,
@@ -4434,7 +4435,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": 1,
@@ -4446,7 +4447,7 @@
               "courses": [
                 {
                   "code": "CSCI 0111",
-                  "name": "CSCI 0111"
+                  "name": "Computing Foundations: Data"
                 }
               ],
               "count": 1,
@@ -4458,7 +4459,7 @@
               "courses": [
                 {
                   "code": "CSCI 0150",
-                  "name": "CSCI 0150"
+                  "name": "Introduction to Object-Oriented Programming and Computer Science"
                 }
               ],
               "count": null,
@@ -4470,7 +4471,7 @@
               "courses": [
                 {
                   "code": "CSCI 0170",
-                  "name": "CSCI 0170"
+                  "name": "Computer Science: An Integrated Introduction"
                 }
               ],
               "count": null,
@@ -4482,7 +4483,7 @@
               "courses": [
                 {
                   "code": "CSCI 0190",
-                  "name": "CSCI 0190"
+                  "name": "Accelerated Introduction to Computer Science"
                 }
               ],
               "count": null,
@@ -4494,7 +4495,7 @@
               "courses": [
                 {
                   "code": "ENGN 0500",
-                  "name": "ENGN 0500"
+                  "name": "Digital Computing Systems"
                 }
               ],
               "count": null,
@@ -4506,7 +4507,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -4518,7 +4519,7 @@
               "courses": [
                 {
                   "code": "ENGN 0520",
-                  "name": "ENGN 0520"
+                  "name": "Electrical Circuits and Signals"
                 }
               ],
               "count": null,
@@ -4530,7 +4531,7 @@
               "courses": [
                 {
                   "code": "ENGN 0720",
-                  "name": "ENGN 0720"
+                  "name": "Thermodynamics"
                 }
               ],
               "count": 1,
@@ -4542,7 +4543,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": 1,
@@ -4554,7 +4555,7 @@
               "courses": [
                 {
                   "code": "BIOL 0200",
-                  "name": "BIOL 0200"
+                  "name": "The Foundation of Living Systems"
                 }
               ],
               "count": 1,
@@ -4566,7 +4567,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -4578,7 +4579,7 @@
               "courses": [
                 {
                   "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "Single Variable Calculus, Part II (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -4590,7 +4591,7 @@
               "courses": [
                 {
                   "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "Single Variable Calculus, Part II"
                 }
               ],
               "count": null,
@@ -4602,7 +4603,7 @@
               "courses": [
                 {
                   "code": "MATH 0200",
-                  "name": "MATH 0200"
+                  "name": "Multivariable Calculus (Physics/Engineering)"
                 }
               ],
               "count": 1,
@@ -4614,7 +4615,7 @@
               "courses": [
                 {
                   "code": "MATH 0180",
-                  "name": "MATH 0180"
+                  "name": "Multivariable Calculus"
                 }
               ],
               "count": null,
@@ -4626,7 +4627,7 @@
               "courses": [
                 {
                   "code": "MATH 0350",
-                  "name": "MATH 0350"
+                  "name": "Multivariable Calculus With Theory"
                 }
               ],
               "count": null,
@@ -4638,7 +4639,7 @@
               "courses": [
                 {
                   "code": "APMA 0350",
-                  "name": "APMA 0350"
+                  "name": "Applied Ordinary Differential Equations1"
                 }
               ],
               "count": 1,
@@ -4650,7 +4651,7 @@
               "courses": [
                 {
                   "code": "APMA 0355",
-                  "name": "APMA 0355"
+                  "name": "Applied Ordinary Differential Equations with Theory"
                 }
               ],
               "count": null,
@@ -4662,7 +4663,7 @@
               "courses": [
                 {
                   "code": "APMA 0360",
-                  "name": "APMA 0360"
+                  "name": "Applied Partial Differential Equations I"
                 }
               ],
               "count": null,
@@ -4674,7 +4675,7 @@
               "courses": [
                 {
                   "code": "APMA 0365",
-                  "name": "APMA 0365"
+                  "name": "Applied Partial Differential Equations I with Theory"
                 }
               ],
               "count": null,
@@ -4686,7 +4687,7 @@
               "courses": [
                 {
                   "code": "APMA 1650",
-                  "name": "APMA 1650"
+                  "name": "Introduction to Probability and Statistics with Calculus"
                 }
               ],
               "count": 1,
@@ -4698,7 +4699,7 @@
               "courses": [
                 {
                   "code": "APMA 1655",
-                  "name": "APMA 1655"
+                  "name": "Introduction to Probability and Statistics with Theory"
                 }
               ],
               "count": null,
@@ -4718,7 +4719,7 @@
               "courses": [
                 {
                   "code": "EEPS 1370",
-                  "name": "EEPS 1370"
+                  "name": "Environmental Geochemistry"
                 }
               ],
               "count": 1,
@@ -4730,7 +4731,7 @@
               "courses": [
                 {
                   "code": "EEPS 0850",
-                  "name": "EEPS 0850"
+                  "name": "Weather and Climate"
                 }
               ],
               "count": null,
@@ -4742,7 +4743,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -4754,7 +4755,7 @@
               "courses": [
                 {
                   "code": "EEPS 1320",
-                  "name": "EEPS 1320"
+                  "name": "Introduction to Geographic Information Systems for Environmental Applications"
                 }
               ],
               "count": null,
@@ -4766,7 +4767,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -4778,7 +4779,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -4790,7 +4791,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -4802,7 +4803,7 @@
               "courses": [
                 {
                   "code": "EEPS 1710",
-                  "name": "EEPS 1710"
+                  "name": "Remote Sensing of Earth and Planetary Surfaces"
                 }
               ],
               "count": null,
@@ -4814,7 +4815,7 @@
               "courses": [
                 {
                   "code": "BIOL 0420",
-                  "name": "BIOL 0420"
+                  "name": "Principles of Ecology"
                 }
               ],
               "count": 1,
@@ -4826,7 +4827,7 @@
               "courses": [
                 {
                   "code": "BIOL 0480",
-                  "name": "BIOL 0480"
+                  "name": "Evolutionary Biology"
                 }
               ],
               "count": null,
@@ -4838,7 +4839,7 @@
               "courses": [
                 {
                   "code": "BIOL 0500",
-                  "name": "BIOL 0500"
+                  "name": "Cell and Molecular Biology"
                 }
               ],
               "count": null,
@@ -4850,7 +4851,7 @@
               "courses": [
                 {
                   "code": "BIOL 0800",
-                  "name": "BIOL 0800"
+                  "name": "Principles of Physiology"
                 }
               ],
               "count": null,
@@ -4862,7 +4863,7 @@
               "courses": [
                 {
                   "code": "BIOL 1470",
-                  "name": "BIOL 1470"
+                  "name": "Conservation Biology"
                 }
               ],
               "count": null,
@@ -4872,7 +4873,7 @@
           "notes": []
         },
         {
-          "name": "3. Upper-Level Environmental Engineering Curriculum 2",
+          "name": "3. Upper-Level Environmental Engineering Curriculum",
           "type": "section",
           "count": null,
           "sub_groups": [
@@ -4882,7 +4883,7 @@
               "courses": [
                 {
                   "code": "ENGN 1745",
-                  "name": "ENGN 1745"
+                  "name": "Water Supply and Treatment Systems: Technology and Sustainability"
                 }
               ],
               "count": 1,
@@ -4892,7 +4893,7 @@
           "notes": []
         },
         {
-          "name": "Plus four advanced engineering courses from the list below 4",
+          "name": "Plus four advanced engineering courses from the list below",
           "type": "section",
           "count": 4,
           "sub_groups": [
@@ -4902,7 +4903,7 @@
               "courses": [
                 {
                   "code": "ENGN 1205",
-                  "name": "ENGN 1205"
+                  "name": "Transport and Biotransport Processes"
                 }
               ],
               "count": null,
@@ -4914,7 +4915,7 @@
               "courses": [
                 {
                   "code": "ENGN 1120",
-                  "name": "ENGN 1120"
+                  "name": "Reaction Kinetics and Reactor Design"
                 }
               ],
               "count": null,
@@ -4926,7 +4927,7 @@
               "courses": [
                 {
                   "code": "ENGN 1130",
-                  "name": "ENGN 1130"
+                  "name": "Chemical Engineering Thermodynamics"
                 }
               ],
               "count": null,
@@ -4938,7 +4939,7 @@
               "courses": [
                 {
                   "code": "ENGN 1742",
-                  "name": "ENGN 1742"
+                  "name": "Groundwater Flow and Transport"
                 }
               ],
               "count": null,
@@ -4950,7 +4951,7 @@
               "courses": [
                 {
                   "code": "ENGN 1700",
-                  "name": "ENGN 1700"
+                  "name": "Fluid Mechanics of Aerospace and Energy Systems"
                 }
               ],
               "count": null,
@@ -4962,7 +4963,7 @@
               "courses": [
                 {
                   "code": "ENGN 1115",
-                  "name": "ENGN 1115"
+                  "name": "Principles of Heat and Mass Transfer"
                 }
               ],
               "count": null,
@@ -4974,7 +4975,7 @@
               "courses": [
                 {
                   "code": "ENGN 1860",
-                  "name": "ENGN 1860"
+                  "name": "Advanced Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -4986,7 +4987,7 @@
               "courses": [
                 {
                   "code": "ENGN 1931P",
-                  "name": "ENGN 1931P"
+                  "name": "Energy and the Environment"
                 }
               ],
               "count": null,
@@ -4998,7 +4999,7 @@
               "courses": [
                 {
                   "code": "ENGN 1723",
-                  "name": "ENGN 1723"
+                  "name": "The Chemistry of Environmental Pollution"
                 }
               ],
               "count": null,
@@ -5010,7 +5011,7 @@
               "courses": [
                 {
                   "code": "ENGN 1932P",
-                  "name": "ENGN 1932P"
+                  "name": "Sustainable Energy: Science and Technology"
                 }
               ],
               "count": null,
@@ -5022,7 +5023,7 @@
               "courses": [
                 {
                   "code": "ENGN 2743",
-                  "name": "ENGN 2743"
+                  "name": "Fate and Transport of Environmental Contaminants"
                 }
               ],
               "count": null,
@@ -5039,7 +5040,7 @@
           "notes": []
         },
         {
-          "name": "4. Capstone Design 3 1",
+          "name": "4. Capstone Design",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -5049,7 +5050,7 @@
               "courses": [
                 {
                   "code": "ENGN 1150",
-                  "name": "ENGN 1150"
+                  "name": "Environmental Engineering Design"
                 }
               ],
               "count": null,
@@ -5071,378 +5072,378 @@
           "type": "required",
           "course": {
             "code": "ENGN 0030",
-            "name": "ENGN 0030"
+            "name": "Introduction to Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0032",
-            "name": "ENGN 0032"
+            "name": "Introduction to Engineering: Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0410",
-            "name": "ENGN 0410"
+            "name": "Materials Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1200",
-            "name": "ENGN 1200"
+            "name": "Biomaterials"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0111",
-            "name": "CSCI 0111"
+            "name": "Computing Foundations: Data"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0150",
-            "name": "CSCI 0150"
+            "name": "Introduction to Object-Oriented Programming and Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0170",
-            "name": "CSCI 0170"
+            "name": "Computer Science: An Integrated Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CSCI 0190",
-            "name": "CSCI 0190"
+            "name": "Accelerated Introduction to Computer Science"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0500",
-            "name": "ENGN 0500"
+            "name": "Digital Computing Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0520",
-            "name": "ENGN 0520"
+            "name": "Electrical Circuits and Signals"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0720",
-            "name": "ENGN 0720"
+            "name": "Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0200",
-            "name": "BIOL 0200"
+            "name": "The Foundation of Living Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0190",
-            "name": "MATH 0190"
+            "name": "Single Variable Calculus, Part II (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0100",
-            "name": "MATH 0100"
+            "name": "Single Variable Calculus, Part II"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0200",
-            "name": "MATH 0200"
+            "name": "Multivariable Calculus (Physics/Engineering)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0180",
-            "name": "MATH 0180"
+            "name": "Multivariable Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "MATH 0350",
-            "name": "MATH 0350"
+            "name": "Multivariable Calculus With Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0350",
-            "name": "APMA 0350"
+            "name": "Applied Ordinary Differential Equations1"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0355",
-            "name": "APMA 0355"
+            "name": "Applied Ordinary Differential Equations with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0360",
-            "name": "APMA 0360"
+            "name": "Applied Partial Differential Equations I"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 0365",
-            "name": "APMA 0365"
+            "name": "Applied Partial Differential Equations I with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1650",
-            "name": "APMA 1650"
+            "name": "Introduction to Probability and Statistics with Calculus"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "APMA 1655",
-            "name": "APMA 1655"
+            "name": "Introduction to Probability and Statistics with Theory"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1370",
-            "name": "EEPS 1370"
+            "name": "Environmental Geochemistry"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0850",
-            "name": "EEPS 0850"
+            "name": "Weather and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1320",
-            "name": "EEPS 1320"
+            "name": "Introduction to Geographic Information Systems for Environmental Applications"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1710",
-            "name": "EEPS 1710"
+            "name": "Remote Sensing of Earth and Planetary Surfaces"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0420",
-            "name": "BIOL 0420"
+            "name": "Principles of Ecology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0480",
-            "name": "BIOL 0480"
+            "name": "Evolutionary Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0500",
-            "name": "BIOL 0500"
+            "name": "Cell and Molecular Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 0800",
-            "name": "BIOL 0800"
+            "name": "Principles of Physiology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "BIOL 1470",
-            "name": "BIOL 1470"
+            "name": "Conservation Biology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1745",
-            "name": "ENGN 1745"
+            "name": "Water Supply and Treatment Systems: Technology and Sustainability"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1205",
-            "name": "ENGN 1205"
+            "name": "Transport and Biotransport Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1120",
-            "name": "ENGN 1120"
+            "name": "Reaction Kinetics and Reactor Design"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1130",
-            "name": "ENGN 1130"
+            "name": "Chemical Engineering Thermodynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1742",
-            "name": "ENGN 1742"
+            "name": "Groundwater Flow and Transport"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1700",
-            "name": "ENGN 1700"
+            "name": "Fluid Mechanics of Aerospace and Energy Systems"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1115",
-            "name": "ENGN 1115"
+            "name": "Principles of Heat and Mass Transfer"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1860",
-            "name": "ENGN 1860"
+            "name": "Advanced Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1931P",
-            "name": "ENGN 1931P"
+            "name": "Energy and the Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1723",
-            "name": "ENGN 1723"
+            "name": "The Chemistry of Environmental Pollution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1932P",
-            "name": "ENGN 1932P"
+            "name": "Sustainable Energy: Science and Technology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 2743",
-            "name": "ENGN 2743"
+            "name": "Fate and Transport of Environmental Contaminants"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1150",
-            "name": "ENGN 1150"
+            "name": "Environmental Engineering Design"
           }
         }
       ],
@@ -5524,175 +5525,175 @@
     },
     {
       "code": "ENGN 0030",
-      "name": "ENGN 0030"
+      "name": "Introduction to Engineering"
     },
     {
       "code": "ENGN 0032",
-      "name": "ENGN 0032"
+      "name": "Introduction to Engineering: Design"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics"
     },
     {
       "code": "ENGN 0410",
-      "name": "ENGN 0410"
+      "name": "Materials Science"
     },
     {
       "code": "ENGN 1200",
-      "name": "ENGN 1200"
+      "name": "Biomaterials"
     },
     {
       "code": "ENGN 0790",
-      "name": "ENGN 0790"
+      "name": "Fundamentals of Environmental Engineering"
     },
     {
       "code": "CSCI 0111",
-      "name": "CSCI 0111"
+      "name": "Computing Foundations: Data"
     },
     {
       "code": "CSCI 0150",
-      "name": "CSCI 0150"
+      "name": "Introduction to Object-Oriented Programming and Computer Science"
     },
     {
       "code": "CSCI 0170",
-      "name": "CSCI 0170"
+      "name": "Computer Science: An Integrated Introduction"
     },
     {
       "code": "CSCI 0190",
-      "name": "CSCI 0190"
+      "name": "Accelerated Introduction to Computer Science"
     },
     {
       "code": "ENGN 0500",
-      "name": "ENGN 0500"
+      "name": "Digital Computing Systems"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0520",
-      "name": "ENGN 0520"
+      "name": "Electrical Circuits and Signals"
     },
     {
       "code": "ENGN 0720",
-      "name": "ENGN 0720"
+      "name": "Thermodynamics"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "BIOL 0200",
-      "name": "BIOL 0200"
+      "name": "The Foundation of Living Systems"
     },
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure"
     },
     {
       "code": "EEPS 1370",
-      "name": "EEPS 1370"
+      "name": "Environmental Geochemistry"
     },
     {
       "code": "EEPS 0850",
-      "name": "EEPS 0850"
+      "name": "Weather and Climate"
     },
     {
       "code": "EEPS 1310",
-      "name": "EEPS 1310"
+      "name": "Global Water Cycle"
     },
     {
       "code": "EEPS 1320",
-      "name": "EEPS 1320"
+      "name": "Introduction to Geographic Information Systems for Environmental Applications"
     },
     {
       "code": "EEPS 1330",
-      "name": "EEPS 1330"
+      "name": "Global Environmental Remote Sensing"
     },
     {
       "code": "EEPS 1430",
-      "name": "EEPS 1430"
+      "name": "Atmospheric Circulation and Climate Dynamics"
     },
     {
       "code": "EEPS 1520",
-      "name": "EEPS 1520"
+      "name": "Ocean Circulation and Climate"
     },
     {
       "code": "EEPS 1710",
-      "name": "EEPS 1710"
+      "name": "Remote Sensing of Earth and Planetary Surfaces"
     },
     {
       "code": "BIOL 0420",
-      "name": "BIOL 0420"
+      "name": "Principles of Ecology"
     },
     {
       "code": "BIOL 0480",
-      "name": "BIOL 0480"
+      "name": "Evolutionary Biology"
     },
     {
       "code": "BIOL 0500",
-      "name": "BIOL 0500"
+      "name": "Cell and Molecular Biology"
     },
     {
       "code": "BIOL 0800",
-      "name": "BIOL 0800"
+      "name": "Principles of Physiology"
     },
     {
       "code": "BIOL 1470",
-      "name": "BIOL 1470"
+      "name": "Conservation Biology"
     },
     {
       "code": "ENGN 1745",
-      "name": "ENGN 1745"
+      "name": "Water Supply and Treatment Systems: Technology and Sustainability"
     },
     {
       "code": "ENGN 1205",
-      "name": "ENGN 1205"
+      "name": "Transport and Biotransport Processes"
     },
     {
       "code": "ENGN 1120",
-      "name": "ENGN 1120"
+      "name": "Reaction Kinetics and Reactor Design"
     },
     {
       "code": "ENGN 1130",
-      "name": "ENGN 1130"
+      "name": "Chemical Engineering Thermodynamics"
     },
     {
       "code": "ENGN 1742",
-      "name": "ENGN 1742"
+      "name": "Groundwater Flow and Transport"
     },
     {
       "code": "ENGN 1700",
-      "name": "ENGN 1700"
+      "name": "Fluid Mechanics of Aerospace and Energy Systems"
     },
     {
       "code": "ENGN 1115",
-      "name": "ENGN 1115"
+      "name": "Principles of Heat and Mass Transfer"
     },
     {
       "code": "ENGN 1860",
-      "name": "ENGN 1860"
+      "name": "Advanced Fluid Mechanics"
     },
     {
       "code": "ENGN 1931P",
-      "name": "ENGN 1931P"
+      "name": "Energy and the Environment"
     },
     {
       "code": "ENGN 1723",
-      "name": "ENGN 1723"
+      "name": "The Chemistry of Environmental Pollution"
     },
     {
       "code": "ENGN 1932P",
-      "name": "ENGN 1932P"
+      "name": "Sustainable Energy: Science and Technology"
     },
     {
       "code": "ENGN 2743",
-      "name": "ENGN 2743"
+      "name": "Fate and Transport of Environmental Contaminants"
     },
     {
       "code": "ENGN 1150",
-      "name": "ENGN 1150"
+      "name": "Environmental Engineering Design"
     },
     {
       "code": "APMA 0330",

@@ -2,6 +2,7 @@
   "concentration": "Geophysics and Climate Physics",
   "slug": "gpcp",
   "url": "https://bulletin.brown.edu/the-college/concentrations/gpcp/",
+  "description": "The Geophysics and Climate Physics concentration involves applying physics and mathematics to study processes that operate on and within the Earth and other planets, over short and long timescales.\u00a0 Geophysical approaches are fundamental for understanding how the oceans, atmosphere and ice sheets respond to climate change, managing resources such as water and geothermal energy, mitigating natural hazards such as earthquakes and volcanoes, and understanding the dynamic processes that shape the surfaces and control the interiors of Earth and other planetary bodies. Geophysics spans both theoretical modeling of physical processes and the analysis of geophysical data (including remote sensing and machine learning), and typically involves computing, as well as lab experiments and field work. Both A.B. and Sc.B. degrees are offered, requiring 12 and 19 courses, respectively.\u00a0 These degrees build skills in critical thinking, data analysis and modeling, finding solutions to complex problems, and written and oral communication.\u00a0\u00a0 DEEPS provides a highly collaborative learning environment that emphasizes process-oriented, hands-on approaches in the classroom, in labs and on field trips. There are many opportunities for students to do paid research during the summer or academic year.",
   "tracks": [
     {
       "id": "standard_program_for_the_a_b__degree",
@@ -18,7 +19,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure (or equivalent)"
                 }
               ],
               "count": 1,
@@ -28,7 +29,7 @@
           "notes": []
         },
         {
-          "name": "A course involving mechanics such as: 1",
+          "name": "A course involving mechanics such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -38,7 +39,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -50,7 +51,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -62,7 +63,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or the equivalent)"
                 }
               ],
               "count": null,
@@ -91,7 +92,7 @@
           "notes": []
         },
         {
-          "name": "Two of these four fundamentals courses: 2",
+          "name": "Two of these four fundamentals courses:",
           "type": "section",
           "count": 2,
           "sub_groups": [
@@ -101,7 +102,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": null,
@@ -113,7 +114,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": null,
@@ -125,7 +126,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": null,
@@ -137,7 +138,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": null,
@@ -149,7 +150,7 @@
               "courses": [
                 {
                   "code": "EEPS 0350",
-                  "name": "EEPS 0350"
+                  "name": "Mathematical Methods of Fluid"
                 }
               ],
               "count": null,
@@ -159,7 +160,7 @@
           "notes": []
         },
         {
-          "name": "One of these courses: 1",
+          "name": "One of these courses:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -169,7 +170,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": null,
@@ -181,7 +182,7 @@
               "courses": [
                 {
                   "code": "EEPS 1610",
-                  "name": "EEPS 1610"
+                  "name": "Solid Earth Geophysics"
                 }
               ],
               "count": null,
@@ -191,7 +192,7 @@
           "notes": []
         },
         {
-          "name": "Two of the following courses, can combine different focii: 2",
+          "name": "Two of the following courses, can combine different focii:",
           "type": "label",
           "courses": [],
           "count": 2,
@@ -208,7 +209,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -220,7 +221,7 @@
               "courses": [
                 {
                   "code": "EEPS 1510",
-                  "name": "EEPS 1510"
+                  "name": "Dynamic Meteorology"
                 }
               ],
               "count": null,
@@ -232,7 +233,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -252,7 +253,7 @@
               "courses": [
                 {
                   "code": "EEPS 1410",
-                  "name": "EEPS 1410"
+                  "name": "Mineralogy"
                 }
               ],
               "count": null,
@@ -264,7 +265,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -276,7 +277,7 @@
               "courses": [
                 {
                   "code": "EEPS 1620",
-                  "name": "EEPS 1620"
+                  "name": "Continuum Physics of the Solid Earth"
                 }
               ],
               "count": null,
@@ -296,7 +297,7 @@
               "courses": [
                 {
                   "code": "EEPS 1340",
-                  "name": "EEPS 1340"
+                  "name": "Machine Learning for the Earth and Environment"
                 }
               ],
               "count": null,
@@ -308,7 +309,7 @@
               "courses": [
                 {
                   "code": "EEPS 1690",
-                  "name": "EEPS 1690"
+                  "name": "Introduction to Methods in Data Analysis"
                 }
               ],
               "count": null,
@@ -320,7 +321,7 @@
               "courses": [
                 {
                   "code": "EEPS 1720",
-                  "name": "EEPS 1720"
+                  "name": "Tackling Climate Change with Machine Learning"
                 }
               ],
               "count": null,
@@ -330,7 +331,7 @@
           "notes": []
         },
         {
-          "name": "One additional EEPS course such as: 1",
+          "name": "One additional EEPS course such as:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -347,7 +348,7 @@
               "courses": [
                 {
                   "code": "EEPS 1130",
-                  "name": "EEPS 1130"
+                  "name": "Ocean Biogeochemical Cycles"
                 }
               ],
               "count": null,
@@ -359,7 +360,7 @@
               "courses": [
                 {
                   "code": "EEPS 1630",
-                  "name": "EEPS 1630"
+                  "name": "Introduction to Quantitative Glaciology"
                 }
               ],
               "count": null,
@@ -371,7 +372,7 @@
               "courses": [
                 {
                   "code": "EEPS 1820",
-                  "name": "EEPS 1820"
+                  "name": "Geophysical Fluid Dynamics: Rotating, Stratified Turbulence Edition"
                 }
               ],
               "count": null,
@@ -391,7 +392,7 @@
               "courses": [
                 {
                   "code": "EEPS 1560",
-                  "name": "EEPS 1560"
+                  "name": "Global Tectonics"
                 }
               ],
               "count": null,
@@ -403,7 +404,7 @@
               "courses": [
                 {
                   "code": "EEPS 1650",
-                  "name": "EEPS 1650"
+                  "name": "Earthquake Seismology"
                 }
               ],
               "count": null,
@@ -415,7 +416,7 @@
               "courses": [
                 {
                   "code": "EEPS 1810",
-                  "name": "EEPS 1810"
+                  "name": "Physics of Planetary Evolution"
                 }
               ],
               "count": null,
@@ -435,7 +436,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -455,7 +456,7 @@
               "courses": [
                 {
                   "code": "EEPS 1970",
-                  "name": "EEPS 1970"
+                  "name": "Undergraduate Senior Thesis Course"
                 }
               ],
               "count": null,
@@ -472,7 +473,7 @@
           "notes": []
         },
         {
-          "name": "One course in physics or engineering such as: 1",
+          "name": "One course in physics or engineering such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -482,7 +483,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -494,7 +495,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -506,7 +507,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -518,7 +519,7 @@
               "courses": [
                 {
                   "code": "PHYS 1600",
-                  "name": "PHYS 1600"
+                  "name": "Computational Physics"
                 }
               ],
               "count": null,
@@ -530,7 +531,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": null,
@@ -542,7 +543,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": null,
@@ -554,7 +555,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -566,7 +567,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -578,7 +579,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -593,28 +594,28 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure (or equivalent)"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or the equivalent)"
           }
         },
         {
@@ -628,231 +629,231 @@
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0350",
-            "name": "EEPS 0350"
+            "name": "Mathematical Methods of Fluid"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1610",
-            "name": "EEPS 1610"
+            "name": "Solid Earth Geophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1510",
-            "name": "EEPS 1510"
+            "name": "Dynamic Meteorology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1410",
-            "name": "EEPS 1410"
+            "name": "Mineralogy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1620",
-            "name": "EEPS 1620"
+            "name": "Continuum Physics of the Solid Earth"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1340",
-            "name": "EEPS 1340"
+            "name": "Machine Learning for the Earth and Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1690",
-            "name": "EEPS 1690"
+            "name": "Introduction to Methods in Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1720",
-            "name": "EEPS 1720"
+            "name": "Tackling Climate Change with Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1130",
-            "name": "EEPS 1130"
+            "name": "Ocean Biogeochemical Cycles"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1630",
-            "name": "EEPS 1630"
+            "name": "Introduction to Quantitative Glaciology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1820",
-            "name": "EEPS 1820"
+            "name": "Geophysical Fluid Dynamics: Rotating, Stratified Turbulence Edition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1560",
-            "name": "EEPS 1560"
+            "name": "Global Tectonics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1650",
-            "name": "EEPS 1650"
+            "name": "Earthquake Seismology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1810",
-            "name": "EEPS 1810"
+            "name": "Physics of Planetary Evolution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1970",
-            "name": "EEPS 1970"
+            "name": "Undergraduate Senior Thesis Course"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1600",
-            "name": "PHYS 1600"
+            "name": "Computational Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         }
       ],
@@ -873,7 +874,7 @@
               "courses": [
                 {
                   "code": "CHEM 0330",
-                  "name": "CHEM 0330"
+                  "name": "Equilibrium, Rate, and Structure"
                 }
               ],
               "count": 1,
@@ -883,7 +884,7 @@
           "notes": []
         },
         {
-          "name": "A course involving mechanics such as: 1",
+          "name": "A course involving mechanics such as:",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -893,7 +894,7 @@
               "courses": [
                 {
                   "code": "PHYS 0050",
-                  "name": "PHYS 0050"
+                  "name": "Foundations of Mechanics"
                 }
               ],
               "count": null,
@@ -905,7 +906,7 @@
               "courses": [
                 {
                   "code": "PHYS 0070",
-                  "name": "PHYS 0070"
+                  "name": "Analytical Mechanics"
                 }
               ],
               "count": null,
@@ -917,7 +918,7 @@
               "courses": [
                 {
                   "code": "ENGN 0040",
-                  "name": "ENGN 0040"
+                  "name": "Engineering Statics and Dynamics (or the equivalent)"
                 }
               ],
               "count": null,
@@ -949,7 +950,7 @@
               "courses": [
                 {
                   "code": "EEPS 0220",
-                  "name": "EEPS 0220"
+                  "name": "Earth and Environmental Processes"
                 }
               ],
               "count": 1,
@@ -961,7 +962,7 @@
               "courses": [
                 {
                   "code": "EEPS 0230",
-                  "name": "EEPS 0230"
+                  "name": "Geochemistry: Earth and Planetary Materials and Processes"
                 }
               ],
               "count": 1,
@@ -973,7 +974,7 @@
               "courses": [
                 {
                   "code": "EEPS 0240",
-                  "name": "EEPS 0240"
+                  "name": "Earth: Evolution of a Habitable Planet"
                 }
               ],
               "count": null,
@@ -985,7 +986,7 @@
               "courses": [
                 {
                   "code": "EEPS 0250",
-                  "name": "EEPS 0250"
+                  "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
                 }
               ],
               "count": 1,
@@ -997,7 +998,7 @@
               "courses": [
                 {
                   "code": "EEPS 0350",
-                  "name": "EEPS 0350"
+                  "name": "Mathematical Methods of Fluid"
                 }
               ],
               "count": null,
@@ -1009,7 +1010,7 @@
               "courses": [
                 {
                   "code": "EEPS 1430",
-                  "name": "EEPS 1430"
+                  "name": "Atmospheric Circulation and Climate Dynamics"
                 }
               ],
               "count": 1,
@@ -1021,7 +1022,7 @@
               "courses": [
                 {
                   "code": "EEPS 1610",
-                  "name": "EEPS 1610"
+                  "name": "Solid Earth Geophysics"
                 }
               ],
               "count": 1,
@@ -1031,7 +1032,7 @@
           "notes": []
         },
         {
-          "name": "Three of the following courses, can combine different focii: 3",
+          "name": "Three of the following courses, can combine different focii:",
           "type": "label",
           "courses": [],
           "count": 3,
@@ -1048,7 +1049,7 @@
               "courses": [
                 {
                   "code": "EEPS 1310",
-                  "name": "EEPS 1310"
+                  "name": "Global Water Cycle"
                 }
               ],
               "count": null,
@@ -1060,7 +1061,7 @@
               "courses": [
                 {
                   "code": "EEPS 1510",
-                  "name": "EEPS 1510"
+                  "name": "Dynamic Meteorology"
                 }
               ],
               "count": null,
@@ -1072,7 +1073,7 @@
               "courses": [
                 {
                   "code": "EEPS 1520",
-                  "name": "EEPS 1520"
+                  "name": "Ocean Circulation and Climate"
                 }
               ],
               "count": null,
@@ -1092,7 +1093,7 @@
               "courses": [
                 {
                   "code": "EEPS 1410",
-                  "name": "EEPS 1410"
+                  "name": "Mineralogy"
                 }
               ],
               "count": null,
@@ -1104,7 +1105,7 @@
               "courses": [
                 {
                   "code": "EEPS 1450",
-                  "name": "EEPS 1450"
+                  "name": "Structural Geology"
                 }
               ],
               "count": null,
@@ -1116,7 +1117,7 @@
               "courses": [
                 {
                   "code": "EEPS 1620",
-                  "name": "EEPS 1620"
+                  "name": "Continuum Physics of the Solid Earth"
                 }
               ],
               "count": null,
@@ -1136,7 +1137,7 @@
               "courses": [
                 {
                   "code": "EEPS 1340",
-                  "name": "EEPS 1340"
+                  "name": "Machine Learning for the Earth and Environment"
                 }
               ],
               "count": null,
@@ -1148,7 +1149,7 @@
               "courses": [
                 {
                   "code": "EEPS 1690",
-                  "name": "EEPS 1690"
+                  "name": "Introduction to Methods in Data Analysis"
                 }
               ],
               "count": null,
@@ -1160,7 +1161,7 @@
               "courses": [
                 {
                   "code": "EEPS 1720",
-                  "name": "EEPS 1720"
+                  "name": "Tackling Climate Change with Machine Learning"
                 }
               ],
               "count": null,
@@ -1170,7 +1171,7 @@
           "notes": []
         },
         {
-          "name": "One additional EEPS course such as: 1",
+          "name": "One additional EEPS course such as:",
           "type": "label",
           "courses": [],
           "count": 1,
@@ -1187,7 +1188,7 @@
               "courses": [
                 {
                   "code": "EEPS 1130",
-                  "name": "EEPS 1130"
+                  "name": "Ocean Biogeochemical Cycles"
                 }
               ],
               "count": null,
@@ -1199,7 +1200,7 @@
               "courses": [
                 {
                   "code": "EEPS 1630",
-                  "name": "EEPS 1630"
+                  "name": "Introduction to Quantitative Glaciology"
                 }
               ],
               "count": null,
@@ -1211,7 +1212,7 @@
               "courses": [
                 {
                   "code": "EEPS 1820",
-                  "name": "EEPS 1820"
+                  "name": "Geophysical Fluid Dynamics: Rotating, Stratified Turbulence Edition"
                 }
               ],
               "count": null,
@@ -1231,7 +1232,7 @@
               "courses": [
                 {
                   "code": "EEPS 1560",
-                  "name": "EEPS 1560"
+                  "name": "Global Tectonics"
                 }
               ],
               "count": null,
@@ -1243,7 +1244,7 @@
               "courses": [
                 {
                   "code": "EEPS 1650",
-                  "name": "EEPS 1650"
+                  "name": "Earthquake Seismology"
                 }
               ],
               "count": null,
@@ -1255,7 +1256,7 @@
               "courses": [
                 {
                   "code": "EEPS 1810",
-                  "name": "EEPS 1810"
+                  "name": "Physics of Planetary Evolution"
                 }
               ],
               "count": null,
@@ -1275,7 +1276,7 @@
               "courses": [
                 {
                   "code": "EEPS 1330",
-                  "name": "EEPS 1330"
+                  "name": "Global Environmental Remote Sensing"
                 }
               ],
               "count": null,
@@ -1306,7 +1307,7 @@
           "notes": []
         },
         {
-          "name": "Three courses in physics or engineering such as: 3",
+          "name": "Three courses in physics or engineering such as:",
           "type": "section",
           "count": 3,
           "sub_groups": [
@@ -1316,7 +1317,7 @@
               "courses": [
                 {
                   "code": "PHYS 0060",
-                  "name": "PHYS 0060"
+                  "name": "Foundations of Electromagnetism and Modern Physics"
                 }
               ],
               "count": null,
@@ -1328,7 +1329,7 @@
               "courses": [
                 {
                   "code": "PHYS 0470",
-                  "name": "PHYS 0470"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -1340,7 +1341,7 @@
               "courses": [
                 {
                   "code": "PHYS 0500",
-                  "name": "PHYS 0500"
+                  "name": "Advanced Classical Mechanics"
                 }
               ],
               "count": null,
@@ -1352,7 +1353,7 @@
               "courses": [
                 {
                   "code": "PHYS 1600",
-                  "name": "PHYS 1600"
+                  "name": "Computational Physics"
                 }
               ],
               "count": null,
@@ -1364,7 +1365,7 @@
               "courses": [
                 {
                   "code": "ENGN 0310",
-                  "name": "ENGN 0310"
+                  "name": "Mechanics of Solids and Structures"
                 }
               ],
               "count": null,
@@ -1376,7 +1377,7 @@
               "courses": [
                 {
                   "code": "ENGN 0790",
-                  "name": "ENGN 0790"
+                  "name": "Fundamentals of Environmental Engineering"
                 }
               ],
               "count": null,
@@ -1388,7 +1389,7 @@
               "courses": [
                 {
                   "code": "ENGN 0510",
-                  "name": "ENGN 0510"
+                  "name": "Electricity and Magnetism"
                 }
               ],
               "count": null,
@@ -1400,7 +1401,7 @@
               "courses": [
                 {
                   "code": "ENGN 0810",
-                  "name": "ENGN 0810"
+                  "name": "Fluid Mechanics"
                 }
               ],
               "count": null,
@@ -1412,7 +1413,7 @@
               "courses": [
                 {
                   "code": "ENGN 1370",
-                  "name": "ENGN 1370"
+                  "name": "Advanced Engineering Mechanics"
                 }
               ],
               "count": null,
@@ -1422,7 +1423,7 @@
           "notes": []
         },
         {
-          "name": "One additional upper-level science or math course with approval from the concentration advisor 1",
+          "name": "One additional upper-level science or math course with approval from the concentration advisor",
           "type": "section",
           "count": 1,
           "sub_groups": [
@@ -1432,7 +1433,7 @@
               "courses": [
                 {
                   "code": "EEPS 1970",
-                  "name": "EEPS 1970"
+                  "name": "Undergraduate Senior Thesis Course"
                 }
               ],
               "count": 1,
@@ -1447,28 +1448,28 @@
           "type": "required",
           "course": {
             "code": "CHEM 0330",
-            "name": "CHEM 0330"
+            "name": "Equilibrium, Rate, and Structure"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0050",
-            "name": "PHYS 0050"
+            "name": "Foundations of Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0070",
-            "name": "PHYS 0070"
+            "name": "Analytical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0040",
-            "name": "ENGN 0040"
+            "name": "Engineering Statics and Dynamics (or the equivalent)"
           }
         },
         {
@@ -1482,231 +1483,231 @@
           "type": "required",
           "course": {
             "code": "EEPS 0220",
-            "name": "EEPS 0220"
+            "name": "Earth and Environmental Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0230",
-            "name": "EEPS 0230"
+            "name": "Geochemistry: Earth and Planetary Materials and Processes"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0240",
-            "name": "EEPS 0240"
+            "name": "Earth: Evolution of a Habitable Planet"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0250",
-            "name": "EEPS 0250"
+            "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 0350",
-            "name": "EEPS 0350"
+            "name": "Mathematical Methods of Fluid"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1430",
-            "name": "EEPS 1430"
+            "name": "Atmospheric Circulation and Climate Dynamics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1610",
-            "name": "EEPS 1610"
+            "name": "Solid Earth Geophysics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1310",
-            "name": "EEPS 1310"
+            "name": "Global Water Cycle"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1510",
-            "name": "EEPS 1510"
+            "name": "Dynamic Meteorology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1520",
-            "name": "EEPS 1520"
+            "name": "Ocean Circulation and Climate"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1410",
-            "name": "EEPS 1410"
+            "name": "Mineralogy"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1450",
-            "name": "EEPS 1450"
+            "name": "Structural Geology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1620",
-            "name": "EEPS 1620"
+            "name": "Continuum Physics of the Solid Earth"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1340",
-            "name": "EEPS 1340"
+            "name": "Machine Learning for the Earth and Environment"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1690",
-            "name": "EEPS 1690"
+            "name": "Introduction to Methods in Data Analysis"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1720",
-            "name": "EEPS 1720"
+            "name": "Tackling Climate Change with Machine Learning"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1130",
-            "name": "EEPS 1130"
+            "name": "Ocean Biogeochemical Cycles"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1630",
-            "name": "EEPS 1630"
+            "name": "Introduction to Quantitative Glaciology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1820",
-            "name": "EEPS 1820"
+            "name": "Geophysical Fluid Dynamics: Rotating, Stratified Turbulence Edition"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1560",
-            "name": "EEPS 1560"
+            "name": "Global Tectonics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1650",
-            "name": "EEPS 1650"
+            "name": "Earthquake Seismology"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1810",
-            "name": "EEPS 1810"
+            "name": "Physics of Planetary Evolution"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1330",
-            "name": "EEPS 1330"
+            "name": "Global Environmental Remote Sensing"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0060",
-            "name": "PHYS 0060"
+            "name": "Foundations of Electromagnetism and Modern Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0470",
-            "name": "PHYS 0470"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 0500",
-            "name": "PHYS 0500"
+            "name": "Advanced Classical Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "PHYS 1600",
-            "name": "PHYS 1600"
+            "name": "Computational Physics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0310",
-            "name": "ENGN 0310"
+            "name": "Mechanics of Solids and Structures"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0790",
-            "name": "ENGN 0790"
+            "name": "Fundamentals of Environmental Engineering"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0510",
-            "name": "ENGN 0510"
+            "name": "Electricity and Magnetism"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 0810",
-            "name": "ENGN 0810"
+            "name": "Fluid Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ENGN 1370",
-            "name": "ENGN 1370"
+            "name": "Advanced Engineering Mechanics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "EEPS 1970",
-            "name": "EEPS 1970"
+            "name": "Undergraduate Senior Thesis Course"
           }
         }
       ],
@@ -1716,19 +1717,19 @@
   "all_courses": [
     {
       "code": "CHEM 0330",
-      "name": "CHEM 0330"
+      "name": "Equilibrium, Rate, and Structure (or equivalent)"
     },
     {
       "code": "PHYS 0050",
-      "name": "PHYS 0050"
+      "name": "Foundations of Mechanics"
     },
     {
       "code": "PHYS 0070",
-      "name": "PHYS 0070"
+      "name": "Analytical Mechanics"
     },
     {
       "code": "ENGN 0040",
-      "name": "ENGN 0040"
+      "name": "Engineering Statics and Dynamics (or the equivalent)"
     },
     {
       "code": "APMA 0350",
@@ -1736,135 +1737,135 @@
     },
     {
       "code": "EEPS 0220",
-      "name": "EEPS 0220"
+      "name": "Earth and Environmental Processes"
     },
     {
       "code": "EEPS 0230",
-      "name": "EEPS 0230"
+      "name": "Geochemistry: Earth and Planetary Materials and Processes"
     },
     {
       "code": "EEPS 0240",
-      "name": "EEPS 0240"
+      "name": "Earth: Evolution of a Habitable Planet"
     },
     {
       "code": "EEPS 0250",
-      "name": "EEPS 0250"
+      "name": "Computational Approaches to Modelling and Quantitative Analysis in Natural Sciences: An Introduction"
     },
     {
       "code": "EEPS 0350",
-      "name": "EEPS 0350"
+      "name": "Mathematical Methods of Fluid"
     },
     {
       "code": "EEPS 1430",
-      "name": "EEPS 1430"
+      "name": "Atmospheric Circulation and Climate Dynamics"
     },
     {
       "code": "EEPS 1610",
-      "name": "EEPS 1610"
+      "name": "Solid Earth Geophysics"
     },
     {
       "code": "EEPS 1310",
-      "name": "EEPS 1310"
+      "name": "Global Water Cycle"
     },
     {
       "code": "EEPS 1510",
-      "name": "EEPS 1510"
+      "name": "Dynamic Meteorology"
     },
     {
       "code": "EEPS 1520",
-      "name": "EEPS 1520"
+      "name": "Ocean Circulation and Climate"
     },
     {
       "code": "EEPS 1410",
-      "name": "EEPS 1410"
+      "name": "Mineralogy"
     },
     {
       "code": "EEPS 1450",
-      "name": "EEPS 1450"
+      "name": "Structural Geology"
     },
     {
       "code": "EEPS 1620",
-      "name": "EEPS 1620"
+      "name": "Continuum Physics of the Solid Earth"
     },
     {
       "code": "EEPS 1340",
-      "name": "EEPS 1340"
+      "name": "Machine Learning for the Earth and Environment"
     },
     {
       "code": "EEPS 1690",
-      "name": "EEPS 1690"
+      "name": "Introduction to Methods in Data Analysis"
     },
     {
       "code": "EEPS 1720",
-      "name": "EEPS 1720"
+      "name": "Tackling Climate Change with Machine Learning"
     },
     {
       "code": "EEPS 1130",
-      "name": "EEPS 1130"
+      "name": "Ocean Biogeochemical Cycles"
     },
     {
       "code": "EEPS 1630",
-      "name": "EEPS 1630"
+      "name": "Introduction to Quantitative Glaciology"
     },
     {
       "code": "EEPS 1820",
-      "name": "EEPS 1820"
+      "name": "Geophysical Fluid Dynamics: Rotating, Stratified Turbulence Edition"
     },
     {
       "code": "EEPS 1560",
-      "name": "EEPS 1560"
+      "name": "Global Tectonics"
     },
     {
       "code": "EEPS 1650",
-      "name": "EEPS 1650"
+      "name": "Earthquake Seismology"
     },
     {
       "code": "EEPS 1810",
-      "name": "EEPS 1810"
+      "name": "Physics of Planetary Evolution"
     },
     {
       "code": "EEPS 1330",
-      "name": "EEPS 1330"
+      "name": "Global Environmental Remote Sensing"
     },
     {
       "code": "EEPS 1970",
-      "name": "EEPS 1970"
+      "name": "Undergraduate Senior Thesis Course"
     },
     {
       "code": "PHYS 0060",
-      "name": "PHYS 0060"
+      "name": "Foundations of Electromagnetism and Modern Physics"
     },
     {
       "code": "PHYS 0470",
-      "name": "PHYS 0470"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "PHYS 0500",
-      "name": "PHYS 0500"
+      "name": "Advanced Classical Mechanics"
     },
     {
       "code": "PHYS 1600",
-      "name": "PHYS 1600"
+      "name": "Computational Physics"
     },
     {
       "code": "ENGN 0310",
-      "name": "ENGN 0310"
+      "name": "Mechanics of Solids and Structures"
     },
     {
       "code": "ENGN 0790",
-      "name": "ENGN 0790"
+      "name": "Fundamentals of Environmental Engineering"
     },
     {
       "code": "ENGN 0510",
-      "name": "ENGN 0510"
+      "name": "Electricity and Magnetism"
     },
     {
       "code": "ENGN 0810",
-      "name": "ENGN 0810"
+      "name": "Fluid Mechanics"
     },
     {
       "code": "ENGN 1370",
-      "name": "ENGN 1370"
+      "name": "Advanced Engineering Mechanics"
     }
   ]
 }
