@@ -24,15 +24,13 @@ export default function Home() {
     : null
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-10">
+    <div className="max-w-3xl mx-auto px-4 py-10 animate-in">
 
       {/* Header */}
-      <div className="mb-8">
-        <h1 className="text-3xl font-semibold text-gray-900 mb-1">
-          Plan<span className="text-red-700">@</span>Brown
-        </h1>
+      <div className="mb-8 animate-in">
+        <h1 className="text-2xl font-semibold text-gray-900 mb-1">All Concentrations</h1>
         <p className="text-gray-500 text-sm">
-          Track your concentration requirements. Powered by the Brown bulletin.
+          Track your requirements. Powered by the Brown bulletin.
         </p>
       </div>
 

@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import index from '../data/concentrations/index.json'
 import csData from '../data/cs_concentration.json'
@@ -16,6 +16,8 @@ export default function ConcentrationPage() {
   const [completedCourses, setCompletedCourses] = useState([])
   const [scrapedData, setScrapedData] = useState(null)
   const [loading, setLoading] = useState(true)
+  const [activeTrackIndex, setActiveTrackIndex] = useState(0)
+  const trackRefs = useRef([])
 
   const meta = index[slug]
   const isStructured = !!STRUCTURED[slug]
@@ -25,6 +27,8 @@ export default function ConcentrationPage() {
     setLoading(true)
     setScrapedData(null)
     setCompletedCourses([])
+    setActiveTrackIndex(0)
+    trackRefs.current = []
     import('../data/concentrations/' + slug + '.json')
       .then(mod => {
         setScrapedData(mod.default)
@@ -32,6 +36,30 @@ export default function ConcentrationPage() {
       })
       .catch(() => setLoading(false))
   }, [slug])
+
+  // Scroll spy — update active sidebar item based on scroll position
+  useEffect(() => {
+    const handleScroll = () => {
+      let active = 0
+      trackRefs.current.forEach((el, i) => {
+        if (el) {
+          const top = el.getBoundingClientRect().top
+          if (top <= 100) active = i
+        }
+      })
+      setActiveTrackIndex(active)
+    }
+    window.addEventListener('scroll', handleScroll, { passive: true })
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [])
+
+  const scrollToTrack = (index) => {
+    const el = trackRefs.current[index]
+    if (el) {
+      const y = el.getBoundingClientRect().top + window.scrollY - 76
+      window.scrollTo({ top: y, behavior: 'smooth' })
+    }
+  }
 
   const addCourse = (course) => {
     if (!completedCourses.find(c => c.code === course.code)) {
@@ -43,7 +71,6 @@ export default function ConcentrationPage() {
     setCompletedCourses(prev => prev.filter(c => c.code !== code))
   }
 
-  // Filter tracks by degree toggle
   const visibleTracks = isStructured
     ? structuredData.tracks
     : (scrapedData?.tracks ?? []).filter(track => {
@@ -67,6 +94,7 @@ export default function ConcentrationPage() {
 
   const hasNoTracks = !loading && scrapedData && visibleTracks.length === 0
   const hasProsDescription = !loading && scrapedData && scrapedData.description
+  const showSidebar = !loading && visibleTracks.length > 0
 
   if (!meta) {
     return (
@@ -83,9 +111,9 @@ export default function ConcentrationPage() {
   }
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-8">
+    <div className="max-w-5xl mx-auto px-4 py-8 animate-in">
 
-      {/* Top nav */}
+      {/* Breadcrumb */}
       <div className="flex items-center gap-2 mb-8">
         <button
           onClick={() => navigate('/')}
@@ -107,7 +135,7 @@ export default function ConcentrationPage() {
                 key={d}
                 onClick={() => setDegree(d)}
                 className={
-                  'px-4 py-1.5 rounded-md text-sm font-medium transition-all ' +
+                  'px-4 py-1.5 rounded-md text-sm font-medium transition-all duration-150 ' +
                   (degree === d
                     ? 'bg-white text-gray-900 shadow-sm'
                     : 'text-gray-500 hover:text-gray-700')
@@ -119,7 +147,6 @@ export default function ConcentrationPage() {
           </div>
         </div>
 
-        {/* Bulletin link — no template literals, no special arrow chars */}
         <a
           href={'https://bulletin.brown.edu/the-college/concentrations/' + slug + '/'}
           target="_blank"
@@ -129,7 +156,6 @@ export default function ConcentrationPage() {
           View on Brown Bulletin
         </a>
 
-        {/* Progress bar — structured concentrations only */}
         {isStructured && totalRequired > 0 && (
           <div className="mt-4">
             <div className="flex justify-between text-sm text-gray-500 mb-1.5">
@@ -145,7 +171,6 @@ export default function ConcentrationPage() {
           </div>
         )}
 
-        {/* Scraped progress — just a count */}
         {!isStructured && completedCourses.length > 0 && (
           <div className="mt-3 text-sm text-gray-500">
             {completedCourses.length} course{completedCourses.length !== 1 ? 's' : ''} marked complete
@@ -158,7 +183,7 @@ export default function ConcentrationPage() {
         <div className="text-center text-gray-400 py-12 text-sm">Loading...</div>
       )}
 
-      {/* No tracks — prose-only concentration (e.g. Africana, American Studies) */}
+      {/* Prose-only concentration */}
       {hasNoTracks && (
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 mb-6">
           {hasProsDescription && (
@@ -181,17 +206,16 @@ export default function ConcentrationPage() {
         </div>
       )}
 
-      {/* Main content */}
+      {/* Two-column layout: sidebar + tracks */}
       {!loading && scrapedData && !hasNoTracks && (
         <>
-          {/* Course search */}
+          {/* Course search + completed pills — full width above columns */}
           <CourseSearch
             courses={scrapedData.all_courses}
             onAdd={addCourse}
             completedCourses={completedCourses}
           />
 
-          {/* Completed pills */}
           {completedCourses.length > 0 && (
             <div className="mb-6">
               <p className="text-xs text-gray-400 uppercase tracking-wide mb-2">
@@ -216,18 +240,55 @@ export default function ConcentrationPage() {
             </div>
           )}
 
-          {/* Tracks */}
-          <div className="flex flex-col gap-4">
-            {visibleTracks.map(track => (
-              <TrackCard
-                key={track.id}
-                track={track}
-                degree={degree}
-                completedCourses={completedCourses}
-                onAdd={addCourse}
-                onRemove={removeCourse}
-              />
-            ))}
+          {/* Sidebar + track cards */}
+          <div className="flex gap-6 items-start">
+
+            {/* Left section sidebar */}
+            {showSidebar && (
+              <aside className="w-44 shrink-0 hidden lg:block">
+                <div className="sticky top-20">
+                  <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">
+                    Sections
+                  </p>
+                  <nav className="space-y-0.5">
+                    {visibleTracks.map((track, i) => (
+                      <button
+                        key={i}
+                        onClick={() => scrollToTrack(i)}
+                        className={
+                          'w-full text-left px-2 py-1.5 rounded-lg text-xs leading-snug transition-all duration-150 ' +
+                          (activeTrackIndex === i
+                            ? 'bg-red-50 text-red-700 font-medium'
+                            : 'text-gray-500 hover:text-gray-800 hover:bg-gray-100')
+                        }
+                      >
+                        <span className="line-clamp-2">{track.name}</span>
+                      </button>
+                    ))}
+                  </nav>
+                </div>
+              </aside>
+            )}
+
+            {/* Track cards */}
+            <div className="flex-1 min-w-0 flex flex-col gap-4">
+              {visibleTracks.map((track, i) => (
+                <div
+                  key={track.id || i}
+                  ref={el => { trackRefs.current[i] = el }}
+                  className="animate-in"
+                  style={{ animationDelay: `${i * 40}ms` }}
+                >
+                  <TrackCard
+                    track={track}
+                    degree={degree}
+                    completedCourses={completedCourses}
+                    onAdd={addCourse}
+                    onRemove={removeCourse}
+                  />
+                </div>
+              ))}
+            </div>
           </div>
         </>
       )}
