@@ -2,8 +2,9 @@ import { useNavigate, useLocation } from 'react-router-dom'
 
 const tabs = [
   { label: 'Concentration', path: '/', match: (p) => p === '/' || p.startsWith('/concentration') },
-  { label: 'Analytics', path: '/analytics', match: (p) => p.startsWith('/analytics') },
   { label: 'Compare', path: '/compare', match: (p) => p.startsWith('/compare') },
+  { label: 'Prerequisites', path: '/prerequisites', match: (p) => p.startsWith('/prerequisites') },
+  { label: 'Analytics', path: '/analytics', match: (p) => p.startsWith('/analytics'), soon: true },
 ]
 
 export default function Navbar() {
@@ -25,15 +26,18 @@ export default function Navbar() {
             return (
               <button
                 key={tab.label}
-                onClick={() => navigate(tab.path)}
+                onClick={() => !tab.soon && navigate(tab.path)}
                 className={
                   'px-3 py-1.5 rounded-lg text-sm font-medium pressable ' +
-                  (active
+                  (tab.soon
+                    ? 'text-gray-300 cursor-default'
+                    : active
                     ? 'bg-red-50 text-red-700'
                     : 'text-gray-500 hover:text-gray-800 hover:bg-gray-100')
                 }
               >
                 {tab.label}
+                {tab.soon && <span className="ml-1 text-xs text-gray-300">soon</span>}
               </button>
             )
           })}

@@ -3,286 +3,12 @@
   "slug": "anth",
   "url": "https://bulletin.brown.edu/the-college/concentrations/anth/",
   "description": "Anthropology is the study of human beings from all times and all places, offering a holistic, comparative, international, and humanistic perspective. In studying and interpreting the vast range of similarities and differences in human societies and cultures, anthropologists also seek to understand how people themselves make sense of the world in which they live. The Department of Anthropology at Brown is a vibrant, award-winning group of scholars working primarily in the subfields of cultural anthropology, archaeology, and anthropological linguistics.\u00a0 Anthropology is a varied discipline and the Concentration at Brown University reflects that diversity. Students concentrating in Anthropology must declare one of six possible concentration tracks: sociocultural anthropology, archaeology, anthropological linguistics, biological anthropology, medical anthropology, or general anthropology. The department also supports students involved in Engaged Scholarship through the Swearer Center, through which students may pursue an Engaged Scholarship Certificate. Study abroad is also supported and encouraged. Interested students may contact the director of undergraduate studies.",
+  "requires_track_selection": true,
   "tracks": [
-    {
-      "id": "research_opportunities_and_engaged_scholarship",
-      "name": "Research Opportunities and Engaged Scholarship",
-      "groups": [
-        {
-          "name": "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology:",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 0100",
-                  "name": "Introduction to Cultural Anthropology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 0300",
-                  "name": "Culture and Health"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 0800",
-                  "name": "Sound and Symbols: Introduction to Linguistic Anthropology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Choose one foundational course in archaeology or biological anthropology:",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 0310",
-                  "name": "Human Evolution"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 0500",
-                  "name": "Past Forward: Discovering Anthropological Archaeology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Choose one of the following courses in anthropological methodology, to prepare students for further research:",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1201",
-                  "name": "Introduction to Geographic Information Systems and Spatial Analysis"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1621",
-                  "name": "Material Culture Practicum"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1720",
-                  "name": "The Human Skeleton"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ARCH 1900",
-                  "name": "The Archaeology of College Hill"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1940",
-                  "name": "Ethnographic Research Methods"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1740",
-                  "name": "Paleoethnobotany: Ancient Agriculture to Criminal Investigations"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Five additional courses in anthropology of the student's choosing. At least three of these electives will need to be at the 1000-level to meet the requirements of the concentration.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        },
-        {
-          "name": "Senior Seminar",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ANTH 1990",
-                  "name": "Senior Seminar: (Re)Making Anthropology (Senior Seminar)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0100",
-            "name": "Introduction to Cultural Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0300",
-            "name": "Culture and Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0800",
-            "name": "Sound and Symbols: Introduction to Linguistic Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0310",
-            "name": "Human Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0500",
-            "name": "Past Forward: Discovering Anthropological Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1201",
-            "name": "Introduction to Geographic Information Systems and Spatial Analysis"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1621",
-            "name": "Material Culture Practicum"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1720",
-            "name": "The Human Skeleton"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ARCH 1900",
-            "name": "The Archaeology of College Hill"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1940",
-            "name": "Ethnographic Research Methods"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1740",
-            "name": "Paleoethnobotany: Ancient Agriculture to Criminal Investigations"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1990",
-            "name": "Senior Seminar: (Re)Making Anthropology (Senior Seminar)"
-          }
-        }
-      ],
-      "notes": []
-    },
     {
       "id": "general_anthropology_track",
       "name": "General Anthropology Track",
+      "total_credits": 9,
       "groups": [
         {
           "name": "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology:",
@@ -472,85 +198,8 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 0100",
-            "name": "Introduction to Cultural Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0300",
-            "name": "Culture and Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0800",
-            "name": "Sound and Symbols: Introduction to Linguistic Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0310",
-            "name": "Human Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0500",
-            "name": "Past Forward: Discovering Anthropological Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1201",
-            "name": "Introduction to Geographic Information Systems and Spatial Analysis"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1621",
-            "name": "Material Culture Practicum"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1720",
-            "name": "The Human Skeleton"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ARCH 1900",
-            "name": "The Archaeology of College Hill"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1940",
-            "name": "Ethnographic Research Methods"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1740",
-            "name": "Paleoethnobotany: Ancient Agriculture to Criminal Investigations"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1990",
-            "name": "Senior Seminar: (Re)Making Anthropology (Senior Seminar)"
+            "name": "Senior Seminar: (Re)Making Anthropology"
           }
         }
       ],
@@ -559,6 +208,7 @@
     {
       "id": "medical_anthropology_track",
       "name": "Medical Anthropology Track",
+      "total_credits": 10,
       "groups": [
         {
           "name": "Foundation course",
@@ -590,7 +240,7 @@
         {
           "name": "Choose one:",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
             {
               "name": "",
@@ -622,7 +272,7 @@
         {
           "name": "Choose any one 0000 or 1000-level course in socio-cultural anthropology or linguistic anthropology such as:",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
             {
               "name": "",
@@ -833,99 +483,8 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 0310",
-            "name": "Human Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0500",
-            "name": "Past Forward: Discovering Anthropological Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0100",
-            "name": "Introduction to Cultural Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0800",
-            "name": "Sound and Symbols: Introduction to Linguistic Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1111",
-            "name": "Anthropology of China"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1150",
-            "name": "Middle East in Anthropological Perspective"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1255",
-            "name": "Anthropology of Disasters"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1320",
-            "name": "Anthropology and International Development: Ethnographic Perspectives on Poverty and Progress"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1848",
-            "name": "Ethnography + Social Critique"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1940",
             "name": "Ethnographic Research Methods"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1242",
-            "name": "Bioethics and Culture"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1300",
-            "name": "Anthropology of Addictions and Recovery"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1301",
-            "name": "Anthropology of Homelessness"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1310",
-            "name": "Global Health: Anthropological Perspectives"
           }
         },
         {
@@ -941,6 +500,7 @@
     {
       "id": "socio_cultural_anthropology_track",
       "name": "Socio-Cultural Anthropology Track",
+      "total_credits": 9,
       "groups": [
         {
           "name": "Foundation course",
@@ -1205,106 +765,8 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 0310",
-            "name": "Human Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0500",
-            "name": "Past Forward: Discovering Anthropological Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1940",
             "name": "Ethnographic Research Methods"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1111",
-            "name": "Anthropology of China"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1150",
-            "name": "Middle East in Anthropological Perspective"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1240",
-            "name": "Religion and Culture"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1242",
-            "name": "Bioethics and Culture"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1255",
-            "name": "Anthropology of Disasters"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1300",
-            "name": "Anthropology of Addictions and Recovery"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1301",
-            "name": "Anthropology of Homelessness"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1310",
-            "name": "Global Health: Anthropological Perspectives"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1320",
-            "name": "Anthropology and International Development: Ethnographic Perspectives on Poverty and Progress"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1515",
-            "name": "Anthropology of Mental Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1848",
-            "name": "Ethnography + Social Critique"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1911",
-            "name": "Gender and Sexuality in the Middle East"
           }
         },
         {
@@ -1320,6 +782,7 @@
     {
       "id": "linguistic_anthropology_track",
       "name": "Linguistic Anthropology Track",
+      "total_credits": 11,
       "groups": [
         {
           "name": "Foundation course",
@@ -1395,7 +858,7 @@
         {
           "name": "Choose one:",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
             {
               "name": "",
@@ -1427,7 +890,7 @@
         {
           "name": "Choose one:",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
             {
               "name": "",
@@ -1529,55 +992,6 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 0805",
-            "name": "Language and Migration"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1311",
-            "name": "Language and Medicine in Practice"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1810",
-            "name": "Language and Power"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0100",
-            "name": "Introduction to Cultural Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0300",
-            "name": "Culture and Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0310",
-            "name": "Human Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0500",
-            "name": "Past Forward: Discovering Anthropological Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1940",
             "name": "Ethnographic Research Methods"
           }
@@ -1595,6 +1009,7 @@
     {
       "id": "anthropological_archaeology_track",
       "name": "Anthropological Archaeology Track",
+      "total_credits": 9,
       "groups": [
         {
           "name": "Foundation course in anthropological archaeology",
@@ -1886,111 +1301,6 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 1201",
-            "name": "Introduction to Geographic Information Systems and Spatial Analysis"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1621",
-            "name": "Material Culture Practicum"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ARCH 1900",
-            "name": "The Archaeology of College Hill"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1740",
-            "name": "Paleoethnobotany: Ancient Agriculture to Criminal Investigations"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1031",
-            "name": "Classic Mayan Civilization"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1126",
-            "name": "Ethnographies of Heritage: Community and Landscape of the Mediterranean and Beyond"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1505",
-            "name": "Vertical Civilization: South American Archaeology from Monte Verde to the Inkas"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1624",
-            "name": "Indians, Colonists, and Africans in New England"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1640",
-            "name": "Maize Gods and Feathered Serpents: Mexico and Central America in Antiquity"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1650",
-            "name": "Ancient Maya Writing"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1692",
-            "name": "Southwestern Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1125",
-            "name": "Indigenous Archaeologies"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1620",
-            "name": "Global Historical Archaeology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1623",
-            "name": "Archaeology of Death"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 1820",
-            "name": "Lost Languages: The Decipherment and Study of Ancient Writing Systems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1990",
             "name": "Senior Seminar: (Re)Making Anthropology"
           }
@@ -2001,6 +1311,7 @@
     {
       "id": "biological_anthropology_track",
       "name": "Biological Anthropology Track",
+      "total_credits": 11,
       "groups": [
         {
           "name": "Foundation course in biological anthropology",
@@ -2200,64 +1511,8 @@
         {
           "type": "required",
           "course": {
-            "code": "ANTH 0100",
-            "name": "Introduction to Cultural Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0300",
-            "name": "Culture and Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ANTH 0800",
-            "name": "Sound and Symbols: Introduction to Linguistic Anthropology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
             "code": "ANTH 1720",
             "name": "The Human Skeleton"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0650",
-            "name": "Introduction to Probability and Statistics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0495",
-            "name": "Statistical Analysis of Biological Data"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CPSY 0900",
-            "name": "Statistical Methods"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "SOC 1100",
-            "name": "Introductory Statistics for Social Research"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "STAT 1501",
-            "name": "Essentials of Data Analysis"
           }
         },
         {

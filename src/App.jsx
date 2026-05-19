@@ -4,6 +4,7 @@ import ConcentrationPage from './pages/ConcentrationPage'
 import Analytics from './pages/Analytics'
 import Compare from './pages/Compare'
 import Navbar from './components/Navbar'
+import Prerequisites from './pages/Prerequisites'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/concentration/:slug" element={<ConcentrationPage />} />
         <Route path="/analytics" element={<Analytics />} />
         <Route path="/compare" element={<Compare />} />
+        <Route path="/prerequisites" element={<Prerequisites />} />
       </Routes>
     </div>
   )

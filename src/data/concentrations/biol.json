@@ -2,1286 +2,146 @@
   "concentration": "Biology",
   "slug": "biol",
   "url": "https://bulletin.brown.edu/the-college/concentrations/biol/",
-  "description": "The Biology concentration invites students to study, in depth and in breadth, the science of life and living matter. Whether pursuing the Bachelor of Arts (A.B.) or Science (Sc.B.) in biology, students can expect to learn broadly in the discipline through a selection of courses in three areas: cell and molecular biology, structure and function, and organismal biology. In addition, students pursuing the Sc.B. complete a thematic track through which they gain an in-depth understanding of a particular subfield such as, Immunopathology, Ecology and Evolutionary Biology, Physiology/Biotechnology, Cell and Molecular Biology, Physical Sciences. The concentration also emphasizes practical skills and experimental design. Concentrators are required to take at least 3 courses with a laboratory or fieldwork component. Within all of these requirements, students have a high degree of flexibility and choice. Broad research opportunities are also available across several departments within the basic sciences as well. The concentration program for the A.B. in Biology consists of four prerequisite courses in math, chemistry, and a statistics course as well as ten courses in biological sciences, including \u00a0at least one course in each of the following three areas: Area 1: Cell/Molecular Biology, Area 2: Structure/Function, and Area 3: Organismal Biology.",
+  "description": "The Biology concentration invites students to study, in depth and in breadth, the science of life and living matter. Whether pursuing the Bachelor of Arts (A.B.) or Science (Sc.B.) in biology, students can expect to learn broadly in the discipline through a selection of courses in three areas: cell and molecular biology, structure and function, and organismal biology. In addition, students pursuing the Sc.B. complete a thematic track through which they gain an in-depth understanding of a particular subfield such as, Immunopathology, Ecology and Evolutionary Biology, Physiology/Biotechnology, Cell and Molecular Biology, Physical Sciences. The concentration also emphasizes practical skills and experimental design. Concentrators are required to take at least 3 courses with a laboratory or fieldwork component. Within all of these requirements, students have a high degree of flexibility and choice. Broad research opportunities are also available across several departments within the basic sciences as well.",
+  "requires_track_selection": true,
+  "total_credits": { "AB": 10, "ScB": 13 },
   "tracks": [
     {
-      "id": "standard_program_for_the_a_b__biology",
-      "name": "Standard program for the A.B. Biology",
+      "id": "ab",
+      "name": "Standard Program for the A.B.",
+      "total_credits": 10,
       "groups": [
         {
-          "name": "Prerequisites:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0330",
-                  "name": "Equilibrium, Rate, and Structure"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0350",
-                  "name": "Organic Chemistry I"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0090",
-                  "name": "Single Variable Calculus, Part I (or placement. MATH 0050/MATH 0060 may be substituted for MATH 0090.)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "One of the following:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0100",
-                  "name": "Single Variable Calculus, Part II (or placement)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0170",
-                  "name": "Single Variable Calculus, Part II (Accelerated) (or equivalent placement)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Or a statistics course, to be approved by the concentration advisor.",
+          "name": "Prerequisites (not counted in 10-course core)",
           "type": "label",
           "courses": [],
-          "count": null,
-          "notes": []
+          "count": 4,
+          "notes": [
+            "CHEM 0330 Equilibrium, Rate, and Structure",
+            "CHEM 0350 Organic Chemistry I",
+            "MATH 0090 Single Variable Calculus, Part I (or placement; MATH 0050/0060 may substitute)",
+            "One of: MATH 0100 or MATH 0170 (Single Variable Calculus, Part II), or an approved statistics course"
+          ]
         },
         {
-          "name": "Ten Core Courses:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0200",
-                  "name": "The Foundation of Living Systems (Required course; AP credit or similar IB or A-levels accepted, placement test available.)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Area 1 (Cell/Molecular Biology)",
+          "name": "The Foundation of Living Systems",
           "type": "section",
           "count": 1,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0280",
-                  "name": "Biochemistry"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0470",
-                  "name": "Genetics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0500",
-                  "name": "Cell and Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0510",
-                  "name": "Introductory Microbiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0530",
-                  "name": "Principles of Immunology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1050",
-                  "name": "Biology of the Eukaryotic Cell"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1310",
-                  "name": "Developmental Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1515",
-                  "name": "Conservation in the Genomics Age"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1810",
-                  "name": "21st Century Applications in Cell and Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1865",
-                  "name": "Toxicology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 1020",
-                  "name": "Principles of Neurobiology"
-                }
-              ],
+              "courses": [{ "code": "BIOL 0200", "name": "The Foundation of Living Systems" }],
               "count": null,
               "notes": []
             }
           ],
-          "notes": []
+          "notes": ["AP credit (score 4 or 5), IB, or A-level credit accepted; placement test available"]
         },
         {
-          "name": "Area 2 (Structure/Function)",
+          "name": "Area 1: Cell/Molecular Biology (choose one)",
           "type": "section",
           "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0410",
-                  "name": "Invertebrate Zoology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0440",
-                  "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0800",
-                  "name": "Principles of Physiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1120",
-                  "name": "Biomaterials"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1155",
-                  "name": "Hormones and Behavior"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1310",
-                  "name": "Developmental Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1330",
-                  "name": "Biology of Reproduction"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1505",
-                  "name": "Environmental Physiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1800",
-                  "name": "Animal Locomotion"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1865",
-                  "name": "Toxicology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 0010",
-                  "name": "The Brain: An Introduction to Neuroscience"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0510", "name": "Introductory Microbiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0530", "name": "Principles of Immunology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1050", "name": "Biology of the Eukaryotic Cell" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1310", "name": "Developmental Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1515", "name": "Conservation in the Genomics Age" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1810", "name": "21st Century Applications in Cell and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1865", "name": "Toxicology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "NEUR 1020", "name": "Principles of Neurobiology" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["If a course is listed in more than one area, it may fulfill only one area"]
         },
         {
-          "name": "Area 3 (Organismal Biology)",
+          "name": "Area 2: Structure/Function (choose one)",
           "type": "section",
           "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0210",
-                  "name": "Diversity of Life"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0380",
-                  "name": "The Ecology and Evolution of Infectious Disease"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0410",
-                  "name": "Invertebrate Zoology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0420",
-                  "name": "Principles of Ecology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0430",
-                  "name": "The Evolution of Plant Diversity"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0450",
-                  "name": "Evolutionary Behavioral Ecology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0480",
-                  "name": "Evolutionary Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1480",
-                  "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1515",
-                  "name": "Conservation in the Genomics Age"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1800",
-                  "name": "Animal Locomotion"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ENVS 0490",
-                  "name": "Environmental Science in a Changing World"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0410", "name": "Invertebrate Zoology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0440", "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0800", "name": "Principles of Physiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1120", "name": "Biomaterials" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1155", "name": "Hormones and Behavior" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1310", "name": "Developmental Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1330", "name": "Biology of Reproduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1505", "name": "Environmental Physiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1800", "name": "Animal Locomotion" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1865", "name": "Toxicology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "NEUR 0010", "name": "The Brain: An Introduction to Neuroscience" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include a Senior Capstone.",
+          "name": "Area 3: Organismal Biology (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0210", "name": "Diversity of Life" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0380", "name": "The Ecology and Evolution of Infectious Disease" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0410", "name": "Invertebrate Zoology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0420", "name": "Principles of Ecology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0430", "name": "The Evolution of Plant Diversity" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0450", "name": "Evolutionary Behavioral Ecology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0480", "name": "Evolutionary Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1480", "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1515", "name": "Conservation in the Genomics Age" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1800", "name": "Animal Locomotion" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "ENVS 0490", "name": "Environmental Science in a Changing World" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Six additional courses from BIOL and/or NEUR",
           "type": "label",
           "courses": [],
           "count": 6,
-          "notes": []
-        },
-        {
-          "name": "SENIOR CAPSTONE: To be fulfilled via ONE of the following:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "BIOL 0946",
-                  "name": "BIOL 0946"
-                },
-                {
-                  "code": "BIOL 1100",
-                  "name": "1100"
-                },
-                {
-                  "code": "BIOL 1140",
-                  "name": "1140"
-                },
-                {
-                  "code": "BIOL 1150",
-                  "name": "1150"
-                },
-                {
-                  "code": "BIOL 1250",
-                  "name": "1250"
-                },
-                {
-                  "code": "BIOL 1330",
-                  "name": "1330"
-                },
-                {
-                  "code": "BIOL 1515",
-                  "name": "1515"
-                },
-                {
-                  "code": "BIOL 1525",
-                  "name": "1525"
-                },
-                {
-                  "code": "BIOL 1535",
-                  "name": "1535"
-                },
-                {
-                  "code": "BIOL 1555",
-                  "name": "1555"
-                },
-                {
-                  "code": "BIOL 1575",
-                  "name": "1575"
-                },
-                {
-                  "code": "BIOL 1600",
-                  "name": "1600"
-                },
-                {
-                  "code": "BIOL 1820",
-                  "name": "1820"
-                },
-                {
-                  "code": "BIOL 1970A",
-                  "name": "1970A"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "BIOL 1950",
-                  "name": "BIOL 1950"
-                },
-                {
-                  "code": "BIOL 1960",
-                  "name": "BIOL 1960"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Please visit the BUE webpage for more information.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
+          "notes": [
+            "Must include a Senior Capstone: one approved capstone course (BIOL 0946, 1100, 1140, 1150, 1250, 1330, 1515, 1525, 1535, 1555, 1575, 1600, 1820, 1970A) or one semester of independent research (BIOL 1950 or BIOL 1960)",
+            "At least 2 courses must be at the advanced level (1000–2999)",
+            "At least 3 of all BIOL/NEUR courses must include a laboratory or fieldwork component",
+            "Up to 2 courses may be from related sciences with advisor approval"
+          ]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0330",
-            "name": "Equilibrium, Rate, and Structure"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0350",
-            "name": "Organic Chemistry I"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0090",
-            "name": "Single Variable Calculus, Part I (or placement. MATH 0050/MATH 0060 may be substituted for MATH 0090.)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0100",
-            "name": "Single Variable Calculus, Part II (or placement)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0170",
-            "name": "Single Variable Calculus, Part II (Accelerated) (or equivalent placement)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0200",
-            "name": "The Foundation of Living Systems (Required course; AP credit or similar IB or A-levels accepted, placement test available.)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0280",
-            "name": "Biochemistry"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0470",
-            "name": "Genetics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0500",
-            "name": "Cell and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0510",
-            "name": "Introductory Microbiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0530",
-            "name": "Principles of Immunology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1050",
-            "name": "Biology of the Eukaryotic Cell"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1310",
-            "name": "Developmental Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1515",
-            "name": "Conservation in the Genomics Age"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1810",
-            "name": "21st Century Applications in Cell and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1865",
-            "name": "Toxicology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 1020",
-            "name": "Principles of Neurobiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0410",
-            "name": "Invertebrate Zoology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0440",
-            "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0800",
-            "name": "Principles of Physiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1120",
-            "name": "Biomaterials"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1155",
-            "name": "Hormones and Behavior"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1310",
-            "name": "Developmental Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1330",
-            "name": "Biology of Reproduction"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1505",
-            "name": "Environmental Physiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1800",
-            "name": "Animal Locomotion"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1865",
-            "name": "Toxicology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 0010",
-            "name": "The Brain: An Introduction to Neuroscience"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0210",
-            "name": "Diversity of Life"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0380",
-            "name": "The Ecology and Evolution of Infectious Disease"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0410",
-            "name": "Invertebrate Zoology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0420",
-            "name": "Principles of Ecology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0430",
-            "name": "The Evolution of Plant Diversity"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0450",
-            "name": "Evolutionary Behavioral Ecology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0480",
-            "name": "Evolutionary Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1480",
-            "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1515",
-            "name": "Conservation in the Genomics Age"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1800",
-            "name": "Animal Locomotion"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ENVS 0490",
-            "name": "Environmental Science in a Changing World"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "BIOL 0946",
-              "name": "BIOL 0946"
-            },
-            {
-              "code": "BIOL 1100",
-              "name": "1100"
-            },
-            {
-              "code": "BIOL 1140",
-              "name": "1140"
-            },
-            {
-              "code": "BIOL 1150",
-              "name": "1150"
-            },
-            {
-              "code": "BIOL 1250",
-              "name": "1250"
-            },
-            {
-              "code": "BIOL 1330",
-              "name": "1330"
-            },
-            {
-              "code": "BIOL 1515",
-              "name": "1515"
-            },
-            {
-              "code": "BIOL 1525",
-              "name": "1525"
-            },
-            {
-              "code": "BIOL 1535",
-              "name": "1535"
-            },
-            {
-              "code": "BIOL 1555",
-              "name": "1555"
-            },
-            {
-              "code": "BIOL 1575",
-              "name": "1575"
-            },
-            {
-              "code": "BIOL 1600",
-              "name": "1600"
-            },
-            {
-              "code": "BIOL 1820",
-              "name": "1820"
-            },
-            {
-              "code": "BIOL 1970A",
-              "name": "1970A"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "BIOL 1950",
-              "name": "BIOL 1950"
-            },
-            {
-              "code": "BIOL 1960",
-              "name": "BIOL 1960"
-            }
-          ]
-        }
+        { "type": "required", "course": { "code": "BIOL 0200", "name": "The Foundation of Living Systems" } }
       ],
       "notes": []
     },
     {
-      "id": "standard_program_for_the_sc_b__biology",
-      "name": "Standard Program for the Sc.B. Biology",
+      "id": "scb",
+      "name": "Standard Program for the Sc.B.",
+      "total_credits": 13,
       "groups": [
         {
-          "name": "Prerequisites:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0090",
-                  "name": "Single Variable Calculus, Part I (or placement.  MATH 0050/MATH 0060 may be substituted for MATH 0090)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "One of the following:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0100",
-                  "name": "Single Variable Calculus, Part II (or placement)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0170",
-                  "name": "Single Variable Calculus, Part II (Accelerated)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "or a statistics course to be approved by the concentration advisor",
+          "name": "Prerequisites (not counted in 13-course core)",
           "type": "label",
           "courses": [],
-          "count": null,
-          "notes": []
+          "count": 7,
+          "notes": [
+            "MATH 0090 Single Variable Calculus, Part I (or placement; MATH 0050/0060 may substitute)",
+            "One of: MATH 0100 or MATH 0170 (Single Variable Calculus, Part II), or an approved statistics course",
+            "CHEM 0330 Equilibrium, Rate, and Structure (or IB credit)",
+            "CHEM 0350 Organic Chemistry I",
+            "CHEM 0360 Organic Chemistry II — or BIOL 0280 as substitute (advisor approval required; if used, BIOL 0280 cannot count as a core or Area 1 course)",
+            "PHYS 0030 Basic Physics A (or PHYS 0050, PHYS 0070, or ENGN 0040)",
+            "PHYS 0040 Basic Physics B (or PHYS 0060 or ENGN 0510)"
+          ]
         },
         {
-          "name": "Each of the following:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0330",
-                  "name": "Equilibrium, Rate, and Structure (or IB credit)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0350",
-                  "name": "Organic Chemistry I"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0360",
-                  "name": "Organic Chemistry II"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0280",
-                  "name": "Biochemistry"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0030",
-                  "name": "Basic Physics A (or equivalent. PHYS 0050 PHYS 0070, or ENGN 0040 may be substituted for PHYS 0030.)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0040",
-                  "name": "Basic Physics B (or equivalent. PHYS 0060 or ENGN 0510 may be substituted for PHYS 0040.)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Core Courses:",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0200",
-                  "name": "The Foundation of Living Systems (or placement)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Area 1 (Cell/Molecular Biology)",
+          "name": "The Foundation of Living Systems",
           "type": "section",
           "count": 1,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0280",
-                  "name": "Biochemistry"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0470",
-                  "name": "Genetics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0500",
-                  "name": "Cell and Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0510",
-                  "name": "Introductory Microbiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0530",
-                  "name": "Principles of Immunology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1050",
-                  "name": "Biology of the Eukaryotic Cell"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1310",
-                  "name": "Developmental Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1515",
-                  "name": "Conservation in the Genomics Age"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1810",
-                  "name": "21st Century Applications in Cell and Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1865",
-                  "name": "Toxicology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 1020",
-                  "name": "Principles of Neurobiology"
-                }
-              ],
+              "courses": [{ "code": "BIOL 0200", "name": "The Foundation of Living Systems" }],
               "count": null,
               "notes": []
             }
@@ -1289,1136 +149,188 @@
           "notes": []
         },
         {
-          "name": "Area 2 (Structure/Function)",
+          "name": "Area 1: Cell/Molecular Biology (choose one)",
           "type": "section",
           "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0410",
-                  "name": "Invertebrate Zoology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0440",
-                  "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0800",
-                  "name": "Principles of Physiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1120",
-                  "name": "Biomaterials"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1155",
-                  "name": "Hormones and Behavior"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1310",
-                  "name": "Developmental Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1330",
-                  "name": "Biology of Reproduction"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1505",
-                  "name": "Environmental Physiology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1800",
-                  "name": "Animal Locomotion"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1865",
-                  "name": "Toxicology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 0010",
-                  "name": "The Brain: An Introduction to Neuroscience"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0510", "name": "Introductory Microbiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0530", "name": "Principles of Immunology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1050", "name": "Biology of the Eukaryotic Cell" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1310", "name": "Developmental Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1515", "name": "Conservation in the Genomics Age" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1810", "name": "21st Century Applications in Cell and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1865", "name": "Toxicology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "NEUR 1020", "name": "Principles of Neurobiology" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["If a course is listed in more than one area, it may fulfill only one area"]
         },
         {
-          "name": "Area 3 (Organismal Biology)",
+          "name": "Area 2: Structure/Function (choose one)",
           "type": "section",
           "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0210",
-                  "name": "Diversity of Life"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0380",
-                  "name": "The Ecology and Evolution of Infectious Disease"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0410",
-                  "name": "Invertebrate Zoology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0420",
-                  "name": "Principles of Ecology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0430",
-                  "name": "The Evolution of Plant Diversity"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0450",
-                  "name": "Evolutionary Behavioral Ecology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0480",
-                  "name": "Evolutionary Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1480",
-                  "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1515",
-                  "name": "Conservation in the Genomics Age"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1800",
-                  "name": "Animal Locomotion"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "ENVS 0490",
-                  "name": "Environmental Science in a Changing World"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0410", "name": "Invertebrate Zoology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0440", "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0800", "name": "Principles of Physiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1120", "name": "Biomaterials" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1155", "name": "Hormones and Behavior" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1310", "name": "Developmental Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1330", "name": "Biology of Reproduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1505", "name": "Environmental Physiology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1800", "name": "Animal Locomotion" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1865", "name": "Toxicology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "NEUR 0010", "name": "The Brain: An Introduction to Neuroscience" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include research.",
-          "type": "label",
-          "courses": [],
-          "count": 6,
-          "notes": []
-        },
-        {
-          "name": "RESEARCH:",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "The two semester research requirement may be satisfied by any two of the opportunities listed below. Students may find the following resources useful in planning for research: the annual BUE-PLME Finding, Securing and Succeeding in Research workshop, the BUE Research webpage, and the Sheridan Center\u2019s Undergraduate Research & Experiential Opportunities webpage. Following conversation and agreement with the advisor, students articulate the research plan in the ASK declaration (in the designated text box) which is submitted for review and approval by the advisor.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Choose two:",
+          "name": "Area 3: Organismal Biology (choose one)",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1950",
-                  "name": "Directed Research/Independent Study"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1960",
-                  "name": "Directed Research/Independent Study"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 1970",
-                  "name": "Independent Study"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0210", "name": "Diversity of Life" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0380", "name": "The Ecology and Evolution of Infectious Disease" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0410", "name": "Invertebrate Zoology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0420", "name": "Principles of Ecology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0430", "name": "The Evolution of Plant Diversity" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0450", "name": "Evolutionary Behavioral Ecology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0480", "name": "Evolutionary Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1480", "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1515", "name": "Conservation in the Genomics Age" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1800", "name": "Animal Locomotion" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "ENVS 0490", "name": "Environmental Science in a Changing World" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "Independent study course in a related discipline (i.e. STEM disciplines, ENVS, PHP, etc.) if the project is relevant to the student\u2019s learning goals and interests in the concentration.",
+          "name": "Four additional courses from BIOL and/or NEUR",
           "type": "label",
           "courses": [],
-          "count": null,
-          "notes": []
+          "count": 4,
+          "notes": [
+            "At least 2 must be at the advanced level (1000–2999)",
+            "At least 3 of all BIOL/NEUR courses must include a laboratory or fieldwork component",
+            "Up to 2 may be from related sciences with advisor approval"
+          ]
         },
         {
-          "name": "A summer research experience equivalent in scope and scale to work the student would pursue in a Biology independent study course. Examples include UTRAs, LINK awards, approved research programs at other institutions, etc. These experiences do not count as a course in the 10 course core requirement, but they can be used to satisfy the one semester of the research requirement. Advisors will work with students to review these experiences - drawing on a range of potential materials including a written summary of the experience, formal work plans, materials produced (i.e. presentations/papers), and in some cases a letter from the supporting advisor.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Other equivalent opportunities not listed - with approval from the concentration advisor and Dean Achilli.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Students are encouraged to pursue research related to their track",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "TRACK:",
+          "name": "Two semesters of research (choose two)",
           "type": "section",
-          "count": null,
+          "count": 2,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "BIOL 1950",
-                  "name": "BIOL 1950"
-                },
-                {
-                  "code": "BIOL 1960",
-                  "name": "1960"
-                }
-              ],
-              "count": 3,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "NEUR 1970", "name": "Independent Study" }], "count": null, "notes": [] }
           ],
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0090",
-            "name": "Single Variable Calculus, Part I (or placement.  MATH 0050/MATH 0060 may be substituted for MATH 0090)"
-          }
+          "notes": [
+            "Independent study in a related discipline (STEM, ENVS, PHP) may substitute if relevant to the student's concentration goals",
+            "A summer research experience (UTRA, LINK award, approved program at another institution, etc.) may satisfy one semester with advisor approval — does not count as one of the 13 core courses",
+            "Students are encouraged to pursue research related to their thematic track"
+          ]
         },
         {
-          "type": "required",
-          "course": {
-            "code": "MATH 0100",
-            "name": "Single Variable Calculus, Part II (or placement)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0170",
-            "name": "Single Variable Calculus, Part II (Accelerated)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0330",
-            "name": "Equilibrium, Rate, and Structure (or IB credit)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0350",
-            "name": "Organic Chemistry I"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0360",
-            "name": "Organic Chemistry II"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0280",
-            "name": "Biochemistry"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0030",
-            "name": "Basic Physics A (or equivalent. PHYS 0050 PHYS 0070, or ENGN 0040 may be substituted for PHYS 0030.)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0040",
-            "name": "Basic Physics B (or equivalent. PHYS 0060 or ENGN 0510 may be substituted for PHYS 0040.)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0200",
-            "name": "The Foundation of Living Systems (or placement)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0280",
-            "name": "Biochemistry"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0470",
-            "name": "Genetics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0500",
-            "name": "Cell and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0510",
-            "name": "Introductory Microbiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0530",
-            "name": "Principles of Immunology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1050",
-            "name": "Biology of the Eukaryotic Cell"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1310",
-            "name": "Developmental Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1515",
-            "name": "Conservation in the Genomics Age"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1810",
-            "name": "21st Century Applications in Cell and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1865",
-            "name": "Toxicology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 1020",
-            "name": "Principles of Neurobiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0410",
-            "name": "Invertebrate Zoology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0440",
-            "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0800",
-            "name": "Principles of Physiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1120",
-            "name": "Biomaterials"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1155",
-            "name": "Hormones and Behavior"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1310",
-            "name": "Developmental Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1330",
-            "name": "Biology of Reproduction"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1505",
-            "name": "Environmental Physiology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1800",
-            "name": "Animal Locomotion"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1865",
-            "name": "Toxicology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 0010",
-            "name": "The Brain: An Introduction to Neuroscience"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0210",
-            "name": "Diversity of Life"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0380",
-            "name": "The Ecology and Evolution of Infectious Disease"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0410",
-            "name": "Invertebrate Zoology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0420",
-            "name": "Principles of Ecology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0430",
-            "name": "The Evolution of Plant Diversity"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0450",
-            "name": "Evolutionary Behavioral Ecology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0480",
-            "name": "Evolutionary Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1480",
-            "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1515",
-            "name": "Conservation in the Genomics Age"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1800",
-            "name": "Animal Locomotion"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ENVS 0490",
-            "name": "Environmental Science in a Changing World"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1950",
-            "name": "Directed Research/Independent Study"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1960",
-            "name": "Directed Research/Independent Study"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 1970",
-            "name": "Independent Study"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "BIOL 1950",
-              "name": "BIOL 1950"
-            },
-            {
-              "code": "BIOL 1960",
-              "name": "1960"
-            }
+          "name": "Three-course thematic track",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": [
+            "Tracks: Biomedical Informatics; Cell and Molecular Biology; Ecology, Evolution and Organismal Biology; Immunobiology; Neurobiology; Physical Sciences; Physiology and Biotechnology",
+            "At least 2 track courses (preferably all 3) must be above 1000-level; all 3 must be biological sciences (not including BIOL 1950/1960)",
+            "Biomedical Informatics: BIOL 1535 required, plus 2 from BIOL 1555, 1575, 1595",
+            "Track courses must form a cohesive grouping approved by the concentration advisor"
           ]
         }
       ],
-      "notes": []
-    },
-    {
-      "id": "tracks",
-      "name": "Tracks",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "BIOL 1535",
-              "name": "BIOL 1535"
-            }
-          ],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "BIOL 1555",
-              "name": "Methods in Informatics and Data Science for Health"
-            }
-          ],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "BIOL 1575",
-              "name": "Evaluation of Health Information Systems"
-            }
-          ],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "BIOL 1595",
-              "name": "Artificial Intelligence in Health Care"
-            }
-          ],
-          "count": null,
-          "notes": []
-        }
-      ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1535",
-            "name": "BIOL 1535"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1555",
-            "name": "Methods in Informatics and Data Science for Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1575",
-            "name": "Evaluation of Health Information Systems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1595",
-            "name": "Artificial Intelligence in Health Care"
-          }
-        }
+        { "type": "required", "course": { "code": "BIOL 0200", "name": "The Foundation of Living Systems" } }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "CHEM 0330",
-      "name": "Equilibrium, Rate, and Structure"
-    },
-    {
-      "code": "CHEM 0350",
-      "name": "Organic Chemistry I"
-    },
-    {
-      "code": "MATH 0090",
-      "name": "Single Variable Calculus, Part I (or placement. MATH 0050/MATH 0060 may be substituted for MATH 0090.)"
-    },
-    {
-      "code": "MATH 0100",
-      "name": "Single Variable Calculus, Part II (or placement)"
-    },
-    {
-      "code": "MATH 0170",
-      "name": "Single Variable Calculus, Part II (Accelerated) (or equivalent placement)"
-    },
-    {
-      "code": "BIOL 0200",
-      "name": "The Foundation of Living Systems (Required course; AP credit or similar IB or A-levels accepted, placement test available.)"
-    },
-    {
-      "code": "BIOL 0280",
-      "name": "Biochemistry"
-    },
-    {
-      "code": "BIOL 0470",
-      "name": "Genetics"
-    },
-    {
-      "code": "BIOL 0500",
-      "name": "Cell and Molecular Biology"
-    },
-    {
-      "code": "BIOL 0510",
-      "name": "Introductory Microbiology"
-    },
-    {
-      "code": "BIOL 0530",
-      "name": "Principles of Immunology"
-    },
-    {
-      "code": "BIOL 1050",
-      "name": "Biology of the Eukaryotic Cell"
-    },
-    {
-      "code": "BIOL 1310",
-      "name": "Developmental Biology"
-    },
-    {
-      "code": "BIOL 1515",
-      "name": "Conservation in the Genomics Age"
-    },
-    {
-      "code": "BIOL 1810",
-      "name": "21st Century Applications in Cell and Molecular Biology"
-    },
-    {
-      "code": "BIOL 1865",
-      "name": "Toxicology"
-    },
-    {
-      "code": "NEUR 1020",
-      "name": "Principles of Neurobiology"
-    },
-    {
-      "code": "BIOL 0410",
-      "name": "Invertebrate Zoology"
-    },
-    {
-      "code": "BIOL 0440",
-      "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses"
-    },
-    {
-      "code": "BIOL 0800",
-      "name": "Principles of Physiology"
-    },
-    {
-      "code": "BIOL 1120",
-      "name": "Biomaterials"
-    },
-    {
-      "code": "BIOL 1155",
-      "name": "Hormones and Behavior"
-    },
-    {
-      "code": "BIOL 1330",
-      "name": "Biology of Reproduction"
-    },
-    {
-      "code": "BIOL 1505",
-      "name": "Environmental Physiology"
-    },
-    {
-      "code": "BIOL 1800",
-      "name": "Animal Locomotion"
-    },
-    {
-      "code": "NEUR 0010",
-      "name": "The Brain: An Introduction to Neuroscience"
-    },
-    {
-      "code": "BIOL 0210",
-      "name": "Diversity of Life"
-    },
-    {
-      "code": "BIOL 0380",
-      "name": "The Ecology and Evolution of Infectious Disease"
-    },
-    {
-      "code": "BIOL 0420",
-      "name": "Principles of Ecology"
-    },
-    {
-      "code": "BIOL 0430",
-      "name": "The Evolution of Plant Diversity"
-    },
-    {
-      "code": "BIOL 0450",
-      "name": "Evolutionary Behavioral Ecology"
-    },
-    {
-      "code": "BIOL 0480",
-      "name": "Evolutionary Biology"
-    },
-    {
-      "code": "BIOL 1480",
-      "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems"
-    },
-    {
-      "code": "ENVS 0490",
-      "name": "Environmental Science in a Changing World"
-    },
-    {
-      "code": "BIOL 0946",
-      "name": "BIOL 0946"
-    },
-    {
-      "code": "BIOL 1100",
-      "name": "1100"
-    },
-    {
-      "code": "BIOL 1140",
-      "name": "1140"
-    },
-    {
-      "code": "BIOL 1150",
-      "name": "1150"
-    },
-    {
-      "code": "BIOL 1250",
-      "name": "1250"
-    },
-    {
-      "code": "BIOL 1525",
-      "name": "1525"
-    },
-    {
-      "code": "BIOL 1535",
-      "name": "1535"
-    },
-    {
-      "code": "BIOL 1555",
-      "name": "1555"
-    },
-    {
-      "code": "BIOL 1575",
-      "name": "1575"
-    },
-    {
-      "code": "BIOL 1600",
-      "name": "1600"
-    },
-    {
-      "code": "BIOL 1820",
-      "name": "1820"
-    },
-    {
-      "code": "BIOL 1970A",
-      "name": "1970A"
-    },
-    {
-      "code": "BIOL 1950",
-      "name": "BIOL 1950"
-    },
-    {
-      "code": "BIOL 1960",
-      "name": "BIOL 1960"
-    },
-    {
-      "code": "CHEM 0360",
-      "name": "CHEM 0360"
-    },
-    {
-      "code": "PHYS 0030",
-      "name": "Basic Physics A (or equivalent. PHYS 0050 PHYS 0070, or ENGN 0040 may be substituted for PHYS 0030.)"
-    },
-    {
-      "code": "PHYS 0040",
-      "name": "Basic Physics B (or equivalent. PHYS 0060 or ENGN 0510 may be substituted for PHYS 0040.)"
-    },
-    {
-      "code": "NEUR 1970",
-      "name": "Independent Study"
-    },
-    {
-      "code": "BIOL 1595",
-      "name": "Artificial Intelligence in Health Care"
-    },
-    {
-      "code": "BIOL 1222A",
-      "name": "Current Topics in Functional Genomics"
-    },
-    {
-      "code": "BIOL 1270",
-      "name": "Advanced Biochemistry"
-    },
-    {
-      "code": "BIOL 1300",
-      "name": "Biomolecular Interactions: Health, Disease and Drug Design"
-    },
-    {
-      "code": "BIOL 1540",
-      "name": "Molecular Genetics"
-    },
-    {
-      "code": "BIOL 1545",
-      "name": "Human Genetics and Genomics"
-    },
-    {
-      "code": "BIOL 1580",
-      "name": "Metabolism Across Biological Scales: Integrative Physiology and Pathobiology"
-    },
-    {
-      "code": "BIOL 1430",
-      "name": "Foundations of Population Genetics"
-    },
-    {
-      "code": "BIOL 1435",
-      "name": "Computational Methods for Studying Demographic History with Molecular Data"
-    },
-    {
-      "code": "BIOL 1440",
-      "name": "Marine Biology"
-    },
-    {
-      "code": "BIOL 1465",
-      "name": "Human Population Genomics"
-    },
-    {
-      "code": "BIOL 1470",
-      "name": "Conservation Biology"
-    },
-    {
-      "code": "ENVS 1775",
-      "name": "Biogeography"
-    },
-    {
-      "code": "BIOL 1290",
-      "name": "Cancer Biology"
-    },
-    {
-      "code": "BIOL 1295",
-      "name": "Fundamentals of Cancer Immunotherapy"
-    },
-    {
-      "code": "BIOL 1520",
-      "name": "Innate Immunity"
-    },
-    {
-      "code": "BIOL 1550",
-      "name": "Parasitism: Biology and Disease"
-    },
-    {
-      "code": "BIOL 1560",
-      "name": "Virology"
-    },
-    {
-      "code": "BIOL 1110",
-      "name": "Topics in Signal Transduction"
-    },
-    {
-      "code": "BIOL 1260",
-      "name": "Physiological Pharmacology"
-    },
-    {
-      "code": "BIOL 1650",
-      "name": "Structure of the Nervous System"
-    },
-    {
-      "code": "BIOL 1610",
-      "name": "Experimental Neurobiology"
-    },
-    {
-      "code": "BIOL 1070",
-      "name": "Biotechnology and Global Health"
-    },
-    {
-      "code": "BIOL 1090",
-      "name": "Polymer Science for Biomaterials"
-    },
-    {
-      "code": "BIOL 1160",
-      "name": "Principles of Exercise Physiology"
-    }
+    { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" },
+    { "code": "CHEM 0350", "name": "Organic Chemistry I" },
+    { "code": "CHEM 0360", "name": "Organic Chemistry II" },
+    { "code": "MATH 0090", "name": "Single Variable Calculus, Part I" },
+    { "code": "MATH 0100", "name": "Introductory Calculus, Part II" },
+    { "code": "MATH 0170", "name": "Single Variable Calculus, Part II (Accelerated)" },
+    { "code": "PHYS 0030", "name": "Basic Physics A" },
+    { "code": "PHYS 0040", "name": "Basic Physics B" },
+    { "code": "PHYS 0050", "name": "Foundations of Mechanics" },
+    { "code": "PHYS 0060", "name": "Foundations of Electromagnetism and Modern Physics" },
+    { "code": "PHYS 0070", "name": "Analytical Mechanics" },
+    { "code": "ENGN 0040", "name": "Engineering Statics and Dynamics" },
+    { "code": "BIOL 0200", "name": "The Foundation of Living Systems" },
+    { "code": "BIOL 0210", "name": "Diversity of Life" },
+    { "code": "BIOL 0280", "name": "Biochemistry" },
+    { "code": "BIOL 0380", "name": "The Ecology and Evolution of Infectious Disease" },
+    { "code": "BIOL 0410", "name": "Invertebrate Zoology" },
+    { "code": "BIOL 0420", "name": "Principles of Ecology" },
+    { "code": "BIOL 0430", "name": "The Evolution of Plant Diversity" },
+    { "code": "BIOL 0440", "name": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses" },
+    { "code": "BIOL 0450", "name": "Evolutionary Behavioral Ecology" },
+    { "code": "BIOL 0470", "name": "Genetics" },
+    { "code": "BIOL 0480", "name": "Evolutionary Biology" },
+    { "code": "BIOL 0500", "name": "Cell and Molecular Biology" },
+    { "code": "BIOL 0510", "name": "Introductory Microbiology" },
+    { "code": "BIOL 0530", "name": "Principles of Immunology" },
+    { "code": "BIOL 0800", "name": "Principles of Physiology" },
+    { "code": "BIOL 0946", "name": "BIOL 0946" },
+    { "code": "BIOL 1050", "name": "Biology of the Eukaryotic Cell" },
+    { "code": "BIOL 1070", "name": "Biotechnology and Global Health" },
+    { "code": "BIOL 1090", "name": "Polymer Science for Biomaterials" },
+    { "code": "BIOL 1100", "name": "Cell Physiology and Biophysics" },
+    { "code": "BIOL 1110", "name": "Topics in Signal Transduction" },
+    { "code": "BIOL 1120", "name": "Biomaterials" },
+    { "code": "BIOL 1140", "name": "Tissue Engineering" },
+    { "code": "BIOL 1150", "name": "Stem Cell Engineering" },
+    { "code": "BIOL 1155", "name": "Hormones and Behavior" },
+    { "code": "BIOL 1160", "name": "Principles of Exercise Physiology" },
+    { "code": "BIOL 1222A", "name": "Current Topics in Functional Genomics" },
+    { "code": "BIOL 1250", "name": "Host-microbiome Interactions in Health and Disease" },
+    { "code": "BIOL 1260", "name": "Physiological Pharmacology" },
+    { "code": "BIOL 1270", "name": "Advanced Biochemistry" },
+    { "code": "BIOL 1290", "name": "Cancer Biology" },
+    { "code": "BIOL 1295", "name": "Fundamentals of Cancer Immunotherapy" },
+    { "code": "BIOL 1300", "name": "Biomolecular Interactions: Health, Disease and Drug Design" },
+    { "code": "BIOL 1310", "name": "Developmental Biology" },
+    { "code": "BIOL 1330", "name": "Biology of Reproduction" },
+    { "code": "BIOL 1430", "name": "Foundations of Population Genetics" },
+    { "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" },
+    { "code": "BIOL 1440", "name": "Marine Biology" },
+    { "code": "BIOL 1465", "name": "Human Population Genomics" },
+    { "code": "BIOL 1470", "name": "Conservation Biology" },
+    { "code": "BIOL 1480", "name": "Terrestrial Biogeochemistry and the Functioning of Ecosystems" },
+    { "code": "BIOL 1505", "name": "Environmental Physiology" },
+    { "code": "BIOL 1515", "name": "Conservation in the Genomics Age" },
+    { "code": "BIOL 1520", "name": "Innate Immunity" },
+    { "code": "BIOL 1525", "name": "Pathogenomics: Analysis, Interpretation and Applications of Microbial Genomes" },
+    { "code": "BIOL 1535", "name": "BIOL 1535" },
+    { "code": "BIOL 1540", "name": "Molecular Genetics" },
+    { "code": "BIOL 1545", "name": "Human Genetics and Genomics" },
+    { "code": "BIOL 1550", "name": "Parasitism: Biology and Disease" },
+    { "code": "BIOL 1555", "name": "Methods in Informatics and Data Science for Health" },
+    { "code": "BIOL 1560", "name": "Virology" },
+    { "code": "BIOL 1575", "name": "Evaluation of Health Information Systems" },
+    { "code": "BIOL 1580", "name": "Metabolism Across Biological Scales: Integrative Physiology and Pathobiology" },
+    { "code": "BIOL 1595", "name": "Artificial Intelligence in Health Care" },
+    { "code": "BIOL 1600", "name": "Development of Vaccines to Infectious Diseases" },
+    { "code": "BIOL 1610", "name": "Experimental Neurobiology" },
+    { "code": "BIOL 1650", "name": "Structure of the Nervous System" },
+    { "code": "BIOL 1800", "name": "Animal Locomotion" },
+    { "code": "BIOL 1810", "name": "21st Century Applications in Cell and Molecular Biology" },
+    { "code": "BIOL 1820", "name": "Environmental Health and Disease" },
+    { "code": "BIOL 1865", "name": "Toxicology" },
+    { "code": "BIOL 1950", "name": "Directed Research/Independent Study" },
+    { "code": "BIOL 1960", "name": "Directed Research/Independent Study" },
+    { "code": "BIOL 1970A", "name": "Stem Cell Biology" },
+    { "code": "ENVS 0490", "name": "Environmental Science in a Changing World" },
+    { "code": "ENVS 1775", "name": "Biogeography" },
+    { "code": "NEUR 0010", "name": "The Brain: An Introduction to Neuroscience" },
+    { "code": "NEUR 1020", "name": "Principles of Neurobiology" },
+    { "code": "NEUR 1970", "name": "Independent Study" }
   ]
 }

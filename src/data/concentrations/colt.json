@@ -2,881 +2,259 @@
   "concentration": "Comparative Literature",
   "slug": "colt",
   "url": "https://bulletin.brown.edu/the-college/concentrations/colt/",
-  "description": "The concentration in Comparative Literature enables students to study an illustrative range of literary topics and to develop a focused critical understanding of how cultures differ from one another and what those differences mean. Our courses provide opportunities to engage with literary works across linguistic and cultural boundaries, exploring the traditions and innovations of the literatures of the world. In the spirit of Brown\u2019s Open Curriculum, a concentration in Comparative Literature affords great academic freedom.\u00a0\u00a0 Advanced literature courses from any literature department at Brown count for concentration credit. Any language \u2014ancient or modern\u2014supported at Brown may form part of a Comparative Literature concentration program.\u00a0 All students take a course in literary theory and have the opportunity to complete a senior essay.",
+  "description": "The concentration in Comparative Literature enables students to study an illustrative range of literary topics and to develop a focused critical understanding of how cultures differ from one another and what those differences mean. Our courses provide opportunities to engage with literary works across linguistic and cultural boundaries, exploring the traditions and innovations of the literatures of the world. There are three concentration tracks: Track 1 (two languages), Track 2 (three languages), and Track 3 (Literary Translation). All concentrators take a course in literary theory and must ensure their courses cover at least three different historical periods and one course in each literary genre (poetry, narrative, drama/film).",
+  "degrees": ["AB"],
+  "requires_track_selection": true,
+  "total_credits": { "AB": 10 },
   "tracks": [
     {
-      "id": "prerequisites_in_languages_",
-      "name": "Prerequisites in languages:",
+      "id": "track_1_two_languages",
+      "name": "Track 1: Comparative Literature in Two Languages",
+      "total_credits": 10,
       "groups": [
         {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
+          "name": "Introduction to the Theory of Literature",
+          "type": "section",
           "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1210", "name": "Introduction to the Theory of Literature" }], "count": null, "notes": [] }
+          ],
           "notes": []
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the first chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department (COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.); readings normally in original language"]
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the second chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+          "name": "Five electives",
           "type": "label",
           "courses": [],
           "count": 5,
-          "notes": []
+          "notes": [
+            "Courses taught in Comparative Literature or any literature department at any level (below or above 1000)",
+            "Together with the lit courses above, must cover at least 3 historical periods and include one course in each genre: poetry, narrative, and drama/film"
+          ]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
+        { "type": "required", "course": { "code": "COLT 1210", "name": "Introduction to the Theory of Literature" } }
       ],
       "notes": []
     },
     {
-      "id": "selecting_literature_courses_in_your_language_area",
-      "name": "Selecting literature courses in your language areas:",
+      "id": "track_2_three_languages",
+      "name": "Track 2: Comparative Literature in Three Languages",
+      "total_credits": 10,
       "groups": [
         {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
+          "name": "Introduction to the Theory of Literature",
+          "type": "section",
           "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "transfer_of_credits_",
-      "name": "Transfer of Credits:",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1210", "name": "Introduction to the Theory of Literature" }], "count": null, "notes": [] }
           ],
-          "count": 1,
           "notes": []
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the first chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the second chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "joint_or_double_concentration_",
-      "name": "Joint or Double Concentration:",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the third chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "track_1__concentration_in_comparative_literature_i",
-      "name": "Track 1: Concentration in Comparative Literature in two languages",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "requirements",
-      "name": "Requirements",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 5,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "track_2__concentration_in_comparative_literature_i",
-      "name": "Track 2: Concentration in Comparative Literature in three languages",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+          "name": "Three electives",
           "type": "label",
           "courses": [],
           "count": 3,
-          "notes": []
+          "notes": [
+            "Courses taught in Comparative Literature or any literature department at any level",
+            "Together with the lit courses above, must cover at least 3 historical periods and include one course in each genre: poetry, narrative, and drama/film"
+          ]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
+        { "type": "required", "course": { "code": "COLT 1210", "name": "Introduction to the Theory of Literature" } }
       ],
       "notes": []
     },
     {
-      "id": "requirements",
-      "name": "Requirements",
+      "id": "track_3_literary_translation",
+      "name": "Track 3: Literary Translation",
+      "total_credits": 10,
       "groups": [
         {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
+          "name": "Introduction to the Theory of Literature",
+          "type": "section",
           "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1210", "name": "Introduction to the Theory of Literature" }], "count": null, "notes": [] }
+          ],
           "notes": []
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Literary Translation (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1710A", "name": "Introduction to Literary Translation" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1710C", "name": "Literary Translation Workshop" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "COLT 1710D", "name": "Exercises in Literary Translation" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One course in linguistics",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": ["Includes COLT 2720 Literary Translation and history-of-language courses; may be taken at any level"]
+        },
+        {
+          "name": "One workshop in Literary Arts",
+          "type": "label",
+          "courses": [],
+          "count": 1,
+          "notes": ["May be taken at any level"]
+        },
+        {
+          "name": "Two 1000-level+ courses in the first chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two 1000-level+ courses in the second chosen literature",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["May be taken in any literature department; readings normally in original language"]
         },
         {
-          "name": "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+          "name": "Two electives",
           "type": "label",
           "courses": [],
           "count": 2,
-          "notes": []
+          "notes": ["Comparative Literature or other literature courses at any level"]
         },
         {
-          "name": "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+          "name": "Senior thesis (required for Track 3)",
           "type": "label",
           "courses": [],
-          "count": 3,
-          "notes": []
+          "count": 0,
+          "notes": ["Substantial work in translation with a critical introduction; required for all Track 3 students but does not guarantee departmental honors"]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "track_3__concentration_in_literary_translation",
-      "name": "Track 3: Concentration in Literary Translation",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "Literary Translation (COLT 1710)",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level.",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "At least one workshop in Literary Arts. This may be taken at any level.",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction.  Completing a thesis is required of all Track 3 students but does not guarantee departmental honors.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
-      ],
-      "notes": []
-    },
-    {
-      "id": "requirements",
-      "name": "Requirements",
-      "groups": [
-        {
-          "name": "",
-          "type": "required",
-          "courses": [
-            {
-              "code": "COLT 1210",
-              "name": "Introduction to the Theory of Literature"
-            }
-          ],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "Literary Translation (COLT 1710)",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level.",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "At least one workshop in Literary Arts. This may be taken at any level.",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
-          "type": "label",
-          "courses": [],
-          "count": 2,
-          "notes": []
-        },
-        {
-          "name": "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction.  Completing a thesis is required of all Track 3 students but does not guarantee departmental honors.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        }
-      ],
-      "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "COLT 1210",
-            "name": "Introduction to the Theory of Literature"
-          }
-        }
+        { "type": "required", "course": { "code": "COLT 1210", "name": "Introduction to the Theory of Literature" } },
+        { "type": "required", "course": { "code": "COLT 1710A", "name": "Introduction to Literary Translation" } }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "COLT 1210",
-      "name": "Introduction to the Theory of Literature"
-    },
-    {
-      "code": "COLT 0510C",
-      "name": "The World of Lyric Poetry"
-    },
-    {
-      "code": "COLT 0510F",
-      "name": "Fidel Castro and Che Guevara, The Men and the Myths"
-    },
-    {
-      "code": "COLT 0510K",
-      "name": "The 1001 Nights"
-    },
-    {
-      "code": "COLT 0510P",
-      "name": "Reading the Renaissance"
-    },
-    {
-      "code": "COLT 0610C",
-      "name": "Banned Books"
-    },
-    {
-      "code": "COLT 0610D",
-      "name": "Rites of Passage"
-    },
-    {
-      "code": "COLT 0610L",
-      "name": "Murder Ink: Narratives of Crime, Discovery, and Identity"
-    },
-    {
-      "code": "COLT 0610Q",
-      "name": "Before Wikipedia"
-    },
-    {
-      "code": "COLT 0611D",
-      "name": "Third-Worldist Literature and Thought"
-    },
-    {
-      "code": "COLT 0710C",
-      "name": "Introduction to Scandinavian Literature"
-    },
-    {
-      "code": "COLT 0710I",
-      "name": "New Worlds: Reading Spaces and Places in Colonial Latin America"
-    },
-    {
-      "code": "COLT 0710N",
-      "name": "A Comparative Introduction to the Literatures of the Americas"
-    },
-    {
-      "code": "COLT 0710Q",
-      "name": "The Odyssey in Literature and Film"
-    },
-    {
-      "code": "COLT 0710X",
-      "name": "Fan Fiction"
-    },
-    {
-      "code": "COLT 0710Z",
-      "name": "Comedy from Athens to Hollywood"
-    },
-    {
-      "code": "COLT 0711H",
-      "name": "The Arabic Novel"
-    },
-    {
-      "code": "COLT 0711L",
-      "name": "The Quran and its Readers"
-    },
-    {
-      "code": "COLT 0711O",
-      "name": "Off the Beaten Path: The Diversity of Modern Japanese Literature"
-    },
-    {
-      "code": "COLT 0711Q",
-      "name": "Writing Love in Korean Literature"
-    },
-    {
-      "code": "COLT 0711W",
-      "name": "Palestinian (Non)Fictions and Films"
-    },
-    {
-      "code": "COLT 0810H",
-      "name": "How Not to Be a Hero"
-    },
-    {
-      "code": "COLT 0810I",
-      "name": "Tales and Talemakers of the Non-Western World"
-    },
-    {
-      "code": "COLT 0810L",
-      "name": "The Pursuit of Happiness"
-    },
-    {
-      "code": "COLT 0810M",
-      "name": "Uncanny Tales: Narratives of Repetition and Interruption"
-    },
-    {
-      "code": "COLT 0811I",
-      "name": "Classical Mythology and the Western Tradition"
-    },
-    {
-      "code": "COLT 0811Z",
-      "name": "Islands in the Western Imaginary: Paradise, Periphery, Prison"
-    },
-    {
-      "code": "COLT 0812O",
-      "name": "Reading Art in Literature"
-    },
-    {
-      "code": "COLT 0812V",
-      "name": "Troy: City, Legend, Literature"
-    },
-    {
-      "code": "COLT 0812W",
-      "name": "The Epic Tradition: from Homer to Milton"
-    },
-    {
-      "code": "COLT 1310G",
-      "name": "Silk Road Fictions"
-    },
-    {
-      "code": "COLT 1310J",
-      "name": "The Arab Renaissance"
-    },
-    {
-      "code": "COLT 1310N",
-      "name": "Global Modernism and Crisis"
-    },
-    {
-      "code": "COLT 1410S",
-      "name": "Classical Tragedy"
-    },
-    {
-      "code": "COLT 1420B",
-      "name": "A Mirror for the Romantic:The Tale of GenjiandThe Story of the Stone"
-    },
-    {
-      "code": "COLT 1420F",
-      "name": "Fantastic and Existentialist Literatures of Argentina, Uruguay and Brazil"
-    },
-    {
-      "code": "COLT 1420O",
-      "name": "Proust, Joyce and Faulkner"
-    },
-    {
-      "code": "COLT 1421V",
-      "name": "Modernisms North and South: James Joyce and Roberto Bola\u00f1o"
-    },
-    {
-      "code": "COLT 1422L",
-      "name": "The Modernist Novel: Alienation and Narration"
-    },
-    {
-      "code": "COLT 1422M",
-      "name": "Reading the Short Story"
-    },
-    {
-      "code": "COLT 1422O",
-      "name": "The Complete \"Story of the Stone\""
-    },
-    {
-      "code": "COLT 1430B",
-      "name": "Art and Exemplarity in Medieval and Early Modern Literature"
-    },
-    {
-      "code": "COLT 1430D",
-      "name": "Critical Approaches to Chinese Poetry"
-    },
-    {
-      "code": "COLT 1430I",
-      "name": "Poetry of Europe:  Montale, Celan, Hill"
-    },
-    {
-      "code": "COLT 1430L",
-      "name": "Voices of Romanticism"
-    },
-    {
-      "code": "COLT 1431B",
-      "name": "Modern Arabic Poetry"
-    },
-    {
-      "code": "COLT 1431C",
-      "name": "Poets, Poetry, and Politics"
-    },
-    {
-      "code": "COLT 1431F",
-      "name": "Reading Modernist Poetry"
-    },
-    {
-      "code": "COLT 1431J",
-      "name": "Anti Poetry"
-    },
-    {
-      "code": "COLT 1431L",
-      "name": "Black Afrikaans Poetry: Voices of Resistance and Identity in Apartheid and Democratic South Africa"
-    },
-    {
-      "code": "COLT 1440P",
-      "name": "Nationalism and Transnationalism in Film and Fiction"
-    },
-    {
-      "code": "COLT 1440U",
-      "name": "The Listener (Literature, Theory, Film)"
-    },
-    {
-      "code": "COLT 1440X",
-      "name": "Sh\u00e9h\u00e9razades : Depicting the \"Orientale\" in Modern French Culture"
-    },
-    {
-      "code": "COLT 1610B",
-      "name": "Irony"
-    },
-    {
-      "code": "COLT 1610V",
-      "name": "The Promise of Being: Heidegger for Beginners"
-    },
-    {
-      "code": "COLT 1710A",
-      "name": "Introduction to Literary Translation"
-    },
-    {
-      "code": "COLT 1710C",
-      "name": "Literary Translation Workshop"
-    },
-    {
-      "code": "COLT 1710D",
-      "name": "Exercises in Literary Translation"
-    },
-    {
-      "code": "COLT 1810G",
-      "name": "Fiction and History"
-    },
-    {
-      "code": "COLT 1810N",
-      "name": "Freud: Writer and Reader"
-    },
-    {
-      "code": "COLT 1810P",
-      "name": "Literature and Medicine"
-    },
-    {
-      "code": "COLT 1811L",
-      "name": "Travel, Tourism, Trafficking through the Ages"
-    },
-    {
-      "code": "COLT 1812A",
-      "name": "Literatures of Immigration"
-    },
-    {
-      "code": "COLT 1813M",
-      "name": "Making a List"
-    },
-    {
-      "code": "COLT 1813N",
-      "name": "Early Modern Women's Writing"
-    },
-    {
-      "code": "COLT 1813O",
-      "name": "Adventures of the Avant-Garde"
-    },
-    {
-      "code": "COLT 1814S",
-      "name": "The Balkans, Europe's Other?: Literature, Film, History"
-    },
-    {
-      "code": "COLT 1814U",
-      "name": "Politics of Reading"
-    },
-    {
-      "code": "COLT 1815F",
-      "name": "Memory, Commemoration, Testimony"
-    },
-    {
-      "code": "COLT 1815N",
-      "name": "How to Do Things with Modernism"
-    },
-    {
-      "code": "COLT 1815U",
-      "name": "Encountering Monsters in Comparative Literature"
-    },
-    {
-      "code": "COLT 2520F",
-      "name": "Theories of the Lyric"
-    },
-    {
-      "code": "COLT 2720C",
-      "name": "Literary Translation"
-    },
-    {
-      "code": "COLT 2720D",
-      "name": "Translation: Theory and Practice"
-    },
-    {
-      "code": "COLT 2820A",
-      "name": "New Directions for Comparative Literature"
-    },
-    {
-      "code": "COLT 2820M",
-      "name": "Discourses of the Senses"
-    },
-    {
-      "code": "COLT 2821S",
-      "name": "Historical Form"
-    },
-    {
-      "code": "COLT 2822A",
-      "name": "COLT 2822A"
-    }
+    { "code": "COLT 1210", "name": "Introduction to the Theory of Literature" },
+    { "code": "COLT 1710A", "name": "Introduction to Literary Translation" },
+    { "code": "COLT 1710C", "name": "Literary Translation Workshop" },
+    { "code": "COLT 1710D", "name": "Exercises in Literary Translation" },
+    { "code": "COLT 2720C", "name": "Literary Translation" },
+    { "code": "COLT 2720D", "name": "Translation: Theory and Practice" },
+    { "code": "COLT 0510C", "name": "The World of Lyric Poetry" },
+    { "code": "COLT 0510F", "name": "Fidel Castro and Che Guevara, The Men and the Myths" },
+    { "code": "COLT 0510K", "name": "The 1001 Nights" },
+    { "code": "COLT 0510P", "name": "Reading the Renaissance" },
+    { "code": "COLT 0610C", "name": "Banned Books" },
+    { "code": "COLT 0610D", "name": "Rites of Passage" },
+    { "code": "COLT 0610L", "name": "Murder Ink: Narratives of Crime, Discovery, and Identity" },
+    { "code": "COLT 0610Q", "name": "Before Wikipedia" },
+    { "code": "COLT 0611D", "name": "Third-Worldist Literature and Thought" },
+    { "code": "COLT 0710C", "name": "Introduction to Scandinavian Literature" },
+    { "code": "COLT 0710I", "name": "New Worlds: Reading Spaces and Places in Colonial Latin America" },
+    { "code": "COLT 0710N", "name": "A Comparative Introduction to the Literatures of the Americas" },
+    { "code": "COLT 0710Q", "name": "The Odyssey in Literature and Film" },
+    { "code": "COLT 0710X", "name": "Fan Fiction" },
+    { "code": "COLT 0710Z", "name": "Comedy from Athens to Hollywood" },
+    { "code": "COLT 0711H", "name": "The Arabic Novel" },
+    { "code": "COLT 0711L", "name": "The Quran and its Readers" },
+    { "code": "COLT 0711O", "name": "Off the Beaten Path: The Diversity of Modern Japanese Literature" },
+    { "code": "COLT 0711Q", "name": "Writing Love in Korean Literature" },
+    { "code": "COLT 0711W", "name": "Palestinian (Non)Fictions and Films" },
+    { "code": "COLT 0810H", "name": "How Not to Be a Hero" },
+    { "code": "COLT 0810I", "name": "Tales and Talemakers of the Non-Western World" },
+    { "code": "COLT 0810L", "name": "The Pursuit of Happiness" },
+    { "code": "COLT 0810M", "name": "Uncanny Tales: Narratives of Repetition and Interruption" },
+    { "code": "COLT 0811I", "name": "Classical Mythology and the Western Tradition" },
+    { "code": "COLT 0811Z", "name": "Islands in the Western Imaginary: Paradise, Periphery, Prison" },
+    { "code": "COLT 0812O", "name": "Reading Art in Literature" },
+    { "code": "COLT 0812V", "name": "Troy: City, Legend, Literature" },
+    { "code": "COLT 0812W", "name": "The Epic Tradition: from Homer to Milton" },
+    { "code": "COLT 1310G", "name": "Silk Road Fictions" },
+    { "code": "COLT 1310J", "name": "The Arab Renaissance" },
+    { "code": "COLT 1310N", "name": "Global Modernism and Crisis" },
+    { "code": "COLT 1410S", "name": "Classical Tragedy" },
+    { "code": "COLT 1420B", "name": "A Mirror for the Romantic: The Tale of Genji and The Story of the Stone" },
+    { "code": "COLT 1420F", "name": "Fantastic and Existentialist Literatures of Argentina, Uruguay and Brazil" },
+    { "code": "COLT 1420O", "name": "Proust, Joyce and Faulkner" },
+    { "code": "COLT 1421V", "name": "Modernisms North and South: James Joyce and Roberto Bolaño" },
+    { "code": "COLT 1422L", "name": "The Modernist Novel: Alienation and Narration" },
+    { "code": "COLT 1422M", "name": "Reading the Short Story" },
+    { "code": "COLT 1422O", "name": "The Complete \"Story of the Stone\"" },
+    { "code": "COLT 1430B", "name": "Art and Exemplarity in Medieval and Early Modern Literature" },
+    { "code": "COLT 1430D", "name": "Critical Approaches to Chinese Poetry" },
+    { "code": "COLT 1430I", "name": "Poetry of Europe: Montale, Celan, Hill" },
+    { "code": "COLT 1430L", "name": "Voices of Romanticism" },
+    { "code": "COLT 1431B", "name": "Modern Arabic Poetry" },
+    { "code": "COLT 1431C", "name": "Poets, Poetry, and Politics" },
+    { "code": "COLT 1431F", "name": "Reading Modernist Poetry" },
+    { "code": "COLT 1431J", "name": "Anti Poetry" },
+    { "code": "COLT 1431L", "name": "Black Afrikaans Poetry: Voices of Resistance and Identity in Apartheid and Democratic South Africa" },
+    { "code": "COLT 1440P", "name": "Nationalism and Transnationalism in Film and Fiction" },
+    { "code": "COLT 1440U", "name": "The Listener (Literature, Theory, Film)" },
+    { "code": "COLT 1440X", "name": "Shéhérazades: Depicting the \"Orientale\" in Modern French Culture" },
+    { "code": "COLT 1610B", "name": "Irony" },
+    { "code": "COLT 1610V", "name": "The Promise of Being: Heidegger for Beginners" },
+    { "code": "COLT 1810G", "name": "Fiction and History" },
+    { "code": "COLT 1810N", "name": "Freud: Writer and Reader" },
+    { "code": "COLT 1810P", "name": "Literature and Medicine" },
+    { "code": "COLT 1811L", "name": "Travel, Tourism, Trafficking through the Ages" },
+    { "code": "COLT 1812A", "name": "Literatures of Immigration" },
+    { "code": "COLT 1813M", "name": "Making a List" },
+    { "code": "COLT 1813N", "name": "Early Modern Women's Writing" },
+    { "code": "COLT 1813O", "name": "Adventures of the Avant-Garde" },
+    { "code": "COLT 1814S", "name": "The Balkans, Europe's Other?: Literature, Film, History" },
+    { "code": "COLT 1814U", "name": "Politics of Reading" },
+    { "code": "COLT 1815F", "name": "Memory, Commemoration, Testimony" },
+    { "code": "COLT 1815N", "name": "How to Do Things with Modernism" },
+    { "code": "COLT 1815U", "name": "Encountering Monsters in Comparative Literature" },
+    { "code": "COLT 2520F", "name": "Theories of the Lyric" },
+    { "code": "COLT 2820A", "name": "New Directions for Comparative Literature" },
+    { "code": "COLT 2820M", "name": "Discourses of the Senses" },
+    { "code": "COLT 2821S", "name": "Historical Form" },
+    { "code": "COLT 2822A", "name": "War" }
   ]
 }

@@ -2,1354 +2,573 @@
   "concentration": "Computational Biology",
   "slug": "csbi",
   "url": "https://bulletin.brown.edu/the-college/concentrations/csbi/",
-  "description": "Computational biology involves the analysis and discovery of biological phenomena using computational tools, and the algorithmic design and analysis of such tools. The field is widely defined and includes foundations in computer science, applied mathematics, statistics, biochemistry, molecular biology, genetics, ecology, evolution, anatomy, neuroscience, and visualization. Students may pursue a Bachelor of Arts or a Bachelor of Science. Students pursuing the ScB have the option of electing a concentration in Computational Biology with one of three focus areas: Computer Sciences, Biological Sciences, or Applied Mathematics & Statistics. Both programs require a senior capstone experience that pairs students and faculty in creative research collaborations.",
+  "description": "Computational biology involves the analysis and discovery of biological phenomena using computational tools, and the algorithmic design and analysis of such tools. The field includes foundations in computer science, applied mathematics, statistics, biochemistry, molecular biology, genetics, ecology, evolution, anatomy, neuroscience, and visualization. Students may pursue a Bachelor of Arts or a Bachelor of Science. Students pursuing the ScB elect one of three focus areas: Computer Sciences, Biological Sciences, or Applied Mathematics & Statistics. Both programs require a senior capstone experience.",
+  "requires_track_selection": true,
+  "total_credits": { "AB": 11, "ScB": 16 },
   "tracks": [
     {
-      "id": "capstone_experience_",
-      "name": "Capstone Experience:",
+      "id": "ab",
+      "name": "A.B. in Computational Biology",
+      "total_credits": 11,
       "groups": [
         {
-          "name": "Prerequisites (0-3 courses)",
+          "name": "Prerequisites (0-3 courses, not counted in 11-course core)",
           "type": "label",
           "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "These prerequisites are widely required for many courses in the concentration. Students must either complete or place out of these prerequisites.",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0100",
-                  "name": "Single Variable Calculus, Part II (or equivalent)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0170",
-                  "name": "Single Variable Calculus, Part II (Accelerated)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 0260",
-                  "name": "Linear Algebra and Multivariable Calculus for Applied Mathematicians"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0180",
-                  "name": "Multivariable Calculus"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0200",
-                  "name": "Multivariable Calculus (Physics/Engineering)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0350",
-                  "name": "Multivariable Calculus With Theory"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0200",
-                  "name": "The Foundation of Living Systems (or equivalent)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "General Core Course Requirements: Biology",
-          "type": "section",
-          "count": 2,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0470",
-                  "name": "Genetics (prerequisite BIOL 0200 or equivalent)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0280",
-                  "name": "Biochemistry"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0500",
-                  "name": "Cell and Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "General Core Requirements: Chemistry",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0330",
-                  "name": "Equilibrium, Rate, and Structure"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0350",
-                  "name": "Organic Chemistry I"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "General Core Requirements: Computer Science",
-          "type": "section",
           "count": 3,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 0220",
-                  "name": "Introduction to Discrete Structures and Probability"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
+          "notes": [
+            "MATH 0100 or MATH 0170 (Single Variable Calculus, Part II)",
+            "APMA 0260 or MATH 0180/0200/0350 (Multivariable Calculus)",
+            "BIOL 0200 (The Foundation of Living Systems)",
+            "Students who place out of any prerequisite do not need to take it"
+          ]
         },
         {
-          "name": "AND complete one of the following groupings of introductory courses:",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Group A",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "CSCI 0111",
-                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-                },
-                {
-                  "code": "CSCI 0200",
-                  "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Group B",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "CSCI 0150",
-                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
-                },
-                {
-                  "code": "CSCI 0200",
-                  "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Group C",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "CSCI 0170",
-                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
-                },
-                {
-                  "code": "CSCI 0200",
-                  "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Group D",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "CSCI 0190",
-                  "name": "Accelerated Introduction to Computer Scienceand Program Design with Data Structures and Algorithms(or any full-credit computer science course above CSCI 0190)"
-                },
-                {
-                  "code": "CSCI 0200",
-                  "name": "Accelerated Introduction to Computer Scienceand Program Design with Data Structures and Algorithms(or any full-credit computer science course above CSCI 0190)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "General Core Requirements: Probability & Statistics",
-          "type": "section",
-          "count": 1,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1655",
-                  "name": "Introduction to Probability and Statistics with Theory1"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1450",
-                  "name": "Advanced Introduction to Probability for Computing and Data Science"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 1210",
-                  "name": "Probability"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "General Core Requirements: Computational Biology",
+          "name": "Biology Core — BIOL 0470 required; choose one more",
           "type": "section",
           "count": 2,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1080",
-                  "name": "Inference in Genomics and Molecular Biology1"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1810",
-                  "name": "Computational Molecular Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["BIOL 0470 is always required; the second course must be BIOL 0280 or BIOL 0500"]
         },
         {
-          "name": "Six Courses in One Track",
-          "type": "label",
-          "courses": [],
-          "count": 6,
-          "notes": []
-        },
-        {
-          "name": "Choose one of 3 tracks: Computer Science, Biological Sciences, or Applied Mathematics and Statistics. See track requirements below.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Capstone Experience",
-          "type": "label",
-          "courses": [],
-          "count": 1,
-          "notes": []
-        },
-        {
-          "name": "Students enrolled in the computational biology concentration will complete a research project in their senior year under faculty supervision. The themes of such projects evolve with the field and the technology, but should represent a synthesis of the various specialties of the program. The requirements are either:",
+          "name": "Chemistry Core (choose one)",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "BIOL 1950",
-                  "name": "BIOL 1950"
-                },
-                {
-                  "code": "CSCI 1970",
-                  "name": "CSCI 1970"
-                },
-                {
-                  "code": "APMA 1970",
-                  "name": "APMA 1970"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0350", "name": "Organic Chemistry I" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "2. A 2000-level Computational Biology course that covers an advanced topic within the Computational Biology field and includes an advanced research component.",
-          "type": "label",
-          "courses": [],
-          "count": null,
+          "name": "Computer Science Core — one intro course + CSCI 0200",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0111", "name": "Computing Foundations: Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" }], "count": null, "notes": [] }
+          ],
+          "notes": [
+            "Choose one intro course (CSCI 0111, 0150, 0170, or 0190) plus CSCI 0200",
+            "Group D exception: CSCI 0190 + any full-credit CS course above CSCI 0190 may substitute for CSCI 0200"
+          ]
+        },
+        {
+          "name": "Probability & Statistics (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 1210", "name": "Probability" }], "count": null, "notes": [] }
+          ],
+          "notes": ["APMA 1655 is prerequisite for APMA 1080; students with APMA 1650 may request an override through Fall 2026"]
+        },
+        {
+          "name": "Computational Biology Core",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1810", "name": "Computational Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" }], "count": null, "notes": [] }
+          ],
           "notes": []
+        },
+        {
+          "name": "Computational Biology Electives (choose two)",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1660", "name": "Statistical Inference II" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1690", "name": "Computational Probability and Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1222A", "name": "Current Topics in Functional Genomics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1430", "name": "Foundations of Population Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1525", "name": "Pathogenomics: Analysis, Interpretation and Applications of Microbial Genomes" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1555", "name": "Methods in Informatics and Data Science for Health" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1575", "name": "Evaluation of Health Information Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1420", "name": "Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1470", "name": "Deep Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1820", "name": "Algorithmic Foundations of Computational Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1510", "name": "Principles of Biostatistics and Data Analysis" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1560", "name": "Using R for Data Analysis" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Other 1000+ level Computational Biology-related courses may count with concentration advisor approval"]
+        },
+        {
+          "name": "Capstone Experience (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1970", "name": "Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" }], "count": null, "notes": [] }
+          ],
+          "notes": [
+            "Must be with a CCMB faculty member or approved advisor, resulting in an advanced research project",
+            "A 2000-level Computational Biology course with advanced research component may also fulfill this requirement (contact ccmb@brown.edu)"
+          ]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0100",
-            "name": "Single Variable Calculus, Part II (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0170",
-            "name": "Single Variable Calculus, Part II (Accelerated)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0260",
-            "name": "Linear Algebra and Multivariable Calculus for Applied Mathematicians"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0180",
-            "name": "Multivariable Calculus"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0200",
-            "name": "Multivariable Calculus (Physics/Engineering)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0350",
-            "name": "Multivariable Calculus With Theory"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0200",
-            "name": "The Foundation of Living Systems (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0470",
-            "name": "Genetics (prerequisite BIOL 0200 or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0280",
-            "name": "Biochemistry"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0500",
-            "name": "Cell and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0330",
-            "name": "Equilibrium, Rate, and Structure"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0350",
-            "name": "Organic Chemistry I"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CSCI 0220",
-            "name": "Introduction to Discrete Structures and Probability"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "CSCI 0111",
-              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-            },
-            {
-              "code": "CSCI 0200",
-              "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "CSCI 0150",
-              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
-            },
-            {
-              "code": "CSCI 0200",
-              "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "CSCI 0170",
-              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
-            },
-            {
-              "code": "CSCI 0200",
-              "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "CSCI 0190",
-              "name": "Accelerated Introduction to Computer Scienceand Program Design with Data Structures and Algorithms(or any full-credit computer science course above CSCI 0190)"
-            },
-            {
-              "code": "CSCI 0200",
-              "name": "Accelerated Introduction to Computer Scienceand Program Design with Data Structures and Algorithms(or any full-credit computer science course above CSCI 0190)"
-            }
-          ]
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1655",
-            "name": "Introduction to Probability and Statistics with Theory1"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1450",
-            "name": "Advanced Introduction to Probability for Computing and Data Science"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 1210",
-            "name": "Probability"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1080",
-            "name": "Inference in Genomics and Molecular Biology1"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1810",
-            "name": "Computational Molecular Biology"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "BIOL 1950",
-              "name": "BIOL 1950"
-            },
-            {
-              "code": "CSCI 1970",
-              "name": "CSCI 1970"
-            },
-            {
-              "code": "APMA 1970",
-              "name": "APMA 1970"
-            }
-          ]
-        }
+        { "type": "required", "course": { "code": "CSCI 1810", "name": "Computational Molecular Biology" } },
+        { "type": "required", "course": { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" } }
       ],
       "notes": []
     },
     {
-      "id": "tracks",
-      "name": "Tracks",
+      "id": "scb_cs",
+      "name": "Sc.B. — Computer Science Track",
+      "total_credits": 16,
       "groups": [
         {
-          "name": "Computer Science Track:",
+          "name": "Prerequisites (0-3 courses, not counted in 16-course core)",
           "type": "label",
           "courses": [],
-          "count": null,
-          "notes": []
+          "count": 3,
+          "notes": [
+            "MATH 0100 or MATH 0170 (Single Variable Calculus, Part II)",
+            "APMA 0260 or MATH 0180/0200/0350 (Multivariable Calculus)",
+            "BIOL 0200 (The Foundation of Living Systems)"
+          ]
         },
         {
-          "name": "Three of the following:",
+          "name": "Biology Core — BIOL 0470 required; choose one more",
           "type": "section",
-          "count": 3,
+          "count": 2,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 0410",
-                  "name": "Foundations of AI and Machine Learning1"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1230",
-                  "name": "Introduction to Computer Graphics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1270",
-                  "name": "Database Management Systems"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1420",
-                  "name": "Machine Learning"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1430",
-                  "name": "Computer Vision"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1460",
-                  "name": "Computational Linguistics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1470",
-                  "name": "Deep Learning"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1550",
-                  "name": "Probabilistic Methods in Computer Science"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1570",
-                  "name": "Design and Analysis of Algorithms"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1730",
-                  "name": "Design and Implementation of Programming Languages"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": ["BIOL 0470 always required; second course must be BIOL 0280 or BIOL 0500"]
+        },
+        {
+          "name": "Chemistry Core (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0350", "name": "Organic Chemistry I" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "or other 1000+ level Computer Science course approved by the concentration advisor.",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Three of the following:",
+          "name": "Computer Science Core — CSCI 0220 + one intro + CSCI 0200",
           "type": "section",
           "count": 3,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1070",
-                  "name": "Quantitative Models of Biological Systems"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1660",
-                  "name": "Statistical Inference II"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1690",
-                  "name": "Computational Probability and Statistics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1430",
-                  "name": "Foundations of Population Genetics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1435",
-                  "name": "Computational Methods for Studying Demographic History with Molecular Data"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1525",
-                  "name": "Pathogenomics: Analysis, interpretation and applications of microbial genomes"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 1555",
-                  "name": "Methods in Informatics and Data Science for Health"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CPSY 1291",
-                  "name": "Computational Methods for Mind, Brain and Behavior"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CPSY 1492",
-                  "name": "Computational Cognitive Neuroscience"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CPSY 1950",
-                  "name": "Deep Learning in Brains, Minds and Machines"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CSCI 1820",
-                  "name": "Algorithmic Foundations of Computational Biology"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "STAT 1510",
-                  "name": "Principles of Biostatistics and Data Analysis"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "STAT 1560",
-                  "name": "Using R for Data Analysis"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0111", "name": "Computing Foundations: Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" }], "count": null, "notes": [] }
+          ],
+          "notes": ["CSCI 0220 always required; also choose one intro (0111/0150/0170/0190) + CSCI 0200"]
+        },
+        {
+          "name": "Probability & Statistics (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 1210", "name": "Probability" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "or another 1000+ level computational course approved by the concentration advisor.",
-          "type": "label",
-          "courses": [],
-          "count": null,
+          "name": "Computational Biology Core",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1810", "name": "Computational Molecular Biology" }], "count": null, "notes": [] }
+          ],
           "notes": []
+        },
+        {
+          "name": "CS Track — Three 1000+ level CS courses (choose three)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0410", "name": "Foundations of AI and Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1230", "name": "Introduction to Computer Graphics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1270", "name": "Database Management Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1420", "name": "Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1430", "name": "Computer Vision" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1460", "name": "Computational Linguistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1470", "name": "Deep Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1550", "name": "Probabilistic Methods in Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1570", "name": "Design and Analysis of Algorithms" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1730", "name": "Design and Implementation of Programming Languages" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Other 1000+ level CS courses approved by concentration advisor may also count"]
+        },
+        {
+          "name": "CS Track — Three interdisciplinary computational courses (choose three)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1660", "name": "Statistical Inference II" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1690", "name": "Computational Probability and Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1430", "name": "Foundations of Population Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1525", "name": "Pathogenomics: Analysis, Interpretation and Applications of Microbial Genomes" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1555", "name": "Methods in Informatics and Data Science for Health" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CPSY 1291", "name": "Computational Methods for Mind, Brain and Behavior" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CPSY 1492", "name": "Computational Cognitive Neuroscience" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CPSY 1950", "name": "Deep Learning in Brains, Minds and Machines" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1820", "name": "Algorithmic Foundations of Computational Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1510", "name": "Principles of Biostatistics and Data Analysis" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1560", "name": "Using R for Data Analysis" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Other 1000+ level computational courses approved by concentration advisor may also count"]
+        },
+        {
+          "name": "Capstone Experience (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1970", "name": "Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Must be with a CCMB faculty member or approved advisor; a 2000-level Comp Bio course may also substitute"]
         }
       ],
       "courses": [
+        { "type": "required", "course": { "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" } },
+        { "type": "required", "course": { "code": "CSCI 1810", "name": "Computational Molecular Biology" } },
+        { "type": "required", "course": { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" } }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_bio",
+      "name": "Sc.B. — Biological Sciences Track",
+      "total_credits": 16,
+      "groups": [
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 0410",
-            "name": "Foundations of AI and Machine Learning1"
-          }
+          "name": "Prerequisites (0-3 courses, not counted in 16-course core)",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": [
+            "MATH 0100 or MATH 0170 (Single Variable Calculus, Part II)",
+            "APMA 0260 or MATH 0180/0200/0350 (Multivariable Calculus)",
+            "BIOL 0200 (The Foundation of Living Systems)"
+          ]
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1230",
-            "name": "Introduction to Computer Graphics"
-          }
+          "name": "Biology Core — BIOL 0470 required; choose one more",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": []
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1270",
-            "name": "Database Management Systems"
-          }
+          "name": "Chemistry Core (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0350", "name": "Organic Chemistry I" }], "count": null, "notes": [] }
+          ],
+          "notes": []
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1420",
-            "name": "Machine Learning"
-          }
+          "name": "Computer Science Core — CSCI 0220 + one intro + CSCI 0200",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0111", "name": "Computing Foundations: Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" }], "count": null, "notes": [] }
+          ],
+          "notes": ["CSCI 0220 always required; also choose one intro (0111/0150/0170/0190) + CSCI 0200"]
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1430",
-            "name": "Computer Vision"
-          }
+          "name": "Probability & Statistics (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 1210", "name": "Probability" }], "count": null, "notes": [] }
+          ],
+          "notes": []
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1460",
-            "name": "Computational Linguistics"
-          }
+          "name": "Computational Biology Core",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1810", "name": "Computational Molecular Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": []
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1470",
-            "name": "Deep Learning"
-          }
+          "name": "Biological Sciences Track — Four 1000+ level themed courses",
+          "type": "label",
+          "courses": [],
+          "count": 4,
+          "notes": [
+            "Must form a coherent theme related to Computational Biology (e.g., Biochemistry, Ecology, Evolution, Genomics, Immunology, Neurobiology)",
+            "Other themes can be approved by concentration advisor"
+          ]
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1550",
-            "name": "Probabilistic Methods in Computer Science"
-          }
+          "name": "Biological Sciences Track — Two electives (choose two)",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1660", "name": "Statistical Inference II" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1690", "name": "Computational Probability and Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1222A", "name": "Current Topics in Functional Genomics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1430", "name": "Foundations of Population Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1525", "name": "Pathogenomics: Analysis, Interpretation and Applications of Microbial Genomes" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CPSY 1291", "name": "Computational Methods for Mind, Brain and Behavior" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CPSY 1950", "name": "Deep Learning in Brains, Minds and Machines" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1420", "name": "Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1470", "name": "Deep Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1820", "name": "Algorithmic Foundations of Computational Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1510", "name": "Principles of Biostatistics and Data Analysis" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1560", "name": "Using R for Data Analysis" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Other 1000+ level Computational Biology-related courses approved by concentration advisor may also count"]
         },
         {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1570",
-            "name": "Design and Analysis of Algorithms"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1730",
-            "name": "Design and Implementation of Programming Languages"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1070",
-            "name": "Quantitative Models of Biological Systems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1660",
-            "name": "Statistical Inference II"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1690",
-            "name": "Computational Probability and Statistics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1430",
-            "name": "Foundations of Population Genetics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1435",
-            "name": "Computational Methods for Studying Demographic History with Molecular Data"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1525",
-            "name": "Pathogenomics: Analysis, interpretation and applications of microbial genomes"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 1555",
-            "name": "Methods in Informatics and Data Science for Health"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CPSY 1291",
-            "name": "Computational Methods for Mind, Brain and Behavior"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CPSY 1492",
-            "name": "Computational Cognitive Neuroscience"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CPSY 1950",
-            "name": "Deep Learning in Brains, Minds and Machines"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CSCI 1820",
-            "name": "Algorithmic Foundations of Computational Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "STAT 1510",
-            "name": "Principles of Biostatistics and Data Analysis"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "STAT 1560",
-            "name": "Using R for Data Analysis"
-          }
+          "name": "Capstone Experience (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1970", "name": "Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Must be with a CCMB faculty member or approved advisor; a 2000-level Comp Bio course may also substitute"]
         }
+      ],
+      "courses": [
+        { "type": "required", "course": { "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" } },
+        { "type": "required", "course": { "code": "CSCI 1810", "name": "Computational Molecular Biology" } },
+        { "type": "required", "course": { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" } }
+      ],
+      "notes": []
+    },
+    {
+      "id": "scb_apma",
+      "name": "Sc.B. — Applied Mathematics & Statistics Track",
+      "total_credits": 16,
+      "groups": [
+        {
+          "name": "Prerequisites (0-3 courses, not counted in 16-course core)",
+          "type": "label",
+          "courses": [],
+          "count": 3,
+          "notes": [
+            "MATH 0100 or MATH 0170 (Single Variable Calculus, Part II)",
+            "APMA 0260 or MATH 0180/0200/0350 (Multivariable Calculus)",
+            "BIOL 0200 (The Foundation of Living Systems)"
+          ]
+        },
+        {
+          "name": "Biology Core — BIOL 0470 required; choose one more",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0470", "name": "Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0280", "name": "Biochemistry" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0500", "name": "Cell and Molecular Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Chemistry Core (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0350", "name": "Organic Chemistry I" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Computer Science Core — CSCI 0220 + one intro + CSCI 0200",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0111", "name": "Computing Foundations: Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" }], "count": null, "notes": [] }
+          ],
+          "notes": ["CSCI 0220 always required; also choose one intro (0111/0150/0170/0190) + CSCI 0200"]
+        },
+        {
+          "name": "Probability & Statistics (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 1210", "name": "Probability" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Computational Biology Core",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1810", "name": "Computational Molecular Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "APMA/STAT Track — Three courses from APMA/STAT (choose three)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 0355", "name": "Applied Ordinary Differential Equations with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 0365", "name": "Applied Partial Differential Equations I with Theory" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1170", "name": "Introduction to Computational Linear Algebra" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1660", "name": "Statistical Inference II" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1690", "name": "Computational Probability and Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1740", "name": "Recent Applications of Probability and Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 1220", "name": "Mathematical Statistics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1510", "name": "Principles of Biostatistics and Data Analysis" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1511", "name": "Applied Regression Analysis" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "STAT 1560", "name": "Using R for Data Analysis" }], "count": null, "notes": [] }
+          ],
+          "notes": [
+            "APMA 0355 and APMA 0365 must be taken together and together count as only one elective toward this requirement",
+            "Other 1000+ level APMA or STAT courses approved by concentration advisor may also count"
+          ]
+        },
+        {
+          "name": "APMA/STAT Track — Three computational/bio courses (choose three)",
+          "type": "section",
+          "count": 3,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1222A", "name": "Current Topics in Functional Genomics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1430", "name": "Foundations of Population Genetics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1555", "name": "Methods in Informatics and Data Science for Health" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 0410", "name": "Foundations of AI and Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1420", "name": "Machine Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1470", "name": "Deep Learning" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1820", "name": "Algorithmic Foundations of Computational Biology" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Other 1000+ level Computational Biology-related courses approved by concentration advisor may also count"]
+        },
+        {
+          "name": "Capstone Experience (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CSCI 1970", "name": "Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" }], "count": null, "notes": [] }
+          ],
+          "notes": ["Must be with a CCMB faculty member or approved advisor; a 2000-level Comp Bio course may also substitute"]
+        }
+      ],
+      "courses": [
+        { "type": "required", "course": { "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" } },
+        { "type": "required", "course": { "code": "CSCI 1810", "name": "Computational Molecular Biology" } },
+        { "type": "required", "course": { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" } }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "MATH 0100",
-      "name": "Single Variable Calculus, Part II"
-    },
-    {
-      "code": "MATH 0170",
-      "name": "Single Variable Calculus, Part II (Accelerated)"
-    },
-    {
-      "code": "APMA 0260",
-      "name": "Linear Algebra and Multivariable Calculus for Applied Mathematicians"
-    },
-    {
-      "code": "MATH 0180",
-      "name": "Multivariable Calculus"
-    },
-    {
-      "code": "MATH 0200",
-      "name": "Multivariable Calculus (Physics/Engineering)"
-    },
-    {
-      "code": "MATH 0350",
-      "name": "Multivariable Calculus With Theory"
-    },
-    {
-      "code": "BIOL 0200",
-      "name": "The Foundation of Living Systems"
-    },
-    {
-      "code": "BIOL 0470",
-      "name": "Genetics"
-    },
-    {
-      "code": "BIOL 0280",
-      "name": "Biochemistry"
-    },
-    {
-      "code": "BIOL 0500",
-      "name": "Cell and Molecular Biology"
-    },
-    {
-      "code": "CHEM 0330",
-      "name": "Equilibrium, Rate, and Structure"
-    },
-    {
-      "code": "CHEM 0350",
-      "name": "Organic Chemistry I"
-    },
-    {
-      "code": "CSCI 0111",
-      "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-    },
-    {
-      "code": "CSCI 0200",
-      "name": "Computing Foundations: Dataand Program Design with Data Structures and Algorithms"
-    },
-    {
-      "code": "CSCI 0150",
-      "name": "Introduction to Object-Oriented Programming and Computer Scienceand Program Design with Data Structures and Algorithms"
-    },
-    {
-      "code": "CSCI 0170",
-      "name": "Computer Science: An Integrated Introductionand Program Design with Data Structures and Algorithms"
-    },
-    {
-      "code": "CSCI 0190",
-      "name": "Accelerated Introduction to Computer Scienceand Program Design with Data Structures and Algorithms(or any full-credit computer science course above CSCI 0190)"
-    },
-    {
-      "code": "APMA 1655",
-      "name": "Introduction to Probability and Statistics with Theory1"
-    },
-    {
-      "code": "CSCI 1450",
-      "name": "Advanced Introduction to Probability for Computing and Data Science"
-    },
-    {
-      "code": "MATH 1210",
-      "name": "Probability"
-    },
-    {
-      "code": "CSCI 1810",
-      "name": "Computational Molecular Biology"
-    },
-    {
-      "code": "APMA 1080",
-      "name": "Inference in Genomics and Molecular Biology1"
-    },
-    {
-      "code": "APMA 1070",
-      "name": "Quantitative Models of Biological Systems"
-    },
-    {
-      "code": "APMA 1660",
-      "name": "Statistical Inference II"
-    },
-    {
-      "code": "APMA 1690",
-      "name": "Computational Probability and Statistics"
-    },
-    {
-      "code": "BIOL 1222A",
-      "name": "Current Topics in Functional Genomics"
-    },
-    {
-      "code": "BIOL 1430",
-      "name": "Foundations of Population Genetics"
-    },
-    {
-      "code": "BIOL 1435",
-      "name": "Computational Methods for Studying Demographic History with Molecular Data"
-    },
-    {
-      "code": "BIOL 1525",
-      "name": "Pathogenomics: Analysis, interpretation and applications of microbial genomes"
-    },
-    {
-      "code": "BIOL 1555",
-      "name": "Methods in Informatics and Data Science for Health"
-    },
-    {
-      "code": "BIOL 1575",
-      "name": "Evaluation of Health Information Systems"
-    },
-    {
-      "code": "CSCI 1420",
-      "name": "Machine Learning"
-    },
-    {
-      "code": "CSCI 1470",
-      "name": "Deep Learning"
-    },
-    {
-      "code": "CSCI 1820",
-      "name": "Algorithmic Foundations of Computational Biology"
-    },
-    {
-      "code": "STAT 1510",
-      "name": "Principles of Biostatistics and Data Analysis"
-    },
-    {
-      "code": "STAT 1560",
-      "name": "Using R for Data Analysis"
-    },
-    {
-      "code": "BIOL 1950",
-      "name": "BIOL 1950"
-    },
-    {
-      "code": "CSCI 1970",
-      "name": "CSCI 1970"
-    },
-    {
-      "code": "APMA 1970",
-      "name": "APMA 1970"
-    },
-    {
-      "code": "CSCI 0220",
-      "name": "Introduction to Discrete Structures and Probability"
-    },
-    {
-      "code": "CSCI 0410",
-      "name": "Foundations of AI and Machine Learning1"
-    },
-    {
-      "code": "CSCI 1230",
-      "name": "Introduction to Computer Graphics"
-    },
-    {
-      "code": "CSCI 1270",
-      "name": "Database Management Systems"
-    },
-    {
-      "code": "CSCI 1430",
-      "name": "Computer Vision"
-    },
-    {
-      "code": "CSCI 1460",
-      "name": "Computational Linguistics"
-    },
-    {
-      "code": "CSCI 1550",
-      "name": "Probabilistic Methods in Computer Science"
-    },
-    {
-      "code": "CSCI 1570",
-      "name": "Design and Analysis of Algorithms"
-    },
-    {
-      "code": "CSCI 1730",
-      "name": "Design and Implementation of Programming Languages"
-    },
-    {
-      "code": "CPSY 1291",
-      "name": "Computational Methods for Mind, Brain and Behavior"
-    },
-    {
-      "code": "CPSY 1492",
-      "name": "Computational Cognitive Neuroscience"
-    },
-    {
-      "code": "CPSY 1950",
-      "name": "Deep Learning in Brains, Minds and Machines"
-    },
-    {
-      "code": "APMA 0355",
-      "name": "Applied Ordinary Differential Equations with Theoryand Applied Partial Differential Equations I with Theory1"
-    },
-    {
-      "code": "APMA 0365",
-      "name": "Applied Ordinary Differential Equations with Theoryand Applied Partial Differential Equations I with Theory1"
-    },
-    {
-      "code": "APMA 1170",
-      "name": "Introduction to Computational Linear Algebra"
-    },
-    {
-      "code": "APMA 1740",
-      "name": "Recent Applications of Probability and Statistics"
-    },
-    {
-      "code": "MATH 1220",
-      "name": "Mathematical Statistics"
-    },
-    {
-      "code": "STAT 1511",
-      "name": "Applied Regression Analysis"
-    }
+    { "code": "APMA 0260", "name": "Applied Linear Algebra and Differential Equations" },
+    { "code": "APMA 0355", "name": "Applied Ordinary Differential Equations with Theory" },
+    { "code": "APMA 0365", "name": "Applied Partial Differential Equations I with Theory" },
+    { "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" },
+    { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" },
+    { "code": "APMA 1170", "name": "Introduction to Computational Linear Algebra" },
+    { "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" },
+    { "code": "APMA 1660", "name": "Statistical Inference II" },
+    { "code": "APMA 1690", "name": "Computational Probability and Statistics" },
+    { "code": "APMA 1740", "name": "Recent Applications of Probability and Statistics" },
+    { "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" },
+    { "code": "BIOL 0200", "name": "The Foundation of Living Systems" },
+    { "code": "BIOL 0280", "name": "Biochemistry" },
+    { "code": "BIOL 0470", "name": "Genetics" },
+    { "code": "BIOL 0500", "name": "Cell and Molecular Biology" },
+    { "code": "BIOL 1222A", "name": "Current Topics in Functional Genomics" },
+    { "code": "BIOL 1430", "name": "Foundations of Population Genetics" },
+    { "code": "BIOL 1435", "name": "Computational Methods for Studying Demographic History with Molecular Data" },
+    { "code": "BIOL 1525", "name": "Pathogenomics: Analysis, Interpretation and Applications of Microbial Genomes" },
+    { "code": "BIOL 1555", "name": "Methods in Informatics and Data Science for Health" },
+    { "code": "BIOL 1575", "name": "Evaluation of Health Information Systems" },
+    { "code": "BIOL 1950", "name": "Directed Research/Independent Study" },
+    { "code": "BIOL 1960", "name": "Directed Research/Independent Study" },
+    { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" },
+    { "code": "CHEM 0350", "name": "Organic Chemistry I" },
+    { "code": "CPSY 1291", "name": "Computational Methods for Mind, Brain and Behavior" },
+    { "code": "CPSY 1492", "name": "Computational Cognitive Neuroscience" },
+    { "code": "CPSY 1950", "name": "Deep Learning in Brains, Minds and Machines" },
+    { "code": "CSCI 0111", "name": "Computing Foundations: Data" },
+    { "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" },
+    { "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" },
+    { "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" },
+    { "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" },
+    { "code": "CSCI 0220", "name": "Introduction to Discrete Structures and Probability" },
+    { "code": "CSCI 0410", "name": "Foundations of AI and Machine Learning" },
+    { "code": "CSCI 1230", "name": "Introduction to Computer Graphics" },
+    { "code": "CSCI 1270", "name": "Database Management Systems" },
+    { "code": "CSCI 1420", "name": "Machine Learning" },
+    { "code": "CSCI 1430", "name": "Computer Vision" },
+    { "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" },
+    { "code": "CSCI 1460", "name": "Computational Linguistics" },
+    { "code": "CSCI 1470", "name": "Deep Learning" },
+    { "code": "CSCI 1550", "name": "Probabilistic Methods in Computer Science" },
+    { "code": "CSCI 1570", "name": "Design and Analysis of Algorithms" },
+    { "code": "CSCI 1730", "name": "Design and Implementation of Programming Languages" },
+    { "code": "CSCI 1810", "name": "Computational Molecular Biology" },
+    { "code": "CSCI 1820", "name": "Algorithmic Foundations of Computational Biology" },
+    { "code": "CSCI 1970", "name": "Independent Study" },
+    { "code": "MATH 0100", "name": "Introductory Calculus, Part II" },
+    { "code": "MATH 0170", "name": "Single Variable Calculus, Part II (Accelerated)" },
+    { "code": "MATH 0180", "name": "Multivariable Calculus" },
+    { "code": "MATH 0200", "name": "Multivariable Calculus (Physics/Engineering)" },
+    { "code": "MATH 0350", "name": "Multivariable Calculus With Theory" },
+    { "code": "MATH 1210", "name": "Probability" },
+    { "code": "MATH 1220", "name": "Mathematical Statistics" },
+    { "code": "STAT 1510", "name": "Principles of Biostatistics and Data Analysis" },
+    { "code": "STAT 1511", "name": "Applied Regression Analysis" },
+    { "code": "STAT 1560", "name": "Using R for Data Analysis" }
   ]
 }

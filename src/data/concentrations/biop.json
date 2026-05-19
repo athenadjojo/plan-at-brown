@@ -2,426 +2,139 @@
   "concentration": "Biophysics",
   "slug": "biop",
   "url": "https://bulletin.brown.edu/the-college/concentrations/biop/",
-  "description": "Biophysics is a quantitative science at the intersection of the life and physical sciences.\u00a0 It requires a significant level of competence in physics, chemistry, biology and math as reflected in the concentration requirements.\u00a0 Students should work with their concentration advisor to develop a focused academic plan that complements the required research component of the concentration and allows students to develop analytical and quantitative skills. Student Goals:Students in this concentration will:",
+  "description": "Biophysics is a quantitative science at the intersection of the life and physical sciences. It requires a significant level of competence in physics, chemistry, biology and math as reflected in the concentration requirements. Students should work with their concentration advisor to develop a focused academic plan that complements the required research component of the concentration and allows students to develop analytical and quantitative skills.",
+  "degrees": ["ScB"],
+  "total_credits": { "ScB": 20 },
   "tracks": [
     {
-      "id": "requirements_0",
+      "id": "concentration_requirements",
       "name": "Concentration Requirements",
+      "total_credits": 20,
       "groups": [
         {
-          "name": "Physics",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "One of the following series:",
+          "name": "Physics sequence (choose one series of two)",
           "type": "section",
           "count": 2,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "PHYS 0030",
-                  "name": "Basic Physics Aand Basic Physics B1"
-                },
-                {
-                  "code": "PHYS 0040",
-                  "name": "Basic Physics Aand Basic Physics B1"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "PHYS 0050",
-                  "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-                },
-                {
-                  "code": "PHYS 0060",
-                  "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "PHYS 0070",
-                  "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-                },
-                {
-                  "code": "PHYS 0160",
-                  "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0470",
-                  "name": "Electricity and Magnetism"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0030", "name": "Basic Physics A" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0040", "name": "Basic Physics B" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0050", "name": "Foundations of Mechanics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0060", "name": "Foundations of Electromagnetism and Modern Physics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0070", "name": "Analytical Mechanics" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0160", "name": "Introduction to Relativity, Waves and Quantum Physics" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": [
+            "Choose one complete series: PHYS 0030+0040, PHYS 0050+0060, or PHYS 0070+0160",
+            "PHYS 0050/0060 or PHYS 0070/0160 sequences are preferred to PHYS 0030/0040"
+          ]
         },
         {
-          "name": "Chemisty",
+          "name": "Electricity and Magnetism",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0330",
-                  "name": "Equilibrium, Rate, and Structure"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0350",
-                  "name": "Organic Chemistry I"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 0470", "name": "Electricity and Magnetism" }], "count": null, "notes": [] }
           ],
           "notes": []
         },
         {
-          "name": "Select one other advanced Chemistry Course",
+          "name": "Chemistry",
+          "type": "section",
+          "count": 2,
+          "sub_groups": [
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0350", "name": "Organic Chemistry I" }], "count": null, "notes": [] }
+          ],
+          "notes": []
+        },
+        {
+          "name": "One additional advanced chemistry course",
           "type": "label",
           "courses": [],
           "count": 1,
-          "notes": []
+          "notes": ["Chosen with advisor approval"]
         },
         {
-          "name": "Math",
+          "name": "Mathematics",
           "type": "section",
-          "count": null,
+          "count": 3,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0090",
-                  "name": "Single Variable Calculus, Part I (or equivalent)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0100",
-                  "name": "Single Variable Calculus, Part II (or equivalent)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0180",
-                  "name": "Multivariable Calculus (or equivalent)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 0090", "name": "Single Variable Calculus, Part I" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 0100", "name": "Introductory Calculus, Part II" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "MATH 0180", "name": "Multivariable Calculus" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["Equivalent placements may substitute for any of these three courses"]
         },
         {
-          "name": "Biology",
+          "name": "The Foundation of Living Systems",
           "type": "section",
-          "count": null,
+          "count": 1,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0200",
-                  "name": "The Foundation of Living Systems (or equivalent)"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 0200", "name": "The Foundation of Living Systems" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["Equivalent credit (AP, IB, etc.) accepted"]
         },
         {
-          "name": "Select four additional biology or neuroscience courses chosen with approval of the advisor.",
+          "name": "Four additional biology or neuroscience courses",
           "type": "label",
           "courses": [],
           "count": 4,
-          "notes": []
+          "notes": ["Chosen with advisor approval; see the Biology Undergraduate Education page for sample courses"]
         },
         {
-          "name": "Directed Research: Students must take two semesters of research which may be satisfied by any of the opportunities listed below:",
+          "name": "Two semesters of directed research (choose two)",
           "type": "section",
           "count": 2,
           "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "BIOL 1950",
-                  "name": "BIOL 1950"
-                },
-                {
-                  "code": "BIOL 1960",
-                  "name": "BIOL 1960"
-                },
-                {
-                  "code": "CHEM 0980",
-                  "name": "CHEM 0980"
-                },
-                {
-                  "code": "PHYS 1980",
-                  "name": "PHYS 1980"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1950", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "BIOL 1960", "name": "Directed Research/Independent Study" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0970", "name": "Undergraduate Research" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "CHEM 0980", "name": "Undergraduate Research" }], "count": null, "notes": [] },
+            { "name": "", "type": "required", "courses": [{ "code": "PHYS 1980", "name": "Independent Study in Physics" }], "count": null, "notes": [] }
           ],
-          "notes": []
+          "notes": ["A summer research experience of equivalent scope may satisfy one semester but does not count as course credit toward the concentration"]
         },
         {
-          "name": "A summer research experience in equivalent scope and scale to an independent study, but this would not count as course credit toward the concentration",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Electives: Four electives in biology, physics, math/applied math, chemistry, neuroscience, engineering or computer science; at least 2 courses must be above the introductory level",
+          "name": "Four electives in biology, physics, math/applied math, chemistry, neuroscience, engineering, or computer science",
           "type": "label",
           "courses": [],
           "count": 4,
-          "notes": []
+          "notes": [
+            "At least 2 courses must be above the introductory level",
+            "See the Biology Undergraduate Education page for sample electives"
+          ]
         }
       ],
       "courses": [
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "PHYS 0030",
-              "name": "Basic Physics Aand Basic Physics B1"
-            },
-            {
-              "code": "PHYS 0040",
-              "name": "Basic Physics Aand Basic Physics B1"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "PHYS 0050",
-              "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-            },
-            {
-              "code": "PHYS 0060",
-              "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "PHYS 0070",
-              "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-            },
-            {
-              "code": "PHYS 0160",
-              "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-            }
-          ]
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0470",
-            "name": "Electricity and Magnetism"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0330",
-            "name": "Equilibrium, Rate, and Structure"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0350",
-            "name": "Organic Chemistry I"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0090",
-            "name": "Single Variable Calculus, Part I (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0100",
-            "name": "Single Variable Calculus, Part II (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0180",
-            "name": "Multivariable Calculus (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0200",
-            "name": "The Foundation of Living Systems (or equivalent)"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "BIOL 1950",
-              "name": "BIOL 1950"
-            },
-            {
-              "code": "BIOL 1960",
-              "name": "BIOL 1960"
-            },
-            {
-              "code": "CHEM 0980",
-              "name": "CHEM 0980"
-            },
-            {
-              "code": "PHYS 1980",
-              "name": "PHYS 1980"
-            }
-          ]
-        }
+        { "type": "required", "course": { "code": "PHYS 0470", "name": "Electricity and Magnetism" } },
+        { "type": "required", "course": { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" } },
+        { "type": "required", "course": { "code": "CHEM 0350", "name": "Organic Chemistry I" } },
+        { "type": "required", "course": { "code": "MATH 0090", "name": "Single Variable Calculus, Part I" } },
+        { "type": "required", "course": { "code": "MATH 0100", "name": "Introductory Calculus, Part II" } },
+        { "type": "required", "course": { "code": "MATH 0180", "name": "Multivariable Calculus" } },
+        { "type": "required", "course": { "code": "BIOL 0200", "name": "The Foundation of Living Systems" } }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "PHYS 0030",
-      "name": "Basic Physics Aand Basic Physics B1"
-    },
-    {
-      "code": "PHYS 0040",
-      "name": "Basic Physics Aand Basic Physics B1"
-    },
-    {
-      "code": "PHYS 0050",
-      "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-    },
-    {
-      "code": "PHYS 0060",
-      "name": "Foundations of Mechanicsand Foundations of Electromagnetism and Modern Physics"
-    },
-    {
-      "code": "PHYS 0070",
-      "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-    },
-    {
-      "code": "PHYS 0160",
-      "name": "Analytical Mechanicsand Introduction to Relativity, Waves and Quantum Physics"
-    },
-    {
-      "code": "PHYS 0470",
-      "name": "Electricity and Magnetism"
-    },
-    {
-      "code": "CHEM 0330",
-      "name": "Equilibrium, Rate, and Structure"
-    },
-    {
-      "code": "CHEM 0350",
-      "name": "Organic Chemistry I"
-    },
-    {
-      "code": "MATH 0090",
-      "name": "Single Variable Calculus, Part I (or equivalent)"
-    },
-    {
-      "code": "MATH 0100",
-      "name": "Single Variable Calculus, Part II (or equivalent)"
-    },
-    {
-      "code": "MATH 0180",
-      "name": "Multivariable Calculus (or equivalent)"
-    },
-    {
-      "code": "BIOL 0200",
-      "name": "The Foundation of Living Systems (or equivalent)"
-    },
-    {
-      "code": "BIOL 1950",
-      "name": "BIOL 1950"
-    },
-    {
-      "code": "BIOL 1960",
-      "name": "BIOL 1960"
-    },
-    {
-      "code": "CHEM 0980",
-      "name": "CHEM 0980"
-    },
-    {
-      "code": "PHYS 1980",
-      "name": "PHYS 1980"
-    }
+    { "code": "PHYS 0030", "name": "Basic Physics A" },
+    { "code": "PHYS 0040", "name": "Basic Physics B" },
+    { "code": "PHYS 0050", "name": "Foundations of Mechanics" },
+    { "code": "PHYS 0060", "name": "Foundations of Electromagnetism and Modern Physics" },
+    { "code": "PHYS 0070", "name": "Analytical Mechanics" },
+    { "code": "PHYS 0160", "name": "Introduction to Relativity, Waves and Quantum Physics" },
+    { "code": "PHYS 0470", "name": "Electricity and Magnetism" },
+    { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" },
+    { "code": "CHEM 0350", "name": "Organic Chemistry I" },
+    { "code": "MATH 0090", "name": "Single Variable Calculus, Part I" },
+    { "code": "MATH 0100", "name": "Introductory Calculus, Part II" },
+    { "code": "MATH 0180", "name": "Multivariable Calculus" },
+    { "code": "BIOL 0200", "name": "The Foundation of Living Systems" },
+    { "code": "BIOL 1950", "name": "Directed Research/Independent Study" },
+    { "code": "BIOL 1960", "name": "Directed Research/Independent Study" },
+    { "code": "CHEM 0970", "name": "Undergraduate Research" },
+    { "code": "CHEM 0980", "name": "Undergraduate Research" },
+    { "code": "PHYS 1980", "name": "Independent Study in Physics" }
   ]
 }

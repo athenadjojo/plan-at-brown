@@ -2,643 +2,356 @@
   "concentration": "Applied Mathematics-Biology",
   "slug": "apmb",
   "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/",
-  "description": "Biology, the science of all life and living matter, is an incredibly diverse discipline offering students the opportunity to learn about topics ranging from the fundamental chemical reactions that fuel all living organisms to the population dynamics of entire ecosystems all the way to the question of how our brains give rise to the complexities of human cognition and experience. Applied mathematics is an increasingly important component of modern biological investigation. Modern technologies have enabled the creation of vast new biological data sets that often require sophisticated mathematical and statistical models for interpretation and analysis. Advances in computing have similarly enabled the simulation of biological phenomena at increasingly fine levels of detail. Entire subfields, such as bioinformatics and computational neuroscience, have developed around these new paradigms of biological investigation. The foundations of these new fields are inherently mathematical, with a focus on probability, statistical inference, and systems dynamics. The Applied Mathematics \u2013 Biology concentration allows students to develop complementary expertise in biology and applied mathematics. Students will focus their advanced biological coursework in an area of particular interest to them. The applied math requirements emphasize those areas of mathematics that have found widespread use throughout all of the biological sciences. The program culminates in a senior capstone experience that enables students to participate in creative research collaborations with faculty.",
+  "description": "Biology, the science of all life and living matter, is an incredibly diverse discipline offering students the opportunity to learn about topics ranging from the fundamental chemical reactions that fuel all living organisms to the population dynamics of entire ecosystems all the way to the question of how our brains give rise to the complexities of human cognition and experience. Applied mathematics is an increasingly important component of modern biological investigation. Modern technologies have enabled the creation of vast new biological data sets that often require sophisticated mathematical and statistical models for interpretation and analysis. Advances in computing have similarly enabled the simulation of biological phenomena at increasingly fine levels of detail. Entire subfields, such as bioinformatics and computational neuroscience, have developed around these new paradigms of biological investigation. The foundations of these new fields are inherently mathematical, with a focus on probability, statistical inference, and systems dynamics. The Applied Mathematics – Biology concentration allows students to develop complementary expertise in biology and applied mathematics. Students will focus their advanced biological coursework in an area of particular interest to them. The applied math requirements emphasize those areas of mathematics that have found widespread use throughout all of the biological sciences. The program culminates in a senior capstone experience that enables students to participate in creative research collaborations with faculty.",
+  "degrees": ["ScB"],
+  "total_credits": { "ScB": 16 },
   "tracks": [
     {
-      "id": "standard_program_for_the_sc_b__degree",
+      "id": "standard_program_for_the_sc_b_degree",
       "name": "Standard program for the Sc.B. degree",
+      "total_credits": 16,
       "groups": [
         {
-          "name": "Prerequisites \u2013 the equivalent of two semesters of single-variable calculus",
+          "name": "Mathematical Requirements – 7 courses",
           "type": "section",
-          "count": null,
+          "count": 7,
           "sub_groups": [
             {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
+              "name": "Multivariable Calculus",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
                 {
-                  "code": "MATH 0090",
-                  "name": "MATH 0090"
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 0180", "name": "Multivariable Calculus" }],
+                  "count": null,
+                  "notes": []
                 },
                 {
-                  "code": "MATH 0100",
-                  "name": "MATH 0100"
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 0200", "name": "Multivariable Calculus (Physics/Engineering)" }],
+                  "count": null,
+                  "notes": []
                 },
                 {
-                  "code": "MATH 0170",
-                  "name": "MATH 0170"
-                },
-                {
-                  "code": "MATH 0190",
-                  "name": "MATH 0190"
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 0350", "name": "Multivariable Calculus With Theory" }],
+                  "count": null,
+                  "notes": []
                 }
               ],
+              "notes": ["APMA 0260 can substitute for both multivariable calculus and linear algebra requirements"]
+            },
+            {
+              "name": "Linear Algebra",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 0520", "name": "Linear Algebra" }],
+                  "count": null,
+                  "notes": []
+                },
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 0540", "name": "Linear Algebra With Theory" }],
+                  "count": null,
+                  "notes": []
+                }
+              ],
+              "notes": []
+            },
+            {
+              "name": "Applied Ordinary Differential Equations",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "APMA 0355", "name": "Applied Ordinary Differential Equations with Theory" }],
+                  "count": null,
+                  "notes": []
+                },
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 1110", "name": "Ordinary Differential Equations" }],
+                  "count": null,
+                  "notes": []
+                }
+              ],
+              "notes": ["APMA 0330 or APMA 0350 may substitute for students matriculating prior to Fall 2025"]
+            },
+            {
+              "name": "Applied Partial Differential Equations",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "APMA 0365", "name": "Applied Partial Differential Equations I with Theory" }],
+                  "count": null,
+                  "notes": []
+                },
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "MATH 1120", "name": "Partial Differential Equations" }],
+                  "count": null,
+                  "notes": []
+                }
+              ],
+              "notes": ["APMA 0340 or APMA 0360 may substitute for students matriculating prior to Fall 2025"]
+            },
+            {
+              "name": "Probability and Statistics",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }],
+                  "count": null,
+                  "notes": []
+                },
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "APMA 1650", "name": "Introduction to Probability and Statistics" }],
+                  "count": null,
+                  "notes": []
+                }
+              ],
+              "notes": ["APMA 1650 may substitute for students matriculating prior to Fall 2025"]
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }],
               "count": null,
+              "notes": []
+            },
+            {
+              "name": "Inference in Genomics and Molecular Biology",
+              "type": "section",
+              "count": 1,
+              "sub_groups": [
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" }],
+                  "count": null,
+                  "notes": []
+                },
+                {
+                  "name": "",
+                  "type": "required",
+                  "courses": [{ "code": "NEUR 2110", "name": "Statistical Neuroscience" }],
+                  "count": null,
+                  "notes": []
+                }
+              ],
               "notes": []
             }
           ],
           "notes": []
         },
         {
-          "name": "Requirements \u2013 16 courses",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Mathematical Requirements \u2013 7 courses",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0180",
-                  "name": "Multivariable Calculus2"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0200",
-                  "name": "Multivariable Calculus (Physics/Engineering)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0350",
-                  "name": "Multivariable Calculus With Theory"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0520",
-                  "name": "Linear Algebra2"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0540",
-                  "name": "Linear Algebra With Theory"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 0355",
-                  "name": "Applied Ordinary Differential Equations with Theory3"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 0365",
-                  "name": "Applied Partial Differential Equations I with Theory4"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1655",
-                  "name": "Introduction to Probability and Statistics with Theory5"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1070",
-                  "name": "Quantitative Models of Biological Systems"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1080",
-                  "name": "Inference in Genomics and Molecular Biology"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "NEUR 2110",
-                  "name": "Statistical Neuroscience"
-                }
-              ],
-              "count": null,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Scientific Requirements \u2013 7 courses",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "One pre-approved course covering Newtonian mechanics, or an alternative approved by the concentration advisor.",
+          "name": "Newtonian Mechanics (choose one pre-approved course)",
           "type": "section",
           "count": 1,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "CHEM 0330",
-                  "name": "Equilibrium, Rate, and Structure"
-                }
-              ],
-              "count": 1,
+              "courses": [{ "code": "PHYS 0050", "name": "Foundations of Mechanics (recommended)" }],
+              "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "BIOL 0200",
-                  "name": "The Foundation of Living Systems7"
-                }
-              ],
-              "count": 1,
+              "courses": [{ "code": "PHYS 0030", "name": "Basic Physics A" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0070", "name": "Analytical Mechanics" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": ["PHYS 0050 or PHYS 0070 recommended; other alternatives require advisor approval"]
+        },
+        {
+          "name": "Chemistry",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }],
+              "count": null,
               "notes": []
             }
           ],
           "notes": []
         },
         {
-          "name": "Two BIOL or NEUR courses.",
+          "name": "Biology Foundation",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "BIOL 0200", "name": "The Foundation of Living Systems" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": ["A BIOL placement test score of 30 or higher may substitute for BIOL 0200"]
+        },
+        {
+          "name": "Two BIOL or NEUR courses",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Two 1000-level or higher BIOL or NEUR courses from the same Biology track.",
+          "name": "Two 1000-level or higher BIOL or NEUR courses from the same Biology track",
           "type": "label",
           "courses": [],
           "count": 2,
           "notes": []
         },
         {
-          "name": "Additional Requirements \u2013 2 courses",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "One pre-approved course in the mathematical, biological, or computational sciences, or an alternative approved by the concentration advisor.",
+          "name": "One pre-approved course in the mathematical, biological, or computational sciences",
           "type": "label",
           "courses": [],
           "count": 1,
-          "notes": []
+          "notes": ["1000-level APMA, BIOL, CSCI, MATH, NEUR courses automatically approved; programming courses strongly encouraged"]
         },
         {
-          "name": "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor.",
+          "name": "One pre-approved capstone or senior seminar, or a research-related course",
           "type": "label",
           "courses": [],
           "count": 1,
-          "notes": []
+          "notes": ["Options include APMA 1360, APMA 193x/194x, BIOL capstone courses, or approved research/independent study"]
         }
       ],
       "courses": [
         {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "MATH 0090",
-              "name": "MATH 0090"
-            },
-            {
-              "code": "MATH 0100",
-              "name": "MATH 0100"
-            },
-            {
-              "code": "MATH 0170",
-              "name": "MATH 0170"
-            },
-            {
-              "code": "MATH 0190",
-              "name": "MATH 0190"
-            }
-          ]
+          "type": "required",
+          "course": { "code": "APMA 0355", "name": "Applied Ordinary Differential Equations with Theory" }
         },
         {
           "type": "required",
-          "course": {
-            "code": "MATH 0180",
-            "name": "Multivariable Calculus2"
-          }
+          "course": { "code": "APMA 0365", "name": "Applied Partial Differential Equations I with Theory" }
         },
         {
           "type": "required",
-          "course": {
-            "code": "MATH 0200",
-            "name": "Multivariable Calculus (Physics/Engineering)"
-          }
+          "course": { "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" }
         },
         {
           "type": "required",
-          "course": {
-            "code": "MATH 0350",
-            "name": "Multivariable Calculus With Theory"
-          }
+          "course": { "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" }
         },
         {
           "type": "required",
-          "course": {
-            "code": "MATH 0520",
-            "name": "Linear Algebra2"
-          }
+          "course": { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" }
         },
         {
           "type": "required",
-          "course": {
-            "code": "MATH 0540",
-            "name": "Linear Algebra With Theory"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0355",
-            "name": "Applied Ordinary Differential Equations with Theory3"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0365",
-            "name": "Applied Partial Differential Equations I with Theory4"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1655",
-            "name": "Introduction to Probability and Statistics with Theory5"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1070",
-            "name": "Quantitative Models of Biological Systems"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1080",
-            "name": "Inference in Genomics and Molecular Biology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "NEUR 2110",
-            "name": "Statistical Neuroscience"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "CHEM 0330",
-            "name": "Equilibrium, Rate, and Structure"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "BIOL 0200",
-            "name": "The Foundation of Living Systems7"
-          }
+          "course": { "code": "BIOL 0200", "name": "The Foundation of Living Systems" }
         }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "MATH 0090",
-      "name": "MATH 0090"
-    },
-    {
-      "code": "MATH 0100",
-      "name": "MATH 0100"
-    },
-    {
-      "code": "MATH 0170",
-      "name": "MATH 0170"
-    },
-    {
-      "code": "MATH 0190",
-      "name": "MATH 0190"
-    },
-    {
-      "code": "MATH 0180",
-      "name": "Multivariable Calculus2"
-    },
-    {
-      "code": "MATH 0200",
-      "name": "Multivariable Calculus (Physics/Engineering)"
-    },
-    {
-      "code": "MATH 0350",
-      "name": "Multivariable Calculus With Theory"
-    },
-    {
-      "code": "MATH 0520",
-      "name": "Linear Algebra2"
-    },
-    {
-      "code": "MATH 0540",
-      "name": "Linear Algebra With Theory"
-    },
-    {
-      "code": "APMA 0355",
-      "name": "Applied Ordinary Differential Equations with Theory3"
-    },
-    {
-      "code": "APMA 0365",
-      "name": "Applied Partial Differential Equations I with Theory4"
-    },
-    {
-      "code": "APMA 1655",
-      "name": "Introduction to Probability and Statistics with Theory5"
-    },
-    {
-      "code": "APMA 1070",
-      "name": "Quantitative Models of Biological Systems"
-    },
-    {
-      "code": "APMA 1080",
-      "name": "Inference in Genomics and Molecular Biology"
-    },
-    {
-      "code": "NEUR 2110",
-      "name": "Statistical Neuroscience"
-    },
-    {
-      "code": "CHEM 0330",
-      "name": "Equilibrium, Rate, and Structure"
-    },
-    {
-      "code": "BIOL 0200",
-      "name": "The Foundation of Living Systems7"
-    },
-    {
-      "code": "APMA 0260",
-      "name": "APMA 0260"
-    },
-    {
-      "code": "APMA 1910",
-      "name": "APMA 1910"
-    },
-    {
-      "code": "MATH 1110",
-      "name": "MATH 1110"
-    },
-    {
-      "code": "APMA 0330",
-      "name": "APMA 0330"
-    },
-    {
-      "code": "APMA 0350",
-      "name": "APMA 0350"
-    },
-    {
-      "code": "MATH 1120",
-      "name": "MATH 1120"
-    },
-    {
-      "code": "APMA 0340",
-      "name": "APMA 0340"
-    },
-    {
-      "code": "APMA 0360",
-      "name": "APMA 0360"
-    },
-    {
-      "code": "APMA 1650",
-      "name": "APMA 1650"
-    },
-    {
-      "code": "PHYS 0030",
-      "name": "PHYS 0030"
-    },
-    {
-      "code": "PHYS 0050",
-      "name": "PHYS 0050"
-    },
-    {
-      "code": "PHYS 0070",
-      "name": "PHYS 0070"
-    },
-    {
-      "code": "ENGN 0040",
-      "name": "ENGN 0040"
-    },
-    {
-      "code": "PHYS 0040",
-      "name": "PHYS 0040"
-    },
-    {
-      "code": "PHYS 0060",
-      "name": "PHYS 0060"
-    },
-    {
-      "code": "BIOL 0210",
-      "name": "BIOL 0210"
-    },
-    {
-      "code": "BIOL 1565",
-      "name": "BIOL 1565"
-    },
-    {
-      "code": "MATH 1000",
-      "name": "MATH 1000"
-    },
-    {
-      "code": "MATH 1001",
-      "name": "MATH 1001"
-    },
-    {
-      "code": "CSCI 1450",
-      "name": "CSCI 1450"
-    },
-    {
-      "code": "MATH 1210",
-      "name": "MATH 1210"
-    },
-    {
-      "code": "MATH 1610",
-      "name": "MATH 1610"
-    },
-    {
-      "code": "APMA 0160",
-      "name": "APMA 0160"
-    },
-    {
-      "code": "APMA 0200",
-      "name": "APMA 0200"
-    },
-    {
-      "code": "CSCI 0111",
-      "name": "CSCI 0111"
-    },
-    {
-      "code": "CSCI 0150",
-      "name": "CSCI 0150"
-    },
-    {
-      "code": "CSCI 0170",
-      "name": "CSCI 0170"
-    },
-    {
-      "code": "CSCI 0190",
-      "name": "CSCI 0190"
-    },
-    {
-      "code": "CSCI 0200",
-      "name": "CSCI 0200"
-    },
-    {
-      "code": "CPSY 0950",
-      "name": "CPSY 0950"
-    },
-    {
-      "code": "EEPS 0250",
-      "name": "EEPS 0250"
-    },
-    {
-      "code": "APMA 1360",
-      "name": "APMA 1360"
-    },
-    {
-      "code": "BIOL 1100",
-      "name": "BIOL 1100"
-    },
-    {
-      "code": "BIOL 1140",
-      "name": "BIOL 1140"
-    },
-    {
-      "code": "BIOL 1150",
-      "name": "BIOL 1150"
-    },
-    {
-      "code": "BIOL 1250",
-      "name": "BIOL 1250"
-    },
-    {
-      "code": "BIOL 1330",
-      "name": "BIOL 1330"
-    },
-    {
-      "code": "BIOL 1515",
-      "name": "BIOL 1515"
-    },
-    {
-      "code": "BIOL 1525",
-      "name": "BIOL 1525"
-    },
-    {
-      "code": "BIOL 1555",
-      "name": "BIOL 1555"
-    },
-    {
-      "code": "BIOL 1575",
-      "name": "BIOL 1575"
-    },
-    {
-      "code": "BIOL 1600",
-      "name": "BIOL 1600"
-    },
-    {
-      "code": "BIOL 1820",
-      "name": "BIOL 1820"
-    },
-    {
-      "code": "APMA 1970",
-      "name": "APMA 1970"
-    },
-    {
-      "code": "APMA 1971",
-      "name": "APMA 1971"
-    },
-    {
-      "code": "BIOL 1950",
-      "name": "BIOL 1950"
-    },
-    {
-      "code": "BIOL 1960",
-      "name": "BIOL 1960"
-    },
-    {
-      "code": "NEUR 1970",
-      "name": "NEUR 1970"
-    }
+    { "code": "MATH 0090", "name": "Single Variable Calculus" },
+    { "code": "MATH 0100", "name": "Introductory Calculus, Part II" },
+    { "code": "MATH 0170", "name": "Advanced Placement Calculus" },
+    { "code": "MATH 0190", "name": "Advanced Placement Calculus (Physics/Engineering)" },
+    { "code": "MATH 0180", "name": "Multivariable Calculus" },
+    { "code": "MATH 0200", "name": "Multivariable Calculus (Physics/Engineering)" },
+    { "code": "MATH 0350", "name": "Multivariable Calculus With Theory" },
+    { "code": "MATH 0520", "name": "Linear Algebra" },
+    { "code": "MATH 0540", "name": "Linear Algebra With Theory" },
+    { "code": "APMA 0260", "name": "Applied Linear Algebra and Differential Equations" },
+    { "code": "APMA 0355", "name": "Applied Ordinary Differential Equations with Theory" },
+    { "code": "MATH 1110", "name": "Ordinary Differential Equations" },
+    { "code": "APMA 0330", "name": "Ordinary Differential Equations" },
+    { "code": "APMA 0350", "name": "Applied Ordinary Differential Equations" },
+    { "code": "APMA 0365", "name": "Applied Partial Differential Equations I with Theory" },
+    { "code": "MATH 1120", "name": "Partial Differential Equations" },
+    { "code": "APMA 0340", "name": "Methods of Applied Mathematics I" },
+    { "code": "APMA 0360", "name": "Methods of Applied Mathematics II" },
+    { "code": "APMA 1655", "name": "Introduction to Probability and Statistics with Theory" },
+    { "code": "APMA 1650", "name": "Introduction to Probability and Statistics" },
+    { "code": "APMA 1070", "name": "Quantitative Models of Biological Systems" },
+    { "code": "APMA 1080", "name": "Inference in Genomics and Molecular Biology" },
+    { "code": "NEUR 2110", "name": "Statistical Neuroscience" },
+    { "code": "PHYS 0030", "name": "Basic Physics A" },
+    { "code": "PHYS 0050", "name": "Foundations of Mechanics" },
+    { "code": "PHYS 0070", "name": "Analytical Mechanics" },
+    { "code": "ENGN 0040", "name": "Dynamics and Vibrations" },
+    { "code": "PHYS 0040", "name": "Basic Physics B" },
+    { "code": "PHYS 0060", "name": "Electricity and Magnetism" },
+    { "code": "CHEM 0330", "name": "Equilibrium, Rate, and Structure" },
+    { "code": "BIOL 0200", "name": "The Foundation of Living Systems" },
+    { "code": "BIOL 0210", "name": "The Foundation of Living Systems: Advanced" },
+    { "code": "BIOL 1565", "name": "Biomedical Informatics" },
+    { "code": "APMA 0160", "name": "Introduction to Computing and Programming" },
+    { "code": "APMA 0200", "name": "Introduction to Modeling" },
+    { "code": "CSCI 0111", "name": "Computing Foundations: Data" },
+    { "code": "CSCI 0150", "name": "Introduction to Object-Oriented Programming and Computer Science" },
+    { "code": "CSCI 0170", "name": "Computer Science: An Integrated Introduction" },
+    { "code": "CSCI 0190", "name": "Accelerated Introduction to Computer Science" },
+    { "code": "CSCI 0200", "name": "Program Design with Data Structures and Algorithms" },
+    { "code": "CSCI 1450", "name": "Advanced Introduction to Probability for Computing and Data Science" },
+    { "code": "CPSY 0950", "name": "Coding in Python for Research" },
+    { "code": "EEPS 0250", "name": "Introduction to Scientific Programming" },
+    { "code": "APMA 1360", "name": "Topics in Chaos and Dynamical Systems" },
+    { "code": "APMA 1910", "name": "Topics in Applied Mathematics" },
+    { "code": "APMA 1920", "name": "Topics in Applied Mathematics" },
+    { "code": "MATH 1090", "name": "Introduction to Mathematical Cryptography" },
+    { "code": "MATH 1910", "name": "Combinatorics and Algebra" },
+    { "code": "MATH 1000", "name": "Readings in Mathematics" },
+    { "code": "MATH 1001", "name": "Readings in Mathematics" },
+    { "code": "APMA 1000", "name": "Readings in Applied Mathematics" },
+    { "code": "APMA 1001", "name": "Readings in Applied Mathematics" },
+    { "code": "MATH 1210", "name": "Introduction to Numerical Analysis" },
+    { "code": "MATH 1610", "name": "Probability" },
+    { "code": "BIOL 1100", "name": "Cell Biology: Structure and Function" },
+    { "code": "BIOL 1140", "name": "Neurobiology" },
+    { "code": "BIOL 1150", "name": "Molecular Biology" },
+    { "code": "BIOL 1250", "name": "Developmental Biology" },
+    { "code": "BIOL 1330", "name": "Ecology and Evolutionary Biology" },
+    { "code": "BIOL 1515", "name": "Biophysics" },
+    { "code": "BIOL 1525", "name": "Evolution" },
+    { "code": "BIOL 1555", "name": "Cancer Biology" },
+    { "code": "BIOL 1575", "name": "Computational Biology" },
+    { "code": "BIOL 1600", "name": "Biochemistry" },
+    { "code": "BIOL 1820", "name": "Virology" },
+    { "code": "BIOL 1950", "name": "Independent Research" },
+    { "code": "BIOL 1960", "name": "Independent Research" },
+    { "code": "APMA 1970", "name": "Independent Study in Applied Mathematics" },
+    { "code": "APMA 1971", "name": "Independent Study in Applied Mathematics" },
+    { "code": "NEUR 1970", "name": "Research in Neuroscience" }
   ]
 }

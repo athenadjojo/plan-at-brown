@@ -99,6 +99,10 @@ export default function ConcentrationPage() {
     setCompletedCourses(prev => prev.filter(c => c.code !== code))
   }
 
+  const availableDegrees = isStructured
+    ? ['ScB', 'AB']
+    : (scrapedData?.degrees ?? ['ScB', 'AB'])
+
   const requiresTrackSelection = !isStructured && !!(scrapedData?.requires_track_selection)
 
   const visibleTracks = isStructured
@@ -120,9 +124,13 @@ export default function ConcentrationPage() {
     ? []
     : visibleTracks
 
+  const selectedTrack = (requiresTrackSelection && selectedTrackId)
+    ? visibleTracks.find(t => t.id === selectedTrackId)
+    : null
+
   const totalRequired = isStructured
     ? (structuredData.total_credits?.[degree] ?? 0)
-    : (scrapedData?.total_credits?.[degree] ?? 0)
+    : (selectedTrack?.total_credits ?? scrapedData?.total_credits?.[degree] ?? 0)
 
   const progressPct = totalRequired > 0
     ? Math.min((completedCourses.length / totalRequired) * 100, 100)
@@ -175,22 +183,24 @@ export default function ConcentrationPage() {
       <div className="mb-8">
         <div className="flex items-center justify-between mb-2">
           <h1 className="text-2xl font-semibold text-gray-900">{meta.name}</h1>
-          <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
-            {['ScB', 'AB'].map(d => (
-              <button
-                key={d}
-                onClick={() => setDegree(d)}
-                className={
-                  'px-4 py-1.5 rounded-md text-sm font-medium pressable ' +
-                  (degree === d
-                    ? 'bg-white text-gray-900 shadow-sm'
-                    : 'text-gray-500 hover:text-gray-700')
-                }
-              >
-                {d}
-              </button>
-            ))}
-          </div>
+          {availableDegrees.length > 1 && (
+            <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
+              {availableDegrees.map(d => (
+                <button
+                  key={d}
+                  onClick={() => setDegree(d)}
+                  className={
+                    'px-4 py-1.5 rounded-md text-sm font-medium pressable ' +
+                    (degree === d
+                      ? 'bg-white text-gray-900 shadow-sm'
+                      : 'text-gray-500 hover:text-gray-700')
+                  }
+                >
+                  {d}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
         <a

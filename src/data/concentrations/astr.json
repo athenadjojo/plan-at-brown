@@ -2,189 +2,24 @@
   "concentration": "Astronomy",
   "slug": "astr",
   "url": "https://bulletin.brown.edu/the-college/concentrations/astr/",
-  "description": "Along with Greek, Latin, and Mathematics, Astronomy counts as one of the oldest continuously taught subjects in the Brown curriculum. It is the study of the properties of stars, galaxies, and the Universe, and as such combines elements from the disciplines of both Physics and Planetary Geology. Students pursuing this concentration complete introductory coursework in classical mechanics, relativity, and astrophysics, along with mathematics and elecromagnetism. They go on to complete courses in stellar and extragalactic astrophysics as well as cosmology. Facilities available to concentrators include the historic Ladd Observatory. Standard concentration for the A.B. degree",
+  "description": "Along with Greek, Latin, and Mathematics, Astronomy counts as one of the oldest continuously taught subjects in the Brown curriculum. It is the study of the properties of stars, galaxies, and the Universe, combining elements from Physics and Planetary Geology. Students complete introductory coursework in classical mechanics, relativity, and astrophysics, along with mathematics and electromagnetism, then go on to study stellar and extragalactic astrophysics and cosmology. Facilities available to concentrators include the historic Ladd Observatory.",
+  "degrees": ["AB"],
+  "total_credits": { "AB": 11 },
   "tracks": [
     {
-      "id": "requirements_0",
+      "id": "concentration_requirements",
       "name": "Concentration Requirements",
+      "total_credits": 11,
       "groups": [
         {
-          "name": "Prerequisites",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0070",
-                  "name": "Analytical Mechanics"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0160",
-                  "name": "Introduction to Relativity, Waves and Quantum Physics1"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0270",
-                  "name": "Astronomy and Astrophysics"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Select one of the following Series: 1-2",
-          "type": "section",
-          "count": null,
-          "sub_groups": [
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "MATH 0170",
-                  "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-                },
-                {
-                  "code": "MATH 0180",
-                  "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "choose_one",
-              "courses": [
-                {
-                  "code": "MATH 0190",
-                  "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-                },
-                {
-                  "code": "MATH 0200",
-                  "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0350",
-                  "name": "Multivariable Calculus With Theory (or equivalent)"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0470",
-                  "name": "Electricity and Magnetism"
-                }
-              ],
-              "count": 1,
-              "notes": []
-            }
-          ],
-          "notes": []
-        },
-        {
-          "name": "Program",
-          "type": "label",
-          "courses": [],
-          "count": null,
-          "notes": []
-        },
-        {
-          "name": "Select one of the following mathematics courses:",
+          "name": "Analytical Mechanics",
           "type": "section",
           "count": 1,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0520",
-                  "name": "Linear Algebra"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 0540",
-                  "name": "Linear Algebra With Theory"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0720",
-                  "name": "Methods of Mathematical Physics"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 0330",
-                  "name": "Methods of Applied Mathematics I"
-                }
-              ],
-              "count": null,
-              "notes": []
-            },
-            {
-              "name": "",
-              "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 0340",
-                  "name": "Methods of Applied Mathematics II"
-                }
-              ],
+              "courses": [{ "code": "PHYS 0070", "name": "Analytical Mechanics" }],
               "count": null,
               "notes": []
             }
@@ -192,55 +27,168 @@
           "notes": []
         },
         {
-          "name": "Select two of the following astrophysics courses:",
+          "name": "Relativity, Waves and Quantum Physics",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0160", "name": "Introduction to Relativity, Waves and Quantum Physics" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0050", "name": "Foundations of Mechanics" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0060", "name": "Foundations of Electromagnetism and Modern Physics" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": ["PHYS 0050 and PHYS 0060 (2 courses) can be taken in lieu of PHYS 0160 — this adds 1 to the total required"]
+        },
+        {
+          "name": "Astronomy and Astrophysics",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0270", "name": "Astronomy and Astrophysics" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Calculus (multivariable or equivalent)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "MATH 0180", "name": "Multivariable Calculus" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "MATH 0200", "name": "Multivariable Calculus (Physics/Engineering)" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "MATH 0350", "name": "Multivariable Calculus With Theory" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": [
+            "If single-variable calculus not yet completed, take MATH 0170 before MATH 0180, or MATH 0190 before MATH 0200 — this adds 1 to the total required (making 12 instead of 11)"
+          ]
+        },
+        {
+          "name": "Electricity and Magnetism",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0470", "name": "Electricity and Magnetism" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Mathematics or Mathematical Physics (choose one)",
+          "type": "section",
+          "count": 1,
+          "sub_groups": [
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "MATH 0520", "name": "Linear Algebra" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "MATH 0540", "name": "Linear Algebra With Theory" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "PHYS 0720", "name": "Methods of Mathematical Physics" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "APMA 0330", "name": "Methods of Applied Mathematics I" }],
+              "count": null,
+              "notes": []
+            },
+            {
+              "name": "",
+              "type": "required",
+              "courses": [{ "code": "APMA 0340", "name": "Methods of Applied Mathematics II" }],
+              "count": null,
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "name": "Two astrophysics courses (choose two)",
           "type": "section",
           "count": 2,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1100",
-                  "name": "General Relativity"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1100", "name": "General Relativity" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1250",
-                  "name": "Stellar Structure and the Interstellar Medium"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1250", "name": "Stellar Structure and the Interstellar Medium" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1270",
-                  "name": "Extragalactic Astronomy and High-Energy Astrophysics"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1270", "name": "Extragalactic Astronomy and High-Energy Astrophysics" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1280",
-                  "name": "Introduction to Cosmology"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1280", "name": "Introduction to Cosmology" }],
               "count": null,
               "notes": []
             }
@@ -248,499 +196,139 @@
           "notes": []
         },
         {
-          "name": "Three additional 1000- or 2000-level courses in physics or a related field, suggestions:",
+          "name": "Three additional 1000- or 2000-level courses in physics or a related field",
           "type": "section",
           "count": 3,
           "sub_groups": [
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "APMA 1670",
-                  "name": "Statistical Analysis of Time Series"
-                }
-              ],
+              "courses": [{ "code": "APMA 1670", "name": "Statistical Analysis of Time Series" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "EEPS 0810",
-                  "name": "Planetary Geology"
-                }
-              ],
+              "courses": [{ "code": "EEPS 0810", "name": "Planetary Geology" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "EEPS 1710",
-                  "name": "Remote Sensing of Earth and Planetary Surfaces"
-                }
-              ],
+              "courses": [{ "code": "EEPS 1710", "name": "Remote Sensing of Earth and Planetary Surfaces" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "EEPS 1810",
-                  "name": "Physics of Planetary Evolution"
-                }
-              ],
+              "courses": [{ "code": "EEPS 1810", "name": "Physics of Planetary Evolution" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "ENGN 1860",
-                  "name": "Advanced Fluid Mechanics"
-                }
-              ],
+              "courses": [{ "code": "ENGN 1860", "name": "Advanced Fluid Mechanics" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "MATH 1060",
-                  "name": "Differential Geometry"
-                }
-              ],
+              "courses": [{ "code": "MATH 1060", "name": "Differential Geometry" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0500",
-                  "name": "Advanced Classical Mechanics"
-                }
-              ],
+              "courses": [{ "code": "PHYS 0500", "name": "Advanced Classical Mechanics" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 0560",
-                  "name": "Experiments in Modern Physics"
-                }
-              ],
+              "courses": [{ "code": "PHYS 0560", "name": "Experiments in Modern Physics" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1410",
-                  "name": "Quantum Mechanics A"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1410", "name": "Quantum Mechanics A" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1510",
-                  "name": "Advanced Electromagnetic Theory"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1510", "name": "Advanced Electromagnetic Theory" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1530",
-                  "name": "Thermodynamics and Statistical Mechanics"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1530", "name": "Thermodynamics and Statistical Mechanics" }],
               "count": null,
               "notes": []
             },
             {
               "name": "",
               "type": "required",
-              "courses": [
-                {
-                  "code": "PHYS 1560",
-                  "name": "Modern Physics Laboratory"
-                }
-              ],
+              "courses": [{ "code": "PHYS 1560", "name": "Modern Physics Laboratory" }],
               "count": null,
               "notes": []
             }
           ],
-          "notes": []
+          "notes": ["The courses listed are suggestions; any 1000- or 2000-level course in physics or a related field may count"]
         }
       ],
       "courses": [
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0070",
-            "name": "Analytical Mechanics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0160",
-            "name": "Introduction to Relativity, Waves and Quantum Physics1"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0270",
-            "name": "Astronomy and Astrophysics"
-          }
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "MATH 0170",
-              "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-            },
-            {
-              "code": "MATH 0180",
-              "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-            }
-          ]
-        },
-        {
-          "type": "choose_one",
-          "options": [
-            {
-              "code": "MATH 0190",
-              "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-            },
-            {
-              "code": "MATH 0200",
-              "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-            }
-          ]
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0350",
-            "name": "Multivariable Calculus With Theory (or equivalent)"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0470",
-            "name": "Electricity and Magnetism"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0520",
-            "name": "Linear Algebra"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 0540",
-            "name": "Linear Algebra With Theory"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0720",
-            "name": "Methods of Mathematical Physics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0330",
-            "name": "Methods of Applied Mathematics I"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 0340",
-            "name": "Methods of Applied Mathematics II"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1100",
-            "name": "General Relativity"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1250",
-            "name": "Stellar Structure and the Interstellar Medium"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1270",
-            "name": "Extragalactic Astronomy and High-Energy Astrophysics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1280",
-            "name": "Introduction to Cosmology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "APMA 1670",
-            "name": "Statistical Analysis of Time Series"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "EEPS 0810",
-            "name": "Planetary Geology"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "EEPS 1710",
-            "name": "Remote Sensing of Earth and Planetary Surfaces"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "EEPS 1810",
-            "name": "Physics of Planetary Evolution"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "ENGN 1860",
-            "name": "Advanced Fluid Mechanics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "MATH 1060",
-            "name": "Differential Geometry"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0500",
-            "name": "Advanced Classical Mechanics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 0560",
-            "name": "Experiments in Modern Physics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1410",
-            "name": "Quantum Mechanics A"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1510",
-            "name": "Advanced Electromagnetic Theory"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1530",
-            "name": "Thermodynamics and Statistical Mechanics"
-          }
-        },
-        {
-          "type": "required",
-          "course": {
-            "code": "PHYS 1560",
-            "name": "Modern Physics Laboratory"
-          }
-        }
+        { "type": "required", "course": { "code": "PHYS 0070", "name": "Analytical Mechanics" } },
+        { "type": "required", "course": { "code": "PHYS 0160", "name": "Introduction to Relativity, Waves and Quantum Physics" } },
+        { "type": "required", "course": { "code": "PHYS 0270", "name": "Astronomy and Astrophysics" } },
+        { "type": "required", "course": { "code": "PHYS 0470", "name": "Electricity and Magnetism" } }
       ],
       "notes": []
     }
   ],
   "all_courses": [
-    {
-      "code": "PHYS 0070",
-      "name": "Analytical Mechanics"
-    },
-    {
-      "code": "PHYS 0160",
-      "name": "Introduction to Relativity, Waves and Quantum Physics1"
-    },
-    {
-      "code": "PHYS 0270",
-      "name": "Astronomy and Astrophysics"
-    },
-    {
-      "code": "MATH 0170",
-      "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-    },
-    {
-      "code": "MATH 0180",
-      "name": "Single Variable Calculus, Part II (Accelerated)and Multivariable Calculus"
-    },
-    {
-      "code": "MATH 0190",
-      "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-    },
-    {
-      "code": "MATH 0200",
-      "name": "Single Variable Calculus, Part II (Physics/Engineering)and Multivariable Calculus (Physics/Engineering)"
-    },
-    {
-      "code": "MATH 0350",
-      "name": "Multivariable Calculus With Theory (or equivalent)"
-    },
-    {
-      "code": "PHYS 0470",
-      "name": "Electricity and Magnetism"
-    },
-    {
-      "code": "MATH 0520",
-      "name": "Linear Algebra"
-    },
-    {
-      "code": "MATH 0540",
-      "name": "Linear Algebra With Theory"
-    },
-    {
-      "code": "PHYS 0720",
-      "name": "Methods of Mathematical Physics"
-    },
-    {
-      "code": "APMA 0330",
-      "name": "Methods of Applied Mathematics I"
-    },
-    {
-      "code": "APMA 0340",
-      "name": "Methods of Applied Mathematics II"
-    },
-    {
-      "code": "PHYS 1100",
-      "name": "General Relativity"
-    },
-    {
-      "code": "PHYS 1250",
-      "name": "Stellar Structure and the Interstellar Medium"
-    },
-    {
-      "code": "PHYS 1270",
-      "name": "Extragalactic Astronomy and High-Energy Astrophysics"
-    },
-    {
-      "code": "PHYS 1280",
-      "name": "Introduction to Cosmology"
-    },
-    {
-      "code": "APMA 1670",
-      "name": "Statistical Analysis of Time Series"
-    },
-    {
-      "code": "EEPS 0810",
-      "name": "Planetary Geology"
-    },
-    {
-      "code": "EEPS 1710",
-      "name": "Remote Sensing of Earth and Planetary Surfaces"
-    },
-    {
-      "code": "EEPS 1810",
-      "name": "Physics of Planetary Evolution"
-    },
-    {
-      "code": "ENGN 1860",
-      "name": "Advanced Fluid Mechanics"
-    },
-    {
-      "code": "MATH 1060",
-      "name": "Differential Geometry"
-    },
-    {
-      "code": "PHYS 0500",
-      "name": "Advanced Classical Mechanics"
-    },
-    {
-      "code": "PHYS 0560",
-      "name": "Experiments in Modern Physics"
-    },
-    {
-      "code": "PHYS 1410",
-      "name": "Quantum Mechanics A"
-    },
-    {
-      "code": "PHYS 1510",
-      "name": "Advanced Electromagnetic Theory"
-    },
-    {
-      "code": "PHYS 1530",
-      "name": "Thermodynamics and Statistical Mechanics"
-    },
-    {
-      "code": "PHYS 1560",
-      "name": "Modern Physics Laboratory"
-    },
-    {
-      "code": "PHYS 0050",
-      "name": "PHYS 0050"
-    },
-    {
-      "code": "PHYS 0060",
-      "name": "PHYS 0060"
-    }
+    { "code": "PHYS 0070", "name": "Analytical Mechanics" },
+    { "code": "PHYS 0160", "name": "Introduction to Relativity, Waves and Quantum Physics" },
+    { "code": "PHYS 0050", "name": "Foundations of Mechanics" },
+    { "code": "PHYS 0060", "name": "Foundations of Electromagnetism and Modern Physics" },
+    { "code": "PHYS 0270", "name": "Astronomy and Astrophysics" },
+    { "code": "MATH 0170", "name": "Single Variable Calculus, Part II (Accelerated)" },
+    { "code": "MATH 0180", "name": "Multivariable Calculus" },
+    { "code": "MATH 0190", "name": "Single Variable Calculus, Part II (Physics/Engineering)" },
+    { "code": "MATH 0200", "name": "Multivariable Calculus (Physics/Engineering)" },
+    { "code": "MATH 0350", "name": "Multivariable Calculus With Theory" },
+    { "code": "PHYS 0470", "name": "Electricity and Magnetism" },
+    { "code": "MATH 0520", "name": "Linear Algebra" },
+    { "code": "MATH 0540", "name": "Linear Algebra With Theory" },
+    { "code": "PHYS 0720", "name": "Methods of Mathematical Physics" },
+    { "code": "APMA 0330", "name": "Methods of Applied Mathematics I" },
+    { "code": "APMA 0340", "name": "Methods of Applied Mathematics II" },
+    { "code": "PHYS 1100", "name": "General Relativity" },
+    { "code": "PHYS 1250", "name": "Stellar Structure and the Interstellar Medium" },
+    { "code": "PHYS 1270", "name": "Extragalactic Astronomy and High-Energy Astrophysics" },
+    { "code": "PHYS 1280", "name": "Introduction to Cosmology" },
+    { "code": "APMA 1670", "name": "Statistical Analysis of Time Series" },
+    { "code": "EEPS 0810", "name": "Planetary Geology" },
+    { "code": "EEPS 1710", "name": "Remote Sensing of Earth and Planetary Surfaces" },
+    { "code": "EEPS 1810", "name": "Physics of Planetary Evolution" },
+    { "code": "ENGN 1860", "name": "Advanced Fluid Mechanics" },
+    { "code": "MATH 1060", "name": "Differential Geometry" },
+    { "code": "PHYS 0500", "name": "Advanced Classical Mechanics" },
+    { "code": "PHYS 0560", "name": "Experiments in Modern Physics" },
+    { "code": "PHYS 1410", "name": "Quantum Mechanics A" },
+    { "code": "PHYS 1510", "name": "Advanced Electromagnetic Theory" },
+    { "code": "PHYS 1530", "name": "Thermodynamics and Statistical Mechanics" },
+    { "code": "PHYS 1560", "name": "Modern Physics Laboratory" }
   ]
 }
