@@ -27,7 +27,7 @@ export default function Home() {
     <div className="max-w-3xl mx-auto px-4 py-10 animate-in">
 
       {/* Header */}
-      <div className="mb-8 animate-in">
+      <div className="mb-8">
         <h1 className="text-2xl font-semibold text-gray-900 mb-1">All Concentrations</h1>
         <p className="text-gray-500 text-sm">
           Track your requirements. Powered by the Brown bulletin.
@@ -92,7 +92,7 @@ function ConcentrationRow({ c, onClick }) {
   return (
     <button
       onClick={onClick}
-      className="flex items-center justify-between py-2.5 px-2 rounded-lg hover:bg-white hover:shadow-sm text-left transition-all group"
+      className="flex items-center justify-between py-2.5 px-2 rounded-lg hover:bg-white hover:shadow-sm text-left group pressable"
     >
       <span className="text-sm text-gray-800 group-hover:text-red-700 transition-colors">
         {c.name}

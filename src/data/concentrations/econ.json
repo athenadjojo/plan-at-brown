@@ -1,6 +1,7 @@
 {
   "concentration": "Economics",
   "slug": "econ",
+  "requires_track_selection": true,
   "url": "https://bulletin.brown.edu/the-college/concentrations/econ/",
   "description": "Economics is the study of how individuals, businesses, and governments allocate resources to satisfy their objectives. The study of economics helps students understand markets, firms, financial organizations, and public debate about economic policy, including taxation, government expenditure, trade, globalization, health, and welfare. The concentration in Economics prepares students for graduate study in fields such as business and law, for graduate study leading to teaching and research in economics, and can be a stepping-stone to employment in business, finance, non-profit, and government organizations. Students may choose the standard concentration, the business track, or the public policy track, all of which have a corresponding professional track. If you are interested in declaring a concentration in Economics, please refer to this page for more information regarding the process. Students are required to begin withECON\u00a00110, an introductory course that stresses current economic issues, and the concepts and principles of economic analysis. Intermediate level courses in microeconomics (ECON\u00a01110orECON\u00a01130), macroeconomics (ECON\u00a01210), and econometrics (ECON\u00a01620followed byECON\u00a01629orECON\u00a01630) round out the list of foundation courses for the concentration. Economics concentrators must also fulfill a math requirement (ECON\u00a00170).",
   "tracks": [
@@ -14,7 +15,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "Principles of Economics1"
+              "name": "Principles of Economics"
             }
           ],
           "count": 1,
@@ -173,7 +174,7 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "Principles of Economics1"
+            "name": "Principles of Economics"
           }
         },
         {
@@ -266,7 +267,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "Principles of Economics1"
+              "name": "Principles of Economics"
             }
           ],
           "count": 1,
@@ -355,7 +356,7 @@
               "courses": [
                 {
                   "code": "ECON 1420",
-                  "name": "Industrial Organization2"
+                  "name": "Industrial Organization"
                 }
               ],
               "count": 1,
@@ -714,7 +715,7 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "Principles of Economics1"
+            "name": "Principles of Economics"
           }
         },
         {
@@ -763,7 +764,7 @@
           "type": "required",
           "course": {
             "code": "ECON 1420",
-            "name": "Industrial Organization2"
+            "name": "Industrial Organization"
           }
         },
         {
@@ -975,7 +976,7 @@
           "courses": [
             {
               "code": "ECON 0110",
-              "name": "Principles of Economics1"
+              "name": "Principles of Economics"
             }
           ],
           "count": 1,
@@ -987,7 +988,7 @@
           "courses": [
             {
               "code": "ECON 0170",
-              "name": "Essential Mathematics for Economics2"
+              "name": "Essential Mathematics for Economics"
             }
           ],
           "count": 1,
@@ -1047,7 +1048,7 @@
           "courses": [
             {
               "code": "ECON 1620",
-              "name": "Introduction to Econometrics3"
+              "name": "Introduction to Econometrics"
             }
           ],
           "count": 1,
@@ -1569,14 +1570,14 @@
           "type": "required",
           "course": {
             "code": "ECON 0110",
-            "name": "Principles of Economics1"
+            "name": "Principles of Economics"
           }
         },
         {
           "type": "required",
           "course": {
             "code": "ECON 0170",
-            "name": "Essential Mathematics for Economics2"
+            "name": "Essential Mathematics for Economics"
           }
         },
         {
@@ -1611,7 +1612,7 @@
           "type": "required",
           "course": {
             "code": "ECON 1620",
-            "name": "Introduction to Econometrics3"
+            "name": "Introduction to Econometrics"
           }
         },
         {
@@ -1953,7 +1954,7 @@
     },
     {
       "code": "ECON 1420",
-      "name": "Industrial Organization2"
+      "name": "Industrial Organization"
     },
     {
       "code": "ECON 1710",

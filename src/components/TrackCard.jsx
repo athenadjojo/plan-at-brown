@@ -60,7 +60,7 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
     ).length
   
     return (
-      <div className={`bg-white border rounded-xl p-5 ${style.border}`}>
+      <div className={`bg-white border rounded-xl p-5 transition-colors duration-300 ${style.border}`}>
   
         {/* Header */}
         <div className="flex items-center justify-between mb-4">
@@ -206,7 +206,7 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
               {group.name.replace(/\s*\d+$/, '')}
             </p>
             <span className={
-              'text-xs font-medium px-2 py-0.5 rounded-full ' +
+              'text-xs font-medium px-2 py-0.5 rounded-full transition-colors duration-300 ' +
               (sectionStatus === 'complete'
                 ? 'bg-green-50 text-green-700 border border-green-200'
                 : sectionStatus === 'in-progress'
@@ -309,11 +309,11 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
         disabled={locked}
         title={locked ? 'Requirement already met' : course.name}
         className={
-          'flex items-center gap-3 w-full text-left px-3 py-2 rounded-lg border transition-all ' +
+          'flex items-center gap-3 w-full text-left px-3 py-2 rounded-lg border pressable group ' +
           (locked
             ? 'bg-gray-50 border-gray-100 opacity-40 cursor-not-allowed'
             : done
-            ? 'bg-green-50 border-green-200 hover:bg-red-50 hover:border-red-200'
+            ? 'bg-green-50 border-green-200 hover:bg-green-100 hover:border-green-400'
             : 'bg-gray-50 border-gray-200 hover:bg-green-50 hover:border-green-300')
         }
       >
@@ -323,7 +323,12 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
             ? 'bg-green-500 border-green-500 text-white'
             : 'border-gray-300 bg-white')
         }>
-          {done && '✓'}
+          {done && (
+            <>
+              <span className="group-hover:hidden">✓</span>
+              <span className="hidden group-hover:inline">×</span>
+            </>
+          )}
         </span>
         <span className={
           'text-xs font-medium ' +
@@ -348,15 +353,20 @@ export default function TrackCard({ track, degree, completedCourses, onAdd, onRe
         disabled={locked}
         title={locked ? 'Requirement already met' : name}
         className={
-          'text-xs px-3 py-1.5 rounded-full border transition-all flex items-center gap-1.5 ' +
+          'text-xs px-3 py-1.5 rounded-full border pressable flex items-center gap-1.5 group ' +
           (locked
             ? 'opacity-40 cursor-not-allowed bg-gray-50 border-gray-200 text-gray-400'
             : done
-            ? 'bg-green-50 text-green-700 border-green-200 hover:bg-red-50 hover:text-red-600 hover:border-red-200'
+            ? 'bg-green-50 text-green-700 border-green-200 hover:bg-green-100 hover:border-green-400'
             : 'bg-gray-50 text-gray-600 border-gray-200 hover:bg-green-50 hover:text-green-700 hover:border-green-300')
         }
       >
-        {done && <span>✓</span>}
+        {done && (
+          <>
+            <span className="group-hover:hidden">✓</span>
+            <span className="hidden group-hover:inline">×</span>
+          </>
+        )}
         <span className="font-medium">{code}</span>
         {name && name !== code && (
           <span className="text-gray-400 font-normal">{name}</span>

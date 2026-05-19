@@ -5,6 +5,32 @@ import csData from '../data/cs_concentration.json'
 import TrackCard from '../components/TrackCard'
 import CourseSearch from '../components/CourseSearch'
 
+function countGroupSlots(group) {
+  if (group.type === 'section') {
+    const sub = (group.sub_groups ?? []).reduce((n, g) => n + countGroupSlots(g), 0)
+    return group.count ?? sub
+  }
+  if (group.type === 'required') return (group.courses ?? []).length > 0 ? 1 : 0
+  if (group.type === 'choose_one') return (group.courses ?? []).length > 0 ? 1 : 0
+  return 0
+}
+
+function countGroupCompleted(group, codes) {
+  if (group.type === 'section') {
+    const sub = (group.sub_groups ?? []).reduce((n, g) => n + countGroupCompleted(g, codes), 0)
+    const req = group.count ?? (group.sub_groups ?? []).reduce((n, g) => n + countGroupSlots(g), 0)
+    return Math.min(sub, req)
+  }
+  if (group.type === 'required') {
+    const course = group.courses?.[0]
+    return course && codes.includes(course.code) ? 1 : 0
+  }
+  if (group.type === 'choose_one') {
+    return (group.courses ?? []).some(c => codes.includes(c.code)) ? 1 : 0
+  }
+  return 0
+}
+
 const STRUCTURED = {
   comp: csData,
 }
@@ -17,6 +43,7 @@ export default function ConcentrationPage() {
   const [scrapedData, setScrapedData] = useState(null)
   const [loading, setLoading] = useState(true)
   const [activeTrackIndex, setActiveTrackIndex] = useState(0)
+  const [selectedTrackId, setSelectedTrackId] = useState(null)
   const trackRefs = useRef([])
 
   const meta = index[slug]
@@ -28,6 +55,7 @@ export default function ConcentrationPage() {
     setScrapedData(null)
     setCompletedCourses([])
     setActiveTrackIndex(0)
+    setSelectedTrackId(null)
     trackRefs.current = []
     import('../data/concentrations/' + slug + '.json')
       .then(mod => {
@@ -71,6 +99,8 @@ export default function ConcentrationPage() {
     setCompletedCourses(prev => prev.filter(c => c.code !== code))
   }
 
+  const requiresTrackSelection = !isStructured && !!(scrapedData?.requires_track_selection)
+
   const visibleTracks = isStructured
     ? structuredData.tracks
     : (scrapedData?.tracks ?? []).filter(track => {
@@ -84,17 +114,33 @@ export default function ConcentrationPage() {
         return true
       })
 
+  const displayTracks = requiresTrackSelection && selectedTrackId
+    ? visibleTracks.filter(t => t.id === selectedTrackId)
+    : requiresTrackSelection
+    ? []
+    : visibleTracks
+
   const totalRequired = isStructured
     ? (structuredData.total_credits?.[degree] ?? 0)
-    : 0
+    : (scrapedData?.total_credits?.[degree] ?? 0)
 
   const progressPct = totalRequired > 0
     ? Math.min((completedCourses.length / totalRequired) * 100, 100)
     : 0
 
+  const completedCodes = completedCourses.map(c => c.code)
+  const scrapedProgress = !isStructured
+    ? displayTracks.reduce((acc, track) => {
+        const groups = track.groups ?? []
+        const trackTotal = groups.reduce((n, g) => n + countGroupSlots(g), 0)
+        const trackDone = groups.reduce((n, g) => n + countGroupCompleted(g, completedCodes), 0)
+        return { total: acc.total + trackTotal, done: acc.done + trackDone }
+      }, { total: 0, done: 0 })
+    : null
+
   const hasNoTracks = !loading && scrapedData && visibleTracks.length === 0
   const hasProsDescription = !loading && scrapedData && scrapedData.description
-  const showSidebar = !loading && visibleTracks.length > 0
+  const showSidebar = !loading && displayTracks.length > 0
 
   if (!meta) {
     return (
@@ -135,7 +181,7 @@ export default function ConcentrationPage() {
                 key={d}
                 onClick={() => setDegree(d)}
                 className={
-                  'px-4 py-1.5 rounded-md text-sm font-medium transition-all duration-150 ' +
+                  'px-4 py-1.5 rounded-md text-sm font-medium pressable ' +
                   (degree === d
                     ? 'bg-white text-gray-900 shadow-sm'
                     : 'text-gray-500 hover:text-gray-700')
@@ -156,7 +202,7 @@ export default function ConcentrationPage() {
           View on Brown Bulletin
         </a>
 
-        {isStructured && totalRequired > 0 && (
+        {totalRequired > 0 && (
           <div className="mt-4">
             <div className="flex justify-between text-sm text-gray-500 mb-1.5">
               <span>{totalRequired} courses required</span>
@@ -164,17 +210,33 @@ export default function ConcentrationPage() {
             </div>
             <div className="w-full bg-gray-200 rounded-full h-2">
               <div
-                className="bg-red-700 h-2 rounded-full transition-all duration-500"
-                style={{ width: progressPct + '%' }}
+                className="bg-red-700 h-2 rounded-full"
+                style={{ width: progressPct + '%', transition: 'width 500ms cubic-bezier(0.23, 1, 0.32, 1)' }}
               />
             </div>
           </div>
         )}
 
-        {!isStructured && completedCourses.length > 0 && (
-          <div className="mt-3 text-sm text-gray-500">
-            {completedCourses.length} course{completedCourses.length !== 1 ? 's' : ''} marked complete
+        {!isStructured && totalRequired === 0 && scrapedProgress && scrapedProgress.total > 0 && (
+          <div className="mt-4">
+            <div className="flex justify-between text-sm text-gray-500 mb-1.5">
+              <span>{scrapedProgress.total} courses required</span>
+              <span>{scrapedProgress.done} / {scrapedProgress.total} complete</span>
+            </div>
+            <div className="w-full bg-gray-200 rounded-full h-2">
+              <div
+                className="bg-red-700 h-2 rounded-full"
+                style={{
+                  width: Math.min((scrapedProgress.done / scrapedProgress.total) * 100, 100) + '%',
+                  transition: 'width 500ms cubic-bezier(0.23, 1, 0.32, 1)'
+                }}
+              />
+            </div>
           </div>
+        )}
+
+        {requiresTrackSelection && !selectedTrackId && !loading && (
+          <p className="mt-4 text-sm text-gray-400">Select a track below to see requirements and track progress.</p>
         )}
       </div>
 
@@ -209,87 +271,116 @@ export default function ConcentrationPage() {
       {/* Two-column layout: sidebar + tracks */}
       {!loading && scrapedData && !hasNoTracks && (
         <>
-          {/* Course search + completed pills — full width above columns */}
-          <CourseSearch
-            courses={scrapedData.all_courses}
-            onAdd={addCourse}
-            completedCourses={completedCourses}
-          />
-
-          {completedCourses.length > 0 && (
+          {/* Track selector for concentrations with mutually exclusive tracks */}
+          {requiresTrackSelection && (
             <div className="mb-6">
-              <p className="text-xs text-gray-400 uppercase tracking-wide mb-2">
-                Courses you've taken
+              <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">
+                Select your track
               </p>
               <div className="flex flex-wrap gap-2">
-                {completedCourses.map(c => (
-                  <span
-                    key={c.code}
-                    className="inline-flex items-center gap-1.5 bg-green-50 text-green-800 border border-green-200 text-xs px-3 py-1.5 rounded-full"
+                {visibleTracks.map(track => (
+                  <button
+                    key={track.id}
+                    onClick={() => setSelectedTrackId(track.id)}
+                    className={
+                      'px-4 py-2 rounded-lg text-sm font-medium pressable border ' +
+                      (selectedTrackId === track.id
+                        ? 'bg-red-700 text-white border-red-700'
+                        : 'bg-white text-gray-600 border-gray-200 hover:border-red-300 hover:text-red-700')
+                    }
                   >
-                    {c.code}
-                    <button
-                      onClick={() => removeCourse(c.code)}
-                      className="hover:text-red-600 transition-colors"
-                    >
-                      x
-                    </button>
-                  </span>
+                    {track.name}
+                  </button>
                 ))}
               </div>
             </div>
           )}
 
-          {/* Sidebar + track cards */}
-          <div className="flex gap-6 items-start">
+          {/* Course search + completed pills — full width above columns */}
+          {(!requiresTrackSelection || selectedTrackId) && (
+            <>
+              <CourseSearch
+                courses={scrapedData.all_courses}
+                onAdd={addCourse}
+                completedCourses={completedCourses}
+              />
 
-            {/* Left section sidebar */}
-            {showSidebar && (
-              <aside className="w-44 shrink-0 hidden lg:block">
-                <div className="sticky top-20">
-                  <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">
-                    Sections
+              {completedCourses.length > 0 && (
+                <div className="mb-6">
+                  <p className="text-xs text-gray-400 uppercase tracking-wide mb-2">
+                    Courses you've taken
                   </p>
-                  <nav className="space-y-0.5">
-                    {visibleTracks.map((track, i) => (
-                      <button
-                        key={i}
-                        onClick={() => scrollToTrack(i)}
-                        className={
-                          'w-full text-left px-2 py-1.5 rounded-lg text-xs leading-snug transition-all duration-150 ' +
-                          (activeTrackIndex === i
-                            ? 'bg-red-50 text-red-700 font-medium'
-                            : 'text-gray-500 hover:text-gray-800 hover:bg-gray-100')
-                        }
+                  <div className="flex flex-wrap gap-2">
+                    {completedCourses.map(c => (
+                      <span
+                        key={c.code}
+                        className="inline-flex items-center gap-1.5 bg-green-50 text-green-800 border border-green-200 text-xs px-3 py-1.5 rounded-full"
                       >
-                        <span className="line-clamp-2">{track.name}</span>
-                      </button>
+                        {c.code}
+                        <button
+                          onClick={() => removeCourse(c.code)}
+                          className="hover:text-red-600 transition-colors"
+                        >
+                          x
+                        </button>
+                      </span>
                     ))}
-                  </nav>
+                  </div>
                 </div>
-              </aside>
-            )}
+              )}
 
-            {/* Track cards */}
-            <div className="flex-1 min-w-0 flex flex-col gap-4">
-              {visibleTracks.map((track, i) => (
-                <div
-                  key={track.id || i}
-                  ref={el => { trackRefs.current[i] = el }}
-                  className="animate-in"
-                  style={{ animationDelay: `${i * 40}ms` }}
-                >
-                  <TrackCard
-                    track={track}
-                    degree={degree}
-                    completedCourses={completedCourses}
-                    onAdd={addCourse}
-                    onRemove={removeCourse}
-                  />
+              {/* Sidebar + track cards */}
+              <div className="flex gap-6 items-start">
+
+                {/* Left section sidebar */}
+                {showSidebar && (
+                  <aside className="w-44 shrink-0 hidden lg:block">
+                    <div className="sticky top-20">
+                      <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">
+                        Sections
+                      </p>
+                      <nav className="space-y-0.5">
+                        {displayTracks.map((track, i) => (
+                          <button
+                            key={i}
+                            onClick={() => scrollToTrack(i)}
+                            className={
+                              'w-full text-left px-2 py-1.5 rounded-lg text-xs leading-snug pressable ' +
+                              (activeTrackIndex === i
+                                ? 'bg-red-50 text-red-700 font-medium'
+                                : 'text-gray-500 hover:text-gray-800 hover:bg-gray-100')
+                            }
+                          >
+                            <span className="line-clamp-2">{track.name}</span>
+                          </button>
+                        ))}
+                      </nav>
+                    </div>
+                  </aside>
+                )}
+
+                {/* Track cards */}
+                <div className="flex-1 min-w-0 flex flex-col gap-4">
+                  {displayTracks.map((track, i) => (
+                    <div
+                      key={track.id || i}
+                      ref={el => { trackRefs.current[i] = el }}
+                      className="animate-in"
+                      style={{ animationDelay: `${i * 40}ms` }}
+                    >
+                      <TrackCard
+                        track={track}
+                        degree={degree}
+                        completedCourses={completedCourses}
+                        onAdd={addCourse}
+                        onRemove={removeCourse}
+                      />
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-          </div>
+              </div>
+            </>
+          )}
         </>
       )}
     </div>

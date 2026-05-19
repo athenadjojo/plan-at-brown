@@ -6,11 +6,70 @@ html {
   scroll-behavior: smooth;
 }
 
+:root {
+  --ease-out-strong: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
 @keyframes fadeSlideIn {
-  from { opacity: 0; transform: translateY(6px); }
+  from { opacity: 0; transform: translateY(8px); }
   to   { opacity: 1; transform: translateY(0); }
 }
 
 .animate-in {
-  animation: fadeSlideIn 0.25s ease-out both;
+  animation: fadeSlideIn 0.22s var(--ease-out-strong) both;
+}
+
+/* Press feedback — replaces transition-all everywhere */
+.pressable {
+  transition:
+    transform 160ms var(--ease-out-strong),
+    background-color 150ms ease,
+    color 150ms ease,
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    opacity 150ms ease;
+}
+
+.pressable:not(:disabled):active {
+  transform: scale(0.97);
+}
+
+/* Dropdown enter animation via @starting-style */
+.dropdown-panel {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  transition:
+    opacity 150ms var(--ease-out-strong),
+    transform 150ms var(--ease-out-strong);
+
+  @starting-style {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.97);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-in {
+    animation: fadeSlideIn 0.15s ease both;
+  }
+  @keyframes fadeSlideIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+  .pressable {
+    transition:
+      background-color 150ms ease,
+      color 150ms ease,
+      border-color 150ms ease,
+      box-shadow 150ms ease;
+  }
+  .pressable:not(:disabled):active {
+    transform: none;
+  }
+  .dropdown-panel {
+    transition: opacity 100ms ease;
+    @starting-style {
+      opacity: 0;
+    }
+  }
 }

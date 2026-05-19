@@ -24,7 +24,7 @@ export default function CourseSearch({ courses, onAdd, completedCourses }) {
         className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-red-200 focus:border-red-300"
       />
       {results.length > 0 && (
-        <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg z-10 overflow-hidden">
+        <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg z-10 overflow-hidden dropdown-panel">
           {results.map(course => (
             <button
               key={course.code}
@@ -43,7 +43,7 @@ export default function CourseSearch({ courses, onAdd, completedCourses }) {
         </div>
       )}
       {query.length > 1 && results.length === 0 && (
-        <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-sm z-10 px-4 py-3">
+        <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-sm z-10 px-4 py-3 dropdown-panel">
           <p className="text-sm text-gray-400">No matching courses found</p>
         </div>
       )}
